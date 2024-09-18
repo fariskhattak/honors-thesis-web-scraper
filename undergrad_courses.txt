@@ -2581,7 +2581,6 @@ VOIC  121 Voice
 VOIC  221 Voice
 VOIC  300 Voice
 VOIC  321 Voice
-VOIC  406 Vocal Literature II
 VOIC  408 Vocal Pedagogy
 VOIC  421 Voice
 VOIC  422 Voice
