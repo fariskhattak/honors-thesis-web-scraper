@@ -137,6 +137,7 @@ AE  592 Spcl Prjct Arspc Eng Ugdl Stds
 AE  690 Professnl Dvlpmnt Grad Studies
 AEC    6 Antcptd Futr AEC Crdt Hrs
 AEC    7 Sht Trm Prgm Self-Cntnd Enrlm: Basic English
+AEC    7 Sht Trm Prgm Self-Cntnd Enrlm: ZJNU JI
 AEC   90 English Proficiency Test
 AECL   30 Listng,Spkng&Gramr Acad Purp 3
 AECL  140 Listng,Spkng&Gramr Acad Purp 4
@@ -652,7 +653,6 @@ CLSX  351 Intro Grk&Rom Archaeology,Hnrs
 CLSX  360 Ancient Roots of Modrn Politcs
 CLSX  375 Studies in:
 CLSX  375 Studies in: Readings in Latin
-CLSX  505 Roman Republic
 CLSX  507 Early Roman Empire
 CLSX  538 Pompeii and Herculaneum
 CLSX  550 Capstone in Classics
@@ -1122,7 +1122,6 @@ GIST  329 Israli-Palstnan CnfIc:An Intro
 GIST  351 Islam
 GIST  355 International Women's Rights
 GIST  495 Global Internship
-GIST  501 Topics in:  _____ Intrdsplnry Thems LatAmer Stds
 GIST  503 Advnd Topics Middle East Stds: Politics and Gov't in Israel
 GIST  503 Advnd Topics Middle East Stds: Israel: From Idea to State
 GIST  550 Issues in Global Studies: Elect & Polit Parties in World
@@ -1242,7 +1241,6 @@ HIST  475 Professional Skills Humanities
 HIST  492 Readings in History
 HIST  493 History Research Internship
 HIST  501 Topics in Western History: Art of Early Mod Spanish World
-HIST  506 Roman Republic
 HIST  507 Early Roman Empire
 HIST  512 Foodways:  Latin America
 HIST  517 The Seventies:American History
@@ -1598,7 +1596,6 @@ LAC  100 Latin American Culture&Society
 LAC  177 First Year Seminar: Indigenous Tradtns of LatnAmer
 LAC  177 First Year Seminar: Native Amer Crossing Borders
 LAC  277 Transfer Seminar:
-LAC  300 Intrdsplnry Thems Lat Amr Stds
 LAC  302 Topcs Latin American Area Std: Intermediate Yucatec Maya I
 LAC  302 Topcs Latin American Area Std: Advanced Yucatec I
 LAC  302 Topcs Latin American Area Std: Elementary Yucatec Maya I
@@ -1607,6 +1604,7 @@ LAC  310 Topics in LAC - Anthropology: Anthropology of Violence
 LAC  315 Topics in LAC - Flm Musc Arts: Art of Early Mod Spanish World
 LAC  315 Topics in LAC - Flm Musc Arts: Music of Latin America
 LAC  318 Topics in LAC - Trns Atlc&Ntl:
+LAC  332 Lang &Society in Latin America
 LAC  500 Drctd Stdy Lat Am Area Studies
 LAC  510 Topics in LAC - Anthropology: The Anthropology of Violence
 LAC  512 Topics in LAC - Sp Am Lit Clt: Spanish Phonetics
@@ -1627,6 +1625,7 @@ LAC  602 Tpcs in Latin Americn Studies: Intermediate Yucatec Maya I
 LAC  602 Tpcs in Latin Americn Studies: Advanced Yucatec Maya I
 LAC  602 Tpcs in Latin Americn Studies: Directed Std in Yucatec Maya
 LAC  602 Tpcs in Latin Americn Studies: Accelerated Mískitu 1 and 2
+LAC  632 Lang &Society in Latin America
 LAT  104 Elementary Latin I
 LAT  105 Elementary Latin I, Honors
 LAT  108 Elementary Latin II
@@ -2316,10 +2315,10 @@ SLAV  379 Topics in: Cultural Heritage of Ukraine
 SLAV  495 Senior Capstone Seminar
 SLAV  522 Grm Cat Rus:Ling Unit,Fnct&Mng
 SLAV  526 Pragmatics of Slavic Languages
-SLAV  558 Readings in Slovene
 SLAV  675 Readings Slavic Stds (English)
 SLAV  678 Readings in Slavic Linguistics
 SLAV  679 Topics in: Bodies in Pain
+SLAV  679 Topics in: Elemntary Irn/Dar/Tjik Persn I
 SOC  104 Elements of Sociology
 SOC  105 Elements of Sociology, Honors
 SOC  120 Crime and Society

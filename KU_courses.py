@@ -9,10 +9,12 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.chrome.options import Options
 import pandas as pd
 
+start_time = time.time()
+
 # Set up Chrome options to download files to a specific folder
 download_folder = "/Users/FarisKhattak/Documents/Github/honors-thesis-web-scraper"
 download_name = "ClassSearchResults.xlsx"
-file_name = "ClassSearchResults_Undergrad_Fall2024.xlsx"
+file_name = "Undergrad_Fall2024_ClassSearchResults.xlsx"
 download_path = os.path.join(download_folder, download_name)
 file_path = os.path.join(download_folder, file_name)
 
@@ -80,5 +82,8 @@ with open('undergrad_courses.txt', 'w') as file:
             courses_set.add(full_course)
             file.write(f"{full_course}\n")
 
+end_time = time.time()
+execution_time = end_time - start_time
 
 print(f"Total Courses: {len(courses_set)}")
+print(f"Parsing of KU courses took {execution_time:.2f} seconds")

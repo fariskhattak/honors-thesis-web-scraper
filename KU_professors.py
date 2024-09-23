@@ -9,6 +9,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from string import Template
 
+start_time = time.time()
+
 term = "Fall 2024"
 
 with open(f"{term} Soup.txt", "r", encoding="utf-8") as file:
@@ -68,11 +70,24 @@ for index, a in enumerate(a_professors):
     else:
         # print(professor_soup)
         name = professor_soup.find("h2").text
-        # dept = professor_soup.find('a', class_='deptLink').text
-        a_email = professor_soup.find("a", title=re.compile("Send email to"))
+        tr_tags = professor_soup.find_all("tr")
+
+        for tr_tag in tr_tags:
+            th_tag = tr_tag.find("th")
+            
+            # Check if <th> contains "Department:" or "Email:"
+            if th_tag and "Department:" in th_tag.text:
+                # Get the text of the corresponding <td> element
+                td_tag = tr_tag.find("td")
+                dept = td_tag.text.strip()
+            elif th_tag and "Email:" in th_tag.text:
+                # Get the text of the corresponding <td> element
+                td_tag = tr_tag.find("td")
+                a_email = td_tag.find("a")
+
         if a_email is not None:
             email = a_email.text
-            full_professor_info = f"{name.title()}, {email.lower()}"
+            full_professor_info = f"{name.title()}, {email.lower()}, {dept}"
             all_professors.add(full_professor_info)
         else:
             email = f"[MISSING EMAIL], {url}"
@@ -97,3 +112,8 @@ with open("undergrad_professors.txt", "w") as file:
     file.write(
         f"STATISTICS:\nFOUND: {found_info_percentage:.2f}%\nUNAVAILABLE (MISSING EMAIL): {unavailable_info_percentage:.2f}%"
     )
+
+end_time = time.time()
+execution_time = end_time - start_time
+
+print(f"Program took {execution_time:.2f} seconds to run")

@@ -6,7 +6,6 @@ from selenium.webdriver.support.ui import Select
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
-from string import Template
 
 start_time = time.time()
 
@@ -52,5 +51,6 @@ with open(f'{term} Soup.txt', 'w', encoding='utf-8') as file:
     file.write(str(soup))
 
 end_time = time.time()
+execution_time = end_time - start_time
 
-print(f"Scraping html content of all courses took: {end_time - start_time} seconds")
+print(f"Scraping html content of all courses took: {execution_time:.2f} seconds")
