@@ -1,0 +1,306 @@
+--------------------------------------------------
+MATCHED DEPARTMENTS
+--------------------------------------------------
+Academic Affairs | ACAD
+Academic Success | ACAD
+Achievement & Assessment Inst | AAI
+Aerospace Engineering | AE
+African/African Amer Studies | AAAS
+Air Force ROTC | AIR
+American Studies | AMS
+Anatomy & Cell Biology | ANTM
+Anesthesiology | ANSL
+Anthropology | ANTH
+Applied Behavioral Science | ABSC
+Applied English Center | AEC
+Architecture Design | ARCD
+Army ROTC | ARMY
+Business Administration | BBA
+Business | BUS
+Cancer Biology | CBIO
+Center for East Asian Studies | CEAS
+Chemical & Petroleum Engr | C&PE
+Chemistry | CHEM
+Civil/Environ/Arch Engineering | CEAE
+Classics | CLSX
+College of Liberal Arts & Sci | CLAS
+Communication Studies | COMS
+Computational Biology | BINF
+Ctr Global & Internatl Studies | GIST
+Curriculum & Teaching | C&T
+Design | DSGN
+East Asian Languages&Cultures | EALC
+Ecology & Evolutionary Biology | EEB
+Economics | ECON
+Ed Leadership & Policy Studies | ELPS
+Educational Psychology | EPSY
+Electrical Engr & Comp Science | EECS
+English | ENG
+Film and Media Studies | FMS
+French, Francophone & Italian | FREN
+Geography & Atmo Science | GEOG
+Geology | GEOL
+Graduate Studies | GS
+Gynecology and Obstetrics | GYNO
+HOM History Of Medicine | HPMD
+Health Sport &Exercise Science | HSES
+History of Art | HA
+History | HIST
+Indigenous Studies | ISP
+Inst for Leadership Studies | LDST
+Institute Information Sciences | I2S
+Jewish Studies | JWSH
+Journalism | JOUR
+Latin Amer & Caribbean Studies | LAC
+Law School | LAW
+Linguistics | LING
+Marketing | MKTG
+Mathematics | MATH
+Mechanical Engineering | ME
+Medicinal Chemistry | MDCM
+Medicine - Pulmonary Disease | MED
+Microbiology | MBIO
+Museum Studies | MUSE
+Music Administration | MUSC
+Music | MUS
+NEURO Neuroimaging Faculty | P&TX
+Naval ROTC | NAVY
+Neurology | NEUR
+Ophthalmology | OPTH
+Otorhinolaryngology | OTOR
+PEDS Behavioral Pediatrics - Grad Assistants | PED
+PEDS Behavioral Pediatrics | PED
+PEDS General Pediatrics | PED
+PEDS Pediatrics Critical Care | PED
+PEDS Pediatrics DDBS | PED
+PEDS Pediatrics | PED
+POPH Population Health Education - Active Adjunct Faculty | POHW
+POPH Population Health Faculty | POHW
+Pediatrics | PED
+Pharmaceutical Chemistry | PHCH
+Pharmacology & Toxicology | P&TX
+Pharmacology | PHCL
+Pharmacy Practice | PHPR
+Philosophy | PHIL
+Physics and Astronomy | PHSX
+Political Science | POLS
+Population Health | POHW
+Psychology | PSYC
+Radiation Oncology | RADO
+Religious Studies | REL
+Respiratory Care and Diagnostic Science | RESP
+SHP Athletic Training - Adjunct Faculty | AHLTH
+SHP Athletic Training | AHLTH
+SHP Clinic Laboratory Sciences | AHLTH
+SHP Clinical Laboratory Sciences - Adjunct Faculty | AHLTH
+SHP Clinical Laboratory Sciences | AHLTH
+SHP Dietetics and Nutrition - Grad Assistants | AHLTH
+SHP Dietetics and Nutrition | AHLTH
+SHP Health Information Manage | AHLTH
+SHP Health Information Management - Adjunct Faculty) | AHLTH
+SHP Health Information Management) | AHLTH
+SHP Hearing & Speech Education | AHLTH
+SHP Hearing and Speech - Adjunct Faculty | AHLTH
+SHP Hearing and Speech | AHLTH
+SHP Nurse Anesthesia Education) | AHLTH
+SHP Nurse Anesthesia | AHLTH
+SHP Occupational Therapy Education - Adjunct Faculty | AHLTH
+SHP Occupational Therapy Education | AHLTH
+SHP Occupational Therapy | AHLTH
+SHP Office of the Dean) | AHLTH
+SHP Physical Therapy & Rehab | AHLTH
+SHP Physical Therapy and Rehabilitation Science | AHLTH
+SHP Respiratory Care and Diagnostic Science - Adjunct Faculty | AHLTH
+SHP Respiratory Care and Diagnostic Science | AHLTH
+SHP Resprtry Care Diagnstc Scn | AHLTH
+SHP School of Health Professions Office of the Dean | AHLTH
+SOM Internal Medicine | MED
+SOM MD/PhD | MED
+SOM ODI | MED
+SOM Salina School of Medicine Salina Campus | MED
+SOM Wichita Academic & Student Affairs | MED
+SOM Wichita Executive Leadership Team | MED
+SOM Wichita Family & Community Medicine Staff | MED
+SOM Wichita Family & Community Medicine | MED
+SOM Wichita Internal Medicine | MED
+SOM Wichita OB-GYN | MED
+SOM Wichita Office of Research | MED
+SOM Wichita Pediatrics-Ambulatory | MED
+SOM Wichita Population Health Faculty | MED
+SOM Wichita Psychiatry & Behavioral Science) | MED
+SOM Wichita Surgery | MED
+SON Acute, Chronic, Continuing Care Faculty | NURS
+SON Executive Management | NURS
+SON Family, Community, & Health Systems Faculty | NURS
+SON Graduate Adjunct Faculty | NURS
+SON Inactive Adjunct Faculty | NURS
+SON Salina Acute, Chronic, Continuing Care Faculty | NURS
+SON Salina | NURS
+SON Undergraduate Adjunct Faculty | NURS
+School Of Nursing | NURS
+School of Pharmacy | PHARM
+School of Professional Studies | SPS
+School of Public Affairs&Admin | SPAA
+Slavic, German, Eurasian Stdie | SGES
+Social Welfare | SW
+Sociology | SOC
+Spanish & Portuguese | SPAN
+Special Education | SPED
+Speech-Language-Hearing | SPLH
+Theatre and Dance | THDN
+Visual Art | ART
+Women Gender & Sexuality Stds | WGSS
+--------------------------------------------------
+UNMATCHED DEPARTMENTS
+--------------------------------------------------
+ADC Alzheimer's Disease Center Faculty | [UNMATCHED]
+ADC Alzheimers's Disease Center | [UNMATCHED]
+ANES Anesthesiology | [UNMATCHED]
+Allergy Medicine - Allergy Immun Rheum | [UNMATCHED]
+Alumni Association | [UNMATCHED]
+Alzheimer's Disease Center | [UNMATCHED]
+Athletics Corporation | [UNMATCHED]
+BMB Biochemistry | [UNMATCHED]
+Biodiversity Institute | [UNMATCHED]
+Biostat Department of Biostatistics & Data Science | [UNMATCHED]
+Biostat Faculty | [UNMATCHED]
+Bureau of Child Research | [UNMATCHED]
+CAS Central Administrative Support | [UNMATCHED]
+CBP Cell Biology and Physiology | [UNMATCHED]
+CanBio Bossmann | [UNMATCHED]
+CanBio Cancer Biology - Contingent Workers) | [UNMATCHED]
+Cardiovascular Medicine | [UNMATCHED]
+Career & Experiential Learning | [UNMATCHED]
+Center On Aging | [UNMATCHED]
+Center for Service Learning | [UNMATCHED]
+Center for Teaching Excellence | [UNMATCHED]
+Chancellor's Office | [UNMATCHED]
+Child Language Program | [UNMATCHED]
+Clinical Child Psychology Prog | [UNMATCHED]
+Counseling/Psych Svcs | [UNMATCHED]
+Ctr Enviro Benefical Catalysis | [UNMATCHED]
+Ctr Orientation Transition Prg | [UNMATCHED]
+Ctr Remote Sensing Integtr Sys | [UNMATCHED]
+Ctr for Research on Learning | [UNMATCHED]
+Custodial Services | [UNMATCHED]
+Derm Medicine-Dermatology | [UNMATCHED]
+EM Faculty | [UNMATCHED]
+ENDO Medicine-Endocrine Metabolic Gene | [UNMATCHED]
+ENT Faculty | [UNMATCHED]
+EVC Office of the Executive Vice Chancellor | [UNMATCHED]
+Economic Development | [UNMATCHED]
+Education Administration | [UNMATCHED]
+Edwards Campus | [UNMATCHED]
+Emergency Medical Service | [UNMATCHED]
+Emily Taylor Center | [UNMATCHED]
+Engineering Administration | [UNMATCHED]
+Environment Health & Safety | [UNMATCHED]
+Environmental Studies Program | [UNMATCHED]
+FamMed Family Medicine - Dean | [UNMATCHED]
+FamMed Family Medicine | [UNMATCHED]
+Family Medicine HS | [UNMATCHED]
+Family Medicine | [UNMATCHED]
+GME Family Medicine | [UNMATCHED]
+GME Neurology | [UNMATCHED]
+GME Psychiatry | [UNMATCHED]
+Gastro Medicine-Gastroenterology | [UNMATCHED]
+GenMed Medicine General | [UNMATCHED]
+Global Operations | [UNMATCHED]
+HEMA Medicine Hematology | [UNMATCHED]
+HICTR Frontiers: HICTR | [UNMATCHED]
+Hall Center for the Humanities | [UNMATCHED]
+Health Education Resource | [UNMATCHED]
+Health Policy and Management | [UNMATCHED]
+Housing Office Administration | [UNMATCHED]
+InDis Medicine-Infectious Disease | [UNMATCHED]
+Inst Intl & Global Engagemt | [UNMATCHED]
+Inst for Policy & Social Res | [UNMATCHED]
+International Affairs Admin | [UNMATCHED]
+International Short Programs | [UNMATCHED]
+International Support Services | [UNMATCHED]
+Jayhawk Academic Advising | [UNMATCHED]
+Jayhawk Global Admin | [UNMATCHED]
+Journalism Administration | [UNMATCHED]
+KIDDRC | [UNMATCHED]
+KS Biological Survey | [UNMATCHED]
+KU Hospital Authority | [UNMATCHED]
+KU Memorial Unions | [UNMATCHED]
+KU News Service | [UNMATCHED]
+KU Police Department | [UNMATCHED]
+KU Transportation Center | [UNMATCHED]
+KU Weight Management | [UNMATCHED]
+KUCC KMCRI-Administration - Contingent Workers | [UNMATCHED]
+KUIA Russian E Euro & Eurasian | [UNMATCHED]
+KUSM-W Family & Community Med | [UNMATCHED]
+KUSM-W Orthopedic Surgery | [UNMATCHED]
+KUSM-W Pediatrics | [UNMATCHED]
+KUSM-W Population Health | [UNMATCHED]
+Kansas African Studies Center | [UNMATCHED]
+Kansas Geological Survey | [UNMATCHED]
+Law Administration | [UNMATCHED]
+Law Library | [UNMATCHED]
+Libraries-General | [UNMATCHED]
+Lied Center | [UNMATCHED]
+MICRO Microbiology | [UNMATCHED]
+Molecular Biosciences | [UNMATCHED]
+Molecular Integrat Physiology | [UNMATCHED]
+NEURO Administrative Services | [UNMATCHED]
+NEURO ICU | [UNMATCHED]
+NEURO Inpatient Neurology | [UNMATCHED]
+NEURO Neuroimaging | [UNMATCHED]
+NEURO Neuromuscular | [UNMATCHED]
+NS Faculty | [UNMATCHED]
+Neph Medicine - Nephrology and Hypertension | [UNMATCHED]
+OASA International Programs | [UNMATCHED]
+OASA Student Affairs - Professional Staff | [UNMATCHED]
+OBGYN Gynecology and Obstetrics | [UNMATCHED]
+ONC Radiation Oncology | [UNMATCHED]
+OPHTH Ophthalmology Staff | [UNMATCHED]
+Office Civil Rights &Title IX | [UNMATCHED]
+Office of Community Impact | [UNMATCHED]
+Office of Faculty Affairs | [UNMATCHED]
+Office of Research | [UNMATCHED]
+Operations Business Office | [UNMATCHED]
+Osher | [UNMATCHED]
+PATH Pathology | [UNMATCHED]
+POPH Population Health - Contingent Workers | [UNMATCHED]
+PS Plastic Surgery | [UNMATCHED]
+PSYCH Psychiatry & Behavioral Sciences | [UNMATCHED]
+PTT Pharmacology, Toxicology, and Therapeutics | [UNMATCHED]
+PULM Pulmonary and Critical Care Medicine | [UNMATCHED]
+Palliative Medicine - Palliative | [UNMATCHED]
+Provost Office | [UNMATCHED]
+Public Affairs | [UNMATCHED]
+RAD Faculty | [UNMATCHED]
+RAD Radiology | [UNMATCHED]
+RMEd Rehab Medicine Education | [UNMATCHED]
+RMEd Rehabilitation Medicine | [UNMATCHED]
+Recreation Services | [UNMATCHED]
+Rehab Medicine Education | [UNMATCHED]
+Research Administration | [UNMATCHED]
+Russian E Euro & Eurasian Std | [UNMATCHED]
+Salina Campus | [UNMATCHED]
+School of Medicine-Exec Dean | [UNMATCHED]
+Self Graduate Programs | [UNMATCHED]
+Sexual Assault & Prevention Ct | [UNMATCHED]
+Social Welfare Administration | [UNMATCHED]
+Spencer Museum of Art | [UNMATCHED]
+Stdnt Conduct & Community Stnd | [UNMATCHED]
+Student Affairs | [UNMATCHED]
+Student Engagement Center | [UNMATCHED]
+Success Initiatives | [UNMATCHED]
+SurgGen Surgery General | [UNMATCHED]
+SurgOrtho Surgery Orthopedics | [UNMATCHED]
+SurgUrol Surgery Urology | [UNMATCHED]
+Surgery General | [UNMATCHED]
+Thoracic Surgery HS | [UNMATCHED]
+Undergraduate Biology Program | [UNMATCHED]
+Undergraduate Education | [UNMATCHED]
+University Academic Support Ct | [UNMATCHED]
+ZIEL Simulation Education | [UNMATCHED]
+--------------------------------------------------
+STATISTICS:--------------------------------------------------
+NUMBER OF MATCHED DEPARTMENTS: 149
+PERCENTAGE OF MATCHED: 149/294 = 50.68%
+NUMBER OF UNMATCHED DEPARTMENTS: 145
+PERCENTAGE OF UNMATCHED: 145/294 = 49.32%
