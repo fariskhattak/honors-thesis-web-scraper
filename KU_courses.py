@@ -1,89 +1,77 @@
 import time
-import os
-import shutil
-from selenium import webdriver
-from selenium.webdriver.support.ui import Select
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.wait import WebDriverWait
-from selenium.webdriver.chrome.options import Options
-import pandas as pd
+import time
+from tqdm.auto import tqdm
+from bs4 import BeautifulSoup
+from vars import terms, careers
 
+total_courses = 0
 start_time = time.time()
 
-# Set up Chrome options to download files to a specific folder
-download_folder = "/Users/FarisKhattak/Documents/Github/honors-thesis-web-scraper"
-download_name = "ClassSearchResults.xlsx"
-file_name = "Undergrad_Fall2024_ClassSearchResults.xlsx"
-download_path = os.path.join(download_folder, download_name)
-file_path = os.path.join(download_folder, file_name)
+# term = "Fall 2024"
+for term in terms:
+    for career in careers:
+        print("-"*40)
+        print(f"Finding courses in {term}...")
+        with open(f"soups/{term} {career} Soup.txt", "r", encoding="utf-8") as file:
+            html_content = file.read()
 
-chrome_options = Options()
-prefs = {
-    "download.default_directory": download_folder,  # Set download folder
-    "download.prompt_for_download": False,          # No download prompt
-    "download.directory_upgrade": True,             # Auto-overwrite files
-    "safebrowsing.enabled": True                    # Enable safe browsing
-}
-chrome_options.add_experimental_option("prefs", prefs)
+        soup = BeautifulSoup(html_content, "html.parser")
 
-# Initialize WebDriver
-driver = webdriver.Chrome(options=chrome_options)
+        # Writing courses to file
+        courses = set()
 
-# URL of the page you want to scrape
-url = "https://classes.ku.edu/"
-driver.get(url)
-format = "XLS-multiple"
+        # Get the table with all the course information
+        all_courses_table = soup.find_all("table")[1]
+        tds = all_courses_table.find_all("td")
 
-wait = WebDriverWait(driver, 10)
+        i = 0
+        # Using a while loop to iterate through the rows in groups of three
+        while i < len(tds) - 2:
+            # Row 1: Course name
+            h3 = tds[i].find("h3")
+            if h3 is not None:
+                course_number = h3.text.strip()
+                full_text = tds[i].text.replace(course_number, '').strip()
+                course_title = full_text.split(' - ', 1)[1].split('(', 1)[0].strip()
+                course_info = f"{course_number} {course_title}"
 
-if not os.path.exists(file_path):
+                # Row 3: Class list (assuming it exists and can be handled if needed)
+                class_list = tds[i + 2].find("table", class_="class_list")
+                topics = []
+                if class_list is not None:
+                    # Step 4: Loop through each `td` tag to find topic names.
+                    for td in class_list.find_all("td"):
+                        text = td.text.strip()
+                        if "Topic: " in text:
+                            # Extract the topic name after "Topic: ".
+                            topic_name = td.text.strip().splitlines()[0].replace("Topic:", "").strip()
+                            topics.append(topic_name)
 
-    options_button = wait.until(EC.element_to_be_clickable((By.CLASS_NAME, "moreOptionsButton")))
-    options_button.click()
+                if len(topics) > 0:
+                    for topic in topics:
+                        full_course = course_info + " " + topic
+                        courses.add(full_course)
+                else:
+                    courses.add(course_info)
 
-    select_results_format = Select(wait.until(EC.visibility_of_element_located((By.ID, "classesDisplayResultsFormat"))))
-    select_results_format.select_by_value(format)
+            # Move to the next group of three rows
+            i += 1
 
-    search_button = wait.until(EC.element_to_be_clickable((By.CLASS_NAME, "classSearchButton")))
-    search_button.click()
+        if career == "Undergraduate":
+            with open(f'courses/{term} undergrad_courses.txt', 'w') as file:
+                for course in sorted(courses):
+                    file.write(f"{course}\n")
+        elif career == "Graduate":
+            with open(f'courses/{term} graduate_courses.txt', 'w') as file:
+                for course in sorted(courses):
+                    file.write(f"{course}\n")
 
-    # Poll the download folder until the file is fully downloaded
-    while not os.path.exists(download_path) or download_path.endswith('.part'):
-        time.sleep(1)  # Wait and check again
+        end_time = time.time()
+        execution_time = end_time - start_time
 
-    driver.close()
+        print(f"Total Courses in {term} {career}: {len(courses)}")
+        total_courses += len(courses)
 
-    if os.path.exists(download_path):
-        shutil.move(download_path, file_path)
-
-
-df = pd.read_excel(file_name)
-
-# Writing courses to file
-courses_set = set()
-
-with open('undergrad_courses.txt', 'w') as file:
-    # Iterate through the rows using itertuples() for better performance
-    for row in df.itertuples(index=False):
-        # Access the values of specific columns by their names
-        course = getattr(row, "Course")
-        number = getattr(row, "Number")
-        course_title = getattr(row, "_3")
-        course_topic = getattr(row, "_4")
-        full_course = ""
-
-        if pd.notna(number) and pd.isna(course_topic):
-            full_course = f"{course} {number} {course_title}"
-        elif pd.notna(course_topic):
-            full_course = f"{course} {number} {course_title} {course_topic}"
-
-        if not full_course in courses_set:
-            courses_set.add(full_course)
-            file.write(f"{full_course}\n")
-
-end_time = time.time()
-execution_time = end_time - start_time
-
-print(f"Total Courses: {len(courses_set)}")
+print("-"*40)
+print(f"Total Courses in all terms: {total_courses}")
 print(f"Parsing of KU courses took {execution_time:.2f} seconds")

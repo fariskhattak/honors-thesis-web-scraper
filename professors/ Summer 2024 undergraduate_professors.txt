@@ -1,0 +1,980 @@
+AVAILABLE PROFESSOR INFO (914):
+-------------------------------------------------
+A. Susan Gay, sgay@ku.edu, Curriculum & Teaching
+Aafiya -, aafiyarashid97@ku.edu, Physics and Astronomy
+Aaron J Teator, teator@ku.edu, Chemistry
+Aaron M Scurto, ascurto@ku.edu, Chemical & Petroleum Engr
+Adam S Smith, adamsmith@ku.edu, Pharmacology & Toxicology
+Adrian R Lewis, arl0008@ku.edu, History
+Adrianne Dennis Kunkel, adkunkel@ku.edu, Communication Studies
+Ahmad Sobhy Mustafa, ahmad.sobhy.mustafa@ku.edu, Religious Studies
+Alan Arwine, arwine@ku.edu, Political Science
+Alan M Allgeier, alan.allgeier@ku.edu, Chemical & Petroleum Engr
+Alanna Daniels, a438d141@ku.edu, Sociology
+Alcides Alberto Velasquez Perilla, avelasquez@ku.edu, Communication Studies
+Alejandro Aptilon, aaptilon@ku.edu, Architecture Design
+Alesia Woszidlo, alesia@ku.edu, Inst for Leadership Studies
+Alessandro Salandrino, a.salandrino@ku.edu, Electrical Engr & Comp Science
+Alex Bardas, alexbardas@ku.edu, Electrical Engr & Comp Science
+Alex Schaefer, alex.scha4@ku.edu, Mathematics
+Alex Williams, alexwilliams@ku.edu, Psychology
+Alexander C Diener, diener@ku.edu, Geography & Atmo Science | Environmental Studies Program
+Alexandra Kondyli, akondyli@ku.edu, Civil/Environ/Arch Engineering
+Alexis Carpenter, acarpenter5@kumc.edu, SHP Clinical Laboratory Sciences
+Alice Bean, abean@ku.edu, Physics and Astronomy
+Alison Gabriele, gabriele@ku.edu, Linguistics
+Alison Olcott, olcott@ku.edu, Geology
+Allard Jongman, ajongman@ku.edu, Linguistics
+Allison Michele Lewis, ally337@ku.edu, American Studies
+Allison Michelle Kirkpatrick, akirkpatrick@ku.edu, Physics and Astronomy
+Alyson Joy Luckenbach, aluckenbach@kumc.edu, SON Acute, Chronic, Continuing Care Faculty
+Amal El Haimeur, amalelhaimeur@ku.edu, African/African Amer Studies
+Amber Watts, amberwatts@ku.edu, Psychology
+Amber Wray Thumann, al00l384@ku.edu, Environmental Studies Program
+Ami Kitada, kitada@ku.edu, East Asian Languages&Cultures
+Amii Castle, amiicastle@ku.edu, Law School | Business
+Amirmasoud Kalantari Dahaghi, masoud@ku.edu, Chemical & Petroleum Engr
+Amy Elizabeth Van De Riet, amy.vanderiet@ku.edu, Architecture Design
+Amy Hansen, amy.hansen@ku.edu, Civil/Environ/Arch Engineering
+Amy Jo Burgin, burginam@ku.edu, Ecology & Evolutionary Biology
+Ana Carolina King, anaking@ku.edu, Applied Behavioral Science
+Ana Laura Marques, anamarques@ku.edu, Spanish & Portuguese
+Ana Rita Colaco Morais, ana.morais@ku.edu, Chemical & Petroleum Engr
+Andrea Follmer, dea@ku.edu, Center for Teaching Excellence
+Andrea Noel Meyertholen, ameyerth@ku.edu, Slavic, German, Eurasian Stdie | Museum Studies
+Andreas Moeller, amoller@ku.edu, Geology
+Andres Lepage, alepage@ku.edu, Civil/Environ/Arch Engineering
+Andrew C Fry, acfry@ku.edu, Health Sport &Exercise Science
+Andrew George Korah, andrew.korah@ku.edu, English
+Andrew Mckenzie, andrew.mckenzie@ku.edu, Linguistics | Indigenous Studies
+Andrew Richard Frederick, a.frederick@ku.edu, Geography & Atmo Science
+Andrew Townsend Peterson, town@ku.edu, Ecology & Evolutionary Biology | Museum Studies | Environmental Studies Program
+Angela Gist-Mackey, angela.gist.mackey@ku.edu, Communication Studies
+Ani Kokobobo, akokobobo@ku.edu, Slavic, German, Eurasian Stdie
+Ann M. Brill, abrill@ku.edu, Journalism Administration
+Anna Elizabeth Jewell, anna.jewell@ku.edu, Communication Studies | Communication Studies
+Anne Kretsinger-Harries, akh@ku.edu, Communication Studies
+Annie Ryder, annie.ryder@ku.edu, PEDS Behavioral Pediatrics - Grad Assistants
+Antonio Luciano Tosta, lucianotosta@ku.edu, Ctr Global & Internatl Studies | African/African Amer Studies
+Apurba Dutta, adutta@ku.edu, Medicinal Chemistry
+Araceli Masterson-Algar, aracelimasterson@ku.edu, American Studies | Museum Studies
+Ariel S Linden, ari.linden@ku.edu, Slavic, German, Eurasian Stdie
+Armin W Schulz, awschulz@ku.edu, Philosophy
+Arpita Ghosh, a_ghosh@ku.edu, Educational Psychology
+Art Hall, arthall@ku.edu, Business
+Arvin Agah, agah@ku.edu, Electrical Engr & Comp Science
+Ashley Ann Herda, a.herda@ku.edu, Health Sport &Exercise Science
+Ashley N Glissman, ancrowl@ku.edu, Pharmacy Practice
+Ashley R Muddiman, ashley.muddiman@ku.edu, Communication Studies
+Asmaa Benbaba, asmaabenbaba@ku.edu, African/African Amer Studies
+Asmaha Mhande Heddi, aheddi2@ku.edu, African/African Amer Studies
+Austin Bogina, austinbogina@ku.edu, Health Sport &Exercise Science
+Austin Michael Sullivan, asullivan816@ku.edu, School of Professional Studies | SHP Dietetics and Nutrition - Grad Assistants
+Avantha Kodithuwakku, avanthak@ku.edu, Mathematics
+Aya Mohamed Hasbeln Fayed, ayafayed@ku.edu, African/African Amer Studies
+Ayumi Nobuki, ayumin1101@ku.edu, Linguistics
+Azhar Iqbal, azhariqbal@ku.edu, Journalism
+Bala Subramaniam, bsubramaniam@ku.edu, Chemical & Petroleum Engr | Chemistry
+Bamdad Pourladian, bamdadpourladian@ku.edu, Mechanical Engineering
+Barbara A Bradley, barbarab@ku.edu, Curriculum & Teaching
+Barbara Alane Kerr, bkerr@ku.edu, Educational Psychology | Environmental Studies Program
+Barbara N Timmermann, btimmer@ku.edu, School of Pharmacy
+Barney L Warf, bwarf@ku.edu, Geography & Atmo Science | Environmental Studies Program
+Bartholomew Dean, bdean@ku.edu, Anthropology
+Belinda Sturm, bmcswain@ku.edu, Civil/Environ/Arch Engineering | Chemical & Petroleum Engr
+Ben Caplan, caplan@ku.edu, Philosophy
+Ben Chappell, bchap@ku.edu, American Studies
+Ben Eggleston, eggleston@ku.edu, College of Liberal Arts & Sci
+Benjamin Alan Sikes, ben.sikes@ku.edu, Ecology & Evolutionary Biology | Environmental Studies Program
+Benjamin Jay Rosenthal, benjamin.rosenthal@ku.edu, Visual Art
+Berl R Oakley, boakley@ku.edu, Molecular Biosciences
+Beth Erin Plank, beth.plank@ku.edu, English
+Beth Innocenti, bimanole@ku.edu, Communication Studies
+Beth Sperry, elizabeth.sperry@ku.edu, 
+Bethany Potter, blpotter@ku.edu, Anthropology | Center for Teaching Excellence
+Bing Pu, bpu@ku.edu, Geography & Atmo Science
+Blessing Tapiwa Jona, bjona@ku.edu, Journalism
+Bo Luo, bluo@ku.edu, Electrical Engr & Comp Science
+Bob Lyon, blyon@ku.edu, Civil/Environ/Arch Engineering
+Bozenna Pasik-Duncan, bozenna@ku.edu, Mathematics | Aerospace Engineering
+Bradford Roy Cokelet, bradcokelet@ku.edu, Philosophy
+Bradley J Newell, bnewell@ku.edu, School of Pharmacy
+Brandon Tyler Boyce, bboyce98@ku.edu, Communication Studies | Communication Studies
+Brenda J Salley, brendasalley@ku.edu, Bureau of Child Research | PEDS Pediatrics DDBS
+Brendan C Mattingly, bmattingly@ku.edu, School of Professional Studies
+Brent E Metz, bmetz@ku.edu, Latin Amer & Caribbean Studies | Indigenous Studies
+Brett Bricker, bbricker@ku.edu, Communication Studies
+Brian D Ackley, bdackley@ku.edu, Molecular Biosciences
+Brian J Barnes, bbarnes@ku.edu, Pharmacy Practice
+Brian Kaplinger, bkaplinger@ku.edu, Aerospace Engineering
+Brian P Cole, bricole@ku.edu, Educational Psychology
+Brian Scott Gordon, bsgordon@ku.edu, Health Sport &Exercise Science
+Brian William Lagotte, lagotte@ku.edu, Ctr Global & Internatl Studies
+Bridgette Beck-Kells, brbk@ku.edu, Jayhawk Academic Advising
+Brigid Alice Enchill, brigidenchill@ku.edu, Hall Center for the Humanities
+Brittany L Melton, bmelton@ku.edu, Pharmacy Practice
+Brittnee A Carter, bcarter2@ku.edu, Political Science
+Bruce B. Frey, bfrey@ku.edu, Educational Psychology
+Bruce S Lieberman, blieber@ku.edu, Ecology & Evolutionary Biology | Museum Studies
+Bryan Foster, bfoster@ku.edu, Ecology & Evolutionary Biology
+C Marshall, cpmarshall@ku.edu, Geology
+Cal J Butcher, calbutch@ku.edu, Journalism
+Calissa Jo Leslie-Miller, calissa.lm@ku.edu, Bureau of Child Research
+Cameron Berger, c434b181@ku.edu, Communication Studies
+Cameron Piercy, cpiercy@ku.edu, Communication Studies
+Candan Tamerler, ctamerler@ku.edu, Office of Research
+Carey K. Johnson, ckjohnson@ku.edu, Chemistry
+Carl D. Mcelwee, cmcelwee@ku.edu, Geology
+Carl Joseph Swanson, cjswanson@ku.edu, Film and Media Studies
+Carl Leuschen, leuschen@ku.edu, Electrical Engr & Comp Science
+Carla J Harper, charper@ku.edu, Biodiversity Institute
+Carlo Barnaba, barnaba@ku.edu, Pharmaceutical Chemistry
+Carlton Quinn Shield Chief Gover, carlton.shieldchief@ku.edu, Anthropology | Museum Studies | Indigenous Studies
+Caroline Bennett, crb@ku.edu, Civil/Environ/Arch Engineering
+Carolyn Ellen Huffman, carolynhuffman@ku.edu, Undergraduate Biology Program
+Cesia Maria Espinal, cespinal@ku.edu, Spanish & Portuguese
+Ceyda Kural, ceyda.kural@ku.edu, KS Biological Survey
+Chad Kraus, ckraus@ku.edu, Architecture Design
+Chad Tyler Condren, ccondren@kumc.edu, SHP Respiratory Care and Diagnostic Science
+Changming Duan, duanc@ku.edu, Educational Psychology
+Charlene L. Muehlenhard, charlene@ku.edu, Women Gender & Sexuality Stds
+Cheryl Skinner, cskinner@kumc.edu, SHP Respiratory Care and Diagnostic Science
+Chien-Ho Ko, chko@ku.edu, Civil/Environ/Arch Engineering
+Chris Depcik, depcik@ku.edu, Mechanical Engineering | Aerospace Engineering
+Chris S. Crandall, crandall@ku.edu, Psychology
+Christabel Tsoto, ctsoto@ku.edu, Geography & Atmo Science
+Christi Barb, christibarb@ku.edu, 
+Christian Schoeneich, schoneic@ku.edu, Pharmaceutical Chemistry
+Christine Young, cyoung3@kumc.edu, SON Undergraduate Adjunct Faculty
+Christophe Royon, christophe.royon@ku.edu, Physics and Astronomy
+Christopher Cushing, christopher.cushing@ku.edu, Clinical Child Psychology Prog
+Christopher Elles, elles@ku.edu, Chemistry
+Christopher H. Haufler, vulgare@ku.edu, Ecology & Evolutionary Biology | Ecology & Evolutionary Biology
+Christopher J Fischer, shark@ku.edu, Physics and Astronomy
+Christopher Louis Muehlberger, chrismuehlberger@ku.edu, Environmental Studies Program
+Christopher Niileksela, chrisn@ku.edu, Educational Psychology
+Christopher S Rogan, crogan@ku.edu, Physics and Astronomy
+Christopher Thomas Allen, callen@ku.edu, Electrical Engr & Comp Science
+Cindy L Berrie, cberrie@ku.edu, Chemistry
+Claudia L Dozier, cdozier@ku.edu, Applied Behavioral Science
+Clayton Mclaughlin Webb, webb767@ku.edu, Political Science
+Clint Edward Hurshman, clinthurshman@ku.edu, Philosophy
+Cole Bruening, c193b524@ku.edu, Philosophy
+Colin T Roust, croust@ku.edu, Music | French, Francophone & Italian
+Connie Chow, connie.chow@ku.edu, Achievement & Assessment Inst
+Corey Mcculloch, corey.mcculloch@ku.edu, Linguistics
+Cornelis J Vanderveen, cjvdv@ku.edu, Geography & Atmo Science
+Courtney Masterson, courtney.masterson@ku.edu, 
+Craig A Mclaughlin, craigm@ku.edu, Aerospace Engineering
+Craig Carl Freeman, ccfree@ku.edu, KS Biological Survey
+Crispin Williams, clw@ku.edu, East Asian Languages&Cultures
+Cuncong Zhong, cczhong@ku.edu, Electrical Engr & Comp Science
+Cynthia "Cara" Polsley, ccp85@ku.edu, Classics
+Cynthia Steutermann, steuterm@ku.edu, Business
+Daisuke Murata, daiskemurata@ku.edu, History of Art
+Dale Dorsey, ddorsey@ku.edu, Philosophy
+Damian Fisher, fisher.d@ku.edu, Philosophy
+Dan A Dixon, dan_dixon@ku.edu, Molecular Biosciences | Molecular Biosciences
+Dan Finnell, danfinnell@ku.edu, Architecture Design
+Daniel Hernandez, hernandez@ku.edu, Mathematics
+Daniel L. Katz, dlk53@ku.edu, Mathematics
+Daniel Tapia Takaki, jdtt@ku.edu, Physics and Astronomy
+Daniela Ayelen Escribano, danielaescribano@ku.edu, Psychology
+Danny Welch, dwelch@kumc.edu, CanBio Bossmann
+Darrell Lee Phillips, d.phillips@ku.edu, Educational Psychology
+Dave Tell, davetell@ku.edu, Communication Studies | Museum Studies
+David A Rahn, darahn@ku.edu, Geography & Atmo Science | Environmental Studies Program
+David Allan Fowle, fowle@ku.edu, Geology
+David B Mechem, dmechem@ku.edu, Geography & Atmo Science | Environmental Studies Program
+David B Volkin, volkin@ku.edu, Pharmaceutical Chemistry
+David Brichoux, brichouxd@ku.edu, Political Science
+David D Weis, dweis@ku.edu, Chemistry
+David Darwin, daved@ku.edu, Civil/Environ/Arch Engineering
+David Davido, ddavido@ku.edu, Molecular Biosciences
+David M Hansen, dhansen1@ku.edu, Educational Psychology
+David Mai, dmai@ku.edu, Film and Media Studies
+David Orville Johnson, davidojohnson@ku.edu, Electrical Engr & Comp Science
+David R Roediger, droediger@ku.edu, American Studies | African/African Amer Studies
+David R. Benson, drb@ku.edu, Chemistry
+David W Farber, dfarber@ku.edu, History
+David W. Petr, dwp@ku.edu, Electrical Engr & Comp Science
+David Woodington, jdwoodington@ku.edu, Jayhawk Academic Advising
+David Zeke Besson, zedlam@ku.edu, Physics and Astronomy
+Davilyn May Yates, davilyn.yates@ku.edu, Spanish & Portuguese | Spanish & Portuguese
+Dean D. Richards Iv, d768r434@ku.edu, Curriculum & Teaching
+Deana Louise Wilhoite, dwilhoite@kumc.edu, SON Family, Community, & Health Systems Faculty
+Deanna Hanson-Abromeit, dhansonabromeit@ku.edu, Music
+Debjit Basu, debjitbasu@ku.edu, Mathematics
+Deborah Smith, debsmith@ku.edu, Ecology & Evolutionary Biology | Museum Studies
+Deena Woodall, dwoodall@kumc.edu, SON Salina
+Deepak Timalsina, deepak.timalsina@ku.edu, Chemistry
+Dennis H O'Rourke, orourke@ku.edu, Anthropology
+Dennis P. Christilles, dchrist@ku.edu, Theatre and Dance
+Dennis W Grauer, dgrauer@ku.edu, Pharmacy Practice
+Denny Ray Swartzlander, dswartzlander@ku.edu, Undergraduate Biology Program
+Diana Manglos, dkmanglos@ku.edu, Journalism
+Diane Lisa Kamola, kamola@ku.edu, Geology
+Dietrich Harlan Earnhart, earnhart@ku.edu, Economics | Environmental Studies Program
+Dilshan Remaz Ossen, dilshan_ossen@ku.edu, Architecture Design
+Dionyssis Mantzavinos, mantzavinos@ku.edu, Mathematics
+Dmitry Ovchinnikov, d.ovchinnikov@ku.edu, Physics and Astronomy | Electrical Engr & Comp Science
+Donald G Huggins, dhuggins@ku.edu, KS Biological Survey | KS Biological Survey
+Donald O. Whittemore, dwhitt@ku.edu, Kansas Geological Survey | Kansas Geological Survey
+Donald Patrick Haider-Markel, dhmarkel@ku.edu, Political Science | Environmental Studies Program
+Dorothy Elizabeth Hines, dhinesd@ku.edu, African/African Amer Studies
+Dorothy Marie Daley, daley@ku.edu, School of Public Affairs&Admin
+Dorthy Pennington, dpen@ku.edu, African/African Amer Studies
+Douglas B Ward, dbward@ku.edu, Journalism
+Dr Cynthia Melissa Colwell Dunn, ccolwell@ku.edu, Music
+Dr Elizabeth A. Friis, lfriis@ku.edu, Mechanical Engineering
+Dr Hossein Saiedian, saiedian@ku.edu, Electrical Engr & Comp Science
+Dr James H Thorp, thorp@ku.edu, KS Biological Survey | Ecology & Evolutionary Biology
+Dr Lorin P Maletsky, maletsky@ku.edu, Mechanical Engineering
+Dr Mikhail Viktorovich Medvedev, medvedev@ku.edu, Physics and Astronomy
+Dr Patricia A Lowe, tlowe@ku.edu, Educational Psychology
+Dr Stephen Tom Hasiotis, hasiotis@ku.edu, Geology
+Dr. Laurence Weatherley, lweather@ku.edu, Chemical & Petroleum Engr
+Dr. Lucinda / Cindy Whitney, lwhitney@kumc.edu, SON Family, Community, & Health Systems Faculty
+Dr. Yan Zheng, yzheng@kumc.edu, SHP Clinic Laboratory Sciences
+Drew Davidson, drewdavidson@ku.edu, Electrical Engr & Comp Science
+Drew Jones, ajones9@kumc.edu, SHP Clinical Laboratory Sciences
+Duane W Myer, dmyer@ku.edu, Business
+Dyan Morgan, dyan.morgan@ku.edu, Undergraduate Biology Program
+Edward M Bowen Iii, embowen@ku.edu, French, Francophone & Italian
+Edward Peltier, epeltier@ku.edu, Civil/Environ/Arch Engineering
+Eileen Mary Hotze, ehotze@ku.edu, Undergraduate Biology Program
+Eileen S Nutting, nutting@ku.edu, Philosophy
+Eilidh Lynn Strecker, eilidh.strecker@ku.edu, English
+Elaina J Sutley, enjsutley@ku.edu, Engineering Administration
+Elisabeth Anne Crossfield Mills, eacmills@ku.edu, Physics and Astronomy
+Elise Kirk, elisekirk@ku.edu, Design
+Elizabeth Leatherman, eleatherman@ku.edu, Speech-Language-Hearing
+Elizabeth R Corson, ecorson@ku.edu, Chemical & Petroleum Engr
+Emily Caroline Watkins, emily.watkins@ku.edu, Psychology | Psychology
+Emily Grace Hichborn, emily.g.hichborn@ku.edu, Clinical Child Psychology Prog
+Emily J Arnold, earnold@ku.edu, Aerospace Engineering
+Emily S Counsil, escounsil@ku.edu, Hall Center for the Humanities | English
+Emily Witt, witt@ku.edu, Mathematics
+Emma Louise Webster, e_webster@ku.edu, English
+Eric Ali Vazquez Olivad, eric.vazquez@ku.edu, Mathematics
+Eric Elsinghorst, eelsinghorst@kumc.edu, SHP Office of the Dean)
+Eric Hanley, hanley@ku.edu, Sociology | Environmental Studies Program
+Erik A Lundquist, erikl@ku.edu, Office of Research
+Erik Dylan Holmstrom, erik.d.holmstrom@ku.edu, Molecular Biosciences | Chemistry
+Erik Perrins, esp@ku.edu, Electrical Engr & Comp Science
+Erik Van Vleck, erikvv@ku.edu, Mathematics
+Erin A Frykholm, frykholm@ku.edu, Philosophy
+Erin Joy Keith-Chancy, ekeithchancy@kumc.edu, 
+Erin Yosai, erin.yosai@ku.edu, Educational Psychology
+Esam Eldin Mohamed Aly, esam@ku.edu, Electrical Engr & Comp Science
+Eugene C Rankey, grankey@ku.edu, Geology | Environmental Studies Program
+Eungsik Kim, eungsikk@ku.edu, Economics
+Evan Karl Franseen, evanf@ku.edu, Geology | Kansas Geological Survey
+F.B. Agusto, fbagusto@ku.edu, Ecology & Evolutionary Biology | African/African Amer Studies
+Fahimeh Bozorgian, fahimehbozorgian@ku.edu, English
+Felipe Anaya, felipe.anaya@ku.edu, Chemical & Petroleum Engr
+Fengjun Li, fli@ku.edu, Electrical Engr & Comp Science
+Fernando Torres, fernando.torres@ku.edu, Geography & Atmo Science
+Francesca Beretta, francesca.beretta@ku.edu, French, Francophone & Italian
+Francisca Maria Velasco, mvelasco@ku.edu, Visual Art
+Frank E Weinhold, weinhold@ku.edu, Pharmacy Practice
+Frederic Sellet, fsellet@ku.edu, Anthropology
+Gabby Dobbs, gabrielledobbs@ku.edu, Sociology
+Gary Matthew Reich, greich@ku.edu, Political Science
+Geng Chen, gengchen@ku.edu, Mathematics
+Geoffrey Loryn Landman, geoffrey.landman@ku.edu, Music
+George William Tarwater, ghobbs@kumc.edu, School Of Nursing
+Georgios P Tsoflias, tsoflias@ku.edu, Geology
+Gerri L Berendzen, gberendzen@ku.edu, Journalism
+Gerrit Deboer, gdeboer@ku.edu, Ecology & Evolutionary Biology
+Glen A. Marotz, gama@ku.edu, Civil/Environ/Arch Engineering | Civil/Environ/Arch Engineering
+Glenn Adams, adamsg@ku.edu, Kansas African Studies Center | African/African Amer Studies
+Grace Elizabeth Tuthill, gracetuthill@ku.edu, Visual Art
+Graham Wallace Wilson, gwwilson@ku.edu, Physics and Astronomy
+Gregory H Rudnick, grudnick@ku.edu, Physics and Astronomy
+Hai Long Dao, hdao@ku.edu, Mathematics
+Haiyang Chao, chaohaiyang@ku.edu, Aerospace Engineering
+Haiying Long, hlong@ku.edu, Educational Psychology
+Han Yin, hanyin@ku.edu, Mathematics
+Hana Khan, h642k417@ku.edu, Journalism
+Hannah E Britton, britton@ku.edu, Political Science | African/African Amer Studies
+Hao Lou, lou0@ku.edu, Pharmaceutical Chemistry
+Haoran Ni, haoran0708@ku.edu, History
+Hartwin Peelaers, peelaers@ku.edu, Physics and Astronomy | Electrical Engr & Comp Science
+Hayoung Lee, hayoungl@ku.edu, Communication Studies
+Heather Desaire, hdesaire@ku.edu, Chemistry
+Heather Nicole Snay, hsnay@ku.edu, University Academic Support Ct | Geography & Atmo Science
+Heaven Dawn Cherie Snyder, heavensnyder@ku.edu, Latin Amer & Caribbean Studies
+Heechul Yun, heechul.yun@ku.edu, Electrical Engr & Comp Science
+Heeyoun Shin, sheeyoun@ku.edu, Sociology
+Heidi Fair Boehm, hboehm@kumc.edu, SON Undergraduate Adjunct Faculty
+Helen M. Alexander, halex@ku.edu, Ecology & Evolutionary Biology | Ecology & Evolutionary Biology
+Helena C Malinakova, hmalinakova@ku.edu, Chemistry
+Heng Du, h505d663@ku.edu, Pharmacology & Toxicology
+Henry Bial, hbial@ku.edu, Theatre and Dance
+Herminia Machry, hsmachry@ku.edu, Architecture Design
+Honglian Shi, hshi@ku.edu, Pharmacology & Toxicology
+Hongyi Cai, hycai@ku.edu, Civil/Environ/Arch Engineering
+Howard Graham, hgraham@ku.edu, Health Sport &Exercise Science | Alumni Association
+Howard P Wills, hpwills@ku.edu, Educational Psychology
+Huazhen Fang, fang@ku.edu, Mechanical Engineering | Electrical Engr & Comp Science
+Hui Cai, huicai@ku.edu, Architecture Design
+Hui Zhao, huizhao@ku.edu, Physics and Astronomy | Electrical Engr & Comp Science
+Huixuan Wu, hwu@ku.edu, Aerospace Engineering
+Hume Feldman, feldman@ku.edu, Physics and Astronomy
+Hyesun Cho, hcho@ku.edu, Curriculum & Teaching
+Hyunjin Seo, hseo@ku.edu, Journalism
+Hyunjoon Kim, kimx@ku.edu, Pharmaceutical Chemistry
+Ian James Mills Crossfield, ianc@ku.edu, Physics and Astronomy
+Ian M Montgomery, ian.montgomery@ku.edu, Communication Studies
+Ian Michael Lewis, ian.lewis@ku.edu, Physics and Astronomy
+Ilya Vakser, vakser@ku.edu, Computational Biology
+Iredia David Iyamu, iiyamu@ku.edu, Medicinal Chemistry
+J. Douglas Walker, jdwalker@ku.edu, Geology
+Jack J Shi, jshi@ku.edu, Physics and Astronomy
+Jack R. Porter, porter@ku.edu, Mathematics
+Jack Zhang, jiakunzhang@ku.edu, Political Science
+Jackob Moskovitz, moskovij@ku.edu, Pharmacology & Toxicology
+Jaclyn Lauren Dudek, jdudek@ku.edu, Achievement & Assessment Inst
+Jacquelene G Brinton, jbrinton@ku.edu, Religious Studies
+Jae Chang, jdchang@ku.edu, Architecture Design
+Jai Subramanian, jaichandar@ku.edu, Pharmacology & Toxicology
+James Blakemore, blakemore@ku.edu, Chemistry
+James David Bever, jbever@ku.edu, Ecology & Evolutionary Biology
+James J. Jr. Butler, jbutler@ku.edu, Kansas Geological Survey
+James M Backes, jbackes@ku.edu, Pharmacy Practice
+James Marion Stiles, jstiles@ku.edu, Electrical Engr & Comp Science
+James W Tracy, james.tracy@ku.edu, Pharmacology & Toxicology
+Jamie R Walters, jrwalters@ku.edu, Ecology & Evolutionary Biology
+Janelle Faye Ruisinger, jruisin1@ku.edu, School of Pharmacy
+Janet S. Rose, jsrose@ku.edu, Journalism
+Jasmine Krystina Holthaus, jasmineholthaus@ku.edu, English
+Jason Chadwick Applegate, j627a928@ku.edu, Chemistry
+Jason K Pittman, pittman.jason.k@ku.edu, Architecture Design
+Jay Childers, jchildrs@ku.edu, Communication Studies
+Jay Dawes, j177d303@ku.edu, 
+Jay T. Johnson, jaytjohnson@ku.edu, Geography & Atmo Science | Indigenous Studies
+Jaysen Van Sickle, jaysen@ku.edu, School of Professional Studies
+Jeff Holliday, jjh@ku.edu, Linguistics
+Jeff Pierce, jpierce75@ku.edu, Pharmacy Practice
+Jeffrey Girard, jmgirard@ku.edu, Psychology
+Jeffrey Hall, hallj@ku.edu, Communication Studies
+Jeffrey Lang, haras@ku.edu, Mathematics
+Jeffrey P. Krise, krise@ku.edu, Pharmaceutical Chemistry
+Jennifer A Delgado, j743d550@ku.edu, Physics and Astronomy
+Jennifer A Roberts, jaroberts@ku.edu, Academic Affairs
+Jennifer A Williams, jwilliams28@kumc.edu, SON Inactive Adjunct Faculty
+Jennifer Anne Raff, jennifer.raff@ku.edu, Anthropology | Indigenous Studies
+Jennifer E. Jordan, jenniferjordan@ku.edu, College of Liberal Arts & Sci
+Jennifer Harrison, jtkharrison@ku.edu, Business
+Jennifer Jones, jjones1@kumc.edu, SHP Clinical Laboratory Sciences
+Jennifer L. Hueston, hueston@ku.edu, Undergraduate Biology Program
+Jennifer M Gleason, jgleason@ku.edu, Ecology & Evolutionary Biology
+Jenniffer Stefany Wong Chavez, jenniffer.wong@ku.edu, Psychology
+Jenny Mckee, jemckee@ku.edu, Health Education Resource
+Jeongwon Yoon, jwyoon@ku.edu, History of Art
+Jeremy L Martin, jlmartin@ku.edu, Mathematics
+Jeremy Shellhorn, jeshellh@ku.edu, Design
+Jessica Bates, batesjv@ku.edu, Pharmacy Practice
+Jessica Sand, jsand@kumc.edu, POPH Population Health Education - Active Adjunct Faculty
+Jessy Changstrom, jchangstrom@ku.edu, Physics and Astronomy
+Ji Yeon Lee, jylee9@ku.edu, East Asian Languages&Cultures
+Jiahong Wang, jh.wang@ku.edu, Curriculum & Teaching
+Jian Li, jianli@ku.edu, Civil/Environ/Arch Engineering | Electrical Engr & Comp Science
+Jie Han, jiehan@ku.edu, Civil/Environ/Arch Engineering
+Jill M. Hamilton-Reeves, jhamilton-reeves@kumc.edu, SurgUrol Surgery Urology
+Jim Mcnaughton, jim.mcnaughton@ku.edu, Electrical Engr & Comp Science
+Jimmie Flores, jimmie.flores@ku.edu, School of Professional Studies
+Jin Feng, jinfeng@ku.edu, Mathematics
+Jinhyun Cho, jhcho@ku.edu, History of Art
+Jinyan Li, jeannie_0314@ku.edu, Economics
+Jo Adrianne Wick, jwick@ku.edu, Edwards Campus | Biostat Faculty
+Joan A. Sereno, sereno@ku.edu, Linguistics
+Joanna Slusky, slusky@ku.edu, Molecular Biosciences | Chemistry
+Joao Batista Nascimento Gregoire, joaogregoire@ku.edu, 
+Jocelyn P. Colella, colella@ku.edu, Ecology & Evolutionary Biology | Museum Studies
+Jody Brook, jbrook@ku.edu, Social Welfare
+Joe Colistra, jcolistra@ku.edu, Architecture Design
+Joe L Walden, joewalden@ku.edu, Business
+Joe S Bellitti, jbellitti@ku.edu, Bureau of Child Research
+John C Watson, johnwatson@ku.edu, Journalism
+John Colombo, colombo@ku.edu, Bureau of Child Research
+John F. Stobaugh, stobaugh@ku.edu, Pharmaceutical Chemistry
+John Frederick Devlin, jfdevlin@ku.edu, Geology | Environmental Studies Program
+John Gluckman, johnglu@ku.edu, Linguistics
+John James Kennedy, kennedy1@ku.edu, Political Science
+John K Kelly, jkk@ku.edu, Ecology & Evolutionary Biology
+John Marvin, jfmarvin@ku.edu, East Asian Languages&Cultures
+John Peter Ralston, ralston@ku.edu, Physics and Astronomy
+John Philip Danso Kwakye, jkwakye@ku.edu, Physics and Astronomy
+John Poggio, jpoggio@ku.edu, Educational Psychology
+John Symons, johnsymons@ku.edu, Philosophy | Electrical Engr & Comp Science
+John W Gibbons, jwgibbo@ku.edu, Electrical Engr & Comp Science
+John W. Head, jhead@ku.edu, Law School | Environmental Studies Program
+John W. Hoopes, hoopes@ku.edu, Anthropology
+Jomella J Watson-Thompson, jomellaw@ku.edu, Applied Behavioral Science
+Jon A Tunge, tunge@ku.edu, Chemistry | Medicinal Chemistry
+Jon Robert Havener, jhavener@ku.edu, Visual Art
+Jonathan Brumberg, brumberg@ku.edu, Psychology
+Jonathan E Mayhew, jmayhew@ku.edu, Spanish & Portuguese
+Jonathan Hagel, jhagel@ku.edu, History | Museum Studies
+Jonathan W Pinkston, jon.pinkston@ku.edu, Applied Behavioral Science
+Joonha Park, j.park@ku.edu, Mathematics
+Jordan Cortesi, jcortesi@ku.edu, Psychology
+Jordan M Taylor, jtaylor@ku.edu, Health Sport &Exercise Science
+Jordan Robert Bass, jrbass@ku.edu, Health Sport &Exercise Science
+Joseph E Heidrick, jheidric@ku.edu, School of Pharmacy
+Joseph E Kauffman, joekauff@ku.edu, Communication Studies
+Joseph Huber, jhuber4@ku.edu, Mathematics
+Joseph Paul Brewer Ii, joseph.brewer@ku.edu, Environmental Studies Program
+Joseph Weir, joseph.weir@ku.edu, Health Sport &Exercise Science
+Josephine R Chandler, jrchandler@ku.edu, Molecular Biosciences | Ecology & Evolutionary Biology
+Josh Edmond Hayes, josh_hayes359@ku.edu, Achievement & Assessment Inst
+Joshua Arpin, jarpin@ku.edu, Business
+Joshua David Miner, j.d.miner@ku.edu, Film and Media Studies | Indigenous Studies
+Joshua K Roundy, jkroundy@ku.edu, Civil/Environ/Arch Engineering
+Jowel Christian Laguerre, l917j884@ku.edu, African/African Amer Studies
+Juan J Bravo Suarez, jjbravo@ku.edu, Chemical & Petroleum Engr
+Judy Wu, jwu@ku.edu, Physics and Astronomy
+Julia Chappel, jchappel@ku.edu, Business
+Julia Isbell, j161i380@ku.edu, Special Education
+Julie Ann Campbell, jac@ku.edu, Undergraduate Biology Program
+Julie Ann Hamel, julie.hamel@ku.edu, Achievement & Assessment Inst
+Julie Borger, julie.thompson@ku.edu, History of Art
+Julie Hanson Gatts, jgatts@ku.edu, Speech-Language-Hearing
+Julie Lynne Mitchell, jmitchell15@kumc.edu, 
+Justin M Hutchison, jhutch@ku.edu, Civil/Environ/Arch Engineering
+Justin P Blumenstiel, jblumens@ku.edu, Ecology & Evolutionary Biology
+Justin P Stachnik, stachnik@ku.edu, Geography & Atmo Science
+Kaitlynn Jane Toay, kaitlynn.toay@ku.edu, English
+Kamba Kombat, kambakombat@ku.edu, French, Francophone & Italian
+Kamila Saifeeva, kamsaifeeva@ku.edu, Slavic, German, Eurasian Stdie
+Kapila Dharmasena Silva, kapilads@ku.edu, Architecture Design | Museum Studies
+Karen E Moeller, kmoeller@ku.edu, Pharmacy Practice
+Karen J. Nordheden, nordhed@ku.edu, Chemical & Petroleum Engr
+Karen Lorena Weis, kweis2@kumc.edu, SON Family, Community, & Health Systems Faculty
+Karisa Saori Shiraki, kshiraki@ku.edu, Spanish & Portuguese | Spanish & Portuguese
+Karl Brooks, kbrooks@ku.edu, School of Public Affairs&Admin | History
+Kat Romanova, e.romanova@ku.edu, Communication Studies
+Kate Dejarnette, kmdejarnette@ku.edu, Speech-Language-Hearing
+Kate E Kemper, katekemper@ku.edu, Center for Service Learning
+Kate Swartz, kswartz@ku.edu, Communication Studies
+Katherine Anne Marx, kamarx@ku.edu, Speech-Language-Hearing | SHP Hearing and Speech - Adjunct Faculty
+Kathryn Angela Rhine, krhine@ku.edu, Geography & Atmo Science
+Kathy Guilkey, dguilkey@kumc.edu, 
+Katie Batza, batza@ku.edu, Women Gender & Sexuality Stds | History | Museum Studies
+Kay Folck, kfolck@kumc.edu, SHP Health Information Management - Adjunct Faculty)
+Kc Kong, kckong@ku.edu, Physics and Astronomy
+Kelly Ann Jones, kellyjones@ku.edu, Social Welfare
+Kelly C Sharron, kellysharron@ku.edu, Sociology
+Kelly Elizabeth Graf, graf@ku.edu, Anthropology | Museum Studies
+Kelly Kawena Segal Matsunaga, matsunaga@ku.edu, Ecology & Evolutionary Biology
+Kelly Kindscher, kindsche@ku.edu, Environmental Studies Program | Indigenous Studies
+Kelsey Ann Carls, kcarls@ku.edu, Women Gender & Sexuality Stds
+Kelsey E Hunter, kelseyhunter@ku.edu, Sexual Assault & Prevention Ct
+Kelsie Terese Forbush, kforbush@ku.edu, Clinical Child Psychology Prog
+Kelvie Crabb, kelvie@ku.edu, Business
+Ken Murfay, k.murfay@ku.edu, Health Sport &Exercise Science
+Kendra Ford, kford2@kumc.edu, Otorhinolaryngology
+Kenneth Demarest, demarest@ku.edu, Electrical Engr & Comp Science
+Kenneth H Ward, kward3@ku.edu, Business
+Kenneth J. Fischer, fischer@ku.edu, Mechanical Engineering
+Kenneth L. Audus, audus@ku.edu, Pharmaceutical Chemistry
+Kent F. Spreckelmeyer, kents@ku.edu, Architecture Design
+Kent Smith, kentsmith@ku.edu, Design
+Kesa Jo Herlihy, kherlihy@kumc.edu, SON Acute, Chronic, Continuing Care Faculty
+Ketty Wong, ketwong@ku.edu, Music
+Kevin Charles Leonard, kcleonard@ku.edu, Chemical & Petroleum Engr
+Kevin Mullinix, kmullinix@ku.edu, Political Science
+Kevin Willmott, willmott@ku.edu, African/African Amer Studies | Film and Media Studies
+Kim Warren, kwarren@ku.edu, Undergraduate Education
+Kimberly A. B. Swanson, kswanson@ku.edu, French, Francophone & Italian
+Kirsten Jensen, jensen@ku.edu, Ecology & Evolutionary Biology
+Kris Pedersen, kpedersen@ku.edu, Speech-Language-Hearing
+Kristen Noel Hensley, kbast@ku.edu, Educational Psychology
+Kristi L Neufeld, klneuf@ku.edu, Molecular Biosciences
+Kristin Bowman-James, kbjames@ku.edu, Chemistry
+Kristin Maynard, maynard.kristin339@ku.edu, English
+Kristina Gordon, krigordon@ku.edu, Health Sport &Exercise Science
+Kristy Benoit Allen, kristyballen@ku.edu, Clinical Child Psychology Prog
+Krysta D Green, krystagreen@ku.edu, Speech-Language-Hearing
+Kyle Vincent Camarda, camarda@ku.edu, Chemical & Petroleum Engr
+Lacey Rae Wade, laceywade@ku.edu, Linguistics
+Laird Forrest, lforrest@ku.edu, Pharmaceutical Chemistry | Chemical & Petroleum Engr
+Laryssa Oliveira Rodrigues, laryssarodrigues@ku.edu, Spanish & Portuguese
+Laura E Martin, lmartin2@kumc.edu, POPH Population Health Faculty
+Laura Michelle Klenke-Borgmann, lklenke-borgmann@kumc.edu, SON Executive Management
+Laura Obrycki Barrett, lobarrett@ku.edu, Business
+Laura Rozzi, l210r308@ku.edu, Undergraduate Biology Program
+Lauren Edith Young Norman, lauren_norman@ku.edu, Anthropology | Museum Studies
+Lauren Pulino, lpulino@kumc.edu, 
+Lauren Spain-Eddington, lspain@ku.edu, Undergraduate Biology Program
+Lauri Herrmann-Ginsberg, laurihg@ku.edu, Curriculum & Teaching
+Laurie A Cleavinger, cleavingerl@ku.edu, Curriculum & Teaching
+Lawrence W Davidow, ldavidow@ku.edu, Pharmacy Practice
+Leah Ade, lade@kumc.edu, SHP Clinical Laboratory Sciences
+Lee Charles Stuart, leestuart@ku.edu, School of Public Affairs&Admin | School of Professional Studies
+Leigh A Stearns, stearns@ku.edu, Geology
+Lena Hileman, lhileman@ku.edu, Ecology & Evolutionary Biology
+Leonard Krishtalka, krishtalka@ku.edu, Ecology & Evolutionary Biology | Biodiversity Institute
+Lex L'Insalata, alinsalata@ku.edu, Psychology
+Lexi Chroscinski, lexi.chroscinski@ku.edu, 
+Liang Xu, xul@ku.edu, Molecular Biosciences
+Lin Liu, linliu@ku.edu, Mechanical Engineering
+Lindsey Danielle Deaver, ldeaver@ku.edu, Undergraduate Biology Program
+Lindsey Ward Lyles, wardlyles@ku.edu, School of Public Affairs&Admin | Environmental Studies Program
+Liqin Zhao, lzhao@ku.edu, Pharmacology & Toxicology
+Lisa D Timmons, timmons@ku.edu, Molecular Biosciences
+Lisa Mclendon, lisamclendon@ku.edu, Journalism
+Liz Heather Benditt, lbenditt@ku.edu, Business
+Liz Kowalchuk, kowalchu@ku.edu, Visual Art
+Ludwin E Molina, ludwin@ku.edu, Psychology
+Luisa Garces Sierra, luisagarces@ku.edu, Spanish & Portuguese
+Luke N Erber, erber@ku.edu, Medicinal Chemistry
+Luke Samuel Jordan, lukej@ku.edu, Visual Art
+Lydia Adeline Noland, lydianoland@ku.edu, English
+Lynn Hancock, lynnh@ku.edu, Molecular Biosciences
+Mabel L. Rice, mabel@ku.edu, Speech-Language-Hearing
+Mackenzie Oneil Marquess, m.marquess@ku.edu, Communication Studies | Communication Studies
+Madelyn Mueller, madelyn.mueller@ku.edu, Business Administration
+Maggie Borders, mborders@ku.edu, Achievement & Assessment Inst
+Maggie Wagner, maggie.r.wagner@ku.edu, Ecology & Evolutionary Biology
+Mahnoor Salman, mahnoorsalman@ku.edu, Inst for Leadership Studies
+Majesty Collins, majestyscollins@ku.edu, Jayhawk Academic Advising
+Majid Hannoum, hannoum@ku.edu, Anthropology | African/African Amer Studies | French, Francophone & Italian
+Marcel Prokop, marcel.prokop@ku.edu, Mathematics | Mathematics | University Academic Support Ct
+Marcia Schulmeister, mschulme@ku.edu, Geology
+Marco Caricato, mcaricato@ku.edu, Chemistry
+Marcy P Lascano, marcylascano@ku.edu, Philosophy
+Margaret M. Bayer, bayer@ku.edu, Mathematics
+Margaret Sue Kelley, mskelley@ku.edu, American Studies
+Margarethe Mcdonald, mcdonaldm@ku.edu, Speech-Language-Hearing
+Margot Yvonne Lea Cobat, margot.cobat@ku.edu, Linguistics
+Maria E. Orive, morive@ku.edu, College of Liberal Arts & Sci
+Maria Rachel Medlyn, maria.medlyn@ku.edu, Business Administration
+Marian August Phillips, marianphillips@ku.edu, Women Gender & Sexuality Stds | Women Gender & Sexuality Stds
+Marie Pauline Fernandes, mariefernandes@ku.edu, African/African Amer Studies
+Marike Janzen, mjanzen@ku.edu, Slavic, German, Eurasian Stdie | Museum Studies
+Marina Bianca Suarez, mb.suarez@ku.edu, Geology
+Mario A. Medina, mmedina@ku.edu, Engineering Administration
+Mark Brandon Shiflett, mark.b.shiflett@ku.edu, Chemical & Petroleum Engr
+Mark C Pahls, mpahls@ku.edu, College of Liberal Arts & Sci
+Mark E Mort, memort@ku.edu, Ecology & Evolutionary Biology
+Mark E. Jakubauskas, mjakub@ku.edu, Environmental Studies Program
+Mark Landau, mjlandau@ku.edu, Psychology
+Mark Patrick Farrell, markfarrell@ku.edu, Medicinal Chemistry
+Mark Randall Best, markbest@ku.edu, Business
+Mark Russell Joslyn, mjozz@ku.edu, Political Science
+Mark Stephan Ewing, mewing@ku.edu, Aerospace Engineering
+Mark Stephen Algren, malgren@ku.edu, Applied English Center | Applied English Center
+Marsha J Mccartney, mccartneymj@ku.edu, Psychology
+Marta Caminero-Santangelo, camsan@ku.edu, English | African/African Amer Studies
+Marta Valentin Vicente, mvicente@ku.edu, History
+Mary A Klayder, mklayder@ku.edu, English
+Mary Anne Jordan, majordan@ku.edu, Visual Art
+Mary Beth Carter, marybethcarter@ku.edu, Chemistry
+Mary C Hill, mchill@ku.edu, Geology
+Mary Christine Banwart, mbanwart@ku.edu, Office of Faculty Affairs
+Mary D Fry, mfry@ku.edu, Educational Psychology
+Masoud K Darabi, m-darabi@ku.edu, Civil/Environ/Arch Engineering
+Mat Johnson, matjohn@ku.edu, Mathematics
+Mats Bernhard Kampshoff, matskampshoff@ku.edu, Physics and Astronomy
+Matt Gillispie, wmg@ku.edu, Speech-Language-Hearing | Indigenous Studies
+Matt Lancaster, matt.lancaster@ku.edu, Business Administration
+Matt O'Reilly, oreilly3@ku.edu, Civil/Environ/Arch Engineering
+Matt W Mosconi, mosconi@ku.edu, Clinical Child Psychology Prog
+Matthew Robert Reynolds, mreynolds@ku.edu, Educational Psychology
+Maura Corder, mauracorder@ku.edu, Communication Studies | Communication Studies
+Mavis Li, xiaoyanli@ku.edu, American Studies
+Meagan M Patterson, mmpatter@ku.edu, Educational Psychology
+Megan Kaminski, kaminski@ku.edu, English | Visual Art
+Megan Kristine Sheldon, mksheldon@ku.edu, Spanish & Portuguese
+Meggie Mapes, meggiemapes@ku.edu, Communication Studies
+Meghan Davidson, meghan.davidson@ku.edu, Speech-Language-Hearing
+Meghan E Ecker-Lyster, meecker@ku.edu, Achievement & Assessment Inst
+Meghan Riley Anderson, meghan.anderson@ku.edu, Geography & Atmo Science
+Melinda Kay Lewis, mlewis@ku.edu, Social Welfare
+Melissa E Johnson, melissa.johnson@ku.edu, Undergraduate Education
+Melissa H. Birch, mhbirch@ku.edu, Business
+Melissa L Grady, mgrady@ku.edu, Music
+Meredith Hartley, hartley@ku.edu, Chemistry
+Merlin G Butler, mbutler4@kumc.edu, PSYCH Psychiatry & Behavioral Sciences
+Michael A. Panethiere, mpanethiere@ku.edu, Civil/Environ/Arch Engineering
+Michael D Blum, mblum@ku.edu, Geology
+Michael Halford Taylor, mht@ku.edu, Geology
+Michael J Hageman, mhageman@ku.edu, Pharmaceutical Chemistry
+Michael J Murray, mjmurray@ku.edu, Physics and Astronomy
+Michael J. Krueger, michaelk@ku.edu, Visual Art
+Michael Johnson, johnsonm@ku.edu, Chemistry | Applied Behavioral Science
+Michael L Mccaffrey, mcaffrey@ku.edu, Visual Art
+Michael P Diana, michael.diana@ku.edu, Academic Success | English
+Michael S Branicky, m954b923@ku.edu, Electrical Engr & Comp Science
+Michael Scott Wolfe, mswolfe@ku.edu, Medicinal Chemistry
+Michael Zhuo Wang, michael.wang@ku.edu, Pharmaceutical Chemistry | Chemistry
+Michelle Hayes, mhayes@ku.edu, Theatre and Dance
+Michelle Mohr Carney, mmcarney@ku.edu, Social Welfare Administration
+Michelle R Riley, mriley3@ku.edu, School of Professional Studies
+Mie Takikiawa, mietakikawa@ku.edu, Women Gender & Sexuality Stds
+Miguel Angel Albujar Escuredo, malbujarescuredo2@ku.edu, Spanish & Portuguese
+Mike Falk, michaelfalk@ku.edu, Business
+Mike Garnett, mike.garnett@ku.edu, Applied English Center
+Mike Wuthrich, mwuthrich@ku.edu, Political Science
+Mikhail Viktorvich Barybin, mbarybin@ku.edu, Chemistry
+Miki Shono, m.shono@ku.edu, East Asian Languages&Cultures
+Millicent Anne Coil, mcoil@ku.edu, Mechanical Engineering
+Millinda Fowles, mfowles@ku.edu, Undergraduate Education
+Minae Mure, mmure@ku.edu, Chemistry
+Ming Wang, mwang@ku.edu, Mathematics
+Ming Zhao, mingzhao@ku.edu, Pharmaceutical Chemistry
+Minh Thanh Cao, minh.cao@ku.edu, Economics
+Mira Briana Elizabeth Haydu, mhaydu@ku.edu, Spanish & Portuguese
+Misae Nishimura Daldorph, misaedal@ku.edu, East Asian Languages&Cultures | East Asian Languages&Cultures
+Misty Schieberle, mschiebe@ku.edu, English | History | French, Francophone & Italian
+Mizuki Azuma, azumam@ku.edu, Molecular Biosciences
+Mohammad Dastmalchi, dastmalchi@ku.edu, Architecture Design
+Mohammad Karbakhsh, mohammadkarbakhsh@ku.edu, Speech-Language-Hearing
+Molly E Steed, msteed@ku.edu, Pharmacy Practice
+Monalisa Dutta, monalisa@ku.edu, Mathematics
+Monica Biernat, biernat@ku.edu, Psychology
+Monica Elizabeth Briggs, monicabriggs@ku.edu, English
+Mr Brian L. Donovan, bdonovan@ku.edu, Sociology
+Mr Chris Brown, jcbrown2@ku.edu, Geography & Atmo Science
+Mr Hongguo Xu, feng@ku.edu, Mathematics
+Mr Marshall Maude, maude@ku.edu, Visual Art
+Mugur V Geana, geanam@ku.edu, Journalism
+Myleah Brewer, myleah.brewer@ku.edu, 
+Myunghyun Oh, myoh@ku.edu, Mathematics
+Nancy A Muma, nmuma@ku.edu, Pharmacology & Toxicology
+Nancy Ann Hamilton, nancyh@ku.edu, Psychology
+Nancy C. Brady, nbrady@ku.edu, Speech-Language-Hearing
+Naowar Mohiuddin, naowarm@ku.edu, Economics
+Natalia Plotnikov, nplotnikov@ku.edu, Career & Experiential Learning
+Nataliya Bredikhina, nataliya.bredikhina@ku.edu, Health Sport &Exercise Science
+Nate Schellenberg, nds7577@ku.edu, Applied English Center
+Nathan E Pettengill, nathanpettengill@ku.edu, Journalism
+Nathan Todd Bowman, n546b434@ku.edu, Theatre and Dance
+Nathaniel A. Brunsell, brunsell@ku.edu, Environmental Studies Program | Environmental Studies Program
+Nazli Avdan, n716a235@ku.edu, Political Science
+Neal Kingston, nkingsto@ku.edu, Jayhawk Global Admin | Special Education
+Nicholas Britt, nbritt@ku.edu, Pharmacy Practice
+Nick Jungman, nickjungman@ku.edu, Journalism
+Nick Richard Packauskas, packauskas@ku.edu, Mathematics
+Nilou Vakil, nilou.vakil@ku.edu, Architecture Design
+Ninel Valderrama, ninel.valderrama@ku.edu, Spanish & Portuguese | Museum Studies
+Nisha Ashanthi Fernando, nisha.fernando@ku.edu, Architecture Design
+Noah Mclean, noahmc@ku.edu, Geology
+Noel M Jackson, nmjackson@ku.edu, Geology
+Nolan Key Schad, nolanschad@ku.edu, Ed Leadership & Policy Studies | Achievement & Assessment Inst | University Academic Support Ct
+Norman Akers, normanakers2@ku.edu, Visual Art | Indigenous Studies
+Nyla R. Branscombe, nyla@ku.edu, Psychology
+Nyx Moore, nyx.moore@ku.edu, Communication Studies | Communication Studies
+Oleksandra Ihorivna Wallo, owallo@ku.edu, Slavic, German, Eurasian Stdie
+Olivia Noel Tasheuras, olivia.tasheuras@ku.edu, Psychology
+Omar G Gudino, omar.gudino@ku.edu, Applied Behavioral Science
+Omri Gillath, ogillath@ku.edu, Psychology
+Orley R Taylor Jr, chip@ku.edu, KS Biological Survey | Ecology & Evolutionary Biology
+Paige E Trevarrow, ptrevarrow@ku.edu, Physics and Astronomy
+Pamela L Neidert, pneidert@ku.edu, Applied Behavioral Science
+Panying Rong, prong@ku.edu, Speech-Language-Hearing
+Patrick Arthur Lansdon, patrick_lansdon@ku.edu, Undergraduate Biology Program
+Paul A Scott, pascott@ku.edu, French, Francophone & Italian
+Paul Mirecki, pmirecki@ku.edu, Religious Studies
+Paul R Hanson, phanson@ku.edu, Chemistry | Medicinal Chemistry
+Paul Stock, paul.stock@ku.edu, Sociology
+Paula J Fite, pfite@ku.edu, Clinical Child Psychology Prog
+Paulette Spencer, pspencer@ku.edu, Mechanical Engineering
+Paulyn Cartwright, pcart@ku.edu, Ecology & Evolutionary Biology
+Paxton Hammeke, paxton.hammeke@ku.edu, Communication Studies | Communication Studies
+Peggy Ann Schultz, pschultz@ku.edu, Environmental Studies Program
+Perry Alexander, palexand@ku.edu, Electrical Engr & Comp Science
+Peter Harry Herlihy, herlihy@ku.edu, Geography & Atmo Science
+Peter Ojiambo, ojiambo@ku.edu, African/African Amer Studies
+Peter Ukpokodu, ukpokodu@ku.edu, African/African Amer Studies
+Petra Martha Horn-Marsh, dr.petra@ku.edu, School of Professional Studies
+Philip Michael Gallagher, philku@ku.edu, Health Sport &Exercise Science
+Philip Travis Duncan, philiptduncan@ku.edu, Linguistics | Indigenous Studies
+Pingle Jacob, pjacob@ku.edu, School of Professional Studies
+Prajna Dhar, prajnadhar@ku.edu, Chemical & Petroleum Engr
+Prasad Anil Kulkarni, prasadk@ku.edu, Electrical Engr & Comp Science
+Preston Braun, prestonb@ku.edu, College of Liberal Arts & Sci
+Purnaprajna Bangere, purna@ku.edu, Mathematics
+Qiuhua Shen, qshen@kumc.edu, SON Acute, Chronic, Continuing Care Faculty
+Quincy Johnson, quincy.johnson@ku.edu, Health Sport &Exercise Science
+Qunfei Zhou, qunfei.zhou@ku.edu, Physics and Astronomy | Electrical Engr & Comp Science
+Rachael Gabrielle Farber, rfarber@ku.edu, Chemistry
+Rachel Ann Green, ragreen@ku.edu, Business
+Rachel Hyerin Kook, kookrh@ku.edu, East Asian Languages&Cultures | East Asian Languages&Cultures
+Rachel Marie Donnelly, r_donnelly@ku.edu, Classics
+Rafael Quintana, quintana@ku.edu, Educational Psychology
+Rafe Brown, rafe@ku.edu, Ecology & Evolutionary Biology
+Rami Zeedan, rzeedan@ku.edu, Jewish Studies
+Randall L Logan, rlogan@ku.edu, School of Professional Studies
+Raul Rojas, raul.rojas@ku.edu, Speech-Language-Hearing
+Ravi Shanmugam, rshanmugam@ku.edu, Business
+Ray Pierotti, pierotti@ku.edu, Ecology & Evolutionary Biology | Environmental Studies Program
+Ray Taghavi, rtaghavi@ku.edu, Aerospace Engineering
+Rb Perelmutter, rperel@ku.edu, Jewish Studies | English
+Reagan Mcgee, reagan.mcgee@ku.edu, Applied Behavioral Science
+Reb Bryant, reb.bryant@ku.edu, KS Biological Survey
+Rebecca J Whelan, rwhelan1@ku.edu, Chemistry
+Rebekka J Schlichting, rschlichting@ku.edu, Journalism
+Remy D Lequesne, rlequesne@ku.edu, Civil/Environ/Arch Engineering
+Renee Gilbert, renee.gilbert@ku.edu, PEDS Behavioral Pediatrics - Grad Assistants
+Reza Barati, rezab@ku.edu, Chemical & Petroleum Engr
+Ric G Steele Jr, rsteele@ku.edu, Graduate Studies | Clinical Child Psychology Prog
+Richard D Hale, rhale@ku.edu, Aerospace Engineering
+Richard E Glor, glor@ku.edu, Ecology & Evolutionary Biology | Museum Studies
+Richard Yi, ryi1@ku.edu, Economics
+Rick Ingram, reingram@ku.edu, Psychology
+Rick Miller, rdmiller@ku.edu, Kansas Geological Survey
+Rick Thomas Dobrowsky, dobrowsky@ku.edu, Pharmacology & Toxicology
+Ricky Bernard Pulley Jr, rpulleyjr@ku.edu, Sexual Assault & Prevention Ct
+Rikki Roscoe, rikkiroscoe@ku.edu, Communication Studies
+Rim Hayat Chaif, rimchaif@ku.edu, Journalism
+Rob Moyle, moyle@ku.edu, Ecology & Evolutionary Biology | Museum Studies
+Robert C. Dunn, rdunn@ku.edu, Chemistry
+Robert C. Rowland, rrowland@ku.edu, Communication Studies
+Robert Fiorentino, fiorentino@ku.edu, Linguistics
+Robert H. Goldstein, gold@ku.edu, Geology
+Robert H. Hagen, rhagen@ku.edu, Environmental Studies Program
+Robert L Unckless, unckless@ku.edu, Molecular Biosciences | Ecology & Evolutionary Biology
+Robert L. Emerson, remerson@ku.edu, School of Pharmacy
+Robert Lee Parsons, rparsons@ku.edu, Civil/Environ/Arch Engineering
+Robert M Sorem, sorem@ku.edu, Mechanical Engineering
+Robert Mark Timm, btimm@ku.edu, Biodiversity Institute | Ecology & Evolutionary Biology
+Robert O Mcdonald, romcd@ku.edu, Communication Studies
+Robert Rohrschneider, roro@ku.edu, Political Science
+Roberta Freund Schwartz, rfschwar@ku.edu, Music
+Roberto Nguyen De Guzman, rdguzman@ku.edu, Molecular Biosciences
+Robin Orozco, orozco.robin@ku.edu, Molecular Biosciences | Molecular Biosciences
+Rochelle Kay Young, rochelleyoung@ku.edu, School of Professional Studies
+Rolfe David Mandel, mandel@ku.edu, Anthropology
+Ron Malcolm, rmalcolm@ku.edu, Special Education | Special Education
+Ron Wilson, rwwilson@ku.edu, Film and Media Studies
+Ronald M Barrett-Gonzalez, barrettr@ku.edu, Aerospace Engineering
+Rongqing Hui, rhui@ku.edu, Electrical Engr & Comp Science
+Russ Middaugh, middaugh@ku.edu, Pharmaceutical Chemistry
+Russell Dean Ostermann, russo@ku.edu, Chemical & Petroleum Engr
+Ryan Monahan, umiushi@ku.edu, East Asian Languages&Cultures
+Ryan Robert Lemasters, ryan.lemasters@ku.edu, Philosophy
+Sam Arnold, sam.arnold@ku.edu, Psychology
+Sam Kendrick, skendrick@ku.edu, 
+Samuel Dermas Habtemariam, samueldermas@ku.edu, Applied English Center
+Santiago Rozo Sanchez, s.rozos@ku.edu, Spanish & Portuguese
+Sara E Wilson, sewilson@ku.edu, Mechanical Engineering
+Sara Genevieve Baer, sgbaer@ku.edu, KS Biological Survey
+Sarah Beth Kirk, skirk@ku.edu, Psychology
+Sarah Crossley, sarah.crossley@ku.edu, Libraries-General | American Studies
+Sarah Elisabeth Thornsberry, sarah.thornsberry@ku.edu, English
+Sarah Legresley Rush, slegres@ku.edu, Physics and Astronomy
+Sarah Lynn Collins, sarahcollins@ku.edu, Health Sport &Exercise Science
+Sarah Unkel, sarah.unkel@ku.edu, Anthropology | Center for Teaching Excellence
+Satya Mandal, mandal@ku.edu, Mathematics
+Sayvon Jl Foster, sfoster73@ku.edu, Health Sport &Exercise Science
+Scott A Schulte, s211s202@ku.edu, Environmental Studies Program
+Scott Hefty, pshefty@ku.edu, Molecular Biosciences
+Scott Hudnall, scotthudnall@ku.edu, Applied English Center
+Scott Jenkins, jenkinss@ku.edu, Philosophy
+Scott L. Harris, sharris@ku.edu, Communication Studies
+Scott Reinardy, reinardy@ku.edu, Journalism
+Sean Joo, sjoo@ku.edu, Educational Psychology
+Seth D Middleton, seth.middleton@ku.edu, French, Francophone & Italian
+Shahnaz Parsaeian, sh.parsaeian@ku.edu, Economics
+Shannon David Blunt, sdblunt@ku.edu, Electrical Engr & Comp Science
+Shannon O'Lear, olear@ku.edu, Geography & Atmo Science
+Shannon Renee Criss, scriss@ku.edu, Architecture Design
+Sharon A Billings, sharonb@ku.edu, Ecology & Evolutionary Biology | Environmental Studies Program
+Shawn Bitters, bitters@ku.edu, Visual Art
+Shawn Keshmiri, keshmiri@ku.edu, Aerospace Engineering
+Shawn Leigh Alexander, slalexan@ku.edu, African/African Amer Studies | History | Museum Studies
+Sheyda Jahanbani, sfaj@ku.edu, History
+Shiqi Zhuang, zhuangsq@ku.edu, History
+Shivani Agarwal, shivaniagarwal@ku.edu, Mathematics
+Shuai Sun, shuaisun@ku.edu, Chemistry
+Shuanglin Shao, slshao@ku.edu, Mathematics
+Shyam Sathyamoorthi, ssathyam@ku.edu, Medicinal Chemistry
+Si Chen, chensi@ku.edu, Economics
+Si Won Song, siwon.song@ku.edu, Philosophy
+Silvia Asandei, silvia.asandei@ku.edu, Spanish & Portuguese
+Simon Deng, simondeng@ku.edu, Mathematics
+Skyler King, skylerking@ku.edu, Philosophy
+Sofia B. Vera, sofiavera@ku.edu, Political Science
+Sonia Thomas, soniathomas@ku.edu, School of Professional Studies
+Stacey Mcintosh-Lily, symcintoshlily@ku.edu, School of Professional Studies
+Stephanie Balmadres Andrada, stephanie.andrada@ku.edu, Health Sport &Exercise Science
+Stephanie Lh Schmitz, stephanielauren@ku.edu, Business Administration
+Stephanie Nichole Walker, swalker40@ku.edu, Mathematics
+Stephanie Pham, stephaniepham@ku.edu, Chemistry
+Stephen Mccartney Dickey, smd@ku.edu, Slavic, German, Eurasian Stdie
+Stephen Politzer-Ahles, sjpa@ku.edu, Linguistics
+Stephen Scott Ilardi, ilardi@ku.edu, Psychology
+Stephen William Bell, stephen.bell@ku.edu, School of Professional Studies
+Stephen Wolgast, wolgast@ku.edu, Journalism
+Steven A Soper, ssoper@ku.edu, Chemistry | KUCC KMCRI-Administration - Contingent Workers
+Steven D Gurysh, stevegurysh@ku.edu, Visual Art
+Steven D Schrock, schrock@ku.edu, Engineering Administration
+Steven J Rottinghaus, steve_rottinghaus@ku.edu, Journalism Administration
+Steven Matthew Leonard, steven.leonard@ku.edu, Business
+Steven P Bloom, spbloom@ku.edu, Medicinal Chemistry
+Steven Prohira, prohira@ku.edu, Physics and Astronomy
+Stevin H Gehrke, shgehrke@ku.edu, Chemical & Petroleum Engr
+Stratos Kyriakidis, ekyriakidis@ku.edu, Mathematics
+Stuart Macdonald, sjmac@ku.edu, Molecular Biosciences
+Sunday Adesoye Adegbenro, s.adegbenro@ku.edu, English
+Sunyoung Cheong, iwinsome@ku.edu, Visual Art
+Susan Harvey, suharvey@ku.edu, Health Sport &Exercise Science
+Susan King, susanking@ku.edu, Pharmacy Practice
+Susan M. Egan, sme@ku.edu, Molecular Biosciences
+Susan M. Lunte, slunte@ku.edu, Chemistry
+Susan Michelle Williams, smwilliams@ku.edu, Chemical & Petroleum Engr
+Suzanne Michelle Shontz, shontz@ku.edu, Engineering Administration
+Syed Muhammad Omar, omarsyed@ku.edu, Psychology
+Syeda Marjana Razzak, syeda.marjana@ku.edu, Economics
+Tamzidul Hoque, hoque@ku.edu, Electrical Engr & Comp Science
+Tanya Annette Myrick, tanya.myrick@ku.edu, Speech-Language-Hearing
+Taofeeq Ayotunde Ashiru, taofeeq.ashiru@ku.edu, School of Professional Studies
+Tara Nicole Marriage, tmarria@ku.edu, Undergraduate Biology Program
+Tara S. Welch, tswelch@ku.edu, Classics
+Tatsuya Suzuki, tatsuya118@ku.edu, Communication Studies
+Taylor Jones, taylorjones@ku.edu, Sexual Assault & Prevention Ct
+Ted Goebel, goebel@ku.edu, Anthropology | Museum Studies
+Tera L Fazzino, tfazzino@ku.edu, Psychology
+Terence Mciff, tmciff@kumc.edu, SurgOrtho Surgery Orthopedics
+Teri A Finneman, teri.finneman@ku.edu, Journalism
+Terrance D Loecke, loecke.terry@ku.edu, Environmental Studies Program
+Terri Lee Woodburn, terriw@ku.edu, Environmental Studies Program
+Terry L Koenig, tkoenig@ku.edu, Social Welfare
+Teruna J. Siahaan, siahaan@ku.edu, Pharmaceutical Chemistry
+Theodore Bergman, tlbergman@ku.edu, Mechanical Engineering
+Thomas Edward Cravens, cravens@ku.edu, Physics and Astronomy
+Thomas J Tolbert, tolbert@ku.edu, Pharmaceutical Chemistry
+Thomas M. Tuozzo, ttuozzo@ku.edu, Philosophy
+Tiffani Brooks Hagan, tbhagan@ku.edu, Theatre and Dance | Theatre and Dance
+Tiffany Jasmin Gonzalez, tjgonzalez@ku.edu, History | Museum Studies
+Tiffany R Shin, shin@ku.edu, Pharmacy Practice
+Tim Hossler, hossler@ku.edu, Design
+Timothy A Jackson, taj@ku.edu, Chemistry
+Timothy Miller, tkansas@ku.edu, Religious Studies
+Ting Lei, lei@ku.edu, Geography & Atmo Science
+Todd Funke, funket@ku.edu, Undergraduate Biology Program
+Tom Ringenberg, tomr@ku.edu, Political Science
+Trent J Herda, t.herda@ku.edu, Health Sport &Exercise Science
+Trenton Charles Gerew, trent.gerew@ku.edu, Mathematics | Mathematics | University Academic Support Ct
+Trevor J Rivers, trivers@ku.edu, Undergraduate Biology Program | Ecology & Evolutionary Biology
+Trung Van Nguyen, cptvn@ku.edu, Chemical & Petroleum Engr
+Trystan Wayne Bennett, trbenn02@ku.edu, Mathematics
+Turi Wiedner, twiedner@kumc.edu, Respiratory Care and Diagnostic Science
+Tyler Brandon Schunk, tyler.schunk@ku.edu, School of Professional Studies
+Tyrone E. Duncan, duncan@ku.edu, Mathematics
+Tzu-Hsuan Yang, thyang@ku.edu, Linguistics
+Umar Olansile Ajetunmobi, umarajetunmobi92@ku.edu, Communication Studies
+Unknown Sameen, sameen@ku.edu, Women Gender & Sexuality Stds
+Utako Minai, minai@ku.edu, Linguistics
+Utsa Dey Sarkar, utsa.deysarkar@ku.edu, Electrical Engr & Comp Science
+Valerie Medina, vmm2141@ku.edu, Psychology | Psychology
+Valerie Pierce, valerie.pierce@ku.edu, Applied English Center
+Valerie Thompson, val.thompson@ku.edu, Bureau of Child Research | Applied Behavioral Science
+Vicki Peyton, vpeyton@ku.edu, Educational Psychology
+Victor Hugo Gonzalez, vhgonza@ku.edu, Undergraduate Biology Program | Biodiversity Institute
+Victor S. Frost, vsfrost@ku.edu, Electrical Engr & Comp Science
+Vitaly A Chernetsky, vchernetsky@ku.edu, Slavic, German, Eurasian Stdie
+Wai-Lun Chan, wlchan@ku.edu, Physics and Astronomy | Electrical Engr & Comp Science
+Walter Charles Goettlich, walter.goettlich@ku.edu, Sociology
+Ward H Thompson, wthompson@ku.edu, Chemistry
+Weimar Ardila, weimar@ku.edu, Business
+Weishi Liu, wsliu@ku.edu, Mathematics
+Weizhang Huang, whuang@ku.edu, Mathematics
+Wenfang Wang, wwang2@kumc.edu, RMEd Rehab Medicine Education
+William B Matney, matneyb@ku.edu, Music
+William N Bruce, wbruce@ku.edu, Classics | Museum Studies
+William Norfleet Collins, william.collins@ku.edu, Civil/Environ/Arch Engineering
+Wm Leo Smith, leosmith@ku.edu, Ecology & Evolutionary Biology
+Xiaoli Li, li.xiaoli@ku.edu, Chemical & Petroleum Engr
+Xingning Luan, hangying_luen@ku.edu, East Asian Languages&Cultures
+Xingong Li, lixi@ku.edu, Geography & Atmo Science | Environmental Studies Program
+Xiuli Kang, x553k951@ku.edu, Mathematics
+Xuan Wang, xuan.wang@ku.edu, Linguistics
+Xuemin Tu, xuemin@ku.edu, Mathematics
+Yan Bing Zhang, ybzhang@ku.edu, Communication Studies
+Yannan Shen, yshen@ku.edu, Mathematics
+Yee-Lum Mak, ymak@ku.edu, English
+Yoonmi Nam, yoonmi@ku.edu, Visual Art
+Yoshiaki Azuma, azumay@ku.edu, Molecular Biosciences
+Young Ju Ryu, youngju.ryu@ku.edu, Psychology
+Yu Song, yusong@ku.edu, Health Sport &Exercise Science
+Yuka Naito, yukan@ku.edu, East Asian Languages&Cultures
+Yunfeng Jiang, y.jiang@ku.edu, Mathematics
+Yvonnes Chen, y.chen@ku.edu, Journalism
+Zachary William Madison, zmadison@ku.edu, American Studies
+Zarko Boskovic, zarko@ku.edu, Medicinal Chemistry | Chemistry
+Zhi Jian Wang, zjw@ku.edu, Aerospace Engineering
+Zhipeng Liu, zhipeng@ku.edu, Mathematics
+Zhuojun Jiang, jessie07@ku.edu, East Asian Languages&Cultures
+Zhuoran Wang, wangzr@ku.edu, Mathematics
+Zijun Wang, zjwang@ku.edu, Pharmacology & Toxicology
+Zijun Yao, zyao@ku.edu, Electrical Engr & Comp Science
+Zsolt Talata, talata@ku.edu, Mathematics
+-------------------------------------------------
+UNAVAILABLE PROFESSOR INFO (55):
+ Admin Husic, [MISSING EMAIL], https://directory.ku.edu/details/PzHdw8Ddu7BxePqsMxBB5g
+ Allix Bishop, [MISSING EMAIL], https://directory.ku.edu/details/q-jDeoTf6Pyaug6IKCDJJQ
+ Anna Pope, [MISSING EMAIL], https://directory.ku.edu/details/K4XNR5_doQhGqHFMecmmiw
+ Ashley Barry, [MISSING EMAIL], https://directory.ku.edu/details/qVai7lEsR-exVoceIsGlsw
+ Ashley Raymer, [MISSING EMAIL], https://directory.ku.edu/details/rN9Kps0u9DqKDX9_NhwffQ
+ Bill Picking, [MISSING EMAIL], https://directory.ku.edu/details/RePsvEyXPlYp5DJYfJzguQ
+ Brandon Dekosky, [MISSING EMAIL], https://directory.ku.edu/details/vSlTi3NvjqGeKtYzv5CL6g
+ Cambrey Nguyen, [MISSING EMAIL], https://directory.ku.edu/details/Wdj8cNACkb273PbV1FNWrw
+ Claudia Salas Forero, [MISSING EMAIL], https://directory.ku.edu/details/RJDI-qq-GXYyh9_6H7vBOA
+ Corey Behrens, [MISSING EMAIL], https://directory.ku.edu/details/TR2xzjrds3f7jq6D17BsLQ
+ Crystal Burkhardt, [MISSING EMAIL], https://directory.ku.edu/details/20P3KDn640QvFT_34TQflA
+ Dan Johnson, [MISSING EMAIL], https://directory.ku.edu/details/pcCw42e3r9zIgZCnjFYl4Q
+ David Adams, [MISSING EMAIL], https://directory.ku.edu/details/-hURf1Z72tp-ed3Oe4MORA
+ David Martinez, [MISSING EMAIL], https://directory.ku.edu/details/h3rka2HzBAiF9EzYAbX0vw
+ Ebenezer Obadare, [MISSING EMAIL], https://directory.ku.edu/details/VIRlYd28g-gk5iJ_umQWeg
+ Eduardo Rosa-Molinar, [MISSING EMAIL], https://directory.ku.edu/details/haxLokv-UzXpf3aPZDcSrw
+ Eliza Goben, [MISSING EMAIL], https://directory.ku.edu/details/N-H2f-XrPLNNXhuFBeuF-Q
+ Elizabeth Rodriguez, [MISSING EMAIL], https://directory.ku.edu/details/IZS5UGQog1GzIVSBXj2DmQ
+ Georgii Griaznov, [MISSING EMAIL], https://directory.ku.edu/details/OddSJngpATA5npWO-ee4AQ
+ Hugo Sheward, [MISSING EMAIL], https://directory.ku.edu/details/9k4AcrU2TkluJTpoYU-iTg
+ Jacob Dakon, [MISSING EMAIL], https://directory.ku.edu/details/AhO_xZcsMNiAStQiQ7LJTQ
+ James Moreno, [MISSING EMAIL], https://directory.ku.edu/details/OQK9AvVWFMZuYqvhU83pmA
+ Jamie Noble, [MISSING EMAIL], https://directory.ku.edu/details/8bWnVHIk6fluFsQ-qM5oYw
+ Jennifer Robinson, [MISSING EMAIL], https://directory.ku.edu/details/aua79btip3mS86Gj82PcTA
+ Jeremy Pearson, [MISSING EMAIL], https://directory.ku.edu/details/BiF3OsM4GBU7PDJdgRFMSA
+ Jessina Emmert, [MISSING EMAIL], https://directory.ku.edu/details/19EWg5KLy6MABUJyG_Ve8Q
+ Jonathan Thompson, [MISSING EMAIL], https://directory.ku.edu/details/mbgn1aEXqHGQDu90siNHJg
+ Kathryn Robinson, [MISSING EMAIL], https://directory.ku.edu/details/pFKfQKHCJktXwJ6SMpJuMA
+ Kelley Harrison, [MISSING EMAIL], https://directory.ku.edu/details/EbT1jfx6FfpUpjB9HCWKJQ
+ Lawrence Stein, [MISSING EMAIL], https://directory.ku.edu/details/N_HmHzQxGVHzTIVGbVV-tg
+ Maggie Vaughn, [MISSING EMAIL], https://directory.ku.edu/details/cdlZ_YB4cN3zO3A5b8dKDw
+ Megan Turner, [MISSING EMAIL], https://directory.ku.edu/details/d2CAniQotiwiug7vwYzbfg
+ Micha Bazemore, [MISSING EMAIL], https://directory.ku.edu/details/e9k9iZWqp5Y1xiC9Zw-_eg
+ Michael Engel, [MISSING EMAIL], https://directory.ku.edu/details/XDu_YuPb0jRdqdzBsvcC2w
+ Michael Rubin, [MISSING EMAIL], https://directory.ku.edu/details/_p8c1mH5OgB2CdRfl55Wog
+ Michelle Roesner, [MISSING EMAIL], https://directory.ku.edu/details/sms0tz6GUd3hk6YzzMQn7w
+ Molly Zahn, [MISSING EMAIL], https://directory.ku.edu/details/qe8yK5yUPKtnD3UTPtIwUA
+ Morris Faiman, [MISSING EMAIL], https://directory.ku.edu/details/r2Kplwo7VXkLAxfovJUkfw
+ Natalie Gadbois, [MISSING EMAIL], https://directory.ku.edu/details/Lytet95TSySDaC4ZKI4Uog
+ Nicole Zieber, [MISSING EMAIL], https://directory.ku.edu/details/SmX8Zz1GNArcdp1YVDS1JA
+ Ryker Douglas, [MISSING EMAIL], https://directory.ku.edu/details/ZL55cLOLCWBC7YPKo4Fe7A
+ Senjuti Mallik, [MISSING EMAIL], https://directory.ku.edu/details/Am58Od5CGfzd4u9LZRs0wg
+ Seungjoo Lee, [MISSING EMAIL], https://directory.ku.edu/details/uu6gesco7nwW5e3ukulG7w
+ Shahin Negahban, [MISSING EMAIL], https://directory.ku.edu/details/dtJPubhS-32DvRHCv5BcHw
+ Sierra Two Bulls, [MISSING EMAIL], https://directory.ku.edu/details/Ze8ppQKtflBhiqJx8cq88g
+ Sofía Castillo Inestroza, [MISSING EMAIL], https://directory.ku.edu/details/y1kMqEpYYS1iZ1mSjXUH_g
+ Sreerupa Sanyal, [MISSING EMAIL], https://directory.ku.edu/details/sj6sal8gaUNjj_BBhKylBw
+ Stephanie Wilson, [MISSING EMAIL], https://directory.ku.edu/details/Hea9nCJpZFz3hN6Yc_ktug
+ Taejoon Kim, [MISSING EMAIL], https://directory.ku.edu/details/mxMkZIzYBBJwgzJED-LkZA
+ Tanja Rounds, [MISSING EMAIL], https://directory.ku.edu/details/gxv_V7lo-9p6wEJgIbjZGQ
+ Tara Nerling, [MISSING EMAIL], https://directory.ku.edu/details/fiwH1IkG5Gz_g-mceJNZBQ
+ Tiffany Smith, [MISSING EMAIL], https://directory.ku.edu/details/C8-v6zpI7RYedKgqUf7CZg
+ Victoria Hogle, [MISSING EMAIL], https://directory.ku.edu/details/WN_8bbVDrdVkbR4VHXcKxQ
+ Wendy Picking, [MISSING EMAIL], https://directory.ku.edu/details/YN6qTs0ZmFjWGgJlO2UuyA
+ Zachary Glassett, [MISSING EMAIL], https://directory.ku.edu/details/DbkgnK2AMDZ1lEvjg4DsFg
+-------------------------------------------------
+UNMATCHED DEPT CODES (0):
+-------------------------------------------------
+STATISTICS:
+FOUND PROFESSOR BIO: 914/969 = 94.32%
+        UNAVAILABLE BIO (MISSING EMAIL, DEPT): 55/969 = 5.68%
+        UNMATCHED PROFESSOR (MISSING DEPT): 0/969 = 0.00%

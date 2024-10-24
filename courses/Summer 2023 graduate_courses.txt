@@ -1,0 +1,1027 @@
+AAAS  502 Directed Language Study: Elementary Arabic I
+AAAS  502 Directed Language Study: Elementary Arabic II
+AAAS  502 Directed Language Study: Elementary KiSwahili I
+AAAS  502 Directed Language Study: Elementary KiSwahili II
+AAAS  502 Directed Language Study: Elementary Wolof I
+AAAS  502 Directed Language Study: Elementary Wolof II
+AAAS  503 Directed Language Study: Intermediate KiSwahili I
+AAAS  503 Directed Language Study: Intermediate KiSwahili II
+AAAS  504 Directed Language Study I: Advanced Arabic I
+AAAS  504 Directed Language Study I: Advanced Arabic II
+AAAS  690 Investigation and Conference
+AAAS  760 Topcs&Prblms Afr&Amrc-Afr Stds
+AAAS  803 Research Methods Africana Stds
+AAAS  899 Thesis
+ABSC  535 Developmental Psychopathology
+ABSC  675 Pctm Inf-Tdlr Cr&Erly Intrvn I
+ABSC  676 Pctm Inf-Tod Cr&Erly Intrvn II
+ABSC  677 Prac Preschl Eductn&Intrvntn I
+ABSC  678 Prc Preschl Eductn&Intrvntn II
+ABSC  679 Prct Bhvr-Anl Rsh Erly Chld Ed
+ABSC  680 Prc Adv Lab Dv Bh Tr Chd Autsm
+ABSC  685 Prc Cmty-bd Trt Prg Disab Adlt
+ABSC  690 Prc Commnity Health&Developmnt
+ABSC  765 Eval&Dismntg Scientfc Materl I
+ABSC  771 Intro to Appld Behvr Science
+ABSC  773 Apld Bhvr Anlys Cmplx Orgnztns
+ABSC  813 Behvrl Scienc Rsrch Proseminar
+ABSC  846 Practicm Clinical Child Psyc I
+ABSC  847 Practcm Clinical Child Psyc II
+ABSC  852 Behvior Anlysis in Dvlpmnt Dis
+ABSC  870 Practicum I in Behavioral Psyc
+ABSC  871 Practicum I in Behavior Anlys:
+ABSC  872 Practicum I in: Performance Management
+ABSC  875 Prc Community Health Promotion
+ABSC  876 Practicm Community Development
+ABSC  880 Erly Chldhd Prc Allied Prfsnls
+ABSC  881 Erly Chldhd Care&Intrvn Prct I
+ABSC  884 Erly Childhd Erly Intrvntn Prc
+ABSC  885 Erly Childhd Teachr Traing Prc
+ABSC  886 Devlopmentl Assessmnt Practcm:
+ABSC  887 Clinicl Practcm Pediatric Psyc
+ABSC  891 Research in: Aplied Behavr Anlys Eductn Set
+ABSC  891 Research in: Early Interventn with Children
+ABSC  892 Readings in: Aplied Behavr Anlys Eductn Set
+ABSC  892 Readings in: Rule Governance
+ABSC  893 Special Topics in: Behavior Assessment
+ABSC  893 Special Topics in: Behavior Change Procedures
+ABSC  893 Special Topics in: Program Planning & Evaluation
+ABSC  893 Special Topics in: Scientific Dissemination
+ABSC  897 Mastr Thes Clinical Child Psyc
+ABSC  899 Master's Thesis Apld Bhvrl Sci
+ABSC  941 Teaching and Conference
+ABSC  943 Adv Prc Clinicl Child Psyc III
+ABSC  944 Adv Prc Clinical Child Psyc IV
+ABSC  947 Adv Prac Clinical Child Psyc V
+ABSC  961 Advd Sem Appld Behavior Anlys:
+ABSC  963 Clinical Child Psyc Internship
+ABSC  965 Eval&Disem Science Material II
+ABSC  970 Praticum II Behavioral Psyclgy
+ABSC  971 Practicm II Behavior Analysis:
+ABSC  972 Practicum II in:
+ABSC  991 Advanced Research in: OBM in Human Services
+ABSC  992 Advanced Readings in:
+ABSC  993 Advanced Special Topics in:
+ABSC  998 Doct Dis in Clincal Child Psyc
+ABSC  999 Doct Dissrt in Behavioral Psyc
+ACCT  500 Special Topics Accounting: Tax Strategy
+ACCT  543 Introduction to Auditing
+ACCT  599 Internship in Accounting
+ACCT  743 Acctng Info Systms Risk&Cntrls
+ACCT  799 Internship in Accounting
+ACCT  995 Doctoral Seminar Accounting: Auditing Research II
+ACCT  998 Indepnt Study Doctoral Studnts
+ACCT  999 Doctoral Dissertation
+ADS  531 Internship Credit
+ADS  532 Study Abroad: Photography in Paris & London
+ADS  533 Study Abroad Documentation
+ADS  560 Topics in Design: Design Outside Studio
+ADS  560 Topics in Design: Foundations in Digitl Painting
+ADS  580 Special Problems in Design
+ADS  890 Thesis
+AE  592 Spcl Prjct Arspc Eng Ugdl Stds
+AE  700 Special Topics: Fluid Mech for Petroleum Mgmt
+AE  790 Spcl Prblm Arspc Engr Mst Stds
+AE  892 Spcl Prblm Arspc Engr Doc Stds
+AE  895 M.S. Thesis or Project
+AE  996 Ph.D. Dissertation
+AE  997 DE Project
+AMS  551 Research Project in Amrcn Stds
+AMS  694 Directed Readings
+AMS  696 Studies in: Future Shock: Dystopian Sci-Fi
+AMS  799 Museum Internship
+AMS  899 Thesis
+AMS  996 Examination Preparation
+AMS  997 Directed Readings
+AMS  999 Dissertation
+ANAT  831 Fellowship Grant Writing
+ANAT  880 Advanced Topics:
+ANAT  890 Graduate Research
+ANAT  990 Doctoral Research
+ANAT  999 Doctoral Dissertat
+ANTH  501 Tpc Sociocultural Anthropolgy: Palestinian Society in Israel
+ANTH  502 Tpc Anthropological Linguistc: Elementary Quechua I
+ANTH  502 Tpc Anthropological Linguistc: Elementary Quechua II
+ANTH  605 Mortuary Pract Archlgcl Record
+ANTH  648 Human Osteology
+ANTH  799 Museum Internship
+ANTH  889 Summer Archaeological Fld Work
+ANTH  896 Graduate Research
+ANTH  897 Internship Research
+ANTH  898 Internship Analysis
+ANTH  899 Master's Thesis
+ANTH  996 Graduate Research
+ANTH  999 Doctoral Dissertation
+ARCE  690 Special Problems
+ARCE  700 Dirctd Readg Archtctrl Engnrng
+ARCE  895 Master's Project
+ARCE  899 Master's Thesis
+ARCH  502 Architectural Foundations II
+ARCH  515 Building Information Modeling
+ARCH  531 Environmental Systems II
+ARCH  552 Ethics&Leadrshp Profssnl Pract
+ARCH  600 Special Topcs in Architecture: Arch&Dsgn Cltrs Around World
+ARCH  600 Special Topcs in Architecture: Blding Futre Cities(Minecraft)
+ARCH  600 Special Topcs in Architecture: Construction Documents
+ARCH  600 Special Topcs in Architecture: Digital Computation
+ARCH  600 Special Topcs in Architecture: Evid-Based Dsgn for Hlth Care
+ARCH  600 Special Topcs in Architecture: Sketchup & Lumion: Concep Dsgn
+ARCH  600 Special Topcs in Architecture: Virtual Reality Fundamentals
+ARCH  602 Accelerated Design IV
+ARCH  605 Visualizg Site&Nat Evrn Systms
+ARCH  647 Historic Preservation Theory
+ARCH  658 Programming &Pre-Design Issues
+ARCH  690 Architecture Study Abroad
+ARCH  691 Architecture Practicum
+ARCH  692 Documentation
+ARCH  700 Directed Readings in Archtctr: NOMAS Design Competition
+ARCH  700 Directed Readings in Archtctr: Urban Design
+ARCH  899 Thesis or Project Research
+ARCH  999 Doctoral Dissertation
+ART  575 Adv Directed Reading Visul Art
+ART  590 Internship in Visual Art
+ART  595 Advncd Study Abroad Topics in: Visual Art in Spain & Morocco
+ART  599 Individual Studies Visual Art
+ART  695 Directed Study I
+ART  805 Graduate Studio
+ART  861 Directed Reading in Visual Art
+ART  877 Graduate Seminar
+ART  898 Spc Tp:Studio Theory&Criticism
+ART  906 Graduate Studio
+ASLD  588 Intrnshp in Amr Sign Lang&Deaf
+ASLD  604 Interpreting:  ASL to English
+ASLD  608 Interpreting Observ Practicum
+ASLD  609 Prctcm Amr Sgn Lang Intrprtng
+ASLD  611 Introduction to Deaf Studies
+ASLD  804 Interpreting:  ASL to English
+ASTR  501 Honors Research
+ASTR  503 Undergraduate Research
+ATMO  606 Forecastng Pract-Private Indus
+ATMO  607 Forecstg Intern-Natnl Wthr Srv
+ATMO  690 Special Problems in Meteorolgy
+ATMO  699 Undergraduate Research
+ATMO  898 Readings in Atmospheric Scienc
+ATMO  899 Master's Thesis
+ATMO  998 Research in Atmospheric Scienc
+ATMO  999 Doctoral Dissertation
+ATTR  701 Foundations Athletic Training
+ATTR  708 Applied Anatomy
+ATTR  709 Adv Topics in Human Anatomy
+ATTR  793 Integrated Clin Education III
+ATTR  807 Clinical Reasoning II
+ATTR  812 Health Care Administration
+ATTR  813 Clinical Experience I
+ATTR  814 Evaluation & Management III
+ATTR  816 Interventions III
+ATTR  818 Medical Imaging
+AUD  842 IPE for Aud
+AUD  843 Clinical Prac Aud
+AUD  846 Indepndnt Stdy Aud
+AUD  853 Pharmacology for Audiology
+AUD  858 Business Audiology
+AUD  899 Thesis
+AUD  942 Invest and Conf
+AUD  944 Clinical Rotation
+AUD  945 Clinical Externship
+AUD  999 Doctoral Dissertat
+BCHM  850 Tpcs in Biochmstry
+BCHM  890 Research in Biochemistry
+BCHM  899 Masters Thesis
+BCHM  990 Doctoral Research
+BCHM  999 Doctoral Dissertat
+BE  718 Managerial Economics
+BINF  999 Doctoral Dissertation
+BIOC  913 Res Bchm Medic Std
+BIOE  801 Responsibl Conduct Resrch Engr
+BIOE  802 Bioengineering Internship
+BIOE  860 Adv Bioengineering Problems
+BIOE  899 Independent Investigation
+BIOE  999 Independent Investigation
+BIOL  600 Introd Biochemistry, Lectures
+BIOL  660 Summer Field Ecology
+BIOL  701 Topics in: Field Botany
+BIOL  701 Topics in: Restoration Ecology
+BIOL  786 Fundamntls of Tropical Biology
+BIOL  899 Master's Thesis
+BIOL  985 Advanced Study
+BIOL  999 Doctoral Dissertation
+BIOS  704 Prin Stat Pub Hlth
+BIOS  799 Intro to Statistical Genomics
+BIOS  805 Prof, Ethics & Ldrshp Stat Sci
+BIOS  821 SAS Programming II
+BIOS  823 Intro Progr & Appl Stat in R
+BIOS  855 Stat Methods in Genom Resrch
+BIOS  905 Theory Statistical Inference
+BIOS  908 Advanced Clinical Trials
+BIOS  999 Doctoral Dissertation
+BSAN  898 Indepndt Study Master's Stdnts
+BSAN  999 Doctoral Dissertation
+BTEC  599 Biotechnology Internship
+BUS  725 Capstone
+BUS  825 Internship Program
+C&PE  601 Undergrad Tpc Chemcl&Petr Engr
+C&PE  651 Undergraduate Problems
+C&PE  661 Undergraduate Honors Research
+C&PE  803 Research
+C&PE  825 Grad Probs in Chem&Petrol Engr
+C&PE  902 Prepr for PhD Comprehensv Exam
+C&PE  904 Research
+C&T  598 Special Course: ESOL Pedagogy
+C&T  649 An Internationl Teachg Expernc
+C&T  709 Foundatn of Curriclm&Instructn
+C&T  740 Foundtn Rdg:Procss,Theor&Instr
+C&T  743 Writng&Spellng Dvlpmnt&Instruc
+C&T  749 An Internationl Teachg Expernc
+C&T  798 Special Course: ESOL Pedagogy
+C&T  801 Planning for School Improvemnt
+C&T  802 Curriculm Planning Educ Settng
+C&T  803 Differentiatg Currclm&Instrctn
+C&T  807 Multicultural Education
+C&T  820 Methods of TESOL
+C&T  824 Prblms in 2nd Lang Instruction
+C&T  825 Advanced Practicum in TESOL
+C&T  826 Ling Analysis TESOL Educators
+C&T  840 Emergent Literacy&Begin Readng
+C&T  842 Supprtg Strivng Rdrs:Adol-Adlt
+C&T  843 Supportng Striving Readrs Prac
+C&T  874 Constructivist Learning Techn
+C&T  897 Independent Study
+C&T  898 Master's Project
+C&T  899 Master's Thesis
+C&T  902 Directed Readings
+C&T  903 Curriculum Supervision
+C&T  972 ConnectProfGrowth/Stdnt Learng
+C&T  990 Capstone Seminar
+C&T  997 Individual Study
+C&T  999 Doctoral Dissertation
+CBIO  880 Adv Topics in Cancer Research
+CBIO  890 Master's Resrch Cancer Biology
+CBIO  899 Master's Thesis in CBIO
+CBIO  990 Research PHD Cancer Biology
+CBIO  999 Dissertation in Cancer Biology
+CE  711 Probablstc Design&Reliability
+CE  810 Theory of Elastic Stability
+CE  890 Master's Project
+CE  891 Advanced Special Problems
+CE  895 Advanced Special Topics: CEAE Graduate Internship
+CE  895 Advanced Special Topics: Technical Writing
+CE  899 Master's Thesis
+CE  991 Research
+CE  999 Ph.D. Dissertation
+CER  590 Internship in Ceramics
+CER  599 Individual Studies in Ceramics
+CER  715 Ceramics
+CER  815 Ceramics
+CHEM  698 Undergrad Capstone Research
+CHEM  800 Research
+CHEM  899 Master's Thesis
+CHEM  900 Advanced Research
+CHEM  999 Doctoral Dissertation
+CHIN  512 Advanced Chinese l
+CHIN  513 Advanced Chinese II
+CHIN  562 Modern Chinese Texts I
+CHIN  598 Readings in : Adv Chinese through Stories
+CHIN  598 Readings in : Advanced Chinese
+CHOR  826 Adolescent Changing Voices
+CLDP  874 Research Practicum
+CLDP  876 Ind Std Probs Child Language
+CLDP  974 Research Practicum
+CLDP  999 Doctoral Dissertation
+CLS  605 Intro Molecular Diagnostics I
+CLS  607 Intro to Molec Diagnstcs I Lab
+CLS  638 Clinical Competency Review
+CLS  661 Manag Prin Hlth Care
+CLS  690 Special Topics
+CLSX  790 Practcm in Teaching of Classcs
+CMGT  704 Construction Estimatng&Bidding
+CMGT  801 Directd Rdgs in Constrct Mngmt
+CMGT  802 Spcl Problms in Constrctn Mgmt
+CMGT  895 Construction Management Projct
+COMS  530 Intrnshp in Communictn Studies
+COMS  898 Investigation & Conferenc
+COMS  899 Master's Thesis
+COMS  997 Research in:
+COMS  998 Investigatn&Conferenc
+COMS  999 Doctoral Dissertation
+COND  820 Adv Choral Condctg&Rehrsl Tech
+COND  845 Advncd Instrumental Conducting
+COND  970 D.M.A. Lecture-Recital
+CZCH  675 Readings in Czech
+DATA  819 Introduction to Python
+DATA  824 Data Visual & Acquisition
+DCLS  800 DCLS Advanced Topics
+DCLS  899 Independent Study
+DCLS  901 DCLS Research I
+DCLS  911 Clinical Residency I
+DCLS  913 Clinical Residency III
+DCLS  999 DCLS Capstone
+DIET  805 Entrepre Theory & Practice
+DIET  830 Nutritn: Focus on Life Stages
+DIET  833 Principles of Statistics
+DIET  837 Nutrition in Diabetes
+DIET  838 Adv Med Nutr Therapy
+DIET  840 Fndns of Ldship in Dietetics
+DIET  854 Non-Thesis Research
+DIET  862 Mtrnl Chld Nutrition
+DIET  870 Ntrtn Cnslng & Edctn Mthds
+DIET  880 Dietary and Herbal Supplements
+DIET  885 Adv Macronut & Intgrtd Metblsm
+DIET  896 Mcrnutrints in Human Nutrition
+DIET  899 Thesis
+DN  800 Tpc Clncl Dietetc: Nutrn&Medcl Dietcs
+DN  819 Scientfc Wrtng for Nutr Sci
+DN  827 Practicum in Diet and Nutr Practicum
+DN  837 Nutrition in Diabetes
+DN  854 Spcl Prb Diet&Nutr
+DN  880 Dietry&Herbl Suppm
+DN  890 Graduate Research
+DN  899 Thesis
+DN  900 Techniques in Nutrition Res
+DN  901 Graduate Seminar in Nutrition
+DN  910 Leader Ess Clin Nutr
+DN  915 Adv Nutr Assess Clin Nutr
+DN  932 Ethics Clin Nutr Res
+DN  980 Nutrgenom & Nutrgenet Hlth&Dis
+DN  990 Doctoral Research
+DN  991 Applied Res Clin Nutr
+DN  992 Applied Clinical Residency
+DN  999 Dissertation
+DRWG  599 Individual Studies in Drawing
+ECON  520 Microeconomics
+ECON  522 Macroeconomics
+ECON  526 Introduction to Econometrics
+ECON  597 Research in Economics
+ECON  680 Economic Growth
+ECON  697 Senior Research Honors
+ECON  825 Tutorial
+ECON  899 Master's Thesis
+ECON  940 Economic Seminar-Workshop in:
+ECON  950 Special Problems in Economics
+ECON  999 Doctoral Dissertation
+EDUC  698 Profesnl Devlpmnt Micro-Cred:
+EECS  690 Special Topics: Development of Project Chimera
+EECS  690 Special Topics: International Research
+EECS  692 Directed Reading
+EECS  801 Directed Graduate Readings
+EECS  891 Graduate Problems
+EECS  899 Master's Thesis or Report
+EECS  998 Post-Master's Research
+EECS  999 Doctoral Dissertation
+ELPS  752 Education Law
+ELPS  757 Education in American Society
+ELPS  854 The Student in Society
+ELPS  895 Internship
+ELPS  897 Independent Study
+ELPS  898 Master's Project
+ELPS  948 Resrch Eductn Polcy&Leadrship
+ELPS  956 District Leadership
+ELPS  960 Leading Diverse Communities
+ELPS  979 Postsecondary Leadrshp&Practc
+ELPS  995 Field Experience in:
+ELPS  996 College Teachng Experience in:
+ELPS  997 Individual Study
+ELPS  998 Seminar in: Critcal Readings Higher Eductn
+ELPS  998 Seminar in: Mixed Methods Education Rsrch
+ELPS  999 Doctoral Dissertation
+EMGT  805 Management of Innovation
+EMGT  807 Labor&Employee Rltns Engn Mngr
+EMGT  810 Apps of Quant Anly in Dec Mkng
+EMGT  830 Case Studies in Engr Managment
+EMGT  835 Field Project
+EMGT  860 Special Prblms in Engr Mangmnt
+ENGL  506 Science Fiction
+ENGL  757 Speculative Fictn Wrtng Wrkshp
+ENGL  790 Studies in: Writing for Diverse Publics
+ENGL  896 Internship
+ENGL  897 Preparation for the M.A. Exam
+ENGL  899 M.A./M.F.A. Thesis
+ENGL  997 Prep for the Doctorl Examinatn
+ENGL  998 Investigation and Conference:
+ENGL  999 Doctoral Dissertation
+ENGR  504 Technicl Writing for Engineers
+ENGR  515 Verbal Commctns in Engineering
+EPHX  501 Honors Research
+EPHX  503 Undergraduate Research
+EPSY  580 Positive Psychology
+EPSY  598 Special Course: Gndr Equity&Well-Being Iceland
+EPSY  705 Human Dvlpmnt through Lifespan
+EPSY  710 Introd to Statistical Analysis
+EPSY  711 Lab Intro Statistical Analysis
+EPSY  715 Understanding Research in Educ
+EPSY  797 Independnt Readgs&Research in: Counseling Psychology
+EPSY  797 Independnt Readgs&Research in: Educational Psychology& Resrch
+EPSY  797 Independnt Readgs&Research in: School Psychology
+EPSY  810 General Linear Models
+EPSY  841 Ctr Psychoeducatnl Srvc Prctcm
+EPSY  842 Cnslng Prctcm
+EPSY  882 History&Systems of Psychology
+EPSY  895 Field Experience in: Counseling&Psychotherapy
+EPSY  895 Field Experience in: Master's Counseling Internship
+EPSY  895 Field Experience in: Psychodiagnostic Assessment
+EPSY  896 Seminar in: Adv Clin Assess & Interv Youth
+EPSY  896 Seminar in: Gndr Equity&Well-Being Iceland
+EPSY  897 Independent Study
+EPSY  898 Master's Project
+EPSY  899 Master's Thesis
+EPSY  901 Research Practicum in: Counseling Psychology
+EPSY  901 Research Practicum in: Educational Psychology& Resrch
+EPSY  901 Research Practicum in: School Psychology
+EPSY  947 Specialist Research
+EPSY  948 Advanced Practicum I
+EPSY  990 Internship in Counseling Psych
+EPSY  991 Ed.S. Internship
+EPSY  992 Ph.D. Intrnshp in School Psych
+EPSY  995 Field Experience in: Applied Psychometrics
+EPSY  995 Field Experience in: Clinical Consultation
+EPSY  995 Field Experience in: College Teachng Counselng Psyc
+EPSY  995 Field Experience in: Counseling and Psychotherapy
+EPSY  995 Field Experience in: Education Psychology &Research
+EPSY  995 Field Experience in: Pediatric Psychology
+EPSY  995 Field Experience in: Psychodiagnostic Assessment
+EPSY  995 Field Experience in: Psychoeducational Evaluation
+EPSY  995 Field Experience in: School Counseling
+EPSY  995 Field Experience in: Sport Psychology
+EPSY  995 Field Experience in: Supervision Psychotherapy
+EPSY  996 College Teachng Experience in: Counseling Psychology
+EPSY  996 College Teachng Experience in: Educ Psych & Rsrch
+EPSY  996 College Teachng Experience in: School Psychology
+EPSY  997 Individual Study
+EPSY  999 Doctoral Dissertation
+EVRN  555 Energy and Environment
+EVRN  611 Water Qual,Land Use&Wtrshd Eco
+EVRN  624 Independent Study
+EVRN  625 Hnrs Rsrch in Environmntl Stdy
+EVRN  660 Summer Field Ecology
+EVRN  755 Energy and Environment
+EVRN  814 Prof Sci Masters EA Capstone I
+EVRN  815 Prof Sci Master EA Capstone II
+EXM  500 Adv Specal Topics Expnd Media: Experimental Documntry&Memoir
+EXM  599 Individul Studies Expand Media
+FAPR  905 RRFamMed-Prac&Rese
+FAPR  906 RRFamMed-Prac&Rese
+FAPR  925 Interdis Comm Part
+FAPR  977 Medical Spanish-Level 1
+FELW   10 KUMC Medical Fellow
+FIN  500 Individual Research in Finance
+FIN  998 Indepdnt Study Doctorl Studnts
+FIN  999 Doctoral Dissertation
+FMS  530 Film and Media Theory
+FMS  585 Capstone in Film&Media Studies
+FMS  880 Devlopmnt Amer Pop Culture in: Future Shock: Dystopian Sci-Fi
+FMS  888 Spec Prob Film Histry&Criticsm
+FMS  898 Investigation&Confernce
+FMS  899 Master's Thesis
+FMS  998 Investigation&Conference
+FMS  999 Doctoral Dissertation
+FREN  795 Investigation and Conference
+FREN  899 M.A. Thesis
+FREN  995 Investigation and Conference
+FREN  999 Ph.D. Dissertation
+FRSP     YYYY Law Study Abroad Program
+GEOG  890 Geographic Internship
+GEOG  898 Readings in Geography
+GEOG  899 Master's Thesis
+GEOG  998 Research in Geography
+GEOG  999 Doctoral Dissertation
+GEOL  556 Field Methods in Hydrology
+GEOL  560 Introductory Field Geology
+GEOL  561 Field Geology
+GEOL  723 Museum Internship
+GEOL  851 Field&Lab Methds:Physcl Hydrog
+GEOL  891 Special Studies in Geology
+GEOL  899 Master's Thesis
+GEOL  999 Doctoral Dissertation
+GIST  501 Topics in:  _____ Humanitarian Aid
+GIST  503 Advnd Topics Middle East Stds: Palestinian Society in Israel
+GIST  750 Topics in Internationl Stdies: Russia & the World
+GIST  793 Directed Readings
+GIST  810 Graduate Writing Experience
+GIST  897 Examination Preparation
+GIST  898 Thesis&Research Projct Writing
+GIST  899 Thesis
+GRK  899 Thesis
+GSMC  859 Research Rotations
+HA  707 Directed Readings
+HA  999 Doctoral Dissertation
+HAIT  500 Dirct Stds in Haitian Lang&Lit
+HDSC  805 Prof, Ethics & Ldrshp Stat Sci
+HDSC  819 Introduction to Python
+HDSC  823 Intro Progr & Appl Stat in R
+HDSC  855 Stat Methods in Genom Resrch
+HEIM  540 Health Information Systems
+HIST  510 Topics in Non-Western History: Palestinian Society in Israel
+HIST  800 Readings in: Gender/Feminist Studies
+HIST  800 Readings in: MA Prep
+HIST  998 Portfolio Preparation
+HIST  999 Doctoral Dissertation
+HP&M  852 Strategic Marketing
+HP&M  860 Grad Internship Hlth Serv Admi
+HP&M  862 Research Practicum
+HP&M  863 Independent Study
+HP&M  990 Advncd Tpcs Hlth Plcy & Mngmnt
+HP&M  991 Individual Doctoral Readings
+HP&M  999 Dissertation
+HPMD  909 CSF
+HSES  578 Health Internship Seminar
+HSES  580 Internship in: Community Health
+HSES  580 Internship in: Exercise Science
+HSES  598 Special Course: Experiential Learning in Sport
+HSES  598 Special Course: Hospitality in Japan
+HSES  771 Internship in Exercise Science
+HSES  777 Prc Health Ed&Wellness Promotn
+HSES  828 Sport Finance
+HSES  842 Sports Marketing
+HSES  880 Internship in Sport Management
+HSES  897 Independent Study
+HSES  899 Master's Thesis
+HSES  995 Field Experience in: Exercise Physiolgy
+HSES  995 Field Experience in: Sport Science
+HSES  996 College Teachng Experience in:
+HSES  997 Individual Study
+HSES  999 Doctoral Dissertation
+IA  690 Study Abroad
+IBUS  500 Indiv Rsch Internatnl Business
+IDSP  800 Special Programs
+IPHI  850 Intro Hlth Informatics
+IPHI  854 Knowledge Mgmt in Healthcare
+IPHI  856 Health Info Practm
+IPHI  858 Health Informatics Pract Pharm
+IPHI  860 HI Scholarly Project
+ISP  504 Topics Indigenous Studies: Elementary Quechua I
+ISP  504 Topics Indigenous Studies: Elementary Quechua II
+ISP  806 Directed Readings
+ISP  807 Intrnshp Indigenous Studies
+ISP  898 Master's Non-Thesis
+ISP  899 Master's Thesis
+IST  500 Indv Rsch Informtn Systms Tech
+IST  999 Doctoral Dissertation
+JMC  500 Topics in Journalism: Creativity & Culture: Rome
+JMC  506 Directed Studies in Journalism
+JMC  507 Practicum Journalsm
+JMC  534 Diversity in Media
+JMC  560 Message Development
+JMC  613 International Strategic Commun
+JMC  640 Strategic Campaigns
+JMC  660 Prof Capstn - Adv Media/Capstn
+JMC  699 Rprtng&Edtng Mltmedia-Ad Media
+JMC  815 Investigation and Conference
+JMC  820 Marketing Fundamentals
+JMC  832 Leadershp&Managmnt Marktg Comm
+JMC  851 Professional Skills I
+JMC  852 Professional Skills II
+JMC  869 Information Insight II
+JMC  899 Master's Project/Thesis
+JMC  999 Dissertation
+JPN  562 Modern Japanese Texts I
+JPN  564 Modern Japanese Texts II
+JPN  598 Readings in: Business Japanese
+JPN  598 Readings in: Japan Today
+JPN  598 Readings in: Language&Culture in Jpn Lvl 4
+JPN  598 Readings in: Tech and Scientific Japan
+JPN  801 Dirct Readng&Rsrch in Japanese
+KOR  504 Advanced Modern Korean I
+KOR  508 Advanced Modern Korean II
+KQKL  500 Directed Studies in Kaqchikel
+LAC  602 Tpcs in Latin Americn Studies: Beginning Kaqchikel Culture
+LAC  602 Tpcs in Latin Americn Studies: Elementary Guarani I
+LAC  602 Tpcs in Latin Americn Studies: Elementary Quechua I
+LAC  602 Tpcs in Latin Americn Studies: Elementary Quechua II
+LAC  602 Tpcs in Latin Americn Studies: Kaqchikel Maya Culture
+LAC  602 Tpcs in Latin Americn Studies: Literature / Culture in Cuba
+LAC  800 Investigation and Conference
+LAC  899 Thesis/Non-Thesis
+LAT  899 Thesis
+LAW  814 Criminal Law
+LAW  831 Torts I
+LAW  833 Advanced Legal Aid Clinic
+LAW  844 Advanced Project for Innocence
+LAW  890 Criminal Prosecution Field Pla
+LAW  894 Field Placement Program
+LAW  895 Prjct Inncnc&Post-Cnvictn Rmds
+LAW  908 Evidence
+LAW  924 Independent Research
+LAW  933 Judicial Field Placement Prog
+LAW  952 Legal Aid Clinic
+LAW  972 Professional Responsibility
+LAW  988 S.J.D.
+LAW  994 Special Topics: Comparative Family Law
+LAW  994 Special Topics: Europn Union Global Legl Reg
+LAW  994 Special Topics: US Cntrtrrorism Law Intl Persp
+LDST  690 Special Topcs in Ldrshp Study: Bldg Rslnc Ldrshp Uncrtn Times
+LDST  850 Ldrshp Dvrsty/Inclusv Capstone
+LING  899 Master's Research Project
+LING  980 Linguistics Field Work
+LING  997 Ph.D. Examinations
+LING  998 Independent Study
+LING  999 Doctoral Dissertation
+MATH  526 Appld Mathematicl Statistics I
+MATH  590 Linear Algebra
+MATH  699 Directed Reading
+MATH  799 Directed Readings
+MATH  896 Master's Research Component
+MATH  899 Master's Thesis
+MATH  993 Readings in Mathematics
+MATH  999 Doctoral Dissertation
+MBIO  910 Ad Tp Microbiology
+MBIO  911 Res Micro,Gene&Imm
+MDCM  690 Undergraduate Research
+MDCM  692 Problems in Medicinl Chemistry
+MDCM  895 Research in Medicinl Chemistry
+MDCM  899 Master's Thesis
+MDCM  999 Doctoral Dissertation
+ME  617 Research for Design Proj Opt B
+ME  661 The Finite Element Method
+ME  801 Responsibl Conduct Resrch Engr
+ME  860 Adv Mechanicl Engineerng Probs
+ME  899 Independent Investigation
+ME  999 Independent Investigation
+MEMT  596 Clinical Internship
+MEMT  710 Professional Development
+MEMT  791 Musc Eductn/Musc Therapy Tech: Cntmporary Top Choral Pedagogy
+MEMT  791 Musc Eductn/Musc Therapy Tech: Inclusion in Music Settings
+MEMT  820 Adv Choral Condctg&Rehrsl Tech
+MEMT  821 20th Centry School Band & Orch
+MEMT  823 Seminar in: Instrumental Arranging
+MEMT  826 Adolescent Changing Voices
+MEMT  890 Practicum in Music Therapy
+MEMT  895 Master's Project
+MEMT  897 Independent Study:
+MEMT  898 Master's Oral Examination
+MEMT  899 Master's Thesis
+MEMT  980 Advanced Topics:
+MEMT  995 Field Experience in: Clinical Voice Assessment
+MEMT  997 Individual Study:
+MEMT  999 Doctoral Dissertation
+METL  590 Intrnshp in Metlsmithng/Jewlry
+METL  599 Ind Studes Metalsmithng/Jewlry
+METL  715 Metals/Jewelry
+METL  815 Metals/Jewelry
+MGMT  755 Project Management
+MGMT  898 Indepndt Study Master's Stdnts
+MGMT  999 Doctoral Dissertation
+MICR  835 Research in Microbiology
+MICR  890 Master's Research in Microbiol
+MICR  899 Master's Thesis Microbiology
+MICR  930 Adv Tpcs in Microb
+MICR  990 Resch for PhD Micr
+MICR  999 Dissertation PhD in Micr
+MKTG  706 Marketing
+MKTG  753 Global Marketing
+MKTG  754 Digital and Social Media Mktg
+MKTG  995 Doctoral Seminar in Marketing:
+MKTG  998 Indep Study for Doctrl Studnts
+MKTG  999 Doctoral Dissertation
+MUS  800 Directed Study:  _____ Advanced Recording Techniques
+MUS  800 Directed Study:  _____ Studio Teaching in Higher Ed
+MUSC  770 Music in World Cultures
+MUSC  794 Readings in Musicology:
+MUSC  899 Thesis
+MUSC  970 D.M.A. Lecture-Recital
+MUSC  972 D.M.A. Document
+MUSC  999 Dissertation
+MUSE  790 Advanced Study
+MUSE  799 Museum Internship
+NEUS  899 Neuroscience Master's Thesis
+NEUS  990 Research in Neuroscience
+NEUS  999 Neuro Doctoral Dissertation
+NRSG  748 Theories for Prac & Research
+NRSG  754 Health Care Research
+NRSG  755 Prof in Advanced Nrsg Prac
+NRSG  800 Primary Palliative Care
+NRSG  807 Genetics in Primary Care
+NRSG  809 Health Promo & Comp Ther
+NRSG  813 Advanced Pharmacology
+NRSG  873 Technologies Teaching Learning
+NRSG  877 Foundations in Educ & Learning
+NRSG  883 Complex Sci App to Improve Org
+NRSG  886 Org Leadership Practicum
+NRSG  888 Clin Practicum Nurse Educators
+NRSG  890 Independent Study in Nrsg
+NRSG  892 Independent Study in Nrsg Prac
+NRSG  893 Healthcare Prac in Rural Comms
+NRSG  898 Scholarly Project Nursing
+NRSG  903 PC Prac I: Adult/Ger - NP
+NRSG  918 PC Practicum III: Family NP
+NRSG  922 NM II: Precon & Prenatal Care
+NRSG  927 Chdbg Fm Prct: Intra, Pst, Nwb
+NRSG  928 NMW Integration Practicum
+NRSG  931 Psychotherap Prac I: PMHNP
+NRSG  933 Psychotherap Prac III: PMHNP
+NRSG  935 Prof & Scholarship Workshop
+NRSG  945 Synthesis Workshop I
+NRSG  948 Mthds Org & Clin Pra Outcomes
+NRSG  949 Synthesis Workshop II
+NRSG  954 DNP Synthesis Workshop
+NRSG  959 Research Experience
+NRSG  963 Advanced Leadership Residency
+NRSG  964 Advanced Clinical Residency
+NRSG  970 Synthesis of Emphasis Area
+NRSG  980 Doctor of Nrsg Prac Project
+NRSG  981 DNP Project Proposal Devel
+NRSG  982 DNP Project Imp Practicum
+NRSG  983 DNP Project Eval and Dissem
+NRSG  990 Doctoral Research
+NRSG  997 Independent Study
+NRSG  999 Dissertation
+NURA  805 Clin Anatomy
+NURA  808 Health Care Pol for Adv Nur Pr
+NURA  813 Adv Thry Anes III
+NURA  820 Info Systs & Data Mgmt in Anes
+NURA  821 Adv Practm Anesth I
+NURA  831 Adv. Chem and Physics
+NURA  839 Reg Anes/Pain Mang
+NURA  880 Advanced Topics:
+NURA  924 Advanced Practicum IV
+NURA  980 DNAP Scholarly Project
+NURO  800 Neuroscience Teachng Principls
+NURO  825 Research in Neuroscience
+NURO  846 Advanced Neuroscience
+NURO  899 Neuroscience Master's Thesis
+NURO  999 Neuroscience Doctrl Dissertatn
+ORGN  811 Organ
+ORGN  961 Directed Performance
+OTD  850 Teaching Practicum
+OTD  865 Occupation-Based Practice
+OTD  880 Program Evaluation
+OTD  885 Advanced Practicum
+OTD  890 Capstone Project
+OTD  899 Special Projects
+OTDE  716 Occup Ther Scholarship-II
+OTDE  755 Occup Perf & Part Lifespan II
+OTDE  870 Contemp Community Engagement
+OTDE  900 Level II FW - Part I
+OTDE  915 Prof in Leadership & Admin
+OTDE  950 Capstone Planning
+OTMS  799 Spec Topics in OT
+OTMS  890 Grad Resrch
+OTMS  899 Thesis
+P&TX  694 Undrgd Lb:Rsh in Pharm&Toxclgy
+P&TX  698 Library Probs in Pharm&Toxclgy
+P&TX  750 Pharm I - Intro Pharm&Biotec
+P&TX  751 Pharm II-Endocrine Pharmacolgy
+P&TX  752 Pharm III- CNS & ANS
+P&TX  753 Pharm IV- Cardio & Renal Sys
+P&TX  754 Pharm V- Immuno/ID/GastroPharm
+P&TX  755 Molecular Toxicology
+P&TX  785 Research Proposal
+P&TX  825 Rsch in Pharmacology&Toxicolgy
+P&TX  885 Distance Masters Research P&TX
+P&TX  889 Distance Master's Thesis
+P&TX  899 Master's Thesis
+P&TX  999 Doctoral Dissertation
+PATH  890 Research in Pathology
+PATH  899 Master's Thesis
+PATH  912 Advanced Topics
+PATH  990 Doctoral Research in Pathology
+PATH  999 Doctoral Dissertat
+PCS  555 Tpcs in Peace&Conflict Stdies: Religion and Conflict
+PFS  801 Interpersonal & Persuasive Com
+PFS  803 Financial Management
+PFS  804 Project Managemnt for Profsnls
+PFS  837 Com Strat for Remote & Hybrid
+PFS  895 Independent Study in Org Com
+PFS  898 Capstone Project in Org Com
+PHAR  550 Intro Pharmcy Prac Exp-Commnty
+PHAR  560 Intro Pharm Prac Exp-Institutl
+PHCH  690 Ug Rsch Pharmaceutcl Chemistry
+PHCH  694 Problems Pharmaceutcl Chemstry
+PHCH  700 Expermntl Mthds Pharm Chemstry
+PHCH  850 Form Design:Solid Dosage Forms
+PHCH  895 Rsrch in Pharmaceutical Chemst
+PHCH  898 Master's Thesis
+PHCH  899 Master's Thesis
+PHCH  974 Adv Spec Topic Pharmc Chemstry
+PHCH  998 Doctoral Dissertatn Pharm Chem
+PHCH  999 Doct Dissrtat Pharmceutcl Chem
+PHCL  890 Resch in Pharmclgy
+PHCL  990 Rsch Dissertn Phcl
+PHCL  999 Dissertatn in Phcl
+PHIL  500 Studies in Philosophy:
+PHIL  600 Readings in Philosophy: Rdgs 17th C Vitalism&Mechnism
+PHIL  899 Master's Thesis
+PHIL  900 Research in Philosophy:
+PHIL  999 Dissertation
+PHPR  601 Advncd Pharm Prac Exprnc 1
+PHPR  602 Advncd Pharm Prac Expr 2
+PHPR  603 Advncd Pharm Prac Expr 3
+PHPR  607 Advncd Pharm Prac Expr 7
+PHPR  608 Advncd Pharm Prac Expr 8
+PHPR  609 Advncd Pharm Prac Expr 9
+PHPR  635 Problems in Pharmacy Practice
+PHPR  690 Research in Pharmacy Practice
+PHPR  899 Research in Pharmacy Practice
+PHSL  838 Advanced Topics
+PHSL  846 Advanced Neuroscience
+PHSL  850 Research
+PHSL  899 Master's Thesis
+PHSL  999 Doctoral Dissertat
+PHSX  500 Special Problems
+PHSX  501 Honors Research
+PHSX  503 Undergraduate Research
+PHSX  800 Graduate Problems
+PHSX  899 Master's Research/Thesis
+PHSX  999 Ph.D. Dissertation Research
+PMGT  816 Project Managemnt Fundmntls I
+PMGT  823 Risk Mgmt for Project Managers
+PNTG  599 Individual Studies in Painting
+POLS  643 The European Union
+POLS  769 Topics in Comparative Pols: Politics in East Asia
+POLS  812 Political Psychology
+POLS  825 Urban Policy and Administratin
+POLS  899 Thesis
+POLS  970 Foreign Policy Analysis
+POLS  973 International Politicl Economy
+POLS  993 Directed Readings
+POLS  997 Preparatn Comprehensive Examin
+POLS  999 Doctoral Dissertation
+PORT  540 Textual Analysis&Critical Rdng
+PORT  611 Acc Basic Port Spanish Speakrs
+PORT  612 Acc Basic Port Span Speakrs II
+PORT  780 Sp Rdg Portugues&Brazilian Lit
+PORT  785 Spcl Top Braziln Cult&Lit Std:
+PRNT  599 Individual Studies Printmaking
+PRNT  802 Special Problems in Printmakng
+PRVM  800 Princ Epidemiology
+PRVM  806 Special Topics: Clncl Prvntv Medcn
+PRVM  861 Leadership in Public Health
+PRVM  891 Public Health Internship
+PRVM  893 Public Health Capstone
+PRVM  899 Thesis
+PSYC  502 Human Sexuality
+PSYC  535 Developmental Psychopathology
+PSYC  545 Culture and Psychology
+PSYC  595 Eating and Weight Disorders
+PSYC  598 Positive Psychology
+PSYC  842 Specializd Health Psyc Practcm
+PSYC  846 Practicm Clinical Child Psyc I
+PSYC  847 Practcm Clinical Child Psyc II
+PSYC  897 Mastr Thes Clinical Child Psyc
+PSYC  899 Thesis
+PSYC  943 Adv Prc Clinicl Child Psyc III
+PSYC  944 Adv Prc Clinical Child Psyc IV
+PSYC  947 Adv Prac Clinical Child Psyc V
+PSYC  951 Clinical Supervision Practicum
+PSYC  966 Clinical Practicum III
+PSYC  974 Clinical Psychology Internship
+PSYC  977 Specialized Clinical Practicum
+PSYC  980 Special Problems in Psychology
+PSYC  998 Doct Dis in Clincal Child Psyc
+PSYC  999 Dissertation
+PTOX  889 Research Toxicology
+PTOX  990 Rsch Dissrtat Toxi
+PTOX  999 Dissrtat Toxicolgy
+PTRS  703 Applied Anatomy
+PTRS  710 Advancd Topics in Humn Anatomy
+PTRS  730 Integr Clin Exper II
+PTRS  807 Ethics in Health Care
+PTRS  817 Ethics in Health Care
+PTRS  825 Exercise Physiology
+PTRS  828 Med Imaging
+PTRS  846 Orthopedic Phys Therapy III
+PTRS  860 Evidnce-Basd Rese Pratcm I
+PTRS  861 Evid-Basd Res Pract II
+PTRS  865 Indep Study
+PTRS  877 Admin in Physical Therapy
+PTRS  890 Specialties in PT Practice
+PTRS  920 Full-Time Clin Experience I
+PTRS  921 Full-Time Clin Experience II
+PTRS  923 Full-Time Clin Experience IV
+PTRS  924 Specialized Clin Experience
+PUAD  708 Collaboration in Public Admin
+PUAD  825 Urban Policy and Administratin
+PUAD  841 Contxt Ethics & Law Public Adm
+PUAD  845 Managing Public Organizations
+PUAD  854 Innovation&Organizational Chg
+PUAD  893 Directed Readings
+PUAD  998 Directd Readng on Public Admin
+PUAD  999 Dissertation
+PVMD  977 Clinical & Populatn-Based Res
+PVMD  978 Leadership for Healthcare
+PYCH   32 Intern Clin Psych
+PYCH   33 Practicum Clin Psycolgy
+PYCH   34 Postdoc Fel Clin Psychlgy
+QUEC  610 Dirctd Study Quechua Lang&Cult
+REHS  865 Independent Study
+REHS  866 Develop Res Aims in Rehab Sci
+REHS  870 Teaching Pract
+REHS  873 Research Pract
+REHS  875 Clinical Practicum
+REHS  980 Graduate Research
+REHS  990 Dissertation Rehb Science
+REL  800 Readings
+REL  899 Thesis
+RESP  640 Professional Communication
+RSDT   10 KUMC Medical Resident
+RUSS  512 Russian for the Professions I
+RUSS  516 Russian for the Professions II
+RUSS  675 Readings in Russian
+SCM  500 Indvdl Rsrch Chain Supply Mgmt
+SCM  999 Doctoral Dissertation
+SLAV  675 Readings Slavic Stds
+SLAV  679 Topics in: Intnsve Instrctn in Slavc Lang
+SLAV  999 Dissertation
+SLPD  804 ClnPrc S-L Pth:Adv Trn Exp Cln
+SLPD  805 Indep Stdy in Spech-Lang Path
+SLPD  903 Capstone Prjct
+SOC  891 Individual Master's Readings
+SOC  899 Thesis
+SOC  991 Individual Doctoral Readings
+SOC  999 Dissertation
+SPAA  691 Internship Experience
+SPAA  692 Research Experience
+SPAN  522 Advanced Studies Spanish Lang:
+SPAN  898 Investigation and Conference
+SPAN  999 Dissertation
+SPED  501 Amricn Sign Language I
+SPED  502 Amer Sign Language II
+SPED  503 Am Sign Language III
+SPED  504 Amer Sign Language IV
+SPED  702 Amer Sign Language II
+SPED  704 Amer Sign Language IV
+SPED  739 Early Chldhd Unifd Practicum
+SPED  756 Special Education Leadership
+SPED  757 Hist,Cntxt&Critique of Spec Ed
+SPED  758 Appropriate ED & LRE
+SPED  759 Non-Discrm Eval & Due Procss
+SPED  760 Intro Autism Spectrum Disordrs
+SPED  772 Particptn with Chld&Yth Disab: Autism Spectrum Disorder
+SPED  772 Particptn with Chld&Yth Disab: Early Childhood
+SPED  785 App Assmt Info Excep Chd&Youth
+SPED  790 Mthds-Lrnrs w/Hghr-Func Autism
+SPED  841 Ad Mth&Asmnt:Lrn Str&Cnt Mastr
+SPED  854 Famly&Interprfsnl Collab Sp Ed
+SPED  856 Trans Ed&Servce Chldhd-Adulthd
+SPED  858 Assmnt for Transition Planning
+SPED  860 Education Chld/Youth w/Dis:ASD
+SPED  862 Work-Based Learning
+SPED  863 Studnt Engagmnt Schol&Comunity
+SPED  897 Independent Study
+SPED  898 Master's Project
+SPED  899 Master's Thesis
+SPED  975 Adv Practc Chd&Yth with Disab: Early Childhood
+SPED  995 Field Experience in: Teaching
+SPED  995 Field Experience in: Tele-Coaching
+SPED  996 College Teaching Experience
+SPED  997 Individual Study
+SPED  998 Seminar in: Specialization
+SPED  999 Doctoral Dissertation
+SPLH  565 Language Sample Analysis Lab
+SPLH  566 Language Development
+SPLH  670 Begin Clincl Practce Audiology
+SPLH  672 Clin Prac Speech-Lang Patholgy
+SPLH  752 Glbl Perspectives SPLH: Audio&Sp-Lang Serv in Bulgaria
+SPLH  764 Seminar in: AAC Technologies Lab
+SPLH  850 Cogntv-Ling Disorders Adults
+SPLH  864 Adv Clin Prac Speech-Lang Path
+SPLH  866 Field Stdy Speech-Lang Pathlgy
+SPLH  874 Master's Research Practicum
+SPLH  876 Ind Std Probs Speech,Lang,Hear
+SPLH  899 Master's Thesis
+SPLH  970 Ind Std Problms of Spch&Hearng
+SPLH  974 Doctoral Research Practicum
+SPLH  975 Dir Tchg:Speech Path&Audiology
+SPLH  998 Investigtn&Confernc
+SPLH  999 Doctoral Dissertation
+SPPR   50 Trainee Non-Clincl
+STAT  655 Fdn. of Math for Data Science
+STAT  805 Profess, Ethic Ldrshp Stat Sci
+STAT  821 SAS Programming II
+STAT  823 Intro Programng Appl Stat in R
+STAT  825 Nonparametric Methods
+STAT  830 Experimental Design
+STAT  880 Data Mining and Analytics
+SW  560 Study Abroad Topics: Intrntnl Socl Wrk: Costa Rica
+SW  560 Study Abroad Topics: Intrntnl Socl Wrk: Italy
+SW  712 Social Work Adv Stndg Seminar
+SW  755 Diversity, Equity & Inclusion
+SW  855 Study Abroad Topics: Intrntnl Socl Wrk:  Costa Rica
+SW  855 Study Abroad Topics: Intrntnl Socl Wrk:  Italy
+SW  863 Mental Health & Psychopatholgy
+SW  866 Children's Mental Health
+SW  868 Assess&Trtng Suicide&Self-Harm
+SW  875 Readings and Investigations:
+SW  955 Study Abroad Topics: Intrntnl Socl Wrk:  Costa Rica
+SW  955 Study Abroad Topics: Intrntnl Socl Wrk:  Italy
+SW  990 Graduate Research
+SW  999 Dissertation
+TD  590 Internship in Textiles/Fibers
+TD  599 Indvdul Studes Textiles/Fibers
+TD  715 Tex Dsgn Weavng Prntng Dyeing
+TD  815 Tex Dsgn Weavng Prntng Dyeing
+THR  707 Theatre Internship
+THR  898 Investigation&Confernce
+THR  899 Master's Thesis
+THR  998 Investigation&Conference
+THR  999 Doctoral Dissertation
+TS  800 Reserch Proseminar
+TS  880 Special Projects
+TS  980 Adv Study Therp Sci
+TS  990 Disser Therp Scien
+UBPL  701 Directed Readings
+UBPL  780 Climate Change & Hazards Plng
+UBPL  806 Thesis - Graduate Research
+UKRA  675 Readings in Ukrainian Language
+VOIC  711 Voice
+WGSS  502 Human Sexuality
+WGSS  797 Directed Readings
+WGSS  999 Doctoral Dissertation

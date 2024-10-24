@@ -1,2628 +1,2683 @@
 
-AAAS  102 Arabic and Islamic Studies
-AAAS  104 Intro African-American Studies
-AAAS  105 Intro to African History
-AAAS  106 The Black Experience Americas
-AAAS  160 Introdctn West African History
-AAAS  200 Directed Studies
-AAAS  203 Culture and Health
-AAAS  204 Culture and Health, Honors
-AAAS  300 African Traditionl Relgn&Thght
-AAAS  307 Modern Africa, Honors
-AAAS  310 Intro to Black Edu in the US
-AAAS  320 African Studies In: Black Masculinities
-AAAS  320 African Studies In: Visions of African Sciences
-AAAS  323 African-American Studies In: Amrcas' Cltres of Afrcan Roots
-AAAS  323 African-American Studies In: Black Masculinities
-AAAS  325 Popular Black Music
-AAAS  326 Social Media & Afrcn Pop Cult
-AAAS  327 African American Culture
-AAAS  344 Black Feminist Theory
-AAAS  349 Islam
-AAAS  351 Africa's Human Geographies
-AAAS  388 The Black Woman
-AAAS  400 Readings in:
-AAAS  420 Interculturl Comnctn:Afro-Amer
-AAAS  435 Muslim Women's Autobiography
-AAAS  437 Global Ethnic&Racial Relations
-AAAS  460 Topc&Probm Africn&Afr-Amr Stds
-AAAS  470 Language and Society in Africa
-AAAS  496 Field Experience
-AAAS  502 Directed Language Study: Elementary Arabic I
-AAAS  502 Directed Language Study: Elementary KiSwahili I
-AAAS  502 Directed Language Study: Elementary Wolof I
-AAAS  502 Directed Language Study: Elementary Yoruba I
-AAAS  503 Directed Language Study: Intermediate Arabic I
-AAAS  503 Directed Language Study: Intermediate KiSwahili I
-AAAS  503 Directed Language Study: Intermediate Wolof I
-AAAS  504 Directed Language Study I: Advanced Arabic I
-AAAS  504 Directed Language Study I: Advanced KiSwahili I
-AAAS  504 Directed Language Study I: Advanced Wolof I
-AAAS  505 Directed Language Study II: Arabic
-AAAS  505 Directed Language Study II: Readings in KiSwahili I
-AAAS  505 Directed Language Study II: Readings in Wolof I
-AAAS  520 African Studies in: Visions of African Sciences
-AAAS  598 Sexuality&Gender Africa Histry
-AAAS  690 Investigation and Conference
-AAAS  695 Honors Project in:
-ABSC  100 Introd Applied Behavrl Science
-ABSC  110 Appld Behvior Anlysis Prctitnr
-ABSC  150 Community Leadership
-ABSC  151 Community Leadership, Honors
-ABSC  160 Intro Child Behavior&Develpmnt
-ABSC  250 Human Development
-ABSC  304 Prin&Procedr Behavrl Intervtns
-ABSC  308 Research Methods & Application
-ABSC  349 Therapeutic Benefits of Play
-ABSC  350 Behvrl Treatmnt Childrn Autism
-ABSC  360 Drugs, Addiction, and Behavior
-ABSC  425 Tchg Apprentcshp Apld Behv Sci
-ABSC  469 Special Topics in:
-ABSC  469 Special Topics in: App Beh Sci to Pub Health& Pol
-ABSC  469 Special Topics in: Beh TreatmntforChldrn w Autism
-ABSC  470 Orgnizatnl Behavior Managmnt
-ABSC  489 Directed Readings in:
-ABSC  499 Directed Research in:
-ABSC  509 Contmp Bhvrl Sci:Hst,Cncp&Cmpr
-ABSC  529 Pediatrc Health&Hlth Promotion
-ABSC  535 Developmental Psychopathology
-ABSC  599 Hnr&Thsis  Appld Bhvrl Science
-ABSC  606 Spcl Projects in the Community
-ABSC  675 Pctm Inf-Tdlr Cr&Erly Intrvn I
-ABSC  676 Pctm Inf-Tod Cr&Erly Intrvn II
-ABSC  677 Prac Preschl Eductn&Intrvntn I
-ABSC  678 Prc Preschl Eductn&Intrvntn II
-ABSC  679 Prct Bhvr-Anl Rsh Erly Chld Ed
-ABSC  680 Prc Adv Lab Dv Bh Tr Chd Autsm
-ABSC  683 Pctm Child Life Specialty
-ABSC  685 Prc Cmty-bd Svcs Adults w IDD
-ABSC  690 Prc Commnity Health&Developmnt
-ABSC  691 Prc Commnty Health&Devlpmnt,Hn
-ABSC  692 Practicum in Basic Research
-ABSC  695 Special Practicum in:
-ABSC  696 Special Practicum in, Honors:
-ABSC  698 Special Research Practicum in: Com-bsd Atsm Intrvtn
-ABSC  698 Special Research Practicum in: Stimulus Ctrl & Its Applicatns
-ACCT  200 Fundamentals Financial Acctng
-ACCT  201 Managerial Accounting I
-ACCT  230 Intro Accounting Profession
-ACCT  304 Accounting Scholars II
-ACCT  313 Financial Analysis & Analytics
-ACCT  320 Intermediate Accounting I
-ACCT  321 Intermediate Accountng Finance
-ACCT  323 Intermediate Accounting I,Hnrs
-ACCT  325 Managerial Accounting II
-ACCT  330 Introduction to Taxation
-ACCT  410 Intermediate Accounting II
-ACCT  425 Accounting Information Systems
-ACCT  540 Tax Strategy
-ACCT  543 Introduction to Auditing
-ACCT  545 Adv Tax Business Entity I
-ACCT  599 Internship in Accounting
-ADS  320 KU Design Professional Lecture
-ADS  401 Design Ethics
-ADS  531 Internship Credit
-ADS  560 Topics in Design: Interaction Design
-ADS  560 Topics in Design: Design Research
-ADS  560 Topics in Design: Studio Elective
-ADS  560 Topics in Design: Design Management
-ADS  560 Topics in Design: Hamilton Wood Type Workshop
-ADS  560 Topics in Design: TecDesign
-ADS  580 Special Problems in Design
-ADS  601 Design Ethics
-AE  211 Computing for Engineers
-AE  245 Intro to Aerospace Engineering
-AE  290 Aerospace Colloquium
-AE  345 Fluid Mechanics
-AE  360 Introduction to Astronautics
-AE  421 Aerospace Computer Graphics
-AE  430 Aerospace Instrumentation Labr
-AE  445 Aircraft Aerodynamc&Performanc
-AE  500 Undergraduate Extended Topics: Aero Materials & Processes
-AE  500 Undergraduate Extended Topics: Aircraft Design Laboratory I
-AE  500 Undergraduate Extended Topics: Fundamentals of Aerodynamics
-AE  500 Undergraduate Extended Topics: Aerodynamics, Honors
-AE  500 Undergraduate Extended Topics: Dynamics of Flight I
-AE  506 Aerospace Structures I, Honors
-AE  507 Aerospace Structures I
-AE  510 Aerospace Materials&Processes
-AE  520 Space Systems Design I
-AE  521 Aerospace Systems Design I
-AE  545 Fundamentals of Aerodynamics
-AE  546 Aerodynamics, Honors
-AE  550 Dynamics of Flight I
-AE  571 Fund Arplane Recip Proplsn Sys
-AE  590 Aerospace Senior Seminar
-AE  592 Spcl Prjct Arspc Eng Ugdl Stds
-AE  690 Professnl Dvlpmnt Grad Studies
-AEC    6 Antcptd Futr AEC Crdt Hrs
-AEC    7 Sht Trm Prgm Self-Cntnd Enrlm: Basic English
-AEC    7 Sht Trm Prgm Self-Cntnd Enrlm: ZJNU JI
-AEC   90 English Proficiency Test
-AECL   30 Listng,Spkng&Gramr Acad Purp 3
-AECL  140 Listng,Spkng&Gramr Acad Purp 4
-AECL  151 Listng,Spkng&Gram Acad Pur 5
-AECR   30 Readng,Writng&Gram Acad Purp 3
-AECR  140 Readng,Writng&Gram Acad Purp 4
-AECR  151 Readng,Writng&Gram Acad Purp 5
-AESP  160 Appld Engl Ctr Special Topics: Good Grammar for Clear Writing
-AESP  160 Appld Engl Ctr Special Topics: Pronunciation Fundamentals
-AIR  100 Leadership Laboratory
-AIR  144 Heritage &Values of the USAF I
-AIR  284 Team&Leadership Fundamentals I
-AIR  344 Leading People&Effective Com I
-AIR  404 NatSec/Leadershp&Commissiong I
-AMS  100 Introductn to American Studies
-AMS  101 Intro to American Studies, Hnr
-AMS  110 American Identities
-AMS  112 American Identities, Honors
-AMS  171 Religion in American Society
-AMS  176 First Year Seminar: On Drugs
-AMS  260 Intro to Latinx/Chicanx St
-AMS  324 Being Deviant in America
-AMS  332 United States in Global Contxt
-AMS  344 Case Study in Americn Studies:
-AMS  344 Case Study in Americn Studies: The Stage as Classroom
-AMS  344 Case Study in Americn Studies: Chicana/o-Latinx Cltr &Justice
-AMS  344 Case Study in Americn Studies: Atomic Cinema
-AMS  360 Theory and Method
-AMS  437 Global Ethnic&Racial Relations
-AMS  496 Social Justice Perspect & Expr
-AMS  551 Research Project in Amrcn Stds
-AMS  552 Public Service in Americn Stds
-AMS  553 Honors in American Studies
-AMS  694 Directed Readings
-AMS  696 Studies in: Atomic Cinema
-AMS  696 Studies in: Amer Indn Treaties&Treat Litig
-ANTH  100 General Anthropology
-ANTH  106 Introductory Linguistics
-ANTH  107 Introductory Linguistics, Hnrs
-ANTH  150 Becoming Human
-ANTH  151 Becoming Human, Honors
-ANTH  160 Varieties of Human Experience
-ANTH  177 First Year Seminar: Indigenous Tradtns of LatnAmer
-ANTH  293 Myth,Legend&Flk Beliefs E Asia
-ANTH  301 Anthropology Through Films
-ANTH  304 Fundmntls of Biological Anthro
-ANTH  309 Becoming Human
-ANTH  310 Fundamentals of Archaeology
-ANTH  311 Archaeology Roadshow
-ANTH  320 Language in Cultur and Society
-ANTH  325 Language, Gender and Sexuality
-ANTH  360 Varieties of Human Experience
-ANTH  389 Anthr Gendr:Female Male&Beyond
-ANTH  397 Museum Anthropology
-ANTH  401 Integrating Anthropology
-ANTH  406 Archaeological Reserch Methods
-ANTH  449 Lab/Field Work in Human Biolgy
-ANTH  484 Magic, Science, and Religion
-ANTH  496 Reading and Research
-ANTH  497 Field Experience
-ANTH  499 Senior Honors Research
-ANTH  500 Topics in Archaeology: Soils and Geomorphology
-ANTH  502 Tpc Anthropological Linguistc: Elementary Kaqchikel Maya I
-ANTH  502 Tpc Anthropological Linguistc: Intermediate Kaqchikel Maya I
-ANTH  502 Tpc Anthropological Linguistc: Advanced Kaqchikel Maya I
-ANTH  502 Tpc Anthropological Linguistc: Elementary Yucatec Maya I
-ANTH  502 Tpc Anthropological Linguistc: Intermediate Yucatec Maya I
-ANTH  502 Tpc Anthropological Linguistc: Advanced Yucatec Maya I
-ANTH  502 Tpc Anthropological Linguistc: Intermediate Quechua I
-ANTH  502 Tpc Anthropological Linguistc: Dir Std in Quech Lang & Cul
-ANTH  506 Pre-Hispnc Mexico&Centrl Amrca
-ANTH  570 Anthropology of Violence
-ARAB  110 Elementary Arabic I
-ARAB  120 Elementary Arabic II
-ARAB  210 Intermediate Arabic I
-ARAB  310 Advanced Arabic I
-ARAB  401 Readings in Arabic I
-ARCE  101 Intro Architecturl Engineering
-ARCE  217 Computer-Assistd Buildng Desgn
-ARCE  460 Building Thermal Science
-ARCE  462 Building Thermal Science, Hnrs
-ARCE  490 Special Problems
-ARCE  520 Architectural Acoustics
-ARCE  521 Electro-Acoustical Systems
-ARCE  540 Power Systems Engineering I
-ARCE  542 Power System Protection
-ARCE  545 Electrc Energy Prductn&Storage
-ARCE  547 Power System Analysis
-ARCH  100 Architectural Foundations I
-ARCH  103 Introduction to Architecture
-ARCH  108 Architectural Foundations I
-ARCH  208 Form and Function
-ARCH  340 Glbl Hist Arch I:Orig Indst Rv
-ARCH  503 Form and Function
-ARCH  508 Material and Tectonics
-ARCH  509 Designbuild
-ARCH  510 Architectural Detailing
-ARCH  520 Architectural Acoustics
-ARCH  521 Electro-Acoustical Systems
-ARCH  524 Structures I
-ARCH  530 Environmental Systems I
-ARCH  540 Glbl Hist Arch I:Orig Indst Rv
-ARCH  546 American Architectural History
-ARCH  547 Historic Preservation Theory
-ARCH  552 Ethics&Leadrshp Profssnl Pract
-ARCH  558 Programming &Pre-Design Issues
-ARCH  600 Special Topcs in Architecture: Data Visualization
-ARCH  600 Special Topcs in Architecture: Virtual Reality Fundamentals
-ARCH  600 Special Topcs in Architecture: Furniture Design
-ARCH  600 Special Topcs in Architecture: Human Factors Research
-ARCH  600 Special Topcs in Architecture: Design Research
-ARCH  600 Special Topcs in Architecture: Digital Representation
-ARCH  600 Special Topcs in Architecture: Adv Prmtrc Mdlg: Rhno&Grsshpr
-ARCH  605 Visualizg Site&Nat Evrn Systms
-ARCH  608 Urban Dwelling
-ARCH  623 Building Tech Practicum I
-ARCH  626 Bldng Techn I:Constr Sys&Asmbl
-ARCH  630 Theory of Architecture
-ARMY  101 Introdct to Military Science I
-ARMY  201 Basic Military Science I
-ARMY  301 Thry&Dynmc Tactical Operatns l
-ARMY  303 Military Conditioning
-ARMY  401 Concepts of Military Managemnt
-ARMY  450 Military Analysis
-ART  101 Drawing I
-ART  102 Drawing II
-ART  103 Art Concepts and Practice
-ART  105 Visual Art Seminar
-ART  120 Fundamentals of Painting
-ART  121 Fundamentals of Printmaking
-ART  122 Fundamentals of Sculpture
-ART  123 Fundamentals of Expanded Media
-ART  131 Fundamentals of Ceramics
-ART  132 Fndamntls Metlsmthg/Jewelry
-ART  133 Fundamentals of Fibers
-ART  300 Special Topics in Visual Art: Advanced Digital Weaving
-ART  300 Special Topics in Visual Art: 3D Construction in Textiles
-ART  300 Special Topics in Visual Art: Quilting & Stitching
-ART  300 Special Topics in Visual Art: Naturl Dye for Fibr/Fabrc/Pntg
-ART  300 Special Topics in Visual Art: Gallery Practice
-ART  300 Special Topics in Visual Art: VanGo Mobile Arts/Servics Lrng
-ART  375 Directed Readings in Visul Art
-ART  500 Adv Special Topics Visual Art: Advanced Digital Weaving
-ART  500 Adv Special Topics Visual Art: 3D Construction in Textiles
-ART  500 Adv Special Topics Visual Art: Quilting & Stitching
-ART  500 Adv Special Topics Visual Art: Naturl Dye for Fibr/Fabrc/Pntg
-ART  500 Adv Special Topics Visual Art: Gallery Practice
-ART  500 Adv Special Topics Visual Art: VanGo Mobile Arts/Servics Lrng
-ART  540 Professional Activities Seminr
-ART  575 Adv Directed Reading Visul Art
-ART  590 Internship in Visual Art
-ART  599 Individual Studies Visual Art
-ART  650 Senior Seminar I
-ART  660 Senior Seminar II
-ART  695 Directed Study I
-ART  696 Directed Study II
-ASLD  311 Introduction to Deaf Studies
-ASLD  312 Intersctionality&Deaf Commntes
-ASLD  505 Amricn Sign Language V (ASL V)
-ASLD  524 Visual-Gestural Communication
-ASLD  588 Intrnshp in Amr Sign Lang&Deaf
-ASLD  589 Research Experience in ASLD
-ASLD  604 Interpreting:  ASL to English
-ASLD  605 Interpreting:  English to ASL
-ASLD  608 Interpreting Observ Practicum
-ASLD  609 Prctcm Amr Sgn Lang Intrprtng
-ASLD  610 Psychlgcl Effcts of Intrprtng
-ASTR  191 Contemporary Astronomy
-ASTR  196 Contemporary Astronomy Lab
-ASTR  390 Undergraduate Problems
-ASTR  394 Quest for Extraterrestrial Lif
-ASTR  501 Honors Research
-ASTR  503 Undergraduate Research
-ASTR  596 Observational Astrophysics
-ASTR  691 Astrophysics I
-ATMO  105 Introductory Meteorology
-ATMO  106 Introductory Meteorology, Honr
-ATMO  220 Unusual Weather
-ATMO  321 Climate and Climate Change
-ATMO  499 Hnrs Cours Atmospheric Science
-ATMO  505 Weather Forecasting
-ATMO  606 Forecastng Pract-Private Indus
-ATMO  607 Forecstg Intern-Natnl Wthr Srv
-ATMO  640 Dynamic Meteorology
-ATMO  650 Advanced Synoptic Meteorology
-ATMO  680 Physical Meteorology
-ATMO  690 Special Problems in Meteorolgy
-ATMO  697 Seminar for Seniors
-ATMO  699 Undergraduate Research
-BAND  301 Workshop in:
-BAND  402 Wind Ensemble
-BAND  404 Symphonic Band
-BAND  406 University Band
-BAND  410 University Marching Band
-BAND  466 Directed Study:
-BASN  100 Bassoon
-BASN  101 Bassoon Reed Making
-BASN  121 Bassoon
-BASN  221 Bassoon
-BASN  300 Bassoon
-BASN  301 Bassoon Reed Making
-BASN  321 Bassoon
-BASN  421 Bassoon
-BASN  422 Bassoon
-BASN  622 Bassoon
-BASN  623 Senior Recital
-BBA  301 Business and the Economy
-BBA  302 Legal Aspects of Business
-BBA  303 Survey of Mgmt & Leadership
-BBA  305 Operations and SCM
-BBA  306 Finance
-BBA  308 Business Policy and Strategy
-BBA  309 Business Analytics
-BBA  402 Human Resources Management
-BBA  409 Management of Small Business
-BBA  413 Advanced Leadership Principles
-BCRS  104 Elemntry Bosnian/Croatn/Serb I
-BCRS  105 Elemntry Bosn/Croatn/Serbn I,H
-BCRS  204 Intermed Bosn/Croatn/Serbian I
-BCRS  205 Intermed Bosn/Croatn&Serbn I,H
-BCRS  675 Readngs Bosnian/Croatn/Serbian
-BDS  101 Design Thinking and Making
-BDS  103 Drawing for Design
-BE  301 Managerial Economics
-BE  302 Managerial Economics, Honors
-BE  305 Economics of Business
-BIOL  100 Principles of Biology
-BIOL  101 Principles of Biology, Honors
-BIOL  102 Principles of Biology Labortry
-BIOL  105 Biology Orientation Seminar
-BIOL  150 Prn Molecular&Cellular Biology
-BIOL  151 Pr Molecular&Cellular Biol,Hnr
-BIOL  152 Princpls of Organismal Biology
-BIOL  154 Intro Biol Lab for STEM Majors
-BIOL  176 First Year Seminar: Being Human at KU
-BIOL  203 Introd Microbiology Laboratory
-BIOL  210 Intro to Clinical Lab Sciences
-BIOL  240 Fundamentals of Human Anatomy
-BIOL  241 Human Anatomy Observation Lab
-BIOL  246 Principles of Human Physiology
-BIOL  247 Prncpls of Human Physiolgy Lab
-BIOL  350 Principles of Genetics
-BIOL  360 Principles of Genetics, Honors
-BIOL  370 Introduction to Biostatistics
-BIOL  400 Fundamentals of Microbiology
-BIOL  401 Fundamentals Microbiology, Hnr
-BIOL  402 Fundmntals of Microbiology Lab
-BIOL  405 Laboratory in Genetics
-BIOL  413 The Tree of Life
-BIOL  414 Principles of Ecology
-BIOL  415 Field and Lab Mthds in Ecology
-BIOL  416 Cell Structure and Function
-BIOL  420 Seminar: Chemical Cues:Sex, Food &Fight
-BIOL  420 Seminar: Ecology of Infectious Diseases
-BIOL  420 Seminar: Environmental Justice
-BIOL  420 Seminar: Practcal Approaches to Rsearch
-BIOL  420 Seminar: Machine Learning in Biology
-BIOL  420 Seminar: How to Aply to Graduate School
-BIOL  420 Seminar: Programming in R
-BIOL  420 Seminar: Scientific Writing
-BIOL  423 Non-laboratory Indepndnt Study
-BIOL  424 Independent Study
-BIOL  425 Teaching Apprntcshp in Biology
-BIOL  435 Introduction to Neurobiology
-BIOL  442 Human Anatomy Dissectn Labrtry
-BIOL  449 Lab/Field Work in Human Biolgy
-BIOL  480 Medical Parasitology
-BIOL  481 Medical Parasitology Lab
-BIOL  490 Internshp & Practicl Applicatn
-BIOL  499 Introducton to Honors Research
-BIOL  503 Immunology
-BIOL  504 Immunology Laboratory
-BIOL  509 Biology of Spiders
-BIOL  518 Bacterial Genetics
-BIOL  519 Bacterial Genetics Laboratory
-BIOL  520 Marine Biology
-BIOL  544 Comparative Animal Physiology
-BIOL  547 Mammalian Physiology Laboratry
-BIOL  599 Senior Seminar: MachineLearning forProteinDsgn
-BIOL  599 Senior Seminar: Organisms Biology
-BIOL  599 Senior Seminar: Regeneration and Aging
-BIOL  600 Introd Biochemistry, Lectures
-BIOL  606 Ecological Plant Physiology
-BIOL  612 Fundamentals of Microbiology
-BIOL  625 Behavioral Ecology&Sociobiolgy
-BIOL  636 Biochemistry I
-BIOL  637 Introductory Biochemistry Lab
-BIOL  688 Molecular Biology of Cancer
-BLAW  301 Legal Aspects of Business
-BLAW  302 Legal Aspects of Business,Hnrs
-BLAW  525 Negotiations&Dispute Settlemnt
-BSAN  202 Statistics
-BSAN  230 Intro AIO Professions
-BSAN  310 Intro to Business Analytics
-BSAN  311 Intro to Bus Analytics, Honors
-BSAN  320 Fundmtls in Application Dvlmpt
-BSAN  325 Systems Analysis and Design
-BSAN  326 Database Management Systems
-BSAN  415 Data Analysis and Forecasting
-BSAN  420 Data Visualization in Business
-BSAN  430 Marketing Analytics
-BSAN  440 Foundations in Bus Analytics
-BSAN  450 Data Mining & Pred Analytics
-BSAN  465 Customer Relationship Managmnt
-BSAN  480 Business Analytics Capstone
-BSCI  315 Expl Careers Bio & Hlth Sci
-BSCI  350 Genetics
-BSCI  351 Genetics Laboratory
-BSCI  416 Cell Structure and Function
-BSCI  421 Topics Applied Biol Science: Intro to Public Health
-BSCI  421 Topics Applied Biol Science: Population Health
-BSCI  430 Molecular Biology Laboratory
-BSCI  490 Internshp & Practicl Applicatn
-BSCI  503 Immunology
-BSCI  540 Biology Capstone I
-BSCI  546 Mammalian Physiology
-BSCI  600 Biochemistry
-BTEC  300 Research Methods in Biotech
-BTEC  305 Molecular & Microbiologic Tech
-BTEC  310 Scientific Communications
-BTEC  501 Biotech Ethics & Resp Cond Res
-BTEC  540 Biotechnology Capstone I
-BTEC  550 Applied Bioinformatics
-BTEC  599 Biotechnology Internship
-BUS  110 Intro to Professionalism
-BUS  120 Emerging Topics in Business
-BUS  150 Foundations of Business
-BUS  200 Business Leadership Seminar
-BUS  210 Career Management & Planning
-BUS  300 Special Topics in Business: Internship
-BUS  305 Business Writing
-BUS  310 Internships with Impact
-BUS  410 Professionalism Capstone
-C&PE  111 Int Chem Engineerng Professn I
-C&PE  127 Intro Petroleum Engr Professn
-C&PE  211 Material and Energy Balances
-C&PE  511 Momentum Transfer
-C&PE  512 Chem Engnerng Thermodynmcs II
-C&PE  522 Econ Appraisl Chem&Petrl Prjct
-C&PE  527 Reservoir Engineering II
-C&PE  528 Well Logging
-C&PE  601 Undergrad Tpc Chemcl&Petr Engr
-C&PE  611 Design of Unit Operations
-C&PE  615 Intro to Process Dynmcs&Contrl
-C&PE  616 Chemical Engineering Labrtry I
-C&PE  617 Drilling and Well Completion
-C&PE  625 Unconventional Reservoirs
-C&PE  627 Petroleum Production
-C&PE  651 Undergraduate Problems
-C&PE  656 Intr to Biomedical Engineering
-C&PE  661 Undergraduate Honors Research
-C&T  100 Introd to Education Profession
-C&T  175 Intro to Career Development
-C&T  220 Career Development
-C&T  235 Diversity,Equity,Inclusion K12
-C&T  290 Intro Secondary Sci&Math Tchg
-C&T  291 Intro to Science & Math Tchg 2
-C&T  301 Eductnl Technlgy Elem-Middl Ed
-C&T  302 Eductnl Tchnlgy Mid/Secndry Ed
-C&T  330 Inst Aprc ESOL Lrnrs Elem/Erly
-C&T  347 Social Stdies Elemntry Classrm
-C&T  349 Science in Elementry Classroom
-C&T  351 Mathematics Elementary Classrm
-C&T  352 Science of Reading I
-C&T  353 Sci Rd I Practicm Primry Grdes
-C&T  356 Undrstnd Dyslexia Early Chldhd
-C&T  360 Knowing&Learning Math&Science
-C&T  366 Classrm Interactions Math&Sci
-C&T  403 Professional Learning Sem III
-C&T  430 Teachng Literatur Young Adults
-C&T  448 Reading&Writing Across Curricm
-C&T  449 Undrstnd Dyslexia Spprt Stdnts
-C&T  460 Projct Basd Instructn Math&Sci
-C&T  489 Advanced Teaching Practicum
-C&T  490 Student Teaching
-C&T  491 TESOL Practm KS State Endrsmnt
-C&T  495 Sem:Devlpng Teaching Portfolio
-C&T  540 Adv Prc Tchg Engl Midl&Sec Sch
-C&T  541 Adv Prac Tchg Soc Stds Mid/Sec
-C&T  598 Special Course: StudntNavigatrs:Srvce Lrng Exp
-C&T  598 Special Course: Tch KS Gvrnm&Cntp Pub Pol Iss
-CARI  100 Carillon
-CARI  300 Carillon
-CARI  621 Carillon
-CE  101 Intro Civil Environmental Eng
-CE  201 Statics
-CE  240 Geomatics
-CE  250 Dynamics
-CE  260 Statics and Dynamics
-CE  310 Strength of Materials
-CE  312 Strength of Materials, Honors
-CE  320 Num Methods Civil Engineering
-CE  330 Fluid Mechanics
-CE  331 Fluid Mechanics Lab
-CE  412 Structural Engineering Materls
-CE  413 Structural Eng. Mat.: Honors
-CE  461 Structural Analysis
-CE  477 Intr Envrn Engineerng&Sciences
-CE  487 Soil Mechanics
-CE  490 Special Problems
-CE  495 Special Topics: ClimateChange:Assessment&Tools
-CE  495 Special Topics: Technical Writing
-CE  497 Extended Topics: Strength of Materials
-CE  497 Extended Topics: Water Resourc Engineering Dsgn
-CE  497 Extended Topics: Engineering Ethics
-CE  497 Extended Topics: Structural Analysis
-CE  501 Engineering Ethics
-CE  525 Applied Probability&Statistics
-CE  550 Life Cycle Assessment
-CE  552 Water Resourc Engineering Dsgn
-CE  562 Design of Steel Structures
-CE  563 Dsgn Reinfrcd Concrete Structr
-CE  570 Concepts of Environmental Chem
-CE  571 Environmental Engr Laboratory
-CE  582 Highway Engineering
-CE  677 Grad Fundmntl of Envrmntl Engr
-CEAS  610 Minorities in Japan
-CER  208 Ceramics I
-CER  301 Concpts&Methods:Wheel Throwing
-CER  302 Clay Handbuilding
-CER  500 Advncd Specil Topics Ceramics: Wheel Throwing
-CER  500 Advncd Specil Topics Ceramics: Advanced Ceramics
-CER  510 History of Ceramics
-CER  515 Advanced Ceramics I
-CER  520 Advanced Ceramics II
-CER  590 Internship in Ceramics
-CER  599 Individual Studies in Ceramics
-CHAM  216 Chamber Music
-CHAM  220 Baroque Ensemble
-CHAM  336 Chamber Music
-CHEM  130 General Chemistry I
-CHEM  135 General Chemistry II
-CHEM  150 Chemistry for Engineers
-CHEM  170 Chemistry for Chem Sciences I
-CHEM  180 Seminar I
-CHEM  190 Foundations of Chemistry I Hnr
-CHEM  191 Foundations Chem I Lab, Honors
-CHEM  201 Lab Safety in Chemical Science
-CHEM  330 Organic Chemistry I
-CHEM  331 Organic Chemistry I Laboratory
-CHEM  380 Organic Chemistry I, Honors
-CHEM  400 Analytical Chemistry
-CHEM  401 Analytical Chemistry Labratory
-CHEM  498 Undergraduate Research
-CHEM  510 Biological Physical Chemistry
-CHEM  520 Biolgcl Physcl Chem with Lab
-CHEM  525 Physical Chemistry for Engners
-CHEM  530 Physical Chemistry I
-CHEM  560 Intro to Chemical Biology
-CHEM  660 Inorganic Chemistry
-CHEM  695 Seminar II
-CHEM  698 Undergrad Capstone Research
-CHEM  699 Undergraduate Honors Research
-CHIN  100 Elemntry Conversatnl Chinese I
-CHIN  104 Elementary Chinese I
-CHIN  204 Intermediate Chinese I
-CHIN  498 Directed Readings in Chinese
-CHIN  504 Advanced Modern Chinese I
-CHIN  562 Modern Chinese Texts I
-CHOR  412 Oread Singers
-CHOR  414 University Singers
-CHOR  418 KU Glee
-CHOR  442 Chamber Choir
-CHOR  446 KU Treble Choir
-CHUR  320 Church Music Practicum
-CHUR  422 Bales Chorale
-CLAR  100 Clarinet
-CLAR  121 Clarinet
-CLAR  221 Clarinet
-CLAR  300 Clarinet
-CLAR  321 Clarinet
-CLAR  421 Clarinet
-CLAR  422 Clarinet
-CLAR  622 Clarinet
-CLAR  623 Senior Recital
-CLS  210 Intro to Clinical Lab Sciences
-CLS  520 Phlebotomy
-CLS  536 Hematology I
-CLS  537 Hematology I Lab
-CLS  538 Immunology
-CLS  539 Fund and Clinical Immuno Lab
-CLS  540 Clin Chemistry II
-CLS  541 Professional Development
-CLS  542 Clin Microbiology II
-CLS  543 Clin Microbiology II Lab
-CLS  544 Immunohematology I
-CLS  545 Imunhematolgy I Lb
-CLS  600 Introductory Biochemistry
-CLS  608 Intro to Adv Biotech Lecture
-CLS  609 Intro Adv Biotech Laboratory
-CLS  638 Clinical Competency Review
-CLS  639 Urinalysis
-CLS  640 Clin Chem III & Immunology II
-CLS  641 Clin Chem & Immun Prac
-CLS  642 Clin Micro IIl
-CLS  643 Clin Micro Pract
-CLS  644 Immunohematology II
-CLS  645 Immunhemo Prac
-CLS  646 Hematology III
-CLS  647 Hematology Pract
-CLS  650 Clinical Lab Science Review
-CLS  690 Special Topics
-CLSX  106 Introduction to Roman History
-CLSX  148 Greek and Roman Mythology
-CLSX  149 Greek and Roman Mythology Hnrs
-CLSX  151 Intro to Grk&Romn Archaeology
-CLSX  168 Ancient Epic Tales
-CLSX  305 Greek and Roman Art
-CLSX  320 Rmn Oratory in Theory&Practice
-CLSX  322 Alexander the Great:  Man&Myth
-CLSX  332 Medical Termnlgy:Grk&Lat Roots
-CLSX  351 Intro Grk&Rom Archaeology,Hnrs
-CLSX  360 Ancient Roots of Modrn Politcs
-CLSX  375 Studies in:
-CLSX  375 Studies in: Readings in Latin
-CLSX  507 Early Roman Empire
-CLSX  538 Pompeii and Herculaneum
-CLSX  550 Capstone in Classics
-CLSX  675 Studies in:
-CMGT  457 Construction Project Managemnt
-COMS  130 Public Speaking
-COMS  131 Public Speaking, Honors
-COMS  176 First Year Seminar: Sex, Fate and Death
-COMS  207 Intro to Political Communitctn
-COMS  210 Intro to Orgnztnl&Prof Comnctn
-COMS  231 Practicum in Forensics
-COMS  232 Introduction to Rhetoric
-COMS  244 Interpersonal Communication
-COMS  246 Intr Intercultural Communicatn
-COMS  310 Advanced Organizational Comm
-COMS  320 Communication and New Media
-COMS  322 Professional Public Speaking
-COMS  330 Effective Business Communicatn
-COMS  331 Persuasive Speaking
-COMS  335 Mass Media and Politics
-COMS  342 Problem Solvng in Teams&Groups
-COMS  350 Commncation in a Diverse World
-COMS  355 Intr Rhetoric&Social Influence
-COMS  356 Intr Bhvrl Rsrch Mthds in Comm
-COMS  410 Mirco-Lvl Organiztl Communictn
-COMS  415 Cmmnctn,Leadrshp,&Cnflict Mgmt
-COMS  440 Communication and Gender
-COMS  441 Health Communication
-COMS  447 Interculturl Comnctn:Afro-Amer
-COMS  454 Rhetoric of Popular Culture
-COMS  496 Capstone in: The Dark Side of Romance
-COMS  498 Honors Thesis
-COMS  499 Directd Stdy in Communictn Std
-COMS  530 Intrnshp in Communictn Studies
-COMS  539 Argumentation
-COND  245 Conducting I
-COND  345 Conducting II
-CRIM  115 Notorious Kansas Murders
-CRIM  300 Intro to Criminal Justice
-CRIM  310 Theor & Hist Fndns Criminology
-CRIM  330 Policing
-CRIM  340 Courts and Sentencing
-CRIM  400 Law Enforcement Leadership
-CRIM  410 Racial Justice and CJ System
-CRIM  498 Criminal Justice Internship
-CRIM  499 Capstone in Criminal Justice
-CVS  300 Patient Care I
-CVS  305 Physics I
-CVS  310 Adult Echocardiography I
-CVS  315 Clinical Practicum I
-CVS  400 Vascular Ultrasound I
-CVS  410 Pediatric Echocardiography I
-CVS  420 Clinical Practicum IV
-DANC  100 Introductn to the Dance Major
-DANC  101 Ballet I
-DANC  105 Jazz I
-DANC  210 Rhythms & Structures of Music
-DANC  213 Modern Contemporary II
-DANC  311 Ballet III
-DANC  313 Modern/Contemporary III
-DANC  317 Hip Hop Fundamentals
-DANC  320 University Dance Company
-DANC  350 Choreography III
-DANC  490 Intro Flamenco Dance Technique
-DANC  498 Directed Study in:
-DANC  530 Practicum in:
-DANC  550 Senior Project
-DANC  580 Special Topics in Dance: Commercial Dance
-DANC  580 Special Topics in Dance: Performing Gender in Dance
-DBBS  100 Double Bass
-DBBS  121 Double Bass
-DBBS  221 Double Bass
-DBBS  300 Double Bass
-DBBS  321 Double Bass
-DBBS  421 Double Bass
-DBBS  422 Double Bass
-DBBS  622 Double Bass
-DBBS  623 Senior Recital
-DRWG  213 Life Drawing I
-DRWG  314 Life Drawing II
-DRWG  318 Life Drawing II, Honors
-DRWG  515 Life Drawing III
-DRWG  516 Life Drawing IV
-DRWG  518 Life Drawing III, Honors
-DRWG  519 Life Drawing IV, Honors
-DRWG  599 Individual Studies in Drawing
-DXSC  495 Mgt, Ethics & Law in Healthcar
-DXSC  620 Community and Global Health
-DXSC  650 Medical Writing & Research
-DXSC  655 Leadership Management
-DXSC  665 Capstone Project
-EALC  105 Asian Religions
-EALC  130 Myth,Legend&Flk Beliefs E Asia
-EALC  198 Studies in: The Visual Arts of East Asia
-EALC  303 Happiness in East Asia
-EALC  312 Japan's Literary Legacy
-EALC  325 Minorities in Japan
-EALC  331 Studies in: TrnsltngEastAsnLng:Thry&Prctcm
-EALC  331 Studies in: Uyghur Culture
-EALC  331 Studies in: Modern Korean Fiction and Film
-EALC  344 Manga: Histories and Theories
-EALC  373 Modern Korean Art & Culture
-EALC  378 Art and Culture of China
-EALC  385 The Art of Buddhism
-EALC  386 Japanese Painting
-EALC  388 Mdrn&Cntmpry Visual Arts Japan
-EALC  431 Studies in: Early Chinese Art
-EALC  476 Internationl Relations of Asia
-EALC  499 Honors Thesis
-EALC  509 Religion in Japan
-EALC  584 Modern China
-EALC  585 Politics and Society in China
-EALC  590 Tpcs in East Asian Lang&Cultr: Advanced Uyghur I
-EALC  590 Tpcs in East Asian Lang&Cultr:
-EALC  610 Minorities in Japan
-ECIV  104 Eastern Civilizations
-ECON  104 Introductory Economics
-ECON  142 Principles of Microeconomics
-ECON  143 Princpls of Microeconomics,Hnr
-ECON  144 Principles of Macroeconomics
-ECON  199 Data I:  Dealing with Data
-ECON  310 Topics in Applied Economics: Economics of Climate Change
-ECON  426 Statistics and Data Analysis
-ECON  509 Sports Economics
-ECON  510 Energy Economics
-ECON  520 Microeconomics
-ECON  522 Macroeconomics
-ECON  526 Introduction to Econometrics
-ECON  564 Topics in Applied Economics: Money,Banking & Financial Mkts
-ECON  564 Topics in Applied Economics: Economics of Climate Change
-ECON  590 Game Theory
-ECON  597 Research in Economics
-ECON  600 Money and Banking
-ECON  604 International Trade
-ECON  622 Public Finance
-ECON  630 Indust Organz&Antitrust Policy
-ECON  696 Research Methods in Economics
-ECON  697 Senior Research Honors
-EDUC  698 Profesnl Devlpmnt Micro-Cred: Personalize Education
-EECS  101 New Student Seminar
-EECS  138 Introduction to Computing: Python
-EECS  140 Introd to Digital Logic Design
-EECS  141 Intro to Digital Logic: Honors
-EECS  168 Programming I
-EECS  169 Programming I:  Honors
-EECS  202 Circuits I
-EECS  210 Discrete Structures
-EECS  212 Circuits II
-EECS  220 Electromagnetics I
-EECS  268 Programming II
-EECS  312 Electronic Circuits I
-EECS  330 Data Structures and Algorithms
-EECS  348 Software Engineering I
-EECS  361 Signal and System Analysis
-EECS  388 Embedded Systems
-EECS  399 Projects
-EECS  420 Electromagnetics II
-EECS  447 Introductn to Database Systems
-EECS  461 Probability and Statistics
-EECS  465 Cyber Defense
-EECS  468 Programming Paradigms
-EECS  470 Elctr Devices&Proprt of Matrls
-EECS  498 Honors Research
-EECS  501 Senior Design Laboratory I
-EECS  510 Introdn to Theory of Computing
-EECS  541 Computer Systems Design Labr I
-EECS  545 Electrc Energy Prductn&Storage
-EECS  547 Power System Analysis
-EECS  563 Intr to Communication Networks
-EECS  565 Intro Informatn&Cmptr Security
-EECS  568 Introduction to Data Mining
-EECS  569 Computer Forensics
-EECS  581 Software Engineering II
-EECS  622 Microwav&Radio Transmsn Systms
-EECS  630 Adv Data Structures & Algothms
-EECS  639 Intro to Scientific Computing
-EECS  643 Computer Architecture
-EECS  644 Intr Digital Signal Processing
-EECS  645 Computer Systems Architecture
-EECS  658 Intro to Machine Learning
-EECS  662 Programming Languages
-EECS  665 Compiler Construction
-EECS  677 Advnced Software Security Eval
-EECS  678 Introdctn to Operating Systems
-EECS  685 Intro to IoT Security
-EECS  690 Special Topics: Embedded ML
-EECS  690 Special Topics: Hardware Security
-EECS  692 Directed Reading
-ELPS  250 Education and Society
-ELPS  537 Governance&Organiztn Schools
-ENGL  101 Composition
-ENGL  102 Critical Reading and Writing
-ENGL  105 Honors Introduction to English
-ENGL  203 Topics in Reading and Writing: Professional Communication
-ENGL  203 Topics in Reading and Writing: Literature of Sports
-ENGL  205 Freshman-Sophmr Honors Prosem: Ways of Seeing
-ENGL  210 Introduction to Poetry
-ENGL  220 Introduction to Creative Writi
-ENGL  300 Introdction to English Studies
-ENGL  309 The British Novel
-ENGL  312 Major British Writers to 1800
-ENGL  322 American Literature II
-ENGL  328 Literature and Film: 20th Century American Noir
-ENGL  329 Topics in Forms and Genres: Fanfiction
-ENGL  340 Tpcs in US Ethnic Literature: Early Indigenous & Afr-Amr Lit
-ENGL  351 Fiction Writing I
-ENGL  352 Poetry Writing I
-ENGL  354 Playwriting I
-ENGL  355 Nonfiction Writing I
-ENGL  359 English Grammar
-ENGL  360 Topics in Writing: Queer Ecologies
-ENGL  362 Foundatns of Technical Writing
-ENGL  380 Intro to Rhetoric &Composition
-ENGL  383 Cultural Rhetorics
-ENGL  390 Studies in: Muslim Women's Autobiography
-ENGL  494 Research Internship
-ENGL  495 Directed Study:
-ENGL  496 Internship
-ENGL  497 Service Learning Internship
-ENGL  508 Contemporary Literary Theory
-ENGL  521 Adv Tpc Brit Lit Before 1800: Epic: Heroes, Gods, & Rebels
-ENGL  551 Fiction Writing II
-ENGL  552 Poetry Writing II
-ENGL  570 Topics in American Literature: Fascist Takeover Novel
-ENGL  580 Rhetoric and Writing: Neurorhetorics
-ENGL  598 Honors Proseminar: Rhetorics & Politics of Horror
-ENGL  599 Honors Essay
-ENGR  101 Engr Academic Success Seminar
-ENGR  111 Freshman Self Seminar
-ENGR  112 Sophomore Self Seminar
-ENGR  113 Junior Self Seminar
-ENGR  114 Senior Self Seminar
-ENGR  300 Cooprtv Engr Educatn Experienc
-ENGR  490 Engineering Internship
-ENGR  504 Technicl Writing for Engineers
-ENTR  410 Building ENTR Competency
-ENTR  430 Corporate Entrepreneurship
-ENTR  450 Entrepreneurship Capstone
-ENTR  460 Entrepreneurial Finance
-ENTR  470 Entrepreneurial Marketing
-EPHX  210 Generl Physics I for Engineers
-EPHX  501 Honors Research
-EPHX  503 Undergraduate Research
-EPHX  518 Mathematical Physics
-EPHX  521 Mechanics I
-EPHX  531 Electricity and Magnetism
-EPHX  536 Electronic Circuit Msrmnt&Dsgn
-EPHX  616 Physical Measurements
-EPHX  641 Introduction to Nuclear Physcs
-EPHX  661 Intro Elemntry Particle Physcs
-EPHX  671 Thermal Physics
-EPHX  681 Intro Solid State Physics
-EPSY  306 Develpmnt&Learng of Adolescent
-EPSY  310 Career and Life Planning
-EPSY  480 Prom Stu Soc-Emotio Well-Being
-EPSY  497 Independent Study
-EPSY  575 Internship Exploration
-EPSY  598 Special Course: Applied Stress Management
-EUPH  100 Euphonium
-EUPH  121 Euphonium
-EUPH  221 Euphonium
-EUPH  300 Euphonium
-EUPH  321 Euphonium
-EUPH  421 Euphonium
-EUPH  422 Euphonium
-EUPH  622 Euphonium
-EUPH  623 Senior Recital
-EURS  511 Topics in European Studies: German Literature&Modern Era
-EURS  604 The European Union
-EVRN  140 Globl Envr I:Discvry Envr Chng
-EVRN  144 Glbl Evrn I:Dscvry Evrn Chg,Hn
-EVRN  148 Scientfc Princpls Envrnmt Stds
-EVRN  160 Environmental Solutions
-EVRN  320 Environmental Policy Analysis
-EVRN  336 Ethics, Ideas and Nature
-EVRN  338 Permaculture Design
-EVRN  372 Rel and Envrmt in the US
-EVRN  375 Radical Environmentalism in US
-EVRN  377 Glbl Prspc Climate Change Litr
-EVRN  384 Environment, Power, & Justice
-EVRN  412 Ecology: Fndmntls&Applications
-EVRN  414 Principles of Ecology
-EVRN  420 Topics Environmental Studies: Evnironmental Data Analysis
-EVRN  420 Topics Environmental Studies: Queer Ecologies
-EVRN  420 Topics Environmental Studies: Rainforest Conservatn & Devel
-EVRN  440 Soil Sci for Envrnmntl Assemnt
-EVRN  445 Intro to Environmental Health
-EVRN  453 Community Resilience
-EVRN  460 Field Ecology
-EVRN  490 Evironmental Studies Internshp
-EVRN  491 Capstone Internship
-EVRN  543 Natural Hazards&Envrnmnt Risks
-EVRN  624 Independent Study
-EVRN  625 Hnrs Rsrch in Environmntl Stdy
-EVRN  628 The Politics of Public Health
-EVRN  673 Environmental Justice
-EXM  274 Expanded Media
-EXM  301 The Digital Image I
-EXM  307 Installation Art I
-EXM  546 Graduate Expanded Media V
-EXM  577 Installation Art II
-EXM  599 Individul Studies Expand Media
-FIN  101 Personal Finance
-FIN  208 Principles of Insurance
-FIN  230 Intro to Finance Profession
-FIN  301 Personal Finance
-FIN  302 Financ Schlrs I:Intro Fin Inst
-FIN  305 Finance and Accounting
-FIN  310 Finance
-FIN  311 Finance, Honors
-FIN  324 Risk Management Foundations
-FIN  330 Intro Financial Plang&Retiremt
-FIN  408 Principles of Insurance
-FIN  410 Investment Theory&Applications
-FIN  411 Invstmnt Theory&Applicatn,Hnrs
-FIN  413 Financl Markets&Intermediaries
-FIN  415 Corporate Finance
-FIN  422 Financial Modeling
-FIN  424 Enterprise Risk Management
-FIN  425 Futures and Options
-FIN  428 Real Estate Investment
-FIN  435 Commercial Banking
-FIN  445 Fixed Income
-FIN  450 Applied Portfolio Mangmnt,Hnrs
-FIN  462 Mergers and Acquisitions
-FIN  470 Trading Strategies
-FIN  600 Advanced Portfolio Management
-FLUT  100 Flute
-FLUT  121 Flute
-FLUT  221 Flute
-FLUT  300 Flute
-FLUT  321 Flute
-FLUT  421 Flute
-FLUT  422 Flute
-FLUT  622 Flute
-FLUT  623 Senior Recital
-FMS  100 Introduction to Film and Media
-FMS  101 Intro to Film and Media,Honors
-FMS  200 Film and Media Aesthetics
-FMS  273 Basic Screenwritng
-FMS  275 Basic Video Production
-FMS  303 Undergrad Production Semnr in: Acting for the Camera
-FMS  303 Undergrad Production Semnr in: Scoring for Screen Media
-FMS  303 Undergrad Production Semnr in: Scheduling & Budgetng for Film
-FMS  303 Undergrad Production Semnr in: Non-Fiction Film Production
-FMS  307 Undergrad Film/Media Intrnship
-FMS  310 History of the Silent Film
-FMS  312 Hist Intrntl Sound Flm to 1950
-FMS  330 Cinematic Rome
-FMS  340 Film and Media Theory
-FMS  355 Storytelling w/ Digital Media
-FMS  375 Intermediate Video Production
-FMS  380 American Popular Culture of: Atomic Cinema
-FMS  392 Documentary Film and Video
-FMS  399 Cinematic Rome, Honors
-FMS  485 Capstone in Film&Media Studies
-FMS  498 Honors Seminar
-FMS  499 Directed Study in Film
-FMS  673 Problems in Basic Screenwritng
-FMS  675 Problms Basic Video Production
-FREN  110 Elementary French I
-FREN  111 Introduction to French I
-FREN  120 Elementary French II
-FREN  177 First Year Seminar: Knights,Damsels,&Magical Lands
-FREN  177 First Year Seminar: Subversive Sci-Fi
-FREN  230 Intermediate French I
-FREN  240 Intermediate French II
-FREN  301 French Written and Oral Comm 1
-FREN  310 French Phonetics
-FREN  326 Introdctn to French Literature
-FREN  380 Middle Ages in Modern Imagnatn
-FREN  480 Studies in French Literature: The Grotesque & The Obscene
-FREN  481 Sci-Fi & Fantasy in French
-FREN  495 Directed Readings in French
-FREN  499 Honors in French
-FREN  500 Advanced French Phonetics
-FRHN  100 French Horn
-FRHN  121 French Horn
-FRHN  221 French Horn
-FRHN  252 Horn Ensemble
-FRHN  300 French Horn
-FRHN  321 French Horn
-FRHN  421 French Horn
-FRHN  422 French Horn
-FRHN  622 French Horn
-FRHN  623 Senior Recital
-FRHN  652 Horn Ensemble
-FRSP     XXXX Study Abroad Program
-GEOG  100 World Regional Geography
-GEOG  102 People, Place, and Society
-GEOG  104 Intro to Physical Geography
-GEOG  105 Intr Lab in Physical Geography
-GEOG  140 Globl Envr I:Discvry Envr Chng
-GEOG  144 Glbl Evrn I:Dscvry Evrn Chg,Hn
-GEOG  148 Scientfc Princpls Envrnmt Stds
-GEOG  150 Environment, Culture & Society
-GEOG  160 Environmental Solutions
-GEOG  201 Culture and Health
-GEOG  202 Culture and Health, Honors
-GEOG  303 Happiness in East Asia
-GEOG  311 Introd Cart & Geovisualization
-GEOG  316 Mthd Analyzing Geographcl Data
-GEOG  321 Climate and Climate Change
-GEOG  351 Africa's Human Geographies
-GEOG  358 Intro to Geog Informtn Systems
-GEOG  370 Introductn Cultural Geography
-GEOG  399 Topics in Regional Studies: Pan American Summit
-GEOG  490 Geographic Internship
-GEOG  498 Special Topics in Geography:
-GEOG  499 Honors Course in Geography
-GEOG  512 Adv Cartgrphy&Geovisualization
-GEOG  528 Spatial Databases
-GEOG  531 Topics in Physical Geography: Soils and Geomorphology
-GEOG  571 Topics in Cultural Geography: Rainforest Conservatn & Devel
-GEOG  658 Topics in Geospatial Technlgy: Intro to Geog Informtn Systems
-GEOL  101 The Way The Earth Works
-GEOL  103 Geology Fundamntals Laboratory
-GEOL  105 History of the Earth
-GEOL  121 Life Through Time:DNA to Dinos
-GEOL  122 Life Thru Time:DNA to Dino Lab
-GEOL  171 Earthquakes &Natural Disasters
-GEOL  172 EQs & Natural Disasters Lab
-GEOL  190 Intro Quantitative Geoscience
-GEOL  302 Oceanography
-GEOL  311 Mineralogy &Structure of Earth
-GEOL  312 Mineral Strctrs&Equilibria Lab
-GEOL  315 Gemstones
-GEOL  351 Environmental Geology
-GEOL  360 Field Investigation
-GEOL  391 Special Studies in Geology
-GEOL  399 Senior Honors Research
-GEOL  501 Simple Error Analysis Earth Sc
-GEOL  535 Petroleum & Subsurface Geology
-GEOL  536 Geological Log Analysis
-GEOL  539 Sequence Stratigraphy
-GEOL  554 Contaminants in Groundwater
-GEOL  572 Geophysics
-GEOL  591 Topics in Geology: Geochronology
-GEOL  591 Topics in Geology: Carbonate Depositional Systems
-GEOL  591 Topics in Geology: Soils and Geomorphology
-GEOL  591 Topics in Geology: Quantitat​ive Geosci for Grads
-GEOL  591 Topics in Geology: Contaminated Site Workshop
-GEOL  591 Topics in Geology: Crustal Deformation
-GEOL  591 Topics in Geology: Contaminant Hydro Field Trip
-GEOL  591 Topics in Geology: Geo Lic Exam Prep
-GEOL  591 Topics in Geology: Paleoclimatology
-GERM  104 Elementary German I
-GERM  108 Elementary German II
-GERM  111 Introduction to German I
-GERM  145 Fairy Tales Grimm Disney &Bynd
-GERM  177 First Year Seminar: Marx & Marxims Germ Cultr&Bynd
-GERM  201 Intermediate German I
-GERM  202 Intermediate German II
-GERM  301 High Intermediate German I
-GERM  315 Mgic, Mrdr, Mnstrs: German Lit
-GERM  336 German Transatlantic Expernce
-GERM  341 Hitler and Nazi Germany
-GERM  453 Investigation and Conference:
-GIST  205 Muslim Lives: Poltcs,Cultr,Soc
-GIST  210 Culture and Health
-GIST  211 Culture and Health, Honors
-GIST  220 Introdctn Globl&Intrntl Stdies
-GIST  302 Happiness in East Asia
-GIST  308 Key Themes Modern Global Hist
-GIST  321 Graphic Novels as Memory
-GIST  329 Israli-Palstnan CnfIc:An Intro
-GIST  351 Islam
-GIST  355 International Women's Rights
-GIST  495 Global Internship
-GIST  503 Advnd Topics Middle East Stds: Politics and Gov't in Israel
-GIST  503 Advnd Topics Middle East Stds: Israel: From Idea to State
-GIST  550 Issues in Global Studies: Elect & Polit Parties in World
-GIST  570 Anthropology of Violence
-GIST  610 Intrdscplnry Mthds Globl Cntxt
-GRK  104 Elementary Ancient Greek
-GRK  105 Elementary Ancient Greek, Hnrs
-GRK  301 Philosophy and Oratory
-GRK  375 Readings in: Homer
-GRK  496 Honors Essay in Greek
-GUIT  100 Guitar
-GUIT  102 Beginning Group Guitar
-GUIT  121 Guitar
-GUIT  221 Guitar
-GUIT  300 Guitar
-GUIT  321 Guitar
-GUIT  421 Guitar
-GUIT  422 Guitar
-GUIT  622 Guitar
-HA  100 Intro to Western Art History
-HA  150 Hist Wstrn Art:Ancnt Thru Mdvl
-HA  151 Hist Wstrn Art:Rnasnc to Cntmp
-HA  166 The Visual Arts of East Asia
-HA  300 Intro to Western Art History
-HA  305 Special Study: Art of Early Mod Spanish World
-HA  330 Italian Renaissance Art
-HA  344 Manga: Histories and Theories
-HA  363 Modern Korean Art & Culture
-HA  368 Art and Culture of China
-HA  376 Rubens,Rmbrandt,Vrmeer:N.Baroq
-HA  380 History of Photography
-HA  385 The Art of Buddhism
-HA  386 Japanese Painting
-HA  388 Mdrn&Cntmpry Visual Arts Japan
-HA  392 Special Study in Ancient Art: Greek & Roman Archaeology
-HA  505 Special Study: Art of Early Mod Spanish World
-HA  510 Medevl Mnuscrpt&Erly Prntd Bks
-HA  538 Pompeii and Herculaneum
-HA  545 Early Chinese Art
-HA  550 Capstone in Art History: Rubens/Rmbrandt/Vrmeer:N.Baroq
-HA  550 Capstone in Art History: The Art of Buddhism
-HA  550 Capstone in Art History: Modern & Comtemp Art of Japan
-HA  550 Capstone in Art History: Japanese Painting
-HA  550 Capstone in Art History: Early Chinese Art
-HA  550 Capstone in Art History: Art of Early Mod Spanish World
-HA  576 Rubens/Rmbrandt/Vrmeer:N.Baroq
-HA  585 The Art of Buddhism
-HA  586 Japanese Painting
-HA  588 Mdrn&Cntempory Visual Arts Jpn
-HAIT  110 Elementary Haitian I
-HAIT  120 Elementary Haitian II
-HAIT  230 Intermediate Haitian I
-HAIT  500 Dirct Stds in Haitian Lang&Lit
-HAIT  501 Dirctd Stds in Haitian Culture
-HARP  100 Harp
-HARP  121 Harp
-HARP  221 Harp
-HARP  300 Harp
-HARP  321 Harp
-HARP  421 Harp
-HARP  422 Harp
-HARP  622 Harp
-HARP  623 Senior Recital
-HEBR  110 Elementary Modern Hebrew I
-HEBR  210 Intermediate Modern Hebrew I
-HEBR  300 Topics in Hebrew: Hbrw in Song:Israeli Pop Mus I
-HEBR  490 Independent Study
-HEIM  210 Introduction to Healthcare
-HEIM  230 Medical Terminology
-HEIM  401 Intro Hlth Inform Mgmt (HIM)
-HEIM  415 Healthcare Delivery Systems
-HEIM  425 Pharm Cncpts for Hlth Info Mgt
-HEIM  435 Clinical Concepts for HIM
-HEIM  485 Indp Stdy Hlth Inf
-HEIM  501 Inform Res & Professional Dev
-HEIM  510 Prof Pract Exper / Lab I
-HEIM  567 Qual&Perf Improvmnt in Hlthcre
-HEIM  570 Intro to Hlthcare Management
-HEIM  571 Human Resource Mgt in Hlthcare
-HEIM  575 Appld Stats & Res Meth Hlthcar
-HEIM  585 Healthcare Reimbursement
-HEIM  635 Clin Terminol & Clasifctons II
-HIST  104 Intro to African History
-HIST  106 Introduction to Roman History
-HIST  109 The Black Experience Americas
-HIST  114 Renaissnc-Rev:Europe 1500-1789
-HIST  120 Colonial Latin America
-HIST  121 Modern Latin America
-HIST  124 Latin American Culture&Society
-HIST  128 Histry of US Through Civil War
-HIST  129 Hist of US After the Civil War
-HIST  150 Introduction to Food History:
-HIST  160 Introdctn West African History
-HIST  176 First Year Seminar: History of Gaming
-HIST  301 The Historian's Craft
-HIST  307 Modern Africa, Honors
-HIST  308 Key Themes Modern Global Hist
-HIST  309 Empire and Medicine
-HIST  315 Modern Latin America
-HIST  326 Natv Am Confront Europn Empire
-HIST  336 Ethics, Ideas and Nature
-HIST  341 Hitler and Nazi Germany
-HIST  351 Amrcn Indn&Whte Rlatns to 1865
-HIST  355 U.S. Borderlands Since 1848
-HIST  356 At the Movies: US History
-HIST  358 The Vietnam War
-HIST  387 Alexander the Great: Man&Myth
-HIST  389 Topics in Western History: 2024 Election in Histrcl Cntxt
-HIST  389 Topics in Western History: Cultural Heritage of Ukraine
-HIST  389 Topics in Western History: Art of Early Mod Spanish World
-HIST  389 Topics in Western History: Rubens/Rmbrandt/Vrmeer:N.Baroq
-HIST  390 Topics in Non-Western History: Modern Korean Art & Culture
-HIST  390 Topics in Non-Western History: Early Chinese Art
-HIST  390 Topics in Non-Western History: Israel: From Idea to State
-HIST  441 Aviation in American Culture
-HIST  475 Professional Skills Humanities
-HIST  492 Readings in History
-HIST  493 History Research Internship
-HIST  501 Topics in Western History: Art of Early Mod Spanish World
-HIST  507 Early Roman Empire
-HIST  512 Foodways:  Latin America
-HIST  517 The Seventies:American History
-HIST  571 Pre-Hispnc Mexico&Centrl Amrca
-HIST  584 Modern China
-HIST  598 Sexuality&Gender Africa Histry
-HIST  690 Honors Course in History
-HIST  696 Seminar in: Historical Studies
-HMGT  300 Intro to Healthcare Management
-HMGT  310 Health Communication
-HMGT  450 Econ & Finance of Healthcare
-HNRS  190 First Year Honors Seminar: Culture Out of Bounds
-HNRS  190 First Year Honors Seminar: Mindfulness in Modern World
-HNRS  190 First Year Honors Seminar: Humor from Margins French Lit
-HNRS  190 First Year Honors Seminar: Technology and the Cold War
-HNRS  190 First Year Honors Seminar: Nuclear Chem in Modern Society
-HNRS  190 First Year Honors Seminar: Glbl Citznship&Ethics of Travl
-HNRS  190 First Year Honors Seminar: So You Want to be a Writer?
-HNRS  190 First Year Honors Seminar: Archaeology as Storytelling
-HNRS  190 First Year Honors Seminar: Consme OurWaytoaBetter World?
-HNRS  190 First Year Honors Seminar: Exploring Disney's World
-HNRS  190 First Year Honors Seminar: Propaganda 101
-HNRS  190 First Year Honors Seminar: Mixed-up
-HNRS  190 First Year Honors Seminar: HortiCULTural:People+Plants
-HNRS  190 First Year Honors Seminar: Drawing on Experience
-HNRS  190 First Year Honors Seminar: Computers Demystified
-HNRS  190 First Year Honors Seminar: Society at Play(station)
-HNRS  190 First Year Honors Seminar: Who is a Refugee?
-HNRS  190 First Year Honors Seminar: Climate Change Literature
-HNRS  190 First Year Honors Seminar: Success, Failure, & Science
-HNRS  190 First Year Honors Seminar: #StickToSports: Politics&Sport
-HNRS  190 First Year Honors Seminar: Student Protest&The University
-HNRS  190 First Year Honors Seminar: Race,Memry&StrytellngInAmrHist
-HNRS  190 First Year Honors Seminar: The Death of Socrates
-HNRS  190 First Year Honors Seminar: CulturlCrssroads:Palstne/Isral
-HNRS  190 First Year Honors Seminar: Culture and Science Fiction
-HNRS  190 First Year Honors Seminar: Secrets of Conspiracy Theories
-HNRS  190 First Year Honors Seminar: UndrstndgKSMexicn&ChicanxHstry
-HNRS  190 First Year Honors Seminar: Energy Policy:  Be the Change
-HNRS  190 First Year Honors Seminar: The Sociology of Taylor Swift
-HNRS  190 First Year Honors Seminar: Monsters 101
-HNRS  190 First Year Honors Seminar: Lawrence as a Livability Lab
-HNRS  190 First Year Honors Seminar: The Creative Mindset
-HNRS  190 First Year Honors Seminar: Virtuality is Reality
-HNRS  190 First Year Honors Seminar: Ecolgy,Disability,Sustainablty
-HNRS  190 First Year Honors Seminar: Exoplanets:WrldsByndOurSlrSyst
-HNRS  190 First Year Honors Seminar: Inside Museums
-HNRS  190 First Year Honors Seminar: Slavery Narratives in Americas
-HNRS  195 Transfer Honors Seminar: Connect,Lrn,ActforaCommonCause
-HNRS  370 Personal Writing Seminar
-HNRS  410 Professnl Responsibility,Hnrs: Upr Lvl Tutrl:Explr Amr Lgl Sy
-HNRS  410 Professnl Responsibility,Hnrs: Health Care:The American Model
-HNRS  492 Topics and Problems on: Character,Engagement & Society
-HNRS  496 Honors Internship
-HNRS  497 Honors Seminar Assistantship
-HPCD  100 Harpsichord
-HPCD  300 Harpsichord
-HPCD  621 Harpsichord
-HSCI  315 Exploring Careers Health Sci
-HSCI  320 Principles of Nutrition
-HSCI  340 Introduction to Public Health
-HSCI  420 Nutrition Through Life Cycle
-HSCI  421 Public Health Nutrition
-HSCI  422 Nutrition Assessment
-HSCI  425 Nutrition Education
-HSCI  441 Population Health
-HSCI  495 MCAT Preparation Course
-HSCI  498 Pathways in Health Sci Careers
-HSCI  499 Topics in Health Sciences: Microbiology for Hlth Sciences
-HSCI  599 Health Science Capstone
-HSES  108 Basic Skill Instruction in: Adaptv Physcl Educ
-HSES  108 Basic Skill Instruction in: Stretch and Mindfulness
-HSES  108 Basic Skill Instruction in: Basketball
-HSES  108 Basic Skill Instruction in: Weight Trng Mn&Wmn
-HSES  108 Basic Skill Instruction in: Women's Strength Training
-HSES  108 Basic Skill Instruction in: Yoga Basics
-HSES  108 Basic Skill Instruction in: Pickleball
-HSES  201 Team Sports
-HSES  236 Practicum in: Coaching
-HSES  236 Practicum in: Elemntry Physcl Ed
-HSES  244 Intro Physical Ed&Sport Studes
-HSES  260 Personal and Community Health
-HSES  269 Introductn to Exercise Science
-HSES  279 Intro to Community Health
-HSES  289 Introductn to Sport Management
-HSES  299 Careers in Sport Management
-HSES  302 Practcm Adptv Phycl Educ PK-12
-HSES  305 Mthds Strength Training&Cndtng
-HSES  306 Principles of Personl Training
-HSES  307 Tactical Strength&Conditioning
-HSES  310 Research&Data Analysis in HSES
-HSES  315 Methods Teaching Elementary PE
-HSES  330 Principles of Nutrition&Health
-HSES  331 Sport and Exercise Nutrition
-HSES  335 Clinical Field Experience
-HSES  340 Instrc Strat in Motor Devlpmnt
-HSES  341 Instrc Strat Phys Ed Elem Tchr
-HSES  350 Care&Prevntn Athletic Injuries
-HSES  365 Peer Health Education
-HSES  369 Kinesiology
-HSES  372 Exercise Physiology
-HSES  373 Clinical Exercise Physiology
-HSES  375 Nuromsclr Exrcs Phys&Mtr Cntrl
-HSES  380 Sociology of Sport
-HSES  381 Sport Ethics
-HSES  382 Sport Facilities&Event Managmt
-HSES  384 Sport Law
-HSES  403 Health Behavior Theory
-HSES  410 Program Design in Phys Educatn
-HSES  418 Health Aspects of Aging
-HSES  430 Foundations of Health Educatn
-HSES  470 Biomechanics
-HSES  473 Clinical Fit Evaltn Techniques
-HSES  474 Exercise Biochemistry
-HSES  475 Undergraduate Research in HSES
-HSES  481 Sport Fundraising& Sponsorship
-HSES  483 Sport Finance and Economics
-HSES  485 Sport Communication
-HSES  486 Sport Marketing
-HSES  487 Personnel Management in Sport
-HSES  488 Pre-Internship Seminar
-HSES  491 Foundations of NIL
-HSES  492 Athlete and Personal Branding
-HSES  493 Content Creation in Sport
-HSES  497 Independent Study
-HSES  499 Internship in Sport Management
-HSES  500 Student Teaching in Physcl Ed
-HSES  501 Seminar in Teaching Phys Ed
-HSES  578 Health Internship Seminar
-HSES  580 Internship in: Exercise Science
-HSES  580 Internship in: Health
-HSES  598 Special Course: Experiential Learning in Sport
-HSES  598 Special Course: Intro to Sport Science
-HUM  205 Western Civilization II
-HUM  348 Amrcn Indn&Whte Rlatns to 1865
-HUM  373 Aviation in American Culture
-HUM  538 Pompeii and Herculaneum
-HUM  552 Foodways:  Latin America
-IA  205 Profsnl Communications Skills
-IA  208 Interior Architecture Studio I
-IA  210 Humn Factors in the Blt Evrnmt
-IA  308 Interior Arch Studio III
-IA  322 Furniture Design
-IA  359 Special Problems:
-IA  401 Professional Internship
-IBUS  410 Intro to Internationl Business
-IBUS  462 Comparatve&Cross-Cultural Mgmt
-IBUS  480 International Management
-ILLU  205 Drawing Media Illustration I
-ILLU  215 Illustration 2nd-Year Studio I
-ILLU  320 Concept Art I
-ILLU  330 Third-Year Studio I
-ILLU  510 Advanced Animation
-ILLU  535 Promo & Marketing for ILLU I
-INDD  210 ID Second-Year Studio I
-INDD  214 Drawing Industrial Design II
-INDD  310 ID Third-Year Studio I
-INDD  315 Human Factors and Ergonomics
-INDD  320 Directed Readings in INDD
-INDD  378 Problems in Industrial Design: Design Research
-INDD  378 Problems in Industrial Design: Interaction Design
-INDD  380 Footwear Design Lab
-INDD  430 Industrial Design Portfolio
-INDD  580 Senior Industrial Desgn Studio
-ISP  204 Special Topics: Cltrl Well-Being:Cncpts/Practs
-ISP  204 Special Topics: Cultural Geography
-ISP  204 Special Topics: Intro into Oral History
-ISP  204 Special Topics: Intro to Tribal Management
-ISP  204 Special Topics: The Boarding School Experience
-ISP  204 Special Topics: DoingBusinessInNativeCommuntes
-ISP  204 Special Topics: Intercultural Communication
-ISP  204 Special Topics: Intro Native Games/Activities
-ISP  204 Special Topics: Diabetes & Native American
-ISP  204 Special Topics: American Indian Issues I
-ISP  204 Special Topics: Chemical Dpndncy&NtvAmrcns
-ISP  204 Special Topics: Hist of Nrth Amrcn Indian Trbe
-ISP  204 Special Topics: US History Since Civil War
-ISP  204 Special Topics: US History Through Civil War
-ISP  304 Special Topics: American Indian Film
-ISP  304 Special Topics: Am Indn Treaties & Agreements
-ISP  304 Special Topics: Envrmntl Prtcton in Indn Cntry
-ISP  304 Special Topics:
-ISP  304 Special Topics: Foundations of Indigenous Phil
-ISP  304 Special Topics: Theories of Decolnztn&Indgnztn
-ISP  304 Special Topics: Indian Law & Legislation I
-ISP  304 Special Topics: Indegnous Amrcn Exp Since 1890
-ISP  304 Special Topics: Intro Rsrch Mthds Am Ind Stdes
-ISP  304 Special Topics: Law&Amrcn Indn Relgous Freedom
-ISP  304 Special Topics: Records & Info Mgmt I
-ISP  304 Special Topics: Native American Rhetoric
-ISP  304 Special Topics: Tribal Resources&Econ Devlpmnt
-ISP  304 Special Topics: Native/Western Views of Nature
-ISP  304 Special Topics: Mgmt&Preserv of Archvl Materl
-ISP  304 Special Topics: Integrated Rangeland Planning
-ISP  304 Special Topics: Native American Religions
-ISP  348 Amrcn Indn&Whte Rlatns to 1865
-ISP  504 Topics Indigenous Studies: Intro to Tribal Legal Studies
-ISP  504 Topics Indigenous Studies: Elementary Kaqchikel Maya I
-ISP  504 Topics Indigenous Studies: Intermediate Quechua I
-ISP  504 Topics Indigenous Studies: Advanced Kaqchikel Maya I
-ISP  504 Topics Indigenous Studies: Elementary Yucatec Maya I
-ISP  504 Topics Indigenous Studies: Intermediate Yucatec Maya I
-ISP  504 Topics Indigenous Studies: Advanced Yucatec Maya I
-ISP  504 Topics Indigenous Studies: Intermediate Kaqchikel Maya I
-ISP  504 Topics Indigenous Studies: Dir Stdy Quechua Language&Cltr
-ISP  552 Foodways:  Latin America
-ISP  673 Environmental Justice
-IST  204 Excel Essentials for Business
-IST  230 Intro AIO Professions
-IST  310 Intro Info & Mgmt Prod Systems
-IST  320 Fundamntls of Software Dvlpmnt
-IST  325 Systems Analysis and Design
-IST  326 Database Management Systems
-IST  330 Fndmntl Businss Computr Ntwrkg
-IST  401 Mgmt of Integrtd Infor Sys/ERP
-IST  405 Contemporary Info Tech Topics
-IST  410 IT Project Management
-IST  435 Information Security
-IST  495 Foundations Business Analytics
-IST  500 Indv Rsch Informtn Systms Tech
-ITAL  110 Elementary Italian I
-ITAL  120 Elementary Italian II
-ITAL  177 First Year Seminar: "That's Amore": On Love
-ITAL  230 Intermediate Italian I
-ITAL  240 Intermediate Italian II
-ITAL  300 Composition and Conversation
-ITAL  330 Cinematic Rome
-ITAL  399 Cinematic Rome, Honors
-ITAL  405 Italian Literatur Translation: Dante's Inferno
-ITAL  499 Honors in Italian
-ITEC  302 Introduction to Programming
-ITEC  303 Discrete Math IT Professionals
-ITEC  314 Fund of Applied Data Analytics
-ITEC  316 Database Applications
-ITEC  342 Information Security Managemnt
-ITEC  380 Managing IT Projects
-ITEC  399 Directed Reading in ITEC
-ITEC  406 Data Mining and Intelligence
-ITEC  410 Software Engineering&Managmnt
-ITEC  414 Database Design
-ITEC  416 System Integration&Architectre
-ITEC  420 Operating Systems
-ITEC  422 Computer Networks
-ITEC  426 Cyber Defense & Countermeasure
-ITEC  428 Testing Vulnerability Analysis
-ITEC  430 Human-Computer Interaction
-ITEC  490 ITEC Capstone
-ITEC  492 ITEC Capstone II
-IXD  402 Interaction Design 2
-IXD  404 Dataviz/Digital Storytelling
-JAZZ  405 Jazz Theory and Performance I
-JAZZ  408 Jazz Ensemble
-JAZZ  409 Jazz Combo
-JAZZ  412 Vocal Jazz Ensemble
-JAZZ  435 Jazz Pedagogy
-JAZZ  459 Jazz Arranging
-JAZZ  622 Studio Instruction
-JAZZ  623 Senior Recital
-JMC  101 Media and Society
-JMC  104 Words at Work:Wrtng Essentials
-JMC  150 Presenting to Audiences
-JMC  201 Current Issues in Journalism
-JMC  205 Career Exploration & Planning
-JMC  210 Basic Video Production
-JMC  211 Tech Tools: Audio / Video
-JMC  212 Tech Tools: Graphic Design
-JMC  213 Tech Tools: Visuals
-JMC  215 Tech Tools: Web Coding
-JMC  260 Agency: Introduction
-JMC  300 Visual Storytelling
-JMC  302 Information Exploration
-JMC  304 Media Writing for Audiences
-JMC  305 Writing for Media, Honors
-JMC  308 Ethics in a Wired World
-JMC  309 Data Storytelling
-JMC  315 Health and Science Comm
-JMC  319 Topics Jour & Mass Comnctns: Drone Flying Certifcn & Film
-JMC  320 Int Dgtl Mktg Com,Advr&Pblc Rl
-JMC  330 Sports Media in 21st Cent
-JMC  340 Creative Concepting
-JMC  345 Audience Experience
-JMC  406 Media Practicum
-JMC  408 Media Law and Ethics
-JMC  410 Media Photography
-JMC  415 Multimedia Reporting
-JMC  419 Multimedia Editing
-JMC  420 Adv Dgtl Mktg Com,Advr&Pblc Rl
-JMC  430 Communicating Sports Info
-JMC  440 Creative Video Prodc/Directing
-JMC  445 Creative Audio Prod&Podcasting
-JMC  460 Rsc Dgtl Mktg Com,Advr&Pblc Rl
-JMC  488 Laboratory in Media Production
-JMC  503 Histry of Journalism&Mass Comm
-JMC  506 Directed Studies in Journalism
-JMC  507 Practicum Journalsm (Profssnl)
-JMC  534 Diversity in Media
-JMC  551 Advanced Multimedia Reporting
-JMC  552 Broadcast Reporting
-JMC  553 Advanced Editing & Production
-JMC  560 Msg Dv Dgtl Mkt Cm,Adv&Pblc Rl
-JMC  620 TV News-Advanced Media
-JMC  626 Multmdia Sprts Journ-Adv Media
-JMC  630 Depth Rprtng-Advd Media/Capstn
-JMC  640 Cmpgns Dgtl Mkt Cm,Adv&Pblc Rl
-JMC  645 Media Arts Capstone
-JMC  650 Magazine Journalism-Adv Media
-JMC  660 Prof Capstn - Adv Media/Capstn
-JPN  100 Beginning Japanese I
-JPN  104 Elementary Japanese I
-JPN  204 Intermediate Japanese I
-JPN  498 Directed Readings in Japanese
-JPN  504 Advanced Modern Japanese I
-JPN  562 Modern Japanese Texts I
-JPN  598 Readings in: Modern Japanese
-JWSH  107 Jews, Christians, Muslims
-JWSH  124 Understanding the Bible
-JWSH  176 First Year Seminar: JwshAmrStryThruLit,Lettr&Ltkes
-JWSH  177 First Year Seminar: Lfe,Dth&Aftrlf Mdrn Israeli Sc
-JWSH  300 Tpcs HistCultr of Jwsh People: Hebrew in Song:IsraeliPopMusic
-JWSH  329 Israli-Palstnan CnfIc:An Intro
-JWSH  330 Mystical Tradition in Judaism
-JWSH  341 Hitler and Nazi Germany
-JWSH  348 Graphic Novels as Memory
-JWSH  410 Israel:  From Idea to State
-JWSH  420 Politics &Government in Israel
-JWSH  490 Directd Study in Jewish Stdies
-JWSH  491 Dirctd Stdy in Jewish Stdies,H
-JWSH  650 Service Learning Jewish Studes
-KISW  110 Elementary KiSwahili I
-KISW  210 Intermediate KiSwahili I
-KISW  310 Advanced KiSwahili I
-KISW  401 Readings in KiSwahili I
-KOR  100 Beginning Korean I
-KOR  104 Elementary Korean I
-KOR  204 Intermediate Korean I
-KOR  498 Directed Readings in Korean
-KOR  504 Advanced Modern Korean I
-KOR  562 Modern Korean Texts I
-KOR  598 Readings in: 5th Year Korean
-KQKL  110 Elementary Kaqchikel Maya I
-KQKL  230 Intermediate Kaqchikel Maya I
-KQKL  350 Advanced Kaqchikel Maya I
-KQKL  500 Directed Studies in Kaqchikel
-LA&S  108 Personal Numeracy
-LA&S  172 Exploring Health Professions
-LA&S  176 First Year Seminar: Creatvty&Mndst in Amercn Cultr
-LA&S  372 Prep for Prog Health Professns
-LA&S  475 Professional Career Management
-LA&S  485 Global Career Management
-LA&S  490 Internship Exploration
-LA&S  494 Sr Semnr in Librl Arts&Science
-LAC  100 Latin American Culture&Society
-LAC  177 First Year Seminar: Indigenous Tradtns of LatnAmer
-LAC  177 First Year Seminar: Native Amer Crossing Borders
-LAC  277 Transfer Seminar:
-LAC  302 Topcs Latin American Area Std: Intermediate Yucatec Maya I
-LAC  302 Topcs Latin American Area Std: Advanced Yucatec I
-LAC  302 Topcs Latin American Area Std: Elementary Yucatec Maya I
-LAC  302 Topcs Latin American Area Std: Accelerated Mískitu 1 and 2
-LAC  310 Topics in LAC - Anthropology: Anthropology of Violence
-LAC  315 Topics in LAC - Flm Musc Arts: Art of Early Mod Spanish World
-LAC  315 Topics in LAC - Flm Musc Arts: Music of Latin America
-LAC  318 Topics in LAC - Trns Atlc&Ntl:
-LAC  332 Lang &Society in Latin America
-LAC  500 Drctd Stdy Lat Am Area Studies
-LAC  510 Topics in LAC - Anthropology: The Anthropology of Violence
-LAC  512 Topics in LAC - Sp Am Lit Clt: Spanish Phonetics
-LAC  512 Topics in LAC - Sp Am Lit Clt: Structure of Spanish
-LAC  515 Topics in LAC - Film Msc Arts: Art of Early Mod Spanish World
-LAC  556 Pre-Hispnc Mexico&Centrl Amrca
-LAC  602 Tpcs in Latin Americn Studies: Elementary Haitian I
-LAC  602 Tpcs in Latin Americn Studies: Elementary Haitian II
-LAC  602 Tpcs in Latin Americn Studies: Intermediate Haitian I
-LAC  602 Tpcs in Latin Americn Studies: Elementary Kaqchikel Maya I
-LAC  602 Tpcs in Latin Americn Studies: Intermediate Kaqchikel I
-LAC  602 Tpcs in Latin Americn Studies: Advanced Kaqchikel I
-LAC  602 Tpcs in Latin Americn Studies: Intermd Brazilian Portuguese I
-LAC  602 Tpcs in Latin Americn Studies: Intermediate Quechua I
-LAC  602 Tpcs in Latin Americn Studies: Advanced Quechua I
-LAC  602 Tpcs in Latin Americn Studies: Elementary Yucatec Maya I
-LAC  602 Tpcs in Latin Americn Studies: Intermediate Yucatec Maya I
-LAC  602 Tpcs in Latin Americn Studies: Advanced Yucatec Maya I
-LAC  602 Tpcs in Latin Americn Studies: Directed Std in Yucatec Maya
-LAC  602 Tpcs in Latin Americn Studies: Accelerated Mískitu 1 and 2
-LAC  632 Lang &Society in Latin America
-LAT  104 Elementary Latin I
-LAT  105 Elementary Latin I, Honors
-LAT  108 Elementary Latin II
-LAT  109 Elementary Latin II, Honors
-LAT  112 Readings in Latin Literature
-LAT  113 Readings Latin Literature, Hrs
-LAT  302 Hexameter Poetry
-LAT  496 Honors Essay in Latin
-LDST  200 Intro Leadrshp Studes&Applctns
-LDST  203 Intro to Leadership, Hnrs
-LDST  420 Cmmnctn,Leadrshp,&Cnflict Mgmt
-LDST  431 Communication and Leadership
-LDST  470 Indp Study in Ldrshp Studies
-LDST  500 Direct Read in Ldrshp Studies
-LDST  520 Leadership Ethics
-LING  106 Introductory Linguistics
-LING  107 Introductory Linguistics, Hnrs
-LING  110 Language and Mind
-LING  111 Language & Mind, Honors
-LING  120 The Physics of Speech
-LING  176 First Year Seminar: Language, Thought and Culture
-LING  176 First Year Seminar: Towards Linguistic Justice
-LING  305 Phonetics I
-LING  320 Language in Cultur and Society
-LING  325 Syntax I
-LING  345 Language and Gender
-LING  415 Second Language Acquisition I
-LING  418 Introduction Cognitive Science
-LING  420 Capstone:Research Lang Science
-LING  438 Neurolinguistics I
-LING  470 Language and Society in Africa
-LING  490 Independent Study
-LING  491 Topics in Linguistics: Topics Rsrch Expermntal Ling
-LING  491 Topics in Linguistics: Rsch in Acquisition&Processing
-LING  491 Topics in Linguistics: Rsrch in Fld&Forml Linguistics
-LING  491 Topics in Linguistics: Experimental Sociolinguistics
-LING  496 Honors Essay in Linguistics
-LING  539 First Language Acquisition II
-LING  575 The Structure of: Structure of Me’phaa
-LWS  330 Introduction to Law & Society
-LWS  443 Theoret Foundatns of Law & Soc
-LWS  494 Topics in Law & Society: Politics of Public Health
-MATH    2 Intermediate Mathematics
-MATH  101 College Algebra:
-MATH  101 College Algebra: With Practice Workshops
-MATH  103 Trigonometry
-MATH  104 Precalculus Mathematics
-MATH  105 Intro Quantitative Reasoning
-MATH  110 Math Elmntry School Teachrs II
-MATH  115 Calculus I
-MATH  116 Calculus II
-MATH  125 Calculus I
-MATH  126 Calculus II
-MATH  127 Calculus III
-MATH  145 Calculus I, Honors
-MATH  146 Calculus II, Honors
-MATH  147 Calculus III, Honors
-MATH  197 Mathematical Workshops: MATH 101
-MATH  197 Mathematical Workshops: MATH 115
-MATH  197 Mathematical Workshops: MATH 125
-MATH  197 Mathematical Workshops: MATH 126
-MATH  197 Mathematical Workshops: MATH 127
-MATH  209 Functions and Modeling
-MATH  220 Applied Differential Equations
-MATH  221 Apl Differential Equations,Hnr
-MATH  290 Elementary Linear Algebra
-MATH  291 Elementary Linear Algebra, Hnr
-MATH  320 Elementry Differential Equatns
-MATH  365 Elementary Statistics
-MATH  500 Intermediate Analysis
-MATH  510 Introdn to Theory of Computing
-MATH  526 Appld Mathematicl Statistics I
-MATH  558 Introductory Modern Algebra
-MATH  581 Numerical Methods
-MATH  582 Computational Data Science
-MATH  590 Linear Algebra
-MATH  605 Applied Regression Analysis
-MATH  627 Probability
-MATH  646 Complex Variable &Applications
-MATH  647 Appl Partial Differential Eqtn
-MATH  699 Directed Reading
-MCOR  380 Evolution of Warfare
-MDCM  601 Medicinal Biochemistry I
-MDCM  625 Med Chem I:Neuroefctr&Crd Agnt
-MDCM  690 Undergraduate Research
-MDCM  692 Problems in Medicinl Chemistry
-ME  101 Mechancl Engr Freshman Seminar
-ME  208 Intr Digitl Comptnl Mthd in ME
-ME  210 Introduction to Mechanics
-ME  211 Statics & Intrduction Mechancs
-ME  212 Basic Engineerng Thermodynamcs
-ME  228 Computer Graphics
-ME  306 Science of Materials
-ME  307 Engineerng Materials Laboratry
-ME  309 Intro to Mech Design
-ME  311 Mechanics of Materials
-ME  320 Dynamics
-ME  321 Dynamics Simulations
-ME  360 Mechanical Engineerng Problems
-ME  361 Undergraduate Honors Research
-ME  455 Mech Eng Measurmnts&Expermntn
-ME  501 Mechancl Engineerng Desgn Proc
-ME  508 Numericl Analys Mech Eng Probs
-ME  510 Fluid Mechanics
-ME  590 Special Topics: Fluid Systems & Gas Dynamics
-ME  590 Special Topics: Intro Scan Electron Microscope
-ME  612 Heat Transfer
-ME  627 Automotive Design
-ME  628 Mechanical Design
-ME  633 Basic Biomechanics
-ME  640 Design Project
-ME  641 Design Project Option A
-ME  643 Design Project Option C
-ME  682 Systm Dynamics&Control Systems
-MEMT  112 Percussion in Music Therapy Percussion in Music Therapy
-MEMT  113 Performance Media:  Brass
-MEMT  114 Performance Media: Woodwinds I
-MEMT  115 Performance Media:  Percussion
-MEMT  117 Voice for Music Therapists
-MEMT  118 Performance Media:  Strings
-MEMT  119 Guitar for Music Therapists
-MEMT  120 Vocal Performance in English
-MEMT  150 Introduction to Music Therapy
-MEMT  160 Principles of Music Education
-MEMT  230 Performance Clinic:  Band
-MEMT  231 Performance Clinic:  Choral
-MEMT  232 Performance Clinic:  Orchestra
-MEMT  246 Fundamentals of Conducting
-MEMT  251 Clinical Techniques fr Childrn
-MEMT  314 Performance Media:Woodwinds II
-MEMT  330 Rehearsal/Conductg Clinic:Band
-MEMT  331 Rehearsl/Conductg Clinic:Chorl
-MEMT  332 Rehrsl/Cndctg Clinic:Orchestra
-MEMT  341 Instr Stratg Musc Elem Classrm
-MEMT  351 Adv Rehearsl/Cond Clinc:Choral
-MEMT  396 Clinical Practicum
-MEMT  407 Inclusion in Music Education
-MEMT  408 Vocal Pedagogy
-MEMT  432 Approaches to String Pedagogy
-MEMT  435 Marching Band Techniques
-MEMT  450 Teaching Choral Music
-MEMT  451 Teaching Instrumental Music
-MEMT  463 Influence of Music on Behavr I
-MEMT  470 Intro to Research in MEMT
-MEMT  472 Music Ed&Musc Therapy Rsh Proj
-MEMT  497 Independent Study in:
-MEMT  498 Student Teaching
-MEMT  499 Internship in Teaching Music
-MEMT  586 Sem Musc Thrpy Profsnl Devl I
-MEMT  596 Clinical Internship
-MEMT  598 Special Course: MT in Cancer Care Peds&Adult
-MEMT  598 Special Course:
-METL  301 Intro to Casting for Jewelry
-METL  364 Enameling
-METL  500 Adv Specl Topics Metalsmithng: Digital Jewelry Design
-METL  500 Adv Specl Topics Metalsmithng: Casting
-METL  505 Digital Jewelry Design I
-METL  506 Digital Jewelry Design II
-METL  515 Advanced Metals I
-METL  520 Advanced Metals II
-METL  590 Intrnshp in Metlsmithng/Jewlry
-METL  599 Ind Studes Metalsmithng/Jewlry
-MGMT  230 Intro to Management Profession
-MGMT  305 Survey Management&Leadership
-MGMT  310 Principles of Management
-MGMT  311 Principles of Mgmt, Honors
-MGMT  405 Ethical Decision Makng Businss
-MGMT  410 Human Resources Management
-MGMT  413 Rcruitng&Selctg Effctv Emplyee
-MGMT  419 Managng Performance&Compensatn
-MGMT  440 Advanced Organiztionl Behavior
-MGMT  455 General Mgmt Processes/Change
-MGMT  470 Leadershp Business Organizatns
-MGMT  472 Project Management
-MGMT  498 Business Policy and Strategy
-MGMT  499 Business Policy&Strategy, Hnrs
-MGMT  525 Negotiations&Dispute Settlemnt
-MKTG  230 Intro to Marketing Profession
-MKTG  305 Survey of Marketing
-MKTG  310 Marketing
-MKTG  311 Marketing, Honors
-MKTG  315 Sales Force Management
-MKTG  316 Professional Selling Skills
-MKTG  400 Special Topics in Marketing: Advancd Social Media Marketing
-MKTG  411 Introduction Consumer Behavior
-MKTG  415 Marketing Research for Managrs
-MKTG  420 Integrated Mktg Communications
-MKTG  425 Sales Force Management
-MKTG  426 Professional Selling Skills
-MKTG  427 Advanced Selling Skills
-MKTG  428 Sales Analytics
-MKTG  430 New Product Management
-MKTG  435 Marketing Strategy
-MKTG  440 Global Marketing
-MKTG  443 Digital Mktg & Social Media
-MKTG  448 Managing Brands
-MKTG  453 Retail'g Dist Chan & Sup Chain
-MKTG  455 Pricing
-MKTG  465 Customer Relationship Managmnt
-MKTG  470 Marketing Analytics
-MKTG  471 Sports&Entertainment Marketing
-MTHC  105 Theory I
-MTHC  106 Aural Skills I
-MTHC  205 Theory III
-MTHC  252 Introduction to Composition
-MTHC  253 Composition
-MTHC  301 Music Videos
-MTHC  400 Graduate Review:Written Theory
-MTHC  402 Graduate Review:Aural Skills
-MTHC  410 Form and Analysis
-MTHC  432 Intro to Analysis Contmpry Mus
-MTHC  455 Readings in Music Theory:
-MTHC  463 Survey in Jazz Compstn&Arrngng
-MTHC  471 Tonal Counterpoint
-MTHC  474 Orchestration I
-MTHC  477 Electro-Acoustic Composition I
-MTHC  498 Undergraduate Recital
-MTHC  499 Senior Research Project
-MTHC  583 Composition
-MUS  177 First Year Seminar: Where Music Scenes Come From
-MUS  300 Directed Studies: Adv Instrumental Reh/Cond
-MUS  300 Directed Studies: Orchestral Excerpts for Flute
-MUS  300 Directed Studies: Church Music Conducting
-MUS  300 Directed Studies: Recital Coaching
-MUS  300 Directed Studies:
-MUS  388 Curriculum and Pedagogy in: String Literature
-MUS  481 Intro to Music Recording
-MUS  485 Practicum in Audio Recording
-MUS  486 The Business of Music
-MUS  488 Arts Management
-MUSC  136 Understanding Music
-MUSC  302 The Broadway Musical
-MUSC  309 History of Rock and Roll
-MUSC  313 Decoding Taylor Swift
-MUSC  314 Exp Hip Hop & Inters Amer Cult
-MUSC  315 History of Country Music
-MUSC  318 Drumming Cultures of the World
-MUSC  320 Music History I
-MUSC  336 Understanding Music
-MUSC  360 Music History III
-MUSC  436 Collegium Musicum, Instrumentl
-MUSC  471 Music of Latin America
-MUSC  474 Graduate Review:  Medieval
-MUSC  475 Graduate Review:  Renaissance
-MUSC  476 Graduate Review:  Baroque
-MUSC  482 Music of the Renaissance
-MUSC  486 Music of the Twentieth Century
-MUSC  494 Readings in Musicology:
-MUSC  499 Senior Thesis
-MUSE  699 Anthropology in Museums
-NAVY  100 Naval Science Laboratory
-NAVY  101 Introduction to Naval Science
-NAVY  180 Intro to Naval Ships Systems I
-NAVY  304 Navigation and Operations II
-NAVY  401 Princples Naval Organiztn&Mgmt
-NMED   70 Intr Nclr Med & Med Law & Ethc
-NMED   71 Nuclear Chemistry and Physics
-NMED   72 Radiopharmacy I
-NMED   73 Clinical Procedures I
-NMED   74 Radiation Biology & Protection
-NMED   75 Clinical Internship I
-NURS  327 Comm & Managing Hlthcare Info
-NURS  328 Prof Dev I: Intro to the Prof
-NURS  329 Alterations Physiol Function I
-NURS  330 Pharmacology I
-NURS  331 Basic Assessment & Clin Skills
-NURS  332 Health&Illness:Found of Nursng
-NURS  333 Pract I Foundations of Nursing
-NURS  352 Client Assesmt for Pract Nurse
-NURS  356 Usng Tech&Inform Imprv Pt Sfty
-NURS  357 Intro Baccalaureate Nurse Role
-NURS  411 Population-Based Nursing
-NURS  412 Nursing in Healthcare Microsys
-NURS  413 Ethcs Advoc & Collab Nurs Prac
-NURS  414 Organiztnl Inflnces Nursg Prac
-NURS  417 Infl Hlthcre Mcro-Sys Nrsg Prc
-NURS  418 Clinical Leadership Practicum
-NURS  443 Develop Baculaureate Nurs Role
-NURS  447 Nrs Prct Cln HlthCare Micr Sys
-NURS  448 Schlrly Inquiry Qual Improvmt
-NURS  469 Indepdnt Stdy Nurs
-NURS  471 Developmnt of Microsyst Leader
-NURS  472 Ev-Bsd Pract:Trans Res to Prac
-NURS  473 Prof Dev III Trans to Practice
-NURS  474 Hlth&Illness:Nrsg w Divrs Pops
-NURS  475 Pract III Nurs Dynamic Micro
-NURS  482 Honors Practicum I
-NURS  485 Pop Health Local to Global I
-NURS  492 Clin Lead Practicum
-OBOE  100 Oboe
-OBOE  101 Oboe Reed Making
-OBOE  121 Oboe
-OBOE  221 Oboe
-OBOE  300 Oboe
-OBOE  301 Oboe Reed Making
-OBOE  321 Oboe
-OBOE  421 Oboe
-OBOE  422 Oboe
-OBOE  622 Oboe
-OBOE  623 Senior Recital
-OMGT  300 Operations Management
-OMGT  310 Enterprise Strat & Innovation
-OMGT  420 Process Management
-OMGT  434 Managing People &Personalities
-OMGT  436 Applied Big Data Analyt in OM
-OMGT  440 Ethical Issues in Ops Mgmt
-ORCH  400 Symphony Orchestra
-ORCH  406 University Orchestra
-ORGN  100 Organ
-ORGN  121 Organ
-ORGN  221 Organ
-ORGN  300 Organ
-ORGN  320 Studio Class in Organ - Lab
-ORGN  321 Organ
-ORGN  402 Master Class in Organ - Lab
-ORGN  421 Organ
-ORGN  422 Organ
-ORGN  622 Organ
-ORGN  623 Senior Recital
-P&TX  630 Pharmacology I
-P&TX  632 Pharmacology III
-P&TX  642 Obsty Diab&Metablc Syndr:Cr Cn
-P&TX  643 Currnt Concpts Neurodegntv Dis
-P&TX  694 Undrgd Lb:Rsh in Pharm&Toxclgy
-P&TX  698 Library Probs in Pharm&Toxclgy
-PCS  120 Intro to Peace & Conflict Stds
-PCS  555 Tpcs in Peace&Conflict Stdies: Israeli Palestinian Conflict
-PCUS  100 Percussion
-PCUS  121 Percussion
-PCUS  221 Percussion
-PCUS  300 Percussion
-PCUS  321 Percussion
-PCUS  421 Percussion
-PCUS  422 Percussion
-PCUS  622 Percussion
-PCUS  623 Senior Recital
-PENS  252 Percussion Ensemble
-PENS  652 Percussion Ensemble
-PERS  110 Elemntary Irn/Dar/Tjik Persn I
-PERS  210 Intermdat Iran/Dr/Tjik Persn I
-PFS  301 Communication in the Workplace
-PFS  302 Leadership in Practice
-PHAR  101 Intro to Meds in Healthcare
-PHAR  500 Introduction to Pharmacy
-PHAR  510 Pharmacy Skills I-A
-PHAR  512 Pharmacy Skills I-B
-PHAR  514 Scintfc Wrtg for Hlth Profssnl
-PHAR  520 Pharmacy Skills III
-PHAR  530 Pharmacy Skills V
-PHAR  550 Intro Pharmcy Prac Exp-Commnty
-PHAR  560 Intro Pharm Prac Exp-Institutl
-PHAR  599 Adv Infct Dis-Trnlt Case Stdes
-PHCH  512 Rd Map Dvlpmnt&Reg Ap New Drug
-PHCH  517 Pharmacy Calculations
-PHCH  625 Pharmacokinetics
-PHCH  667 Introduction Clinicl Chemistry
-PHCH  690 Ug Rsch Pharmaceutcl Chemistry
-PHCH  693 Clinical Pharmacokinetics
-PHCH  694 Problems Pharmaceutcl Chemstry
-PHIL  140 Introduction to Philosophy
-PHIL  148 Reason and Argument
-PHIL  160 Introduction to Ethics
-PHIL  161 Introduction to Ethics Honors
-PHIL  170 The Meaning of Life
-PHIL  180 Intro to Social&Political Phil
-PHIL  210 Reason Chance & Probability
-PHIL  310 Introduction to Symbolic Logic
-PHIL  381 Feminism and Philosophy
-PHIL  384 Ancient Philosophy
-PHIL  418 Introduction Cognitive Science
-PHIL  499 Senior Essay
-PHIL  500 Studies in Philosophy:
-PHIL  504 Philosophy of Sex and Love
-PHIL  560 Nineteenth Century Philosophy
-PHIL  600 Readings in Philosophy:
-PHIL  605 The Philosophy of Plato
-PHIL  650 Metaphysics
-PHIL  654 Philosophy of Mind
-PHIL  662 Aesthetics
-PHIL  676 Medical Ethics:Life&Death Issu
-PHPR  508 Hematology/Oncology Pharmacy
-PHPR  510 Medical Terminology Elective
-PHPR  519 Business Planning for Pharmacy
-PHPR  526 Intro to Pharmacy Residencies
-PHPR  528 Inf Diseas Therputc Drug Mntrg
-PHPR  529 Introduction to the Pharmaceut
-PHPR  601 Advncd Pharm Prac Exprnc 1
-PHPR  602 Advncd Pharm Prac Expr 2
-PHPR  603 Advncd Pharm Prac Expr 3
-PHPR  604 Advncd Pharm Prac Expr 4
-PHPR  605 Advncd Pharm Prac Expr 5
-PHPR  606 Advncd Pharm Prac Expr 6
-PHPR  607 Advncd Pharm Prac Expr 7
-PHPR  608 Advncd Pharm Prac Expr 8
-PHPR  609 Advncd Pharm Prac Expr 9
-PHPR  610 Advncd Pharm Prac Expr 10
-PHPR  614 Pharmacy Management
-PHPR  618 Hospital & Health-System Pharm
-PHPR  620 Ethcl,Lgl,&Cltrl Iss Patn Care
-PHPR  624 Pharmacoepidemiology&PublcHlth
-PHPR  629 Research Design & Biostats
-PHPR  635 Problems in Pharmacy Practice
-PHPR  662 Pharmacotherapy II
-PHPR  664 Pharmacotherapy IV
-PHPR  690 Research in Pharmacy Practice
-PHSX  114 College Physics I
-PHSX  115 College Physics II
-PHSX  150 Sem Physcs, Astrnmy&Engr Physc
-PHSX  191 Contemporary Astronomy
-PHSX  196 Contemporary Astronomy Lab
-PHSX  209 Functions and Modeling
-PHSX  211 General Physics I
-PHSX  212 General Physics II
-PHSX  214 General Physics II Honors
-PHSX  216 General Physics I Laboratory
-PHSX  236 General Physics II Laboratory
-PHSX  313 General Physics III
-PHSX  316 Intermedt Physics Laboratory I
-PHSX  500 Special Problems
-PHSX  501 Honors Research
-PHSX  503 Undergraduate Research
-PHSX  518 Mathematical Physics
-PHSX  521 Mechanics I
-PHSX  531 Electricity and Magnetism
-PHSX  536 Electronic Circuit Msrmnt&Dsgn
-PHSX  616 Physical Measurements
-PHSX  641 Introduction to Nuclear Physcs
-PHSX  661 Intro Elemntry Particle Physcs
-PHSX  671 Thermal Physics
-PHSX  681 Intro Solid State Physics
-PHTO  101 Fundamentals of Photography
-PHTO  200 Foundations in PHTO: Digital
-PHTO  205 Foundations in PHTO:  Darkroom
-PHTO  210 Understanding Photographs
-PHTO  303 Photography I:  View Camera
-PHTO  313 Lighting Studio
-PHTO  400 Third-Year Seminar
-PHTO  450 Fourth-Year Seminar
-PHTO  560 Special Topics in Photography: Music Image & Video
-PIAN  100 Piano
-PIAN  111 Elementry Keyboard Musicianshp
-PIAN  121 Piano
-PIAN  144 Elementary Keyboard Skills I
-PIAN  216 Chamber Music for Pianists
-PIAN  221 Piano
-PIAN  229 Performance Class Accompanying
-PIAN  284 Intermediate Keyboard Skills I
-PIAN  300 Piano
-PIAN  310 Advanced Keyboard Skills
-PIAN  321 Piano
-PIAN  336 Chamber Music for Pianists
-PIAN  421 Piano
-PIAN  422 Piano
-PIAN  429 Performance Class Accompanying
-PIAN  447 Piano Repertoire 3
-PIAN  450 Piano Pedagogy I
-PIAN  622 Piano
-PIAN  623 Senior Recital
-PLSH  104 Elementary Polish I
-PLSH  105 Elementary Polish, Honors
-PLSH  204 Intermediate Polish I
-PMGT  305 Foundations Project Management
-PMGT  310 Project Communications
-PMGT  320 Intro to Microsoft Project
-PMGT  325 Effective Project Team Leaders
-PMGT  330 Org Strategy & Proj Initiation
-PMGT  405 Orgniztnl & Project Risk Mgmt
-PMGT  415 Proj Proc & Supply Chain Mgmt
-PMGT  425 Global Project Management
-PMGT  510 Adv Agile Approach Proj Mgmt
-PMGT  550 Project Management Internship
-PNTG  263 Painting I
-PNTG  300 Special Topics in Painting: Landscape Painting
-PNTG  300 Special Topics in Painting: The Figure
-PNTG  364 Painting II
-PNTG  500 Adv Special Topics Painting: Landscape Painting
-PNTG  500 Adv Special Topics Painting: The Figure
-PNTG  565 Painting III
-PNTG  566 Painting IV
-PNTG  567 Painting III, Honors
-PNTG  569 Painting IV, Honors
-PNTG  599 Individual Studies in Painting
-PNTG  667 Painting V
-PNTG  668 Painting VI
-POLS  110 Introduction to U.S. Politics
-POLS  125 Intllgnce:Suprtng Ntnl Securty
-POLS  130 US Intelligence Community
-POLS  150 Introd to Comparative Politics
-POLS  170 Intro to Internationl Politics
-POLS  171 Intro Internatnl Politics Hnrs
-POLS  199 Data I:  Dealing with Data
-POLS  206 Political Sci Methd of Inquiry
-POLS  301 Introductn to Political Theory
-POLS  315 Campaigns and Elections
-POLS  316 Publc Opinion&Amercn Democracy
-POLS  317 The U.S. Congress
-POLS  318 The Presidency
-POLS  319 The U.S. Supreme Court
-POLS  320 Introduction to Public Policy
-POLS  325 Intelligence Analytics
-POLS  345 Counterintelligence
-POLS  354 Pol of Russ&Post-Soviet States
-POLS  360 Ancient Roots of Modrn Politcs
-POLS  362 Women and Politics
-POLS  364 Elections & Parties-World
-POLS  369 Israli-Palstnan CnfIc:An Intro
-POLS  390 Intro to Public Administration
-POLS  391 Intro Public Administratn,Hnrs
-POLS  400 Cntmp Feminist Politcal Theory
-POLS  410 Constitut Law:Governmntl Powrs
-POLS  419 Topics in American Politics: Counterproliferation
-POLS  419 Topics in American Politics: LGTBQ Pol & Policy
-POLS  429 Topics in Public Policy: Immigration Politics & Policy
-POLS  443 The European Union
-POLS  445 Corruption, Crisis and Scandal
-POLS  468 Politics & Society in China
-POLS  469 Topics in Comparativ Politics: Israel: From Idea to State
-POLS  476 Internationl Relations of Asia
-POLS  480 Politics &Government in Israel
-POLS  484 Internatl Law:State&Individual
-POLS  492 Fieldwork in Political Science
-POLS  493 Directed Readings
-POLS  496 Washington Semester Field Work
-POLS  497 Topeka Semester Field Work
-POLS  498 Honors Thesis
-POLS  499 Capstone Research for POLS
-POLS  521 Mass Media and Politics
-POLS  624 Environmental Politics &Policy
-POLS  628 The Politics of Public Health
-POLS  687 Intro to Cyber Intelligence
-PORT  104 Elmntry Brazilian Portuguese I
-PORT  177 First Year Seminar: Amazon: Env Issues-Lit & Film
-PORT  212 Intermd Brazilian Portugues I
-PORT  394 Spec Rdgs in Brazilian Studies
-PORT  611 Acc Basic Port Spanish Speakrs
-PRNT  243 Serigraphy I
-PRNT  300 Special Topics in Printmaking: Prnt Concpts & Altrntv Process
-PRNT  344 Serigraphy II
-PRNT  349 Serigraphy II, Honors
-PRNT  500 Adv Special Topics Prntmking: Prnt Concpts & Altrntv Process
-PRNT  525 Printmaking III C (Serigraphy)
-PRNT  528 Printmaking IV C (Serigraphy)
-PRNT  599 Individual Studies Printmaking
-PRVM  429 Interdisc Approaches Neuro Dis
-PSYC  102 Orientation Seminar Psychology
-PSYC  104 General Psychology
-PSYC  105 General Psychology, Honors
-PSYC  199 Data I:  Dealing with Data
-PSYC  200 Research Methods in Psychology
-PSYC  210 Statistics Psychological Rsrch
-PSYC  250 Human Development
-PSYC  318 Cognitive Psychology
-PSYC  320 Personality
-PSYC  333 Child Development
-PSYC  350 Psychological Disorders
-PSYC  360 Social Psychology
-PSYC  361 Social Psychology, Honors
-PSYC  370 Behavioral Neuroscience
-PSYC  375 Cognitive Neuroscience
-PSYC  390 The Psychology of Aging
-PSYC  410 Intimate Relationships
-PSYC  418 Introduction Cognitive Science
-PSYC  449 Lab/Field Work in Human Biolgy
-PSYC  460 Honors Thesis
-PSYC  465 Stereotyp&Prejudc Across Cultr
-PSYC  468 Psychology of Women
-PSYC  480 Independent Study
-PSYC  481 Research Practicum
-PSYC  483 Undergrd Internship Psychology
-PSYC  484 Classroom to Career
-PSYC  492 Psychology and Social Issues
-PSYC  500 Intermd Statistics Psych Rsrch
-PSYC  533 Psychology Addictive Behaviors
-PSYC  535 Developmental Psychopathology
-PSYC  545 Culture and Psychology
-PSYC  595 Eating and Weight Disorders
-PSYC  598 Positive Psychology
-PSYC  605 Health Psychology
-PSYC  622 Expermntl Psyc:Social Behavior
-PSYC  625 Exp Psy:Mthd Psychophy&Neurosc
-PSYC  690 Seminar: PschiatrcApplctnLifestylMedcne
-PUAD  305 Introdctn to Project Managemnt
-PUAD  330 Intro to Public Administration
-PUAD  331 Intro Public Administratn,Hnrs
-PUAD  332 Quantitatve Methd Public Admin
-PUAD  401 Administration of Justice
-PUAD  403 Foundations of Nonprofit Sectr
-PUAD  408 Collaboration in Public Admin
-PUAD  432 Cndctg People Businss Ethcally
-PUAD  494 Topics in Public Administratn: Politics of Public Health
-QUEC  230 Intermediate Quechua I
-QUEC  610 Dirctd Study Quechua Lang&Cult
-REC  100 Laboratory in Music Performanc
-REES  110 Undrstnding Russia&East Europe
-REES  111 Undrstnd Russia&East Europe, H
-REES  310 Undrstnding Russia&East Europe
-REES  311 Undrstndng Russia&East Eurp,Hn
-REL  100 Intro to Religious Ethics
-REL  104 Introdctn to Religious Studies
-REL  106 Asian Religions
-REL  107 Jews, Christians, Muslims
-REL  124 Understanding the Bible
-REL  130 Myth,Legend&Flk Beliefs E Asia
-REL  145 Jailbirds and Jayhawks
-REL  171 Religion in American Society
-REL  177 First Year Seminar: Learning Across Cultures
-REL  190 Special Topics in Religion: Muslim Lives: Poltcs,Cultr,Soc
-REL  309 Religion in Japan
-REL  329 Mystical Tradition in Judaism
-REL  330 Native American Religions
-REL  350 Islam
-REL  360 The Buddhist Tradition in Asia
-REL  372 Rel and Envrmt in the US
-REL  404 Undergraduate Seminr Religion: African Traditional Religions
-REL  405 Directed Study in Religion
-REL  499 Undergraduate Honors Research
-REL  500 Rdg Non-English Religious Txts
-RESP  200 Introduction to Resp. Therapy
-RESP  300 Intr Resp Car Proc
-RESP  301 Resp Evidence Based Pract I
-RESP  302 Resp Evidence Based Pract II
-RESP  305 Cardiopulmonary A&P
-RESP  306 Cardiopulmonary Physio
-RESP  310 Clinical Pharmacology
-RESP  315 Clin Application I
-RESP  410 Neonatal Resp Care
-RESP  411 Neonatal Resp Lab
-RESP  415 Clin Application IV
-RESP  440 Health Care Leadership and Man
-RESP  465 NPS Specialty Credential Prep
-RESP  490 Spec Studies or Projts
-RESP  495 Mngmt, Ethics & Law Resp Care
-RESP  620 Community and Global Health
-RESP  650 Medical Writing & Research
-RESP  655 Leadership Management
-RESP  665 Capstone Project
-RUSS  104 Elementary Russian I
-RUSS  105 Elementary Russian I, Honors
-RUSS  108 Elementary Russian II
-RUSS  109 Elementary Russian II, Honors
-RUSS  150 Beginning Russian I
-RUSS  152 Beginning Russian II
-RUSS  204 Intermediate Russian I
-RUSS  504 Advanced Russian I
-RUSS  512 Russian for the Professions I
-RUSS  675 Readings in Russian
-SAXO  100 Saxophone
-SAXO  121 Saxophone
-SAXO  221 Saxophone
-SAXO  300 Saxophone
-SAXO  321 Saxophone
-SAXO  421 Saxophone
-SAXO  422 Saxophone
-SAXO  622 Saxophone
-SAXO  623 Senior Recital
-SCM  230 Intro AIO Professions
-SCM  305 Survey Decision Makng Business
-SCM  310 Managmnt Sci&Operatns Managmnt
-SCM  311 Mgmt Sci&Opratns Mgmt, Honors
-SCM  400 Specl Topcs Supply Chain Mgmt: Data Visualization
-SCM  401 Introd Supply Chain Management
-SCM  402 Procurement&Supplier Managemnt
-SCM  403 Logstcs, Transportn&Wareh Mgmt
-SCM  404 Mgmt of Integrtd Infor Sys/ERP
-SCM  410 Capstone in Supply Chain Mgnmt
-SCM  415 Data Analysis and Forecasting
-SCM  416 Supply Chain Modelg&Optimizatn
-SCM  425 Customer Relationship Managmnt
-SCM  453 Retail'g Dist Chan & Sup Chain
-SCM  500 Indvdl Rsrch Chain Supply Mgmt
-SCUL  253 Sculpture I
-SCUL  300 Special Topics in Sculpture: Digital Fabrication
-SCUL  356 Public Art
-SCUL  500 Advncd Specl Topics Sculpture: Digital Fabrication
-SCUL  599 Individul Studies in Sculpture
-SCUL  656 Public Art
-SLAV  140 Understanding Russia
-SLAV  141 Understanding Russia, Honors
-SLAV  144 Srvy Russian Liter in Transltn
-SLAV  145 Survy Russian Lit Transltn,Hrs
-SLAV  148 Introducton to Slavic Folklore
-SLAV  149 Introd to Slavic Folklore,Hnrs
-SLAV  205 Muslim Lives: Poltcs,Cultr,Soc
-SLAV  230 Vampire in Lit, Film & Televsn
-SLAV  320 Graphic Novels as Memory
-SLAV  379 Topics in: Cultural Heritage of Ukraine
-SLAV  495 Senior Capstone Seminar
-SLAV  522 Grm Cat Rus:Ling Unit,Fnct&Mng
-SLAV  526 Pragmatics of Slavic Languages
-SLAV  675 Readings Slavic Stds (English)
-SLAV  678 Readings in Slavic Linguistics
-SLAV  679 Topics in: Bodies in Pain
-SLAV  679 Topics in: Elemntary Irn/Dar/Tjik Persn I
-SOC  104 Elements of Sociology
-SOC  105 Elements of Sociology, Honors
-SOC  120 Crime and Society
-SOC  130 Comparative Societies
-SOC  150 Self and Society
-SOC  160 Social Problms&American Values
-SOC  199 Data I:  Dealing with Data
-SOC  200 Sociological Introduction to: Sociology of Taylor Swift
-SOC  220 Sociology of Families
-SOC  280 Introduction to Social Rsearch
-SOC  321 Wealth, Power, and Inequality
-SOC  324 Being Deviant in America
-SOC  326 Health, Gender, and Society
-SOC  332 United States in Global Contxt
-SOC  342 Sociology of Immigration
-SOC  343 American Racial&Ethnic Relatns
-SOC  380 Elemn Statistics&Data Analysis
-SOC  384 Environment, Power, & Justice
-SOC  400 Sociology Special Topics: Sociology of AI
-SOC  424 Sociology of Health & Medicine
-SOC  426 Sociology of Mental Health
-SOC  427 School & Society
-SOC  437 Global Ethnic&Racial Relations
-SOC  450 Gender and Society
-SOC  461 Compting Perspctv Crime&Devnce
-SOC  480 Sociological Theory
-SOC  499 Honors Course
-SOC  662 Corrections
-SOC  698 Individ Undergraduate Research
-SPAA  310 Career Exploration & Planning:
-SPAA  691 Internship Experience
-SPAN  101 Orientation Sem Span&Portuguse
-SPAN  104 Elementary Spanish I
-SPAN  108 Elementary Spanish II
-SPAN  170 Hspnc Lang, Cultr&Civlztn I-A:
-SPAN  212 Intermediate Spanish I
-SPAN  216 Intermediate Spanish II
-SPAN  270 Hspnc Lang, Cult&Civlztn II-A:
-SPAN  324 Grammar and Composition
-SPAN  328 Intermedt Spansh Conversation
-SPAN  340 Text Analysis&Critical Reading
-SPAN  346 Transatlantc Hispanic Cultures
-SPAN  424 Advd Spanish Compositn&Grammar
-SPAN  428 Advanced Spanish Conversation
-SPAN  429 Spanish Phonetics
-SPAN  443 Peninsular Hispanic Studies: Visual Celestina 1499-2002
-SPAN  453 20th Century Spanish Studies:
-SPAN  463 National Tradtns Spanish Amer: Contempor Feminsm:Argen/Mex/US
-SPAN  494 Special Readings in Spanish
-SPAN  496 Honors in Spanish
-SPAN  520 Structure of Spanish
-SPAN  540 Colloquium on Hispanc Studies:
-SPED  261 Families&Professionl Partnrshp
-SPED  326 Tchng Ex Chld&Yth Gnrl Educatn
-SPED  328 Tech Design Instr All Students
-SPED  440 EBP in ELA: Beg Rdg & Writ
-SPED  443 Create Positive Productive Clr
-SPED  450 Dis/ability in an Amrcn Contxt
-SPED  501 Amricn Sign Language I (ASL I)
-SPED  502 Amer Sign Language II (ASL II)
-SPED  503 Am Sign Language III (ASL III)
-SPED  504 Amer Sign Language IV (ASL IV)
-SPED  506 Adv Prcts Chldn Dis Elm Gen Ed
-SPED  507 Ad Prc Chld Dis Mid/Sec Gen Ed
-SPED  635 Intro Tchng Lrnrs w/LI Dis Inc
-SPED  642 Assmt/Mthds Tchng Stdnt LI-Dis
-SPED  663 Assessment Strategies Early Ed
-SPED  664 Inclusv Strat&Intrvn Infnt&Tod
-SPED  665 Inclvs Strat&Intrvntn Preschlr
-SPED  667 Field Experience in Preschool
-SPED  675 Practcm with Chld&Youth w/Dis: Low Incidence
-SPLH  161 Survey Communication Disorders
-SPLH  220 The Physics of Speech
-SPLH  418 Introduction Cognitive Science
-SPLH  430 Communication in Autism
-SPLH  449 Lab/Field Work in Human Biolgy
-SPLH  462 Principles of Speech Science
-SPLH  464 Undergraduate Seminar in: Scientfic&CliniclLitercyinSPLH
-SPLH  465 Fndmntls of Clinical Phonetics
-SPLH  466 Language Science
-SPLH  498 Departmental Research
-SPLH  499 Dirctd Std Speech-Lang-Hearing
-SPLH  568 Intro Audiological Asmnt&Rehab
-SPLH  571 Intr Speech-Language Pathology
-SPLH  588 Multicultrl Considertns SPLH I
-SPLH  620 Cmnctg Brain:Ultmt Prsnl Cmptr
-SPLH  660 Rsrh Methd Speech-Lang-Hearing
-SPLH  668 Intro to Audiological Rehabltn
-SPLH  670 Begin Clincl Practce Audiology
-SPLH  672 Clin Prac Speech-Lang Patholgy
-STRG  424 String Pedagogy:
-SW  220 Intro to Social Work/Welfare
-SW  301 Prevention is Possible
-SW  303 Human Sexuality
-SW  490 Directed Readings
-SW  530 Theory for Multilvl Soc Work
-SW  534 Intro Social Policy & Advocacy
-SW  555 Divrsty,Equity&Inclusion in SW
-SW  601 Practicum
-SW  610 Mltlvl Engagmnt&Assmnt SW Prac
-SW  622 HmnRghts & Soc Econ Envrn Just
-SW  634 Chld Wlfre-Prtct Chld,Strng Fm
-SW  635 Sexuality and Gender Diversity
-SW  637 CrmnlJustceSystm:Abolish/Refrm
-SW  638 Respondng Suicide & Self-Harm
-SWWD  101 Home Visiting I
-SWWD  102 Home Visiting II
-SWWD  110 Supvsn for Fmly Suppt Profsnls
-TD  313 Fiber Forms
-TD  314 Introduction to Weaving
-TD  316 Screenprinting Textiles
-TD  401 Weave Structures
-TD  403 Intermediate Textile Printing
-TD  514 Advanced Techniques in Weaving
-TD  515 Advanced Textiles/Fibers I
-TD  520 Advanced Textiles/Fibers II
-TD  590 Internship in Textiles/Fibers
-TD  599 Indvdul Studes Textiles/Fibers
-THR  100 Introduction to the Theatre
-THR  101 Theatre Practicum I
-THR  105 Improvisation
-THR  106 Acting I
-THR  120 Public Speaking as Performance
-THR  201 Theatre Practicum II
-THR  206 Acting II
-THR  210 Musical Performanc for Actor I
-THR  212 Beging Voice&Speech for Actors
-THR  213 Movemnt I:The Acting Instrumnt
-THR  215 Approaching Design
-THR  216 Scenic Production
-THR  220 Costume Production
-THR  224 Lighting Production
-THR  301 Theatre Practicum III
-THR  302 Undergraduate Seminar in: Vectorworks
-THR  302 Undergraduate Seminar in: Authors and Adaptation
-THR  302 Undergraduate Seminar in: Performing Gender in Dance
-THR  306 Acting III
-THR  307 Undrgraduat Theatre Internship
-THR  308 Script Analysis
-THR  310 Musical Performanc for Actr II
-THR  315 Stage Management
-THR  316 Beginning Scene Design
-THR  380 Popular Culture: History of Fashion
-THR  401 Stage Mngmnt&Assistant Directn
-THR  407 Advanced Acting Special Topic: Indecent
-THR  410 Musicl Performnc for Actor III
-THR  498 Honors Directed Study Theatre
-THR  499 Directed Study in Theatre
-THR  506 Acting for the Camera
-THR  508 Fundamentals of Directing
-THR  516 Scenic Painting Techniques
-THR  519 Scenography& the Modern Script
-THR  525 History of Theatre
-THR  560 Collaborative Production
-THR  599 Special Topics in Scenography
-TIB  101 Elementary Tibetan I
-TIB  201 Intermediate Tibetan I
-TROM  100 Trombone
-TROM  121 Trombone
-TROM  221 Trombone
-TROM  252 Trombone Choir
-TROM  300 Trombone
-TROM  321 Trombone
-TROM  421 Trombone
-TROM  422 Trombone
-TROM  622 Trombone
-TROM  623 Senior Recital
-TROM  652 Trombone Choir
-TRUM  100 Trumpet
-TRUM  121 Trumpet
-TRUM  221 Trumpet
-TRUM  252 Trumpet Ensemble
-TRUM  300 Trumpet
-TRUM  321 Trumpet
-TRUM  421 Trumpet
-TRUM  422 Trumpet
-TRUM  622 Trumpet
-TRUM  623 Senior Recital
-TRUM  652 Trumpet Ensemble
-TUBA  100 Tuba
-TUBA  121 Tuba
-TUBA  221 Tuba
-TUBA  300 Tuba
-TUBA  321 Tuba
-TUBA  421 Tuba
-TUBA  422 Tuba
-TUBA  622 Tuba
-TUBA  623 Senior Recital
-TUEU  252 Tuba-Euphonium Consort
-TUEU  652 Tuba-Euphonium Consort
-TURK  104 Elementary Turkish I
-TURK  675 Readings in Turkish:
-UBPL  200 Sustainability and Society
-UBPL  201 Sustainability & Society, Hnrs
-UBPL  407 Sustainabilty & Transportation
-UBPL  410 Housing Policy and Planning
-UBPL  420 Sustnble Land Use Plcy Plning
-UBPL  450 Transportn Policy & Planning
-UKRA  104 Elementary Ukrainian I
-UKRA  204 Intermediate Ukrainian I
-UKRA  504 Advanced Ukrainian I
-UKRA  675 Readings in Ukrainian Language
-UNIV  101 Orientation Seminar
-UNIV  105 Jayhawk Success Seminar
-UNIV  176 First Year Seminar: KUTraditions&Transformations
-UTEC  300 Intr Dgn Ultrsnd & Med Law Eth
-UTEC  310 Sonogrph Princ & Instr I
-UTEC  320 Abdominal I Sonography
-UTEC  330 Gynecologic Sonography
-UTEC  340 Clinical Internship I
-UTEC  415 Vascular Technology II
-UTEC  430 Advanced Sonography Seminar I
-UTEC  445 Clinical Internship IV
-UYGR  101 Elementary Uyghur I
-UYGR  201 Intermediate Uyghur I
-VAE  341 Instruct Stratgies Art-Elemntr
-VAE  430 Curriculum&Teaching Procs Art
-VAE  497 Independent Study
-VAE  500 Student Teaching
-VAE  599 Cmnty Basd Prjct in Art Eductn
-VIOA  100 Viola
-VIOA  121 Viola
-VIOA  221 Viola
-VIOA  300 Viola
-VIOA  321 Viola
-VIOA  421 Viola
-VIOA  422 Viola
-VIOA  622 Viola
-VIOA  623 Senior Recital
-VION  100 Violin
-VION  121 Violin
-VION  221 Violin
-VION  300 Violin
-VION  321 Violin
-VION  421 Violin
-VION  422 Violin
-VION  622 Violin
-VION  623 Senior Recital
-VISC  202 Typography I
-VISC  204 Viscom Second-Year Studio I
-VISC  310 Letterpress
-VISC  405 Viscom Third-Year Studio I
-VISC  414 Publication and Editorial
-VISC  430 Visual Communication Portfolio
-VISC  440 Bookmaking
-VISC  520 Designing for Change
-VNCL  100 Violoncello
-VNCL  121 Violoncello
-VNCL  221 Violoncello
-VNCL  300 Violoncello
-VNCL  321 Violoncello
-VNCL  421 Violoncello
-VNCL  422 Violoncello
-VNCL  622 Violoncello
-VNCL  623 Senior Recital
-VOIC  100 Voice
-VOIC  120 Vocal Perform Engl & Italian
-VOIC  121 Voice
-VOIC  221 Voice
-VOIC  300 Voice
-VOIC  321 Voice
-VOIC  408 Vocal Pedagogy
-VOIC  421 Voice
-VOIC  422 Voice
-VOIC  492 Opera Production
-VOIC  500 Directed Study in:
-VOIC  520 Vocal Coaching
-VOIC  622 Voice
-VOIC  623 Senior Recital
-W&P  125 Wind and Percussion Pedagogy
-W&P  130 Orchestral Repertoire
-W&P  325 Wind and Percussion Pedagogy
-W&P  630 Orchestral Repertoire
-W&P  655 Independent Study in:
-WENS  252 Wind Ensemble
-WENS  652 Wind Ensemble
-WGSS  101 Intro Wmn,Gndr,&Sexulty Stds
-WGSS  102 Intro Women,Gndr,&Sex Stds,Hnr
-WGSS  176 First Year Seminar: Pregnancy in Modern Literature
-WGSS  325 Language, Gender and Sexuality
-WGSS  327 Perspctv Lsbn,Gay,Bisxl&Trngdr
-WGSS  331 Sex and Gender in New Media
-WGSS  333 Politics of Physicl Appearance
-WGSS  339 Feminism and Social Change
-WGSS  344 Black Feminist Theory
-WGSS  355 International Women's Rights
-WGSS  389 Anthr Gendr:Female Male&Beyond
-WGSS  396 Studies in: Queer Ecologies
-WGSS  396 Studies in: U.S. Borderlands Since 1848
-WGSS  396 Studies in:
-WGSS  410 Intimate Relationships
-WGSS  440 Communication and Gender
-WGSS  468 Psychology of Women
-WGSS  498 Independent Study
-WGSS  499 Hnrs Wmn,Gndr&Sexualty Studies
-WGSS  501 Doing Feminist Research
-WGSS  562 Gender and Politics
-WGSS  563 Gender, Sexuality and the Law
-WGSS  583 Love, Sex, and Globalization
-WGSS  598 Sexuality&Gender Africa Histry
-WGSS  600 Feminist Cntmp Politcal Theory
-WGSS  650 Srvc Lrng Wmn,Gndr&Sxulty Stde
-WOLO  110 Elementary Wolof I
-WOLO  120 Elementary Wolof II
-WOLO  210 Intermediate Wolof I
-WOLO  310 Advanced Wolof I
-WOLO  401 Readings in Wolof I
+AAAS 103 Introduction to Africa
+AAAS 104 Intro African-American Studies
+AAAS 160 Introdctn West African History
+AAAS 200 Directed Studies
+AAAS 203 Culture and Health
+AAAS 204 Culture and Health, Honors
+AAAS 250 Intro to Translation & Theory
+AAAS 305 Modern Africa
+AAAS 306 Black Expr U.S. Since Emancptn
+AAAS 314 The Black Church in America
+AAAS 316 Mnistr&Mgcns:Blck Rel Slav Prs
+AAAS 320 African Studies In: Afro-Latin American Cultures
+AAAS 320 African Studies In: Alexa,Play Afrcna Soc-Pol Musc
+AAAS 320 African Studies In: The Sciencs in Islamcate Socty
+AAAS 320 African Studies In: Women and Gender in Islam
+AAAS 323 African-American Studies In: Alexa,Play Afrcna Soc-Pol Musc
+AAAS 323 African-American Studies In: Museums&Socty:Past,Prsnt,Futr
+AAAS 323 African-American Studies In: Research & the Black Community
+AAAS 323 African-American Studies In: Black Lives Matter
+AAAS 325 Popular Black Music
+AAAS 355 African Theatre and Drama
+AAAS 400 Readings in:
+AAAS 415 Women and Islam
+AAAS 433 Islamic Literature
+AAAS 460 Topc&Probm Africn&Afr-Amr Stds
+AAAS 496 Field Experience
+AAAS 502 Directed Language Study: Elementary Arabic II
+AAAS 502 Directed Language Study: Elementary Arabic I
+AAAS 502 Directed Language Study: Elementary KiSwahili II
+AAAS 502 Directed Language Study: Elementary Wolof I
+AAAS 502 Directed Language Study: Elementary Wolof II
+AAAS 502 Directed Language Study: Elementary Yoruba I
+AAAS 503 Directed Language Study: Intermediate Arabic II
+AAAS 503 Directed Language Study: Intermediate KiSwahili II
+AAAS 503 Directed Language Study: Intermediate Wolof I
+AAAS 503 Directed Language Study: Intermediate Wolof II
+AAAS 504 Directed Language Study I: Advanced Arabic II
+AAAS 504 Directed Language Study I: Advanced KiSwahili II
+AAAS 504 Directed Language Study I: Advanced Wolof II
+AAAS 505 Directed Language Study II: Reading in Arabic II
+AAAS 505 Directed Language Study II: Readings in KiSwahili II
+AAAS 505 Directed Language Study II: Readings in Wolof II
+AAAS 520 African Studies in: The Sciencs in Islamcate Socty
+AAAS 523 African-American Studies in: Black Popular Music
+AAAS 523 African-American Studies in: The Black Church
+AAAS 534 The Rhetoric of Black Americns
+AAAS 543 Lang&Cult Arabic-Spkng Communt
+AAAS 550 Senior Seminar in: Rsrch in Africn&Blck Dspr Stds
+AAAS 611 History Black Power Movement
+AAAS 657 Women and Gender in Islam
+AAAS 662 Gender and Politics in Africa
+AAAS 690 Investigation and Conference
+AAAS 695 Honors Project in:
+ABSC 100 Introd Applied Behavrl Science
+ABSC 110 Appld Behvior Anlysis Prctitnr
+ABSC 160 Intro Child Behavior&Develpmnt
+ABSC 250 Human Development
+ABSC 304 Prin&Procedr Behavrl Intervtns
+ABSC 308 Research Methods & Application
+ABSC 309 Child Life: Theory & Practice
+ABSC 310 Building Healthy Communities
+ABSC 311 Buildg Healthy Communities,Hnr
+ABSC 350 Behvrl Treatmnt Childrn Autism
+ABSC 359 Family Systems
+ABSC 360 Drugs, Addiction, and Behavior
+ABSC 469 Special Topics in: Social Determinants of Health
+ABSC 469 Special Topics in: Beh TreatmntforChldrn w Autism
+ABSC 469 Special Topics in: Verbal Behavior
+ABSC 469 Special Topics in:
+ABSC 489 Directed Readings in: Trnsdcp Expl Bhvr Anlys&Ftr Ap
+ABSC 489 Directed Readings in:
+ABSC 499 Directed Research in:
+ABSC 509 Contmp Bhvrl Sci:Hst,Cncp&Cmpr
+ABSC 519 Psychgcl Aspcts of Death&Dying
+ABSC 535 Developmental Psychopathology
+ABSC 599 Hnr&Thsis  Appld Bhvrl Science
+ABSC 606 Spcl Projects in the Community
+ABSC 626 Adolecnt Behavior& Development
+ABSC 675 Pctm Inf-Tdlr Cr&Erly Intrvn I
+ABSC 676 Pctm Inf-Tod Cr&Erly Intrvn II
+ABSC 677 Prac Preschl Eductn&Intrvntn I
+ABSC 678 Prc Preschl Eductn&Intrvntn II
+ABSC 679 Prct Bhvr-Anl Rsh Erly Chld Ed
+ABSC 680 Prc Adv Lab Dv Bh Tr Chd Autsm
+ABSC 683 Pctm Child Life Specialty
+ABSC 685 Prc Cmty-bd Svcs Adults w IDD
+ABSC 690 Prc Commnity Health&Developmnt
+ABSC 691 Prc Commnty Health&Devlpmnt,Hn
+ABSC 692 Practicum in Basic Research
+ABSC 695 Special Practicum in:
+ABSC 696 Special Practicum in, Honors:
+ABSC 698 Special Research Practicum in:
+ABSC 699 Special Research Practicum,Hnr
+ACCT 200 Fundamentals Financial Acctng
+ACCT 201 Managerial Accounting I
+ACCT 230 Intro Accounting Profession
+ACCT 302 Accounting Scholars I
+ACCT 313 Financial Analysis & Analytics
+ACCT 320 Intermediate Accounting I
+ACCT 321 Intermediate Accountng Finance
+ACCT 325 Managerial Accounting II
+ACCT 330 Introduction to Taxation
+ACCT 410 Intermediate Accounting II
+ACCT 411 Intermedte Accounting II, Hnrs
+ACCT 425 Accounting Information Systems
+ACCT 500 Special Topics Accounting: DecisionMkng for the Boardroom
+ACCT 515 Strategic Comms Accountants
+ACCT 525 Specialized Acctg Practices
+ACCT 543 Introduction to Auditing
+ACCT 545 Adv Tax Business Entity I
+ACCT 599 Internship in Accounting
+ADS 320 KU Design Professional Lecture
+ADS 340 History of Design
+ADS 401 Design Ethics
+ADS 531 Internship Credit
+ADS 560 Topics in Design: Service & UX Design
+ADS 560 Topics in Design: Design Scenarios & Simulations
+ADS 560 Topics in Design: Visual Dvlpmnt for Videogames
+ADS 560 Topics in Design: TecDesign
+ADS 580 Special Problems in Design
+ADS 601 Design Ethics
+AE 211 Computing for Engineers
+AE 245 Intro to Aerospace Engineering
+AE 290 Aerospace Colloquium
+AE 345 Fluid Mechanics
+AE 360 Introduction to Astronautics
+AE 421 Aerospace Computer Graphics
+AE 430 Aerospace Instrumentation Labr
+AE 445 Aircraft Aerodynamc&Performanc
+AE 508 Aerospace Structures II
+AE 509 Honors Aerospace Structures II
+AE 522 Aerospace Systems Design II
+AE 523 Space Systems Design II
+AE 551 Dynamics of Flight II
+AE 552 Honors Dynamics of Flight II
+AE 572 Fundamentals of Jet Propulsion
+AE 573 Honors Propulsion
+AE 592 Spcl Prjct Arspc Eng Ugdl Stds
+AEC 6 Antcptd Futr AEC Crdt Hrs
+AEC 90 English Proficiency Test
+AECL 20 Listng,Spkng&Gramr Acad Purp 2
+AECL 30 Listng,Spkng&Gramr Acad Purp 3
+AECL 140 Listng,Spkng&Gramr Acad Purp 4
+AECL 151 Listng,Spkng&Gram Acad Pur 5
+AECR 20 Readng,Writng&Gram Acad Purp 2
+AECR 30 Readng,Writng&Gram Acad Purp 3
+AECR 140 Readng,Writng&Gram Acad Purp 4
+AECR 151 Readng,Writng&Gram Acad Purp 5
+AESP 160 Appld Engl Ctr Special Topics: Connecting with Your Community
+AIR 100 Leadership Laboratory
+AIR 148 Heritage&Values of the USAF II
+AIR 288 Team&Leadership Fundamentls II
+AIR 348 Leadng People&Effective Com II
+AIR 408 NatSec/Leadrshp&Commissiong II
+AMS 100 Introductn to American Studies
+AMS 101 Intro to American Studies, Hnr
+AMS 110 American Identities
+AMS 171 Religion in American Society
+AMS 260 Intro to Latinx/Chicanx St
+AMS 306 Black Expr U.S. Since Emancptn
+AMS 316 Mnistr&Mgcns:Blck Rel Slav Prs
+AMS 320 Ground US Latinx Hist:Migratn
+AMS 321 American Gun Culture
+AMS 325 Spanish for Heritage Learners
+AMS 332 United States in Global Contxt
+AMS 344 Case Study in Americn Studies: Quentin Tarantino
+AMS 344 Case Study in Americn Studies: Jewish Secular Culture
+AMS 344 Case Study in Americn Studies: Amrcn Art & Culture Since 1900
+AMS 360 Theory and Method
+AMS 496 Social Justice Perspect & Expr
+AMS 550 Research Seminar in:
+AMS 551 Research Project in Amrcn Stds
+AMS 552 Public Service in Americn Stds
+AMS 553 Honors in American Studies
+AMS 694 Directed Readings
+AMS 696 Studies in: Quentin Tarantino
+ANIM 121 Drawing for Animation
+ANIM 200 Introduction to Animation
+ANTH 100 General Anthropology
+ANTH 106 Introductory Linguistics
+ANTH 107 Introductory Linguistics, Hnrs
+ANTH 150 Becoming Human
+ANTH 160 Varieties of Human Experience
+ANTH 210 Archaeology's Greatest Hits
+ANTH 301 Anthropology Through Films
+ANTH 304 Fundmntls of Biological Anthro
+ANTH 308 Fundamentals Cultrl Anthroplgy
+ANTH 309 Becoming Human
+ANTH 315 The Prehistory of Art
+ANTH 320 Language in Cultur and Society
+ANTH 325 Language, Gender and Sexuality
+ANTH 340 Human Variation and Evolution
+ANTH 360 Varieties of Human Experience
+ANTH 389 Anthr Gendr:Female Male&Beyond
+ANTH 401 Integrating Anthropology
+ANTH 415 The Rise of Civilization
+ANTH 465 Genocide and Ethnocide
+ANTH 491 Study Abroad Topics in:
+ANTH 496 Reading and Research
+ANTH 497 Field Experience
+ANTH 499 Senior Honors Research
+ANTH 502 Tpc Anthropological Linguistc: Acclratd Elmentry Quechua I&II
+ANTH 502 Tpc Anthropological Linguistc: Intermediate Quechua II
+ANTH 502 Tpc Anthropological Linguistc: Elementary Yucatec Maya II
+ANTH 502 Tpc Anthropological Linguistc: Intermediate Yucatec Maya II
+ANTH 502 Tpc Anthropological Linguistc: Advanced Yucatec Maya II
+ANTH 502 Tpc Anthropological Linguistc: Elementary Kaqchikel Maya II
+ANTH 502 Tpc Anthropological Linguistc: Intermediate Kaqchikel Maya II
+ANTH 502 Tpc Anthropological Linguistc: Advanced Kaqchikel Maya II
+ANTH 508 Ancient Amer Civl:Centrl Andes
+ANTH 510 Environmental Archaeology
+ANTH 517 Geoarchaeology
+ANTH 519 Lithic Technology
+ANTH 523 Great Plains Archaeology
+ANTH 582 Ethnobotany
+ARAB 110 Elementary Arabic I
+ARAB 120 Elementary Arabic II
+ARAB 220 Intermediate Arabic II
+ARAB 320 Advanced Arabic II
+ARAB 402 Readings in Arabic II
+ARCE 217 Computer-Assistd Buildng Desgn
+ARCE 315 Electric Circuits and Machines
+ARCE 350 Building Materials Science
+ARCE 351 Buildng Materils Science, Hnrs
+ARCE 490 Special Problems
+ARCE 520 Architectural Acoustics
+ARCE 541 Power Systems Engineering II
+ARCE 550 Illumination Engineering
+ARCE 560 HVAC&R Systems Design
+ARCE 561 HVAC&R Systems Design, Honors
+ARCE 562 Water Systems Design
+ARCE 566 Fire Protection Engineering
+ARCE 598 Comprehensive Design Project
+ARCH 101 Architectural Foundations II
+ARCH 109 Architectural Foundations II
+ARCH 110 Introduction to Computing
+ARCH 209 Sustainability, Site, &Context
+ARCH 215 Professional Communications
+ARCH 504 Sustainability and Context
+ARCH 508 Material and Tectonics
+ARCH 509 Designbuild
+ARCH 510 Architectural Detailing
+ARCH 516 Portfolio Development
+ARCH 520 Architectural Acoustics
+ARCH 531 Environmental Systems II
+ARCH 541 Glbl Hist Arch II:Ind Rev/Prsn
+ARCH 548 Historic Preservation Planning
+ARCH 549 HIstoric Preservation Tech
+ARCH 590 Architecture Study Abroad
+ARCH 600 Special Topcs in Architecture: Biomimicry in Architecture
+ARCH 600 Special Topcs in Architecture: Visual Thinking
+ARCH 600 Special Topcs in Architecture: Design of a Performance Space
+ARCH 600 Special Topcs in Architecture: 20th Cent. ARCH in US & Mexico
+ARCH 600 Special Topcs in Architecture: Furniture Hist, Dsgn, & Making
+ARCH 600 Special Topcs in Architecture: Site Planning & Design
+ARCH 600 Special Topcs in Architecture: Gardens of Japan & China
+ARCH 600 Special Topcs in Architecture: Lighting Design & Technology
+ARCH 600 Special Topcs in Architecture: Data Vis&Stadia Parametric Des
+ARCH 600 Special Topcs in Architecture: Environments for All Ages
+ARCH 600 Special Topcs in Architecture: Housing Seminar
+ARCH 600 Special Topcs in Architecture: Libeskind & Late-Modern Arch
+ARCH 600 Special Topcs in Architecture: Grasshopper&Parametric BuilSys
+ARCH 609 Integrated Design
+ARCH 620 Theory of Urban Design
+ARCH 623 Building Tech Practicum I
+ARCH 624 Structures II
+ARCH 627 Bldg Techn II:Cultr Bldg Techn
+ARCH 630 Theory of Architecture
+ARCH 692 Documentation
+ARCH 695 Internship Documentation
+ARMY 102 Introd to Military Science II
+ARMY 202 Basic Military Science II
+ARMY 302 Thry&Dynmc Tacticl Operatns II
+ARMY 303 Military Conditioning
+ARMY 402 The Military Profession
+ARMY 450 Military Analysis
+ART 101 Drawing I
+ART 102 Drawing II
+ART 103 Art Concepts and Practice
+ART 120 Fundamentals of Painting
+ART 121 Fundamentals of Printmaking
+ART 122 Fundamentals of Sculpture
+ART 123 Fundamentals of Expanded Media
+ART 131 Fundamentals of Ceramics
+ART 132 Fndamntls Metlsmthg/Jewelry
+ART 133 Fundamentals of Fibers
+ART 300 Special Topics in Visual Art: 3D Construction in Textiles
+ART 300 Special Topics in Visual Art: Personal Narrative
+ART 300 Special Topics in Visual Art: Quilting & Stitching
+ART 300 Special Topics in Visual Art: Gallery Practice
+ART 300 Special Topics in Visual Art: Museums&Socty:Past,Prsnt,Futr
+ART 375 Directed Readings in Visul Art
+ART 500 Adv Special Topics Visual Art: 3D Construction in Textiles
+ART 500 Adv Special Topics Visual Art: Personal Narrative
+ART 500 Adv Special Topics Visual Art: Quilting & Stitching
+ART 500 Adv Special Topics Visual Art: Gallery Practice
+ART 500 Adv Special Topics Visual Art: Museums&Socty: Past,Prsnt,Futr
+ART 540 Professional Activities Seminr
+ART 575 Adv Directed Reading Visul Art
+ART 590 Internship in Visual Art
+ART 599 Individual Studies Visual Art
+ART 650 Senior Seminar I
+ART 660 Senior Seminar II
+ART 695 Directed Study I
+ART 696 Directed Study II
+ASLD 311 Introduction to Deaf Studies
+ASLD 313 Soc Jstce & Allyshp w Deaf Com
+ASLD 501 Intro ASL/Engl Intrprtng Prfsn
+ASLD 505 Amricn Sign Language V (ASL V)
+ASLD 506 Amer Sign Language VI (ASL VI)
+ASLD 521 Discourse Analysis of ASL
+ASLD 524 Visual-Gestural Communication
+ASLD 588 Intrnshp in Amr Sign Lang&Deaf
+ASLD 589 Research Experience in ASLD
+ASLD 603 Intrprtng: Mdtd Intractns Coms
+ASLD 607 Ethcs & Profsnl for Intrprtrs
+ASLD 608 Interpreting Observ Practicum
+ASLD 609 Prctcm Amr Sgn Lang Intrprtng
+ASTR 191 Contemporary Astronomy
+ASTR 196 Contemporary Astronomy Lab
+ASTR 390 Undergraduate Problems
+ASTR 391 Physical Astronomy, Honors
+ASTR 501 Honors Research
+ASTR 503 Undergraduate Research
+ASTR 692 Astrophysics II
+ATMO 105 Introductory Meteorology
+ATMO 106 Introductory Meteorology, Honr
+ATMO 220 Unusual Weather
+ATMO 321 Climate and Climate Change
+ATMO 499 Hnrs Cours Atmospheric Science
+ATMO 525 Air Pollution Meteorology
+ATMO 605 Operational Forecasting
+ATMO 606 Forecastng Pract-Private Indus
+ATMO 607 Forecstg Intern-Natnl Wthr Srv
+ATMO 630 Synoptic Meteorology
+ATMO 642 Remote Sensing
+ATMO 660 Advanced Dynamic Meteorology
+ATMO 690 Special Problems in Meteorolgy
+ATMO 697 Seminar for Seniors
+ATMO 699 Undergraduate Research
+BAND 209 Basketball Band
+BAND 301 Workshop in: Athletic Band Ldrshp&Cndtng
+BAND 402 Wind Ensemble
+BAND 404 Symphonic Band
+BAND 406 University Band
+BAND 409 Basketball Band
+BAND 466 Directed Study:
+BASN 100 Bassoon
+BASN 101 Bassoon Reed Making
+BASN 121 Bassoon
+BASN 221 Bassoon
+BASN 300 Bassoon
+BASN 301 Bassoon Reed Making
+BASN 321 Bassoon
+BASN 421 Bassoon
+BASN 422 Bassoon
+BASN 622 Bassoon
+BASN 623 Senior Recital
+BBA 301 Business and the Economy
+BBA 303 Survey of Mgmt & Leadership
+BBA 304 Marketing
+BBA 305 Operations and SCM
+BBA 306 Finance
+BBA 308 Business Policy and Strategy
+BBA 309 Business Analytics
+BBA 403 Ethicl Decisn Makng in Busines
+BBA 410 Project Management
+BBA 411 Intro to Internationl Business
+BBA 412 Professional Selling Skills
+BBA 500 Individual Research in Businss
+BCRS 108 Elementry Bosn/Croatn/Serbn II
+BCRS 109 Elemntry Bosn/Croatn&Serb II,H
+BCRS 208 Intermedt Bosn/Croatn/Serbn II
+BCRS 209 Intermd Bosn/Croatn/Serbn II,H
+BCRS 675 Readngs Bosnian/Croatn/Serbian
+BE 301 Managerial Economics
+BE 302 Managerial Economics, Honors
+BE 305 Economics of Business
+BIOL 100 Principles of Biology
+BIOL 102 Principles of Biology Labortry
+BIOL 150 Prn Molecular&Cellular Biology
+BIOL 152 Princpls of Organismal Biology
+BIOL 153 Prncpls of Organisml Biology,H
+BIOL 154 Intro Biol Lab for STEM Majors
+BIOL 200 Basic Microbiology
+BIOL 203 Introd Microbiology Laboratory
+BIOL 210 Intro to Clinical Lab Sciences
+BIOL 240 Fundamentals of Human Anatomy
+BIOL 241 Human Anatomy Observation Lab
+BIOL 246 Principles of Human Physiology
+BIOL 247 Prncpls of Human Physiolgy Lab
+BIOL 350 Principles of Genetics
+BIOL 370 Introduction to Biostatistics
+BIOL 400 Fundamentals of Microbiology
+BIOL 402 Fundmntals of Microbiology Lab
+BIOL 412 Evolutionary Biology
+BIOL 416 Cell Structure and Function
+BIOL 417 Biology of Development
+BIOL 418 Laboratory in: Marine Biology
+BIOL 418 Laboratory in: Kansas Plants and Landscapes
+BIOL 418 Laboratory in: Flowering Plant Lab
+BIOL 420 Seminar: Careers in Bioscience
+BIOL 420 Seminar: Chemical Cues:Sex, Food &Fight
+BIOL 420 Seminar: Genetic Basis of Spch&Lang Dis
+BIOL 420 Seminar: Intro to Biotech Careers
+BIOL 420 Seminar: Evolutnry Quantitatve Genetics
+BIOL 420 Seminar: Native&Western Views of Nature
+BIOL 420 Seminar: Research on KS Native Bees
+BIOL 420 Seminar: Responsible Cond Research
+BIOL 420 Seminar: Statistics for Research
+BIOL 423 Non-laboratory Indepndnt Study
+BIOL 424 Independent Study
+BIOL 426 Laboratory in Cell Biology
+BIOL 428 Introduction to Systematics
+BIOL 442 Human Anatomy Dissectn Labrtry
+BIOL 449 Lab/Field Work in Human Biolgy
+BIOL 490 Internshp & Practicl Applicatn
+BIOL 503 Immunology
+BIOL 505 Computer Science for Biology
+BIOL 506 Bacterial Infectious Diseases
+BIOL 507 Bacterial Infectious Dis Lab
+BIOL 512 General Virology
+BIOL 513 Virology Laboratory
+BIOL 524 Mammalian Paleontology
+BIOL 533 Biology of Fungi
+BIOL 546 Mammalian Physiology
+BIOL 547 Mammalian Physiology Laboratry
+BIOL 583 Herpetology
+BIOL 598 Research Methods
+BIOL 599 Senior Seminar: Organismal Biology: Bees
+BIOL 599 Senior Seminar: Biology
+BIOL 599 Senior Seminar: Human Biology
+BIOL 599 Senior Seminar: Mol Cell & Develop Biology
+BIOL 599 Senior Seminar: Organismal Biology
+BIOL 599 Senior Seminar: Regeneration and Aging
+BIOL 600 Introd Biochemistry, Lectures
+BIOL 602 Plant Ecology
+BIOL 622 Paleontology
+BIOL 638 Biochemistry II
+BIOL 639 Advancd Biochemistry Laboratry
+BIOL 650 Advanced Neurobiology
+BIOL 652 Animal Behavior
+BIOL 668 Evolutionary Ecology
+BIOL 672 Gene Expression
+BIOL 699 Biology Honors Research Collqm
+BLAW 301 Legal Aspects of Business
+BLAW 302 Legal Aspects of Business,Hnrs
+BLAW 505 Legl Aspcts of Management Proc
+BSAN 202 Statistics
+BSAN 230 Intro AIO Professions
+BSAN 310 Intro to Business Analytics
+BSAN 320 Fundmtls in Application Dvlmpt
+BSAN 325 Systems Analysis and Design
+BSAN 326 Database Management Systems
+BSAN 415 Data Analysis and Forecasting
+BSAN 418 Modeling and Risk Analysis
+BSAN 420 Data Visualization in Business
+BSAN 440 Foundations in Bus Analytics
+BSAN 450 Data Mining & Pred Analytics
+BSAN 460 Supply Chain Analytics
+BSAN 465 Customer Relationship Managmnt
+BSAN 480 Business Analytics Capstone
+BSAN 500 Ind Rsch in Business Analytics
+BSCI 400 Microbiology
+BSCI 401 Microbiology Laboratory
+BSCI 415 Career Readiness Bio&Hlth Sci
+BSCI 417 Developmental Biology
+BSCI 421 Topics Applied Biol Science: Intro to Public Health
+BSCI 421 Topics Applied Biol Science: Principles of Nutrition
+BSCI 421 Topics Applied Biol Science: Cancer Biology
+BSCI 435 Neurobiology
+BSCI 490 Internshp & Practicl Applicatn
+BSCI 506 Bacterial Infectious Diseases
+BSCI 512 Virology
+BSCI 599 Senior Seminar: Molecular Biosciences
+BSCI 600 Biochemistry
+BSCI 601 Biochemistry Laboratory
+BSCI 640 Biology Capstone II
+BTEC 400 Applied Immunology
+BTEC 424 Independent Stdy Biotechnology
+BTEC 475 Appld Separatn&Quantv Analysis
+BTEC 494 Selected Topics Biotechnlgy: BTEC Major Requirement
+BTEC 501 Biotech Ethics & Resp Cond Res
+BTEC 599 Biotechnology Internship
+BTEC 630 Biotech,Reg,Qlty Cnt&Qlty Asrn
+BTEC 640 Biotechnology Capstone II
+BUS 110 Intro to Professionalism
+BUS 120 Emerging Topics in Business
+BUS 150 Foundations of Business
+BUS 200 Business Leadership Seminar
+BUS 210 Career Management & Planning
+BUS 300 Special Topics in Business: Internship
+BUS 300 Special Topics in Business: Understanding India
+BUS 305 Business Writing
+BUS 310 Internships with Impact
+BUS 410 Professionalism Capstone
+BUS 450 Lit&Hist Nar Prf Enrchmnt,Hnrs
+C&PE 112 Intr Chem Engr Professn II
+C&PE 211 Material and Energy Balances
+C&PE 221 Chem Engineerng Thermodynmcs I
+C&PE 325 Numrcl Methods&Stats for Engnr
+C&PE 327 Reservoir Engineering
+C&PE 519 Drilling Fluids Laboratory
+C&PE 524 Chem Engr Kinetics&Reactr Dsgn
+C&PE 525 Heat and Mass Transfer
+C&PE 601 Undergrad Tpc Chemcl&Petr Engr
+C&PE 613 Chemical Engineering Design I
+C&PE 618 Improved Oil Recovery
+C&PE 624 Process Safety &Sustainability
+C&PE 626 Chemical Engineering Labrty II
+C&PE 628 Petroleum Engineering Design
+C&PE 640 Natural Gas Engineering
+C&PE 641 Intro to AI & Mach Learn SEE
+C&PE 651 Undergraduate Problems
+C&PE 661 Undergraduate Honors Research
+C&PE 676 Princ Biomolecular Engineering
+C&T 100 Introd to Education Profession
+C&T 220 Career Development
+C&T 235 Diversity,Equity,Inclusion K12
+C&T 290 Intro Secondary Sci&Math Tchg
+C&T 291 Intro to Science & Math Tchg 2
+C&T 301 Eductnl Technlgy Elem-Middl Ed
+C&T 302 Eductnl Tchnlgy Mid/Secndry Ed
+C&T 322 Curric&Learner in Elemntry Sch
+C&T 324 Curricm Learner Middl&High Sch
+C&T 330 Inst Aprc ESOL Lrnrs Elem/Erly
+C&T 331 Inst Apr ESOL Lrnrs Mid/Sec Cl
+C&T 335 Curr&Inst Mid/Sec Hist&Gov Cls
+C&T 344 Childrn Lit in Elemntry School
+C&T 347 Social Stdies Elemntry Classrm
+C&T 349 Science in Elementry Classroom
+C&T 351 Mathematics Elementary Classrm
+C&T 354 Science of Reading II
+C&T 355 Sci Rdng II Prcticm Intrmd Grd
+C&T 359 Literacy in the Content Areas
+C&T 360 Knowing&Learning Math&Science
+C&T 366 Classrm Interactions Math&Sci
+C&T 402 Professional Learning Semnr II
+C&T 420 Tch KS Gvrnm&Cntp Pub Pol Iss: Middle-Secondary
+C&T 460 Projct Basd Instructn Math&Sci
+C&T 490 Student Teaching
+C&T 491 TESOL Practm KS State Endrsmnt
+C&T 494 Internship
+C&T 495 Sem:Devlpng Teaching Portfolio
+C&T 497 Independent Study in:
+C&T 500 Student Teaching in: Math & Science
+C&T 530 Curr&Instr Foreign Lang Clsrms
+C&T 533 Cur&Inst Mid&Sec Engl/Lang Art
+C&T 550 STEM Applctn PhysSci Elem Tchr
+CARI 100 Carillon
+CARI 300 Carillon
+CARI 621 Carillon
+CE 201 Statics
+CE 240 Geomatics
+CE 250 Dynamics
+CE 260 Statics and Dynamics
+CE 310 Strength of Materials
+CE 312 Strength of Materials, Honors
+CE 330 Fluid Mechanics
+CE 331 Fluid Mechanics Lab
+CE 455 Hydrology
+CE 461 Structural Analysis
+CE 477 Intr Envrn Engineerng&Sciences
+CE 479 Intro Envnmntl Engr&Sci, Hnrs
+CE 480 Intro Transportatn Engineering
+CE 484 Materials for Transportatn Fac
+CE 487 Soil Mechanics
+CE 490 Special Problems
+CE 495 Special Topics: Technical Writing
+CE 497 Extended Topics: Strength of Materials
+CE 497 Extended Topics: Structural Analysis
+CE 497 Extended Topics: Engineering Ethics
+CE 497 Extended Topics: Municipal Wtr Supl&Waste Trtmt
+CE 501 Engineering Ethics
+CE 525 Applied Probability&Statistics
+CE 555 Open Channel Flow
+CE 562 Design of Steel Structures
+CE 563 Dsgn Reinfrcd Concrete Structr
+CE 573 Biol Principles of Evrnmtl Eng
+CE 576 Municipal Wtr Supl&Waste Trtmt
+CE 588 Foundation Engineering
+CE 677 Grad Fundmntl of Envrmntl Engr
+CE 684 Matrls for Transprt Facilities
+CER 208 Ceramics I
+CER 402 Mold Making and Slip Casting
+CER 500 Advncd Specil Topics Ceramics: Advanced Ceramics
+CER 502 Adv Mold Making & Slip Casting
+CER 505 Clay and Glaze Formulation
+CER 515 Advanced Ceramics I
+CER 520 Advanced Ceramics II
+CER 590 Internship in Ceramics
+CER 599 Individual Studies in Ceramics
+CHAM 216 Chamber Music
+CHAM 220 Baroque Ensemble
+CHAM 320 Baroque Ensemble
+CHAM 336 Chamber Music
+CHEM 110 Introductory Chemistry
+CHEM 130 General Chemistry I
+CHEM 135 General Chemistry II
+CHEM 149 Chemistry for Engneers Suplmnt
+CHEM 150 Chemistry for Engineers
+CHEM 175 Chemistry for Chem Sciences II
+CHEM 195 Foundations of Chemistry II Hn
+CHEM 196 Foundtions Chem II Lab, Honors
+CHEM 250 Math Methods Chemical Sciences
+CHEM 330 Organic Chemistry I
+CHEM 331 Organic Chemistry I Laboratory
+CHEM 335 Organic Chemistry II
+CHEM 336 Organic Chemistry II Laboratry
+CHEM 385 Organic Chemistry II, Honors
+CHEM 390 Topics in Chemistry, Honors: F-element Chemistry
+CHEM 498 Undergraduate Research
+CHEM 535 Physical Chemistry II
+CHEM 537 Physical Chemistry Lab
+CHEM 598 Research Methods
+CHEM 635 Instrumentl Methds of Analysis
+CHEM 636 Instrumtl Mthd of Analysis Lab
+CHEM 661 Advanced Inorganic Laboratory
+CHEM 698 Undergrad Capstone Research
+CHEM 699 Undergraduate Honors Research
+CHIN 101 Elemntry Converstnl Chinese II
+CHIN 108 Elementary Chinese II
+CHIN 208 Intermediate Chinese II
+CHIN 342 Intro to Classical Chinese
+CHIN 498 Directed Readings in Chinese
+CHIN 508 Advanced Modern Chinese II
+CHIN 542 Introdn to Classical Chinese
+CHIN 598 Readings in : Contemporary Chinese Society
+CHIN 598 Readings in : Readings&Conversation Adv Chin
+CHOR 412 Oread Singers
+CHOR 414 University Singers
+CHOR 418 KU Glee
+CHOR 442 Chamber Choir
+CHOR 446 KU Treble Choir
+CHUR 320 Church Music Practicum
+CHUR 422 Bales Chorale
+CLAR 100 Clarinet
+CLAR 121 Clarinet
+CLAR 221 Clarinet
+CLAR 300 Clarinet
+CLAR 321 Clarinet
+CLAR 421 Clarinet
+CLAR 422 Clarinet
+CLAR 622 Clarinet
+CLAR 623 Senior Recital
+CLS 210 Intro to Clinical Lab Sciences
+CLS 530 Clincl Chemistry I
+CLS 531 Clin Chem, UA, Body Fluids Lab
+CLS 532 Clin Microbiology I
+CLS 533 Clinical Microbiology I Lab
+CLS 546 Hematology II
+CLS 547 Hematology II Lab
+CLS 610 Adv Biotech Lectre
+CLS 611 Adv Biotech Lab
+CLS 621 Biotech Method Practicum
+CLS 622 Problems Molecular Diagnostics
+CLS 623 Moleclr Gene Pract
+CLS 633 Spec Topics Practm
+CLS 639 Urinalysis
+CLS 640 Clin Chem III & Immunology II
+CLS 641 Clin Chem & Immun Prac
+CLS 642 Clin Micro IIl
+CLS 643 Clin Micro Pract
+CLS 644 Immunohematology II
+CLS 645 Immunhemo Prac
+CLS 646 Hematology III
+CLS 647 Hematology Pract
+CLS 650 Clinical Lab Science Review
+CLS 655 Molecular Biotechnology Review
+CLS 690 Special Topics
+CLSX 105 Intro Ancient Nr East&Grk Hist
+CLSX 106 Introduction to Roman History
+CLSX 148 Greek and Roman Mythology
+CLSX 168 Ancient Epic Tales
+CLSX 327 Roman Archaeology and Art
+CLSX 332 Medical Termnlgy:Grk&Lat Roots
+CLSX 355 Ancient Greece&Rome in Film
+CLSX 365 Ancient Rome, Monuments&Memory
+CLSX 375 Studies in:
+CLSX 375 Studies in: Greek History
+CLSX 375 Studies in: Archaeology
+CLSX 375 Studies in: Caesar
+CLSX 375 Studies in: After Alexander
+CLSX 380 Anct Grk Athltcs&Olympcs Games
+CLSX 384 Ethics in Greek Tragedy
+CLSX 496 Honrs Essay in Clscl Antiquity
+CLSX 508 Late Roman Empire (284-527)
+CLSX 527 Roman Archaeology and Art
+CLSX 529 Arch&Art of Egypt & Near East
+CLSX 575 Readings in: Readings in Greek Athletics
+CLSX 575 Readings in: Readings in Julius Caesar
+CLSX 577 Tpcs in Arch&Art of Anc Medit:
+CLSX 675 Studies in: Greek and Latin Linguistics
+CMGT 500 Construction Engineering
+COMS 130 Public Speaking
+COMS 131 Public Speaking, Honors
+COMS 207 Intro to Political Communitctn
+COMS 210 Intro to Orgnztnl&Prof Comnctn
+COMS 231 Practicum in Forensics
+COMS 232 Introduction to Rhetoric
+COMS 244 Interpersonal Communication
+COMS 246 Intr Intercultural Communicatn
+COMS 310 Advanced Organizational Comm
+COMS 320 Communication and New Media
+COMS 322 Professional Public Speaking
+COMS 330 Effective Business Communicatn
+COMS 345 Propaganda and Persuasion
+COMS 350 Commncation in a Diverse World
+COMS 355 Intr Rhetoric&Social Influence
+COMS 356 Intr Bhvrl Rsrch Mthds in Comm
+COMS 407 Political Campaigns
+COMS 440 Communication and Gender
+COMS 450 Ethicl Issues in Poltcl Comctn
+COMS 496 Capstone in: Calling out BS
+COMS 496 Capstone in: The Dark Side of Romance
+COMS 496 Capstone in: Cmmunction&Orgnizatnl Culture
+COMS 498 Honors Thesis
+COMS 499 Directd Stdy in Communictn Std
+COMS 530 Intrnshp in Communictn Studies
+COMS 545 Rhetoric of War in America
+COMS 551 The Rhetoric of Black Americns
+COMS 552 The Rhetoric of Women's Rights
+COMS 557 East Asian Communication
+COMS 620 Adv Communication & New Media
+COND 245 Conducting I
+COND 345 Conducting II
+CRIM 215 Crimnl Activity Bonnie & Clyde
+CRIM 300 Intro to Criminal Justice
+CRIM 320 Decision Making in Crim Just
+CRIM 330 Policing
+CRIM 340 Courts and Sentencing
+CRIM 395 Specl Topics Criminal Justice: Beyond Bars: Back in Society
+CRIM 410 Racial Justice and CJ System
+CRIM 498 Criminal Justice Internship
+CRIM 499 Capstone in Criminal Justice
+CVS 320 Physics II
+CVS 325 Adult Echocardiography II
+CVS 330 Congenital Heart Disease
+CVS 335 Clinical Practicum II
+CVS 430 Vascular Ultrasound II
+CVS 440 Pediatric Echocardiography II
+CVS 450 Clinical Practicum V
+DANC 103 Modern Contemporary I
+DANC 211 Ballet II
+DANC 260 Musical Theatre Dance
+DANC 290 Sophomore Review
+DANC 315 Jazz III
+DANC 320 University Dance Company
+DANC 330 Dance in Culture
+DANC 411 Ballet IV
+DANC 419 Tap II
+DANC 475 Career Preparation in the Arts
+DANC 498 Directed Study in:
+DANC 520 Pedagogy
+DANC 540 Fld Experienc in Dance Teachng
+DANC 550 Senior Project
+DANC 580 Special Topics in Dance: Improvisation
+DANC 580 Special Topics in Dance: Pippin
+DBBS 100 Double Bass
+DBBS 121 Double Bass
+DBBS 221 Double Bass
+DBBS 300 Double Bass
+DBBS 321 Double Bass
+DBBS 421 Double Bass
+DBBS 422 Double Bass
+DBBS 622 Double Bass
+DBBS 623 Senior Recital
+DRWG 213 Life Drawing I
+DRWG 314 Life Drawing II
+DRWG 515 Life Drawing III
+DRWG 516 Life Drawing IV
+DRWG 599 Individual Studies in Drawing
+EALC 105 Asian Religions
+EALC 122 Intro to Contemporary Japan
+EALC 198 Studies in: The Visual Arts of East Asia
+EALC 231 Introduction to: Calligraphy
+EALC 303 Happiness in East Asia
+EALC 316 Modern Japanese Fiction & Film
+EALC 330 China's Cultural Legacy
+EALC 331 Studies in: Gardens of Japan & China
+EALC 331 Studies in: Ceramics of Korea
+EALC 331 Studies in: Japanese Sculpture
+EALC 331 Studies in: Modern Uyghur Culture & Histry
+EALC 343 Contemporary Japanese Film
+EALC 344 Manga: Histories and Theories
+EALC 353 Language &Society in East Asia
+EALC 354 Japanese Prints
+EALC 365 K-Pop and the Arts
+EALC 366 Political Economy of East Asia
+EALC 367 Art and Culture of Japan
+EALC 373 Modern Korean Art & Culture
+EALC 378 Art and Culture of China
+EALC 431 Studies in: Advanced Japanese II
+EALC 431 Studies in: Advanced Modern Japanese II
+EALC 498 Dir Readng in East Asn Lng&Clt
+EALC 499 Honors Thesis
+EALC 530 China's Cultural Legacy
+EALC 553 Language &Society in East Asia
+EALC 563 Cultural History of Korea
+EALC 570 The Structure of Japanese
+EALC 590 Tpcs in East Asian Lang&Cultr: Advanced Uyghur II
+ECIV 104 Eastern Civilizations
+ECON 104 Introductory Economics
+ECON 142 Principles of Microeconomics
+ECON 143 Princpls of Microeconomics,Hnr
+ECON 144 Principles of Macroeconomics
+ECON 145 Princpls of Macroeconomics,Hnr
+ECON 199 Data I:  Dealing with Data
+ECON 310 Topics in Applied Economics: Gndr, Public Plcy & the Ecnmy
+ECON 399 Data 2:Foundations Data Scinc
+ECON 426 Statistics and Data Analysis
+ECON 510 Energy Economics
+ECON 520 Microeconomics
+ECON 522 Macroeconomics
+ECON 526 Introduction to Econometrics
+ECON 550 Environmental Economics
+ECON 564 Topics in Applied Economics: Health Economics
+ECON 582 Economic Development
+ECON 590 Game Theory
+ECON 597 Research in Economics
+ECON 604 International Trade
+ECON 620 Elemnts of Mathemtcl Economics
+ECON 640 Labor Economics
+ECON 669 Economics of Financial Mrkts
+ECON 697 Senior Research Honors
+EECS 138 Introduction to Computing: Python
+EECS 140 Introd to Digital Logic Design
+EECS 141 Intro to Digital Logic: Honors
+EECS 168 Programming I
+EECS 169 Programming I:  Honors
+EECS 202 Circuits I
+EECS 210 Discrete Structures
+EECS 212 Circuits II
+EECS 220 Electromagnetics I
+EECS 268 Programming II
+EECS 312 Electronic Circuits I
+EECS 316 Circuits, Electroncs&Instrmntn
+EECS 317 Electronics & Instrumentation
+EECS 318 Circuits and Electronics Lab
+EECS 330 Data Structures and Algorithms
+EECS 331 Introduction to Data Science
+EECS 348 Software Engineering I
+EECS 361 Signal and System Analysis
+EECS 388 Embedded Systems
+EECS 399 Projects
+EECS 412 Electronic Circuits II
+EECS 441 Power Systems Engineering II
+EECS 443 Digital Systems Design
+EECS 444 Control Systems
+EECS 447 Introductn to Database Systems
+EECS 461 Probability and Statistics
+EECS 465 Cyber Defense
+EECS 468 Programming Paradigms
+EECS 498 Honors Research
+EECS 502 Senior Design Laboratory II
+EECS 510 Introdn to Theory of Computing
+EECS 512 Electronic Circuits III
+EECS 542 Computer Systems Design Lab II
+EECS 562 Intro to Communication Systems
+EECS 563 Intr to Communication Networks
+EECS 565 Intro Informatn&Cmptr Security
+EECS 582 Cmptr Sci&Intrdspnry Cmpt Cpst
+EECS 623 Interdisciplinary Collab
+EECS 645 Computer Systems Architecture
+EECS 649 Intr to Artificial Intelligenc
+EECS 662 Programming Languages
+EECS 678 Introdctn to Operating Systems
+EECS 687 Mobile Security
+EECS 690 Special Topics: Laser Engineering
+EECS 690 Special Topics: Algorithms for HPC
+EECS 690 Special Topics: Mobile Robotics
+EECS 692 Directed Reading
+EECS 695 Software Reverse Engineering
+ELPS 250 Education and Society
+ENGL 101 Composition
+ENGL 102 Critical Reading and Writing
+ENGL 105 Honors Introduction to English
+ENGL 203 Topics in Reading and Writing: BookTok & 21 Century Reading
+ENGL 203 Topics in Reading and Writing: Professional Communication
+ENGL 203 Topics in Reading and Writing: Literature of Sports
+ENGL 205 Freshman-Sophmr Honors Prosem: Ways of Seeing
+ENGL 209 Introduction to Fiction
+ENGL 210 Introduction to Poetry
+ENGL 220 Introduction to Creative Writi
+ENGL 300 Introdction to English Studies
+ENGL 301 Topics in British Lit to 1800: Lit of King Arthur Adaptations
+ENGL 306 Global Environmental Literatre
+ENGL 308 Intro to Litery Criticism&Thry
+ENGL 314 Major British Wrtrs after 1800
+ENGL 318 Topcs American Lit Since 1865: American Modernist Poetry
+ENGL 332 Shakespeare
+ENGL 351 Fiction Writing I
+ENGL 352 Poetry Writing I
+ENGL 355 Nonfiction Writing I
+ENGL 360 Topics in Writing: Writing About Science
+ENGL 362 Foundatns of Technical Writing
+ENGL 382 Composing Cultures
+ENGL 390 Studies in: Reading Novels as a Writer
+ENGL 390 Studies in: Christianity in Fantasy Lit
+ENGL 479 The Literature of: Contemporary Drama
+ENGL 492 The London Review
+ENGL 494 Research Internship
+ENGL 495 Directed Study:
+ENGL 496 Internship
+ENGL 497 Service Learning Internship
+ENGL 551 Fiction Writing II
+ENGL 554 Playwriting II
+ENGL 555 Nonfiction Writing II
+ENGL 569 Modernism
+ENGL 574 African American Literature: Black Masculinities
+ENGL 590 Studies in: Climate Fiction
+ENGL 590 Studies in: Care Pract: Eco, Commu, Self
+ENGL 590 Studies in: Programming Digital Humanities
+ENGL 590 Studies in: Travl Wrtng&Costa Rica Exprnce
+ENGL 598 Honors Proseminar: Shakespeare's Writing Craft
+ENGL 599 Honors Essay
+ENGR 111 Freshman Self Seminar
+ENGR 112 Sophomore Self Seminar
+ENGR 113 Junior Self Seminar
+ENGR 114 Senior Self Seminar
+ENGR 300 Cooprtv Engr Educatn Experienc
+ENGR 360 Special Topics: Hands-On Intro to Comp Hardwar
+ENGR 504 Technicl Writing for Engineers
+ENTR 410 Building ENTR Competency
+ENTR 450 Entrepreneurship Capstone
+ENTR 460 Entrepreneurial Finance
+ENTR 470 Entrepreneurial Marketing
+ENTR 490 Solving Wicked Problems
+EPHX 210 Generl Physics I for Engineers
+EPHX 501 Honors Research
+EPHX 503 Undergraduate Research
+EPHX 600 Spec Tpcs Physcs&Astrophysics: Intro to Quantum Algorithms
+EPHX 601 Desgn Physical&Electronic Syst
+EPHX 611 Introductory Quantum Mechanics
+EPHX 615 Numerical&Computatnl Mthd Phsx
+EPHX 616 Physical Measurements
+EPHX 621 Mechanics II
+EPHX 631 Electromagnetic Theory
+EPHX 693 Gravitation and Cosmology
+EPSY 305 Devlpmnt&Learng of the Child
+EPSY 310 Career and Life Planning
+EPSY 320 Basics of Classroom Assessment
+EPSY 440 Applied Sport&Performance Psyc
+EPSY 480 Prom Stu Soc-Emotio Well-Being
+EPSY 497 Independent Study
+EPSY 515 Rsearch Methds McNair Scholars
+EPSY 520 Classroom Assessment
+EPSY 580 Positive Psychology
+EPSY 598 Special Course: Psychology of Injury
+EUPH 100 Euphonium
+EUPH 121 Euphonium
+EUPH 221 Euphonium
+EUPH 300 Euphonium
+EUPH 321 Euphonium
+EUPH 421 Euphonium
+EUPH 422 Euphonium
+EUPH 622 Euphonium
+EUPH 623 Senior Recital
+EURS 302 Eurpn Cultur&Society 1945-Pres
+EVRN 142 Globl Env II:Ecol Hmn Civilztn
+EVRN 145 Glbl Evrn II:Eclgy Hmn Cvlz,Hn
+EVRN 148 Scientfc Princpls Envrnmt Stds
+EVRN 160 Environmental Solutions
+EVRN 300 Geog Adventures in Clim Change
+EVRN 304 Environmental Conservation
+EVRN 336 Ethics, Ideas and Nature
+EVRN 338 Permaculture Design
+EVRN 347 Envrn History of North America
+EVRN 362 Art and Ecology: Ecosphere
+EVRN 372 Rel and Envrmt in the US
+EVRN 384 Environment, Power, & Justice
+EVRN 386 Sociology of Global Food
+EVRN 412 Ecology: Fndmntls&Applications
+EVRN 420 Topics Environmental Studies: Care Pract: Eco, Commu, Self
+EVRN 420 Topics Environmental Studies: Tallgrass Prairie Restoration
+EVRN 420 Topics Environmental Studies: Climate Change Denial
+EVRN 420 Topics Environmental Studies: Kansas Plants and Landscapes
+EVRN 420 Topics Environmental Studies: Health & Medical Geography
+EVRN 445 Intro to Environmental Health
+EVRN 460 Field Ecology
+EVRN 490 Evironmental Studies Internshp
+EVRN 491 Capstone Internship
+EVRN 510 Adv Evrnmntl App Geosptal Tech
+EVRN 542 Ethnobotany
+EVRN 550 Environmental Economics
+EVRN 611 Water Qual,Land Use&Wtrshd Eco
+EVRN 615 Capstone Project
+EVRN 616 Environmental Impact Assessmnt
+EVRN 624 Independent Study
+EVRN 625 Hnrs Rsrch in Environmntl Stdy
+EVRN 645 Native&Western Views of Nature
+EXM 274 Expanded Media
+EXM 300 Special Topics Expanded Media: Social&Contextual Art Practice
+EXM 326 Video and Time-Based Media I
+EXM 500 Adv Specal Topics Expnd Media: Social&Contextual Art Practice
+EXM 526 Video and Time-Based Media II
+EXM 535 Intermediate Expanded Media
+EXM 536 Intermdate Expnded Media, Hnrs
+EXM 537 Advanced Expanded Media
+EXM 538 Advanced Expanded Media, Hnrs
+EXM 546 Graduate Expanded Media V
+EXM 599 Individul Studies Expand Media
+FIN 101 Personal Finance
+FIN 208 Principles of Insurance
+FIN 230 Intro to Finance Profession
+FIN 301 Personal Finance
+FIN 303 Finance Schlrs II:Fin Car&Inst
+FIN 305 Finance and Accounting
+FIN 310 Finance
+FIN 311 Finance, Honors
+FIN 324 Risk Management Foundations
+FIN 330 Intro Financial Plang&Retiremt
+FIN 400 Special Topics in Finance: Financial Planning Capstone
+FIN 408 Principles of Insurance
+FIN 410 Investment Theory&Applications
+FIN 413 Financl Markets&Intermediaries
+FIN 415 Corporate Finance
+FIN 420 International Finance
+FIN 422 Financial Modeling
+FIN 424 Enterprise Risk Management
+FIN 425 Futures and Options
+FIN 428 Real Estate Investment
+FIN 450 Applied Portfolio Mangmnt,Hnrs
+FIN 454 Portfolio Strategy
+FIN 455 Commercial Credit Analysis
+FIN 462 Mergers and Acquisitions
+FIN 600 Advanced Portfolio Management
+FLUT 100 Flute
+FLUT 121 Flute
+FLUT 221 Flute
+FLUT 300 Flute
+FLUT 321 Flute
+FLUT 421 Flute
+FLUT 422 Flute
+FLUT 622 Flute
+FLUT 623 Senior Recital
+FMS 100 Introduction to Film and Media
+FMS 101 Intro to Film and Media,Honors
+FMS 200 Film and Media Aesthetics
+FMS 275 Basic Video Production
+FMS 303 Undergrad Production Semnr in: Audio Production
+FMS 303 Undergrad Production Semnr in: Game Development
+FMS 303 Undergrad Production Semnr in: Acting for the Camera
+FMS 303 Undergrad Production Semnr in: Podcasting
+FMS 303 Undergrad Production Semnr in: Film Directing
+FMS 307 Undergrad Film/Media Intrnship
+FMS 313 Hst Intrntl Sound Flm Pst 1950
+FMS 316 Latin American Cinema
+FMS 318 Anti-war Film
+FMS 322 Soviet&Post-Sov Russian Cinema
+FMS 331 Mafia Movies
+FMS 340 Film and Media Theory
+FMS 373 Intermediate Screenwriting
+FMS 374 Animation
+FMS 376 Cinematography
+FMS 377 Post-Production
+FMS 380 American Popular Culture of: Modern Horror Film
+FMS 393 Experimental Film and Video
+FMS 410 US Diversity in Visual Culture
+FMS 425 Ethics in Storytelling
+FMS 477 Sound Design
+FMS 485 Capstone in Film&Media Studies
+FMS 498 Honors Seminar
+FMS 499 Directed Study in Film
+FMS 675 Problms Basic Video Production
+FREN 110 Elementary French I
+FREN 112 Introduction to French II
+FREN 120 Elementary French II
+FREN 150 Zombies, Aliens, Monsters
+FREN 230 Intermediate French I
+FREN 240 Intermediate French II
+FREN 301 French Written and Oral Comm 1
+FREN 303 Paris, City of Lights &Legends
+FREN 326 Introdctn to French Literature
+FREN 352 Business French/Professionnel
+FREN 381 France and the French
+FREN 435 Intro to Translation Studies
+FREN 471 Transcending Borders
+FREN 495 Directed Readings in French
+FREN 499 Honors in French
+FREN 550 Capstone Seminar in French
+FREN 601 French for Reading Knowledge
+FREN 610 Theme et Version
+FRHN 100 French Horn
+FRHN 121 French Horn
+FRHN 221 French Horn
+FRHN 252 Horn Ensemble
+FRHN 300 French Horn
+FRHN 321 French Horn
+FRHN 421 French Horn
+FRHN 422 French Horn
+FRHN 622 French Horn
+FRHN 623 Senior Recital
+FRHN 652 Horn Ensemble
+FRSP XXXX Study Abroad Program
+GEOG 100 World Regional Geography
+GEOG 102 People, Place, and Society
+GEOG 104 Intro to Physical Geography
+GEOG 105 Intr Lab in Physical Geography
+GEOG 111 Mapping Our Changing World
+GEOG 142 Globl Env II:Ecol Hmn Civilztn
+GEOG 145 Glbl Evrn II:Eclgy Hmn Cvlz,Hn
+GEOG 148 Scientfc Princpls Envrnmt Stds
+GEOG 160 Environmental Solutions
+GEOG 201 Culture and Health
+GEOG 202 Culture and Health, Honors
+GEOG 300 Geog Adventures in Clim Change
+GEOG 303 Happiness in East Asia
+GEOG 321 Climate and Climate Change
+GEOG 332 Glaciers and Landscape
+GEOG 358 Intro to Geog Informtn Systems
+GEOG 373 Borders, Politics &  Territory
+GEOG 395 Environmental Issues of: Latin America
+GEOG 395 Environmental Issues of: Indigenous Peoples' Science
+GEOG 490 Geographic Internship
+GEOG 498 Special Topics in Geography:
+GEOG 499 Honors Course in Geography
+GEOG 526 Remote Sensing Environment I
+GEOG 532 Geoarchaeology
+GEOG 558 Intermediate Geogr Info Systms
+GEOG 571 Topics in Cultural Geography: Fire Ecology & Stewardship
+GEOG 571 Topics in Cultural Geography: Health & Medical Geography
+GEOG 658 Topics in Geospatial Technlgy: Intro to Geog Informtn Systems
+GEOL 101 The Way The Earth Works
+GEOL 103 Geology Fundamntals Laboratory
+GEOL 105 History of the Earth
+GEOL 171 Earthquakes &Natural Disasters
+GEOL 301 Introduction to Oceanography
+GEOL 304 Historical Geology
+GEOL 331 Sedimentolgy and Stratigraphy
+GEOL 332 Sedimentology Petroleum Engnrs
+GEOL 391 Special Studies in Geology
+GEOL 399 Senior Honors Research
+GEOL 502 Linear Algebra Earth Scientsts
+GEOL 503 Numericl Mthds in Earth Scienc
+GEOL 512 Igneous &Metamorphic Petrology
+GEOL 513 Petrology Laboratory
+GEOL 521 Paleontology
+GEOL 524 Mammalian Paleontology
+GEOL 543 Environ Ethcs:View Nat'l Parks
+GEOL 552 Introduction to Hydrogeology
+GEOL 562 Structural Geology
+GEOL 591 Topics in Geology: Museums&Socty:Past,Prsnt,Futr
+GEOL 591 Topics in Geology: Water, Energy & Public Policy
+GEOL 591 Topics in Geology: Regnal Geology of Grand Canyon
+GEOL 591 Topics in Geology: Environmental Site Management
+GEOL 591 Topics in Geology: Geo Lic Exam Prep
+GERM 100 German Reading Course I
+GERM 104 Elementary German I
+GERM 108 Elementary German II
+GERM 112 Introduction to German II
+GERM 118 Living and Working in Germany
+GERM 132 City of Berlin in Grmn Culture
+GERM 145 Fairy Tales Grimm Disney &Bynd
+GERM 201 Intermediate German I
+GERM 202 Intermediate German II
+GERM 240 Intro to Translation & Theory
+GERM 302 High Intermediate German II
+GERM 318 Living and Working in Germany
+GERM 330 Topics in: Languages of the Jews
+GERM 332 Berlin in German Culture
+GERM 336 German Transatlantic Expernce
+GERM 365 Marxism and Critical Theory
+GERM 453 Investigation and Conference:
+GERM 475 Topics in German Studies: Germany's New Media
+GERM 580 Sr Cpstn Crs:Tpcs Germ Studies
+GIST 210 Culture and Health
+GIST 211 Culture and Health, Honors
+GIST 302 Happiness in East Asia
+GIST 304 Global &Afro-Brazilian Culture
+GIST 314 Globalization:History & Theory
+GIST 321 Graphic Novels as Memory
+GIST 329 Israli-Palstnan CnfIc:An Intro
+GIST 355 International Women's Rights
+GIST 376 Immigrants,Refugees,Diasporas
+GIST 480 Preparng for Intrnatnl Careers
+GIST 495 Global Internship
+GIST 501 Topics in:  _____ Studies in Yoga & Meditation
+GIST 501 Topics in:  _____ Jewish Secular Culture
+GIST 501 Topics in:  _____ Afro-Latin American Cultures
+GIST 503 Advnd Topics Middle East Stds: Politics and Gov't in Israel
+GIST 698 Capstone Seminar
+GIST 699 Capstone Seminar, Honors
+GRK 108 Ancient Greek Readings&Grammar
+GRK 109 Ancient Grk Readngs&Grammar,Hn
+GRK 310 Homer's Odyssey
+GSMC 50 Sci Spec Studies
+GUIT 100 Guitar
+GUIT 102 Beginning Group Guitar
+GUIT 121 Guitar
+GUIT 221 Guitar
+GUIT 300 Guitar
+GUIT 321 Guitar
+GUIT 421 Guitar
+GUIT 422 Guitar
+GUIT 622 Guitar
+HA 100 Intro to Western Art History
+HA 151 Hist Wstrn Art:Rnasnc to Cntmp
+HA 166 The Visual Arts of East Asia
+HA 261 Introduction to Modern Art
+HA 300 Intro to Western Art History
+HA 305 Special Study: Museums&Socty:Past,Prsnt,Futr
+HA 330 Italian Renaissance Art
+HA 337 Contemporary Art
+HA 340 Spec Stdy Asian Art Bfre 1900: Japanese Sculpture
+HA 340 Spec Stdy Asian Art Bfre 1900: Gardens of Japan & China
+HA 343 Spec Stdy in 20th/21st-Cn Art: Amrcn Art & Culture Since 1900
+HA 344 Manga: Histories and Theories
+HA 354 Japanese Prints
+HA 362 Ceramics of Korea
+HA 363 Modern Korean Art & Culture
+HA 365 K-Pop and the Arts
+HA 367 Art and Culture of Japan
+HA 368 Art and Culture of China
+HA 380 History of Photography
+HA 393 Special Study in Medieval Art: The Medieval Fantasy
+HA 395 Special Study in Baroque Art: Rembrandt
+HA 529 Arch&Art of Egypt & Near East
+HA 540 Specl Sdy Asian Art Befr 1900: Gardens of Japan & China
+HA 543 Spc Stdy 20-21st-Cntry Art: Amrcn Art & Culture Since 1900
+HA 550 Capstone in Art History: Gardens of Japan & China
+HA 550 Capstone in Art History: Amrcn Art & Culture Since 1900
+HA 550 Capstone in Art History: Rembrandt
+HA 550 Capstone in Art History: Japanese Print
+HA 550 Capstone in Art History: Japanese Sculpture
+HA 550 Capstone in Art History: Ceramics of Korea
+HA 554 Japanese Prints
+HA 562 Ceramics of Korea
+HA 587 Japanese Sculpture
+HA 593 Special Study in Medieval Art: The Medieval Fantasy
+HA 595 Special Study in Baroque Art: Rembrandt
+HAIT 110 Elementary Haitian I
+HAIT 120 Elementary Haitian II
+HAIT 230 Intermediate Haitian I
+HAIT 240 Intermediate Haitian II
+HAIT 500 Dirct Stds in Haitian Lang&Lit
+HARP 100 Harp
+HARP 121 Harp
+HARP 221 Harp
+HARP 300 Harp
+HARP 321 Harp
+HARP 421 Harp
+HARP 422 Harp
+HARP 622 Harp
+HARP 623 Senior Recital
+HEBR 120 Elementary Modern Hebrew II
+HEBR 220 Intermediate Modern Hebrew II
+HEBR 300 Topics in Hebrew: Hbrw in Song:Israel Pop Mus II
+HEBR 490 Independent Study
+HEIM 210 Introduction to Healthcare
+HEIM 230 Medical Terminology
+HEIM 415 Healthcare Delivery Systems
+HEIM 420 Legal Aspects of Healthcare
+HEIM 450 Intro to Profess Pract Exper
+HEIM 525 Hlthcare Database & Architctre
+HEIM 540 Health Information Systems
+HEIM 565 Clin Terminol & Classifctons I
+HEIM 570 Intro to Hlthcare Management
+HEIM 635 Clin Terminol & Clasifctons II
+HEIM 665 Top Hlth Info Mang
+HEIM 671 Leadership in Healthcare
+HEIM 676 Healthcare Analytics
+HEIM 679 Info Governance in Hlthcare
+HEIM 680 Managemnt Internship
+HEIM 681 Management Practicum
+HIST 105 Intro Ancient Nr East&Grk Hist
+HIST 106 Introduction to Roman History
+HIST 118 Premodern East Asia
+HIST 119 Modern East Asia
+HIST 121 Modern Latin America
+HIST 124 Latin American Culture&Society
+HIST 128 Histry of US Through Civil War
+HIST 129 Hist of US After the Civil War
+HIST 160 Introdctn West African History
+HIST 300 Modern Africa
+HIST 301 The Historian's Craft
+HIST 314 Globalization:History & Theory
+HIST 316 Mnistr&Mgcns:Blck Rel Slav Prs
+HIST 319 History,Women &Diversity in US
+HIST 331 Age of Empires-Atlan 1400-1800
+HIST 336 Ethics, Ideas and Nature
+HIST 337 History, Ethics, Modernity
+HIST 340 History of the Second Wrld War
+HIST 343 The Holocaust in History
+HIST 346 Law and Society in America
+HIST 348 Histr of the Peoples of Kansas
+HIST 349 Antisemitism: A Long History
+HIST 352 American Indians Since 1865
+HIST 353 Indigenous Peoples of North Am
+HIST 356 At the Movies: US History
+HIST 359 Black Expr U.S. Since Emancptn
+HIST 363 Perspectives Sci, Engr & Math
+HIST 376 Immigrants,Refugees,Diasporas
+HIST 377 Everday Communsm Eastrn Europe
+HIST 389 Topics in Western History: Museums&Socty:Past,Prsnt,Futr
+HIST 389 Topics in Western History: Baroque Art: Rembrandt
+HIST 390 Topics in Non-Western History: Gardens of Japan & China
+HIST 390 Topics in Non-Western History: Modern Korean Art & Culture
+HIST 403 Playing with the Past
+HIST 404 Technology & the Modern World
+HIST 422 China and Latin America
+HIST 492 Readings in History
+HIST 493 History Research Internship
+HIST 508 Late Roman Empire (284-527)
+HIST 510 Topics in Non-Western History: Indigenous Food and Health
+HIST 568 Rise&Fall of the Soviet Union
+HIST 570 Middle East After World War II
+HIST 575 The Many Faces of Mexico
+HIST 585 Beer, Sake, Tea-Bev Japan Hist
+HIST 691 Undergraduate History Hnrs Sem
+HIST 696 Seminar in: Historical Studies
+HMGT 305 Hlth Policy & Hlthcare Systems
+HMGT 310 Health Communication
+HMGT 320 Applied Healthcare Law & Ethic
+HMGT 460 Healthcare Law and Regulation
+HMGT 500 Intro to Clinical Trials Mgmt
+HNRS 310 University Scholars Seminar
+HNRS 320 Global Scholars Seminar
+HNRS 370 Personal Writing Seminar
+HNRS 380 Critical Thnkng&Advocacy Semnr
+HNRS 492 Topics and Problems on: Travl Wrtng&Costa Rica Exprnce
+HNRS 492 Topics and Problems on: Race, History&Health in Brazil
+HNRS 492 Topics and Problems on: The London Review
+HNRS 495 Honors Directed Study
+HNRS 496 Honors Internship
+HNRS 497 Honors Seminar Assistantship
+HPCD 100 Harpsichord
+HPCD 300 Harpsichord
+HPCD 621 Harpsichord
+HSCI 320 Principles of Nutrition
+HSCI 340 Introduction to Public Health
+HSCI 415 Career Readiness in Health Sci
+HSCI 420 Nutrition Through Life Cycle
+HSCI 421 Public Health Nutrition
+HSCI 422 Nutrition Assessment
+HSCI 425 Nutrition Education
+HSCI 440 Introduction to Epidemiology
+HSCI 445 Intro to Environmental Health
+HSCI 450 Epdmcs, Pndmcs, and Pstlnce
+HSCI 490 Independent Study
+HSCI 495 MCAT Preparation Course
+HSCI 499 Topics in Health Sciences: Post Bacc Practicum
+HSCI 521 Adv Nutrition & Metabolism
+HSCI 522 Advanced Sports Nutrition
+HSCI 599 Health Science Capstone
+HSES 108 Basic Skill Instruction in: Pickleball
+HSES 108 Basic Skill Instruction in: Women's Strength Training
+HSES 108 Basic Skill Instruction in: Stretch and Mindfulness
+HSES 108 Basic Skill Instruction in: Weight Trng Mn&Wmn
+HSES 108 Basic Skill Instruction in: Yoga Basics
+HSES 108 Basic Skill Instruction in: Basketball
+HSES 108 Basic Skill Instruction in: Indoor Soccer
+HSES 108 Basic Skill Instruction in: Volleyball
+HSES 108 Basic Skill Instruction in: Adaptv Physcl Educ
+HSES 202 Individual and Dual Sports
+HSES 214 Phys Ed Actv Elmn Sch Children
+HSES 236 Practicum in: Exercise Science
+HSES 236 Practicum in: Coaching
+HSES 236 Practicum in: Secondary Physc Ed
+HSES 244 Intro Physical Ed&Sport Studes
+HSES 260 Personal and Community Health
+HSES 269 Introductn to Exercise Science
+HSES 279 Intro to Community Health
+HSES 289 Introductn to Sport Management
+HSES 299 Careers in Sport Management
+HSES 305 Mthds Strength Training&Cndtng
+HSES 306 Principles of Personl Training
+HSES 307 Tactical Strength&Conditioning
+HSES 310 Research&Data Analysis in HSES
+HSES 320 Methods Teaching Secondary PE
+HSES 330 Principles of Nutrition&Health
+HSES 331 Sport and Exercise Nutrition
+HSES 335 Clinical Field Experience
+HSES 341 Instrc Strat Phys Ed Elem Tchr
+HSES 350 Care&Prevntn Athletic Injuries
+HSES 358 Creativ Mvmnt&Dance Appreciatn
+HSES 369 Kinesiology
+HSES 371 Medcl Term for Health Profnls
+HSES 372 Exercise Physiology
+HSES 373 Clinical Exercise Physiology
+HSES 375 Nuromsclr Exrcs Phys&Mtr Cntrl
+HSES 380 Sociology of Sport
+HSES 381 Sport Ethics
+HSES 382 Sport Facilities&Event Managmt
+HSES 384 Sport Law
+HSES 405 Fund of Writing in Comm Health
+HSES 465 Program Assessment&Evaluation
+HSES 470 Biomechanics
+HSES 473 Clinical Fit Evaltn Techniques
+HSES 474 Exercise Biochemistry
+HSES 475 Undergraduate Research in HSES
+HSES 481 Sport Fundraising& Sponsorship
+HSES 483 Sport Finance and Economics
+HSES 485 Sport Communication
+HSES 486 Sport Marketing
+HSES 487 Personnel Management in Sport
+HSES 488 Pre-Internship Seminar
+HSES 489 Health and Human Sexuality
+HSES 491 Foundations of NIL
+HSES 492 Athlete and Personal Branding
+HSES 493 Content Creation in Sport
+HSES 497 Independent Study
+HSES 499 Internship in Sport Management
+HSES 500 Student Teaching in Physcl Ed
+HSES 501 Seminar in Teaching Phys Ed
+HSES 578 Health Internship Seminar
+HSES 580 Internship in: Health Education
+HSES 580 Internship in: Exercise Science
+HSES 580 Internship in: Inter. Internship
+HSES 598 Special Course: Inter. Internship
+HUM 111 Introduction to Humanities, Hn
+HUM 205 Western Civilization II
+HUM 300 Studies in: Indigenous Food and Health
+HUM 350 American Indians Since 1865
+IA 209 Interior Architcture Studio II
+IA 220 Sustainable Inter Materiality
+IA 230 Lighting Design and Technology
+IA 309 Advanced Interior Arch Studio
+IA 310 Contemporary Issues of IA
+IA 359 Special Problems:
+IA 409 Integrtd Inter Arch Studio
+IA 690 Study Abroad
+IBUS 410 Intro to Internationl Business
+IBUS 462 Comparatve&Cross-Cultural Mgmt
+IBUS 480 International Management
+IBUS 500 Indiv Rsch Internatnl Business
+ILLU 200 Introduction to Image Making
+ILLU 310 Drawing Media Illustration II
+ILLU 325 Concept Art Illustration II
+ILLU 335 Third-Year Studio II
+ILLU 410 Fundamentals of Animation
+ILLU 465 Fourth-Year Studio II
+INDD 101 Intro to Industrial Design
+INDD 114 Drawing for Industrial Desgn I
+INDD 220 ID Second-Year Studio II
+INDD 308 Materials and Processes
+INDD 320 Directed Readings in INDD
+INDD 325 ID Third-Year Studio II
+INDD 350 Computer-Aided Design
+INDD 378 Problems in Industrial Design: Flat Pack Lighting&Packge Dsgn
+INDD 380 Footwear Design Lab
+ISP 204 Special Topics: American Indian Issues I
+ISP 204 Special Topics: Hist of Nrth Amrcn Indian Trbe
+ISP 204 Special Topics: American Indn Litr
+ISP 204 Special Topics: US History Since Civil War
+ISP 204 Special Topics: American Southwest
+ISP 204 Special Topics: Children's Literature
+ISP 204 Special Topics: Vine Deloria Jr
+ISP 204 Special Topics: Gender, Sexuality & Lit
+ISP 204 Special Topics: Cultural Geography
+ISP 204 Special Topics: Diabetes & Native American
+ISP 204 Special Topics: US History Through Civil War
+ISP 204 Special Topics: Race in America
+ISP 204 Special Topics: Intro to Tribal Management
+ISP 204 Special Topics: Intro into Oral History
+ISP 204 Special Topics: Cltrl Well-Being:Cncpts/Practs
+ISP 204 Special Topics: Intro Native Games/Activities
+ISP 204 Special Topics: Chemical Dpndncy&NtvAmrcns
+ISP 204 Special Topics: Tribal/Fedral Govrnt Relations
+ISP 204 Special Topics: Art Appreciation
+ISP 204 Special Topics: Chem Dpndcy&Native Amercn Indn
+ISP 204 Special Topics: Interpersonal Communication
+ISP 204 Special Topics: Intro Amrcn Indn Theatre Perf
+ISP 204 Special Topics: Indigenous Resilience in Amrca
+ISP 304 Special Topics: Intermediate Kaqchikel Maya II
+ISP 304 Special Topics: Elementary Kaqchikel Maya II
+ISP 304 Special Topics: Intermediate Yucatec Maya II
+ISP 304 Special Topics: Advanced Yucatec Maya II
+ISP 304 Special Topics: Elementary Yucatec Maya II
+ISP 304 Special Topics: Indigenous Peoples' Science
+ISP 304 Special Topics: Native/Western Views of Nature
+ISP 304 Special Topics: Concepts of Indigenous Ldrshp
+ISP 304 Special Topics: Foundations of Indigenous Phil
+ISP 304 Special Topics: Fundamentls Tribal Sovereignty
+ISP 304 Special Topics: Advanced Kaqchikel Maya II
+ISP 304 Special Topics: Intro American Indian Studies
+ISP 304 Special Topics: Records & Info Mgmt I
+ISP 304 Special Topics: Intro Rsrch Mthds Am Ind Stdes
+ISP 304 Special Topics: Law&Amrcn Indn Relgous Freedom
+ISP 304 Special Topics: Hist of Am Indns in Kansas
+ISP 304 Special Topics: Mgmt&Preserv of Archvl Materl
+ISP 304 Special Topics: Am Indn Treaties & Agreements
+ISP 304 Special Topics: Museums&Socty:Past,Prsnt,Futr
+ISP 304 Special Topics: Gender Communication
+ISP 304 Special Topics: Theories of Decolnztn&Indgnztn
+ISP 350 American Indians Since 1865
+ISP 495 Directed Readings
+ISP 504 Topics Indigenous Studies: Elementary Yucatec Maya II
+ISP 504 Topics Indigenous Studies: Intermediate Yucatec Maya II
+ISP 504 Topics Indigenous Studies: Advanced Yucatec Maya II
+ISP 504 Topics Indigenous Studies: Intermediate Quechua II
+ISP 504 Topics Indigenous Studies: Acclratd Elmentry Quechua I&II
+ISP 504 Topics Indigenous Studies: Dir Stdy Quechua Language&Cltr
+ISP 504 Topics Indigenous Studies: Intermediate Kaqchikel Maya II
+ISP 504 Topics Indigenous Studies: Advanced Kaqchikel Maya II
+ISP 504 Topics Indigenous Studies: Dir Stds In Kaqchikel Maya
+ISP 504 Topics Indigenous Studies: Fire Ecology & Stewardship
+ISP 504 Topics Indigenous Studies: Intrdscplnry Intro to Grad Std
+ISP 530 Indigenous Food and Health
+ISP 542 Ethnobotany
+ISP 567 Native Feminisms
+IST 204 Excel Essentials for Business
+IST 230 Intro AIO Professions
+IST 310 Intro Info & Mgmt Prod Systems
+IST 320 Fundamntls of Software Dvlpmnt
+IST 325 Systems Analysis and Design
+IST 326 Database Management Systems
+IST 410 IT Project Management
+IST 435 Information Security
+IST 495 Foundations Business Analytics
+IST 500 Indv Rsch Informtn Systms Tech
+ITAL 101 Studying Abroad:Italy at Glnce
+ITAL 110 Elementary Italian I
+ITAL 120 Elementary Italian II
+ITAL 177 First Year Seminar: "That's Amore": On Love
+ITAL 230 Intermediate Italian I
+ITAL 240 Intermediate Italian II
+ITAL 315 Adv Composition & Conversation
+ITAL 331 Mafia Movies
+ITAL 480 Studies in Italian Literature: Italian Futurism
+ITAL 499 Honors in Italian
+ITAL 695 Grad Directed Readngs in Ital
+ITEC 301 Survey of Information Systems
+ITEC 310 Cmptr Orgnztn&Platfrm Technlgs
+ITEC 312 Emerging Tech in Cybersecurity
+ITEC 320 System&Network Administration
+ITEC 330 Web Systems and Technologies
+ITEC 340 Computer&Information Security
+ITEC 399 Directed Reading in ITEC
+ITEC 404 Fund of Data Visualization
+ITEC 412 Predict Analytics Forecasting
+ITEC 416 System Integration&Architectre
+ITEC 422 Computer Networks
+ITEC 424 Network Security
+ITEC 429 Digital Forensics
+ITEC 430 Human-Computer Interaction
+ITEC 440 Cloud Computing
+ITEC 450 Social & Professional Issues
+ITEC 454 Info Security Law & Policy
+ITEC 490 ITEC Capstone
+IXD 101 Introduction to Digital Design
+IXD 302 Fundamentals in UI/UX Design
+IXD 412 Interaction Design 3
+IXD 414 Design Systems
+JAZZ 406 Jazz Theory and Performance II
+JAZZ 408 Jazz Ensemble
+JAZZ 409 Jazz Combo
+JAZZ 412 Vocal Jazz Ensemble
+JAZZ 430 Introduction to Jazz Piano
+JAZZ 435 Jazz Pedagogy
+JAZZ 459 Jazz Arranging
+JAZZ 622 Studio Instruction
+JAZZ 623 Senior Recital
+JMC 101 Media and Society
+JMC 104 Words at Work:Wrtng Essentials
+JMC 150 Presenting to Audiences
+JMC 201 Current Issues in Journalism
+JMC 210 Basic Video Production
+JMC 211 Tech Tools: Audio / Video
+JMC 212 Tech Tools: Graphic Design
+JMC 213 Tech Tools: Visuals
+JMC 260 Agency: Introduction
+JMC 300 Visual Storytelling
+JMC 302 Information Exploration
+JMC 304 Media Writing for Audiences
+JMC 305 Writing for Media, Honors
+JMC 309 Data Storytelling
+JMC 320 Int Dgtl Mktg Com,Advr&Pblc Rl
+JMC 330 Sports Media in 21st Cent
+JMC 340 Creative Concepting
+JMC 345 Audience Experience
+JMC 406 Media Practicum
+JMC 408 Media Law and Ethics
+JMC 410 Media Photography
+JMC 415 Multimedia Reporting
+JMC 419 Multimedia Editing
+JMC 420 Adv Dgtl Mktg Com,Advr&Pblc Rl
+JMC 430 Communicating Sports Info
+JMC 440 Creative Video Prodc/Directing
+JMC 460 Rsc Dgtl Mktg Com,Advr&Pblc Rl
+JMC 488 Laboratory in Media Production
+JMC 505 Professional Development
+JMC 506 Directed Studies in Journalism
+JMC 507 Practicum Journalsm (Profssnl)
+JMC 534 Diversity in Media
+JMC 545 Magazine Publishing
+JMC 551 Advanced Multimedia Reporting
+JMC 552 Broadcast Reporting
+JMC 553 Advanced Editing & Production
+JMC 560 Msg Dv Dgtl Mkt Cm,Adv&Pblc Rl
+JMC 570 Content Creation & Web Managmt
+JMC 575 Sports Message Strategies
+JMC 590 International Journalism
+JMC 611 Sales Strategies
+JMC 615 Social Media and Emerging Tech
+JMC 620 TV News-Advanced Media
+JMC 626 Multmdia Sprts Journ-Adv Media
+JMC 635 Statehouse Rprtg-Adv Media/Cap
+JMC 640 Cmpgns Dgtl Mkt Cm,Adv&Pblc Rl
+JMC 645 Media Arts Capstone
+JMC 660 Prof Capstn - Adv Media/Capstn
+JMC 675 Cultiv Sports Aud Capstone
+JMC 692 Sports on the Beat Capstone
+JPN 101 Beginning Japanese II
+JPN 108 Elementary Japanese II
+JPN 208 Intermediate Japanese II
+JPN 333 Special Skills in Japanese: Business Japanese
+JPN 498 Directed Readings in Japanese
+JPN 508 Advanced Modern Japanese II
+JPN 564 Modern Japanese Texts II
+JWSH 300 Tpcs HistCultr of Jwsh People: Israel and American Jewry
+JWSH 300 Tpcs HistCultr of Jwsh People: Hebrw in Sng:Israel Pop Msc II
+JWSH 325 Introduction to Judaism
+JWSH 327 Jewish Secular Culture
+JWSH 329 Israli-Palstnan CnfIc:An Intro
+JWSH 338 Languages of the Jews
+JWSH 339 Languages of the Jews, Honors
+JWSH 343 The Holocaust in History
+JWSH 348 Graphic Novels as Memory
+JWSH 349 Antisemitism:  A Long History
+JWSH 420 Politics &Government in Israel
+JWSH 490 Directd Study in Jewish Stdies
+JWSH 491 Dirctd Stdy in Jewish Stdies,H
+JWSH 562 Judaism and Political Theology
+JWSH 601 Senior Seminar in Jewish Studi
+JWSH 650 Service Learning Jewish Studes
+KISW 120 Elementary KiSwahili II
+KISW 220 Intermediate KiSwahili II
+KISW 320 Advanced KiSwahili II
+KISW 402 Readings in KiSwahili II
+KOR 101 Beginning Korean II
+KOR 108 Elementary Korean II
+KOR 208 Intermediate Korean II
+KOR 498 Directed Readings in Korean
+KOR 508 Advanced Modern Korean II
+KOR 564 Modern Korean Texts II
+KQKL 114 Elementary Kaqchikel Maya II
+KQKL 234 Intermediate Kaqchikel Maya II
+KQKL 360 Advanced Kaqchikel Maya II
+KQKL 500 Directed Studies in Kaqchikel
+LA&S 108 Personal Numeracy
+LA&S 172 Exploring Health Professions
+LA&S 372 Prep for Prog Health Professns
+LA&S 475 Professional Career Management
+LA&S 480 Preparng for Intrnatnl Careers
+LA&S 485 Global Career Management
+LA&S 490 Internship Exploration
+LA&S 494 Sr Semnr in Librl Arts&Science
+LAC 100 Latin American Culture&Society
+LAC 302 Topcs Latin American Area Std: Race History Health in Brazil
+LAC 302 Topcs Latin American Area Std: Acclratd Elmentry Quechua I&II
+LAC 302 Topcs Latin American Area Std: Elementary Yucatec Maya II
+LAC 302 Topcs Latin American Area Std: Intermediate Yucatec Maya II
+LAC 302 Topcs Latin American Area Std: Advanced Yucatec Maya II
+LAC 302 Topcs Latin American Area Std: Spanish for Heritage Learners
+LAC 302 Topcs Latin American Area Std: Elementary Miskitu I
+LAC 302 Topcs Latin American Area Std: Elementary Miskitu II
+LAC 302 Topcs Latin American Area Std: Travl Wrtng&Costa Rica Exprnce
+LAC 312 Topics in LAC - Sp Am Lit Clt: Text Analysis&Critical Reading
+LAC 315 Topics in LAC - Flm Musc Arts:
+LAC 318 Topics in LAC - Trns Atlc&Ntl:
+LAC 318 Topics in LAC - Trns Atlc&Ntl: Hispanic Cultures
+LAC 500 Drctd Stdy Lat Am Area Studies
+LAC 602 Tpcs in Latin Americn Studies: Arch & Art in Mex & US in 20 c
+LAC 602 Tpcs in Latin Americn Studies: Acclratd Elmentry Quechua I&II
+LAC 602 Tpcs in Latin Americn Studies: Intermd Brzilian Portuguese II
+LAC 602 Tpcs in Latin Americn Studies: Intermediate Quechua II
+LAC 602 Tpcs in Latin Americn Studies: Elementary Kaqchikel Maya II
+LAC 602 Tpcs in Latin Americn Studies: Elementary Miskitu I
+LAC 602 Tpcs in Latin Americn Studies: Elementary Miskitu II
+LAC 602 Tpcs in Latin Americn Studies: Intermediate Kaqchikel Maya II
+LAC 602 Tpcs in Latin Americn Studies: Advanced Kaqchikel Maya II
+LAC 602 Tpcs in Latin Americn Studies: Elementary Yucatec Maya II
+LAC 602 Tpcs in Latin Americn Studies: Intermediate Yucatec Maya II
+LAC 602 Tpcs in Latin Americn Studies: Advanced Yucatec Maya II
+LAC 634 Indigenous Traditns Latn Amerc
+LAT 104 Elementary Latin I
+LAT 105 Elementary Latin I, Honors
+LAT 108 Elementary Latin II
+LAT 109 Elementary Latin II, Honors
+LAT 112 Readings in Latin Literature
+LAT 113 Readings Latin Literature, Hrs
+LAT 304 Lyric and Elegiac Poetry
+LAT 496 Honors Essay in Latin
+LDST 200 Intro Leadrshp Studes&Applctns
+LDST 203 Intro to Leadership, Hnrs
+LDST 320 Event Development & Management
+LDST 470 Indp Study in Ldrshp Studies
+LDST 500 Direct Read in Ldrshp Studies
+LDST 532 Leadership Studies Practicum
+LDST 535 Sm in Leadrshp Strategies&Apps
+LDST 690 Special Topcs in Ldrshp Study: Sport & Social Justice in US
+LING 106 Introductory Linguistics
+LING 107 Introductory Linguistics, Hnrs
+LING 110 Language and Mind
+LING 111 Language & Mind, Honors
+LING 120 The Physics of Speech
+LING 250 Intro to Translation & Theory
+LING 305 Phonetics I
+LING 312 Phonology I
+LING 320 Language in Cultur and Society
+LING 338 Languages of the Jews
+LING 339 Languages of the Jews, Honors
+LING 343 Bilingualism
+LING 345 Language and Gender
+LING 421 Cpstn:Typlgy-Unty&Dvrsty Hm Ln
+LING 425 First Language Acquisition I
+LING 435 Psycholinguistics I
+LING 443 Language Variation and Change
+LING 490 Independent Study
+LING 491 Topics in Linguistics: Resrch Lang Acquisitn&Procssng
+LING 491 Topics in Linguistics: Resrch Expermntal Linguisitics
+LING 491 Topics in Linguistics: Research in Field Linguistics
+LING 491 Topics in Linguistics: Seminar in Secnd Lang Acquistn
+LING 496 Honors Essay in Linguistics
+LING 507 Phonetics II
+LING 526 Syntax II
+LING 541 Field Mthds Linguistc Descrptn
+LING 542 Neurolinguistics II
+LING 543 Lang&Cult Arabic-Spkng Communt
+LWS 330 Introduction to Law & Society
+LWS 332 Methods in Law and Society
+LWS 333 Purst of Rght: Law, Demo & Pow
+LWS 494 Topics in Law & Society: Histry of Law & Soc in America
+LWS 699 Capstone in Law and Society
+MATH 2 Intermediate Mathematics
+MATH 101 College Algebra:
+MATH 103 Trigonometry
+MATH 104 Precalculus Mathematics
+MATH 105 Intro Quantitative Reasoning
+MATH 109 Math Elemntry School Teachrs I
+MATH 115 Calculus I
+MATH 116 Calculus II
+MATH 125 Calculus I
+MATH 126 Calculus II
+MATH 127 Calculus III
+MATH 146 Calculus II, Honors
+MATH 147 Calculus III, Honors
+MATH 197 Mathematical Workshops: MATH 101
+MATH 197 Mathematical Workshops: MATH 115
+MATH 197 Mathematical Workshops: MATH 125
+MATH 197 Mathematical Workshops: MATH 126
+MATH 197 Mathematical Workshops: MATH 127
+MATH 220 Applied Differential Equations
+MATH 221 Apl Differential Equations,Hnr
+MATH 290 Elementary Linear Algebra
+MATH 291 Elementary Linear Algebra, Hnr
+MATH 320 Elementry Differential Equatns
+MATH 365 Elementary Statistics
+MATH 409 Tpc Geomtry Sec/Midl Schl Tchr
+MATH 410 Top Hist Mathmt Scnd&Mid Tchrs
+MATH 450 Discrete Mathematics
+MATH 500 Intermediate Analysis
+MATH 510 Introdn to Theory of Computing
+MATH 526 Appld Mathematicl Statistics I
+MATH 540 Elementary Number Theory
+MATH 558 Introductory Modern Algebra
+MATH 590 Linear Algebra
+MATH 591 Appld Numerical Linear Algebra
+MATH 608 Statistical Data Science
+MATH 611 Time Series Analysis
+MATH 628 Mathematical Theory Statistics
+MATH 630 Actuarial Mathematics
+MATH 647 Appl Partial Differential Eqtn
+MATH 648 Calc of Variations&Integral Eq
+MATH 699 Directed Reading
+MCOR 380 Evolution of Warfare
+MCOR 384 Fndmntls of Maneuver Warfare
+MDCM 603 Medicinal Biochemistry II
+MDCM 608 MedChem of Neurodegenerative D
+MDCM 626 Medcnl Chem II:Homeostatc Agnt
+MDCM 690 Undergraduate Research
+MDCM 692 Problems in Medicinl Chemistry
+ME 208 Intr Digitl Comptnl Mthd in ME
+ME 210 Introduction to Mechanics
+ME 211 Statics & Intrduction Mechancs
+ME 212 Basic Engineerng Thermodynamcs
+ME 228 Computer Graphics
+ME 306 Science of Materials
+ME 309 Intro to Mech Design
+ME 311 Mechanics of Materials
+ME 320 Dynamics
+ME 321 Dynamics Simulations
+ME 360 Mechanical Engineerng Problems
+ME 361 Undergraduate Honors Research
+ME 455 Mech Eng Measurmnts&Expermntn
+ME 501 Mechancl Engineerng Desgn Proc
+ME 508 Numericl Analys Mech Eng Probs
+ME 510 Fluid Mechanics
+ME 590 Special Topics: Env Life Cyc Assess Sustnblty
+ME 608 Introduction to Mechatronics
+ME 612 Heat Transfer
+ME 628 Mechanical Design
+ME 640 Design Project
+ME 641 Design Project Option A
+ME 642 Design Project Option B
+ME 643 Design Project Option C
+ME 661 The Finite Element Method
+ME 696 Design for Manufacturability
+MEMT 113 Performance Media:  Brass
+MEMT 114 Performance Media: Woodwinds I
+MEMT 115 Performance Media:  Percussion
+MEMT 118 Performance Media:  Strings
+MEMT 119 Guitar for Music Therapists
+MEMT 160 Principles of Music Education
+MEMT 196 Group Ldrshp Skills Musc Thrpy
+MEMT 230 Performance Clinic:  Band
+MEMT 231 Performance Clinic:  Choral
+MEMT 232 Performance Clinic:  Orchestra
+MEMT 246 Fundamentals of Conducting
+MEMT 250 Human Musicl Learning&Devlpmnt
+MEMT 296 Clncl Treatmnt Prcess&Obsrv II
+MEMT 331 Rehearsl/Conductg Clinic:Chorl
+MEMT 334 Appld Muscnship Clncal Setting
+MEMT 338 Orff Prcess&Relatd Musicianshp
+MEMT 341 Instr Stratg Musc Elem Classrm
+MEMT 350 Adv Rehearsl/Cond Clinic: Band
+MEMT 352 Adv Rehearsl/Cond Clinic: Orch
+MEMT 396 Clinical Practicum
+MEMT 420 Tchng Elem&Secnd General Music
+MEMT 431 Choral Diction Music Educators
+MEMT 432 Approaches to String Pedagogy
+MEMT 433 Jazz Techniques
+MEMT 464 Music in Therapy
+MEMT 472 Music Ed&Musc Therapy Rsh Proj
+MEMT 497 Independent Study in: Music Therapy Research Technqs
+MEMT 497 Independent Study in:
+MEMT 498 Student Teaching
+MEMT 499 Internship in Teaching Music
+MEMT 586 Sem Musc Thrpy Profsnl Devl I
+MEMT 587 Sem Musc Thrpy Profsnl Devl II
+MEMT 596 Clinical Internship
+MEMT 598 Special Course:
+MEMT 598 Special Course: Music & Infants
+MEMT 598 Special Course: IntrmdGuitr MusThrpsts&Eductrs
+MEMT 598 Special Course: Improvisation Skills
+METL 301 Intro to Casting for Jewelry
+METL 360 Holloware
+METL 362 Metalsmithing
+METL 500 Adv Specl Topics Metalsmithng: Casting
+METL 500 Adv Specl Topics Metalsmithng: Digital Jewelry Design
+METL 500 Adv Specl Topics Metalsmithng: Metalsmithing
+METL 504 A History of Jewelry
+METL 505 Digital Jewelry Design I
+METL 506 Digital Jewelry Design II
+METL 515 Advanced Metals I
+METL 520 Advanced Metals II
+METL 590 Intrnshp in Metlsmithng/Jewlry
+METL 599 Ind Studes Metalsmithng/Jewlry
+MGMT 230 Intro to Management Profession
+MGMT 305 Survey Management&Leadership
+MGMT 310 Principles of Management
+MGMT 311 Principles of Mgmt, Honors
+MGMT 405 Ethical Decision Makng Businss
+MGMT 410 Human Resources Management
+MGMT 416 Trng,Dvlpmt&Mgmt Carer Ind&Org
+MGMT 431 Legal Evrnmnt Managng Emplyees
+MGMT 434 Internatnl Humn Resourc Mangmt
+MGMT 440 Advanced Organiztionl Behavior
+MGMT 470 Leadershp Business Organizatns
+MGMT 472 Project Management
+MGMT 498 Business Policy and Strategy
+MGMT 499 Business Policy&Strategy, Hnrs
+MKTG 230 Intro to Marketing Profession
+MKTG 305 Survey of Marketing
+MKTG 310 Marketing
+MKTG 311 Marketing, Honors
+MKTG 315 Sales Force Management
+MKTG 316 Professional Selling Skills
+MKTG 400 Special Topics in Marketing: Marketing in Global Environmnt
+MKTG 415 Marketing Research for Managrs
+MKTG 425 Sales Force Management
+MKTG 426 Professional Selling Skills
+MKTG 427 Advanced Selling Skills
+MKTG 430 New Product Management
+MKTG 435 Marketing Strategy
+MKTG 440 Global Marketing
+MKTG 443 Digital Mktg & Social Media
+MKTG 448 Managing Brands
+MKTG 453 Retail'g Dist Chan & Sup Chain
+MKTG 465 Customer Relationship Managmnt
+MKTG 471 Sports&Entertainment Marketing
+MTHC 115 Theory II
+MTHC 116 Aural Skills II
+MTHC 253 Composition
+MTHC 302 How to Make Music
+MTHC 315 Theory IV
+MTHC 404 Graduate Review:  Form
+MTHC 406 Grad Review:  Post-Tonal Music
+MTHC 433 Adv Analysis Contempry Music
+MTHC 442 Modal Counterpoint
+MTHC 455 Readings in Music Theory:
+MTHC 460 Choral Arranging & Composition
+MTHC 476 Orchestration II
+MTHC 480 Electro-Acoustc Composition II
+MTHC 498 Undergraduate Recital
+MTHC 499 Senior Research Project
+MTHC 583 Composition
+MUS 100 Directed Study:
+MUS 300 Directed Studies: Jazz Improvisation
+MUS 300 Directed Studies: Introductory Alexander Tech
+MUS 300 Directed Studies: Recital Coaching
+MUS 388 Curriculum and Pedagogy in: Organ Literature
+MUS 483 Advanced Music Recording
+MUS 487 Entrepreneurship and Outreach
+MUSC 135 Understanding Music
+MUSC 136 Understanding Music
+MUSC 298 Introduction to Jazz
+MUSC 310 History of Film Music
+MUSC 314 Exp Hip Hop & Inters Amer Cult
+MUSC 315 History of Country Music
+MUSC 318 Drumming Cultures of the World
+MUSC 335 Understanding Music-Stdy Abrd
+MUSC 336 Understanding Music
+MUSC 340 Music History II
+MUSC 380 Music History IV
+MUSC 408 Music in East Asia
+MUSC 436 Collegium Musicum, Instrumentl
+MUSC 450 Selected Topics in Music: Music in Vienna and Prague
+MUSC 470 Music in World Cultures
+MUSC 477 Graduate Review:  Classic
+MUSC 478 Graduate Review:  Romantic
+MUSC 479 Grad Review:20th-21st Centures
+MUSC 483 Music of the Baroque Era
+MUSC 491 History of the Symphony
+MUSC 494 Readings in Musicology:
+MUSC 499 Senior Thesis
+MUSE 301 Museums&Soc: Past Prsnt Future
+NAVY 100 Naval Science Laboratory
+NAVY 184 Intro to Naval Ships Systms II
+NAVY 220 Seapower and Maritime Affairs
+NAVY 300 Navigation and Operations I
+NAVY 402 Semnr Military Leadership&Mgmt
+NMED 80 Nclr Instmn, Med Info, Qlty As
+NMED 82 Radiopharmacy II
+NMED 83 Clinical Procedures II
+NMED 84 Clincial Internship II
+NMED 85 Resrch Methods & Health Admin
+NURS 326 Pharm Pract Nurse
+NURS 327 Comm & Managing Hlthcare Info
+NURS 328 Prof Dev I: Intro to the Prof
+NURS 329 Alterations Physiol Function I
+NURS 330 Pharmacology I
+NURS 331 Basic Assessment & Clin Skills
+NURS 332 Health&Illness:Found of Nursng
+NURS 333 Pract I Foundations of Nursing
+NURS 334 Prof Dev II:Image, Roles&Ethcs
+NURS 335 Quality Improvement
+NURS 336 Alteratns Physiologcl Funct II
+NURS 337 Pharmacology II
+NURS 338 Hlth&Illnss:Nrsg Acrss Lifespn
+NURS 339 Pract II Nurs Across Lifespan
+NURS 356 Usng Tech&Inform Imprv Pt Sfty
+NURS 357 Intro Baccalaureate Nurse Role
+NURS 382 Honors Seminar
+NURS 401 Basic Spanish for Nurses
+NURS 413 Ethcs Advoc & Collab Nurs Prac
+NURS 414 Organiztnl Inflnces Nursg Prac
+NURS 417 Infl Hlthcre Mcro-Sys Nrsg Prc
+NURS 418 Clinical Leadership Practicum
+NURS 441 Evidence Based Prac in Nursing
+NURS 444 Using Techn Enhnce Clnt Safety
+NURS 449 Nrsg Pract within Hlthcare Org
+NURS 451 Navg Influn HlthCare Macro-Env
+NURS 466 Lab Data Diag Proc: Clin App
+NURS 469 Indepdnt Stdy Nurs
+NURS 476 Nrsg in Evolving Hlthcare Syst
+NURS 477 Practicum V Capstone
+NURS 478 Integ of Concepts & Clin Comps
+NURS 480 Pract IV: Lead in Pop Health
+NURS 483 Honors Practicum II
+NURS 486 Pop Health Local to Global II
+NURS 492 Clin Lead Practicum
+OBOE 100 Oboe
+OBOE 101 Oboe Reed Making
+OBOE 121 Oboe
+OBOE 221 Oboe
+OBOE 300 Oboe
+OBOE 301 Oboe Reed Making
+OBOE 321 Oboe
+OBOE 421 Oboe
+OBOE 422 Oboe
+OBOE 622 Oboe
+OBOE 623 Senior Recital
+OMGT 310 Enterprise Strat & Innovation
+OMGT 320 Enterprise Org Supply Chain
+OMGT 330 Innovation Management
+OMGT 430 Corp Social Responsibility
+OMGT 434 Managing People &Personalities
+OMGT 499 Operations Management Capstone
+ORCH 400 Symphony Orchestra
+ORCH 406 University Orchestra
+ORGN 100 Organ
+ORGN 121 Organ
+ORGN 221 Organ
+ORGN 300 Organ
+ORGN 320 Studio Class in Organ - Lab
+ORGN 321 Organ
+ORGN 402 Master Class in Organ - Lab
+ORGN 421 Organ
+ORGN 422 Organ
+ORGN 608 Organ Pedagogy
+ORGN 622 Organ
+ORGN 623 Senior Recital
+OTMS 699 Special Projects
+P&TX 631 Pharmacology II
+P&TX 633 Pharmacology IV
+P&TX 640 Toxicology
+P&TX 694 Undrgd Lb:Rsh in Pharm&Toxclgy
+P&TX 698 Library Probs in Pharm&Toxclgy
+PCS 120 Intro to Peace & Conflict Stds
+PCS 555 Tpcs in Peace&Conflict Stdies: Israeli Palestinian Conflict
+PCUS 100 Percussion
+PCUS 121 Percussion
+PCUS 221 Percussion
+PCUS 300 Percussion
+PCUS 321 Percussion
+PCUS 421 Percussion
+PCUS 422 Percussion
+PCUS 622 Percussion
+PCUS 623 Senior Recital
+PENS 252 Percussion Ensemble
+PENS 652 Percussion Ensemble
+PERS 120 Elemntary Irn/Dr/Tjik Persn II
+PERS 220 Intermd Iran/Dar/Tjik Persn II
+PFS 110 Icons & Infl in Age Socl Media
+PFS 300 Intro Professional Performance
+PFS 303 Professionalism and Workplace
+PFS 599 Professional Studies Capstone
+PHAR 101 Intro to Meds in Healthcare
+PHAR 515 Pharmacy Skills II-A
+PHAR 516 Oral Presntns for Hlth Prfsnl
+PHAR 517 Pharmacy Skills II-B
+PHAR 525 Pharmacy Skills IV
+PHAR 535 Pharmacy Skills VI
+PHAR 537 Pharmacy Skills VIB
+PHAR 550 Intro Pharmcy Prac Exp-Commnty
+PHAR 560 Intro Pharm Prac Exp-Institutl
+PHCH 518 Phys-Chem Princpls Solut Dosag
+PHCH 626 Biopharmaceutics&Drug Delivery
+PHCH 690 Ug Rsch Pharmaceutcl Chemistry
+PHCH 694 Problems Pharmaceutcl Chemstry
+PHIL 140 Introduction to Philosophy
+PHIL 141 Introduction to Philosophy Hnr
+PHIL 148 Reason and Argument
+PHIL 160 Introduction to Ethics
+PHIL 161 Introduction to Ethics Honors
+PHIL 170 The Meaning of Life
+PHIL 180 Intro to Social&Political Phil
+PHIL 210 Reason Chance & Probability
+PHIL 330 Belief and the Social
+PHIL 360 Moral Issues in Business
+PHIL 370 Moral Issues in Medicine
+PHIL 382 Philosophy in Lit and Film
+PHIL 386 Mod Philosophy Descartes-Kant
+PHIL 499 Senior Essay
+PHIL 592 Contempry Continentl Philosphy
+PHIL 593 Marxism and Critical Theory
+PHIL 600 Readings in Philosophy:
+PHIL 608 Hellenistic Philosophy
+PHIL 630 Philosophy of Mathematics
+PHIL 668 Political Philosophy
+PHPR 517 Mediction Safety&Error Prevntn
+PHPR 521 Practical Pediatrics
+PHPR 527 Advanced Psychiatric Pharmacy
+PHPR 531 Managed Care Pharmacy Practice
+PHPR 541 Fndtns Interprofessnl Collab I
+PHPR 542 Fndtns Intrprfsnl Collabrtn II
+PHPR 543 Fndtns Intrprfsnl Colabrtn III
+PHPR 605 Advncd Pharm Prac Expr 5
+PHPR 606 Advncd Pharm Prac Expr 6
+PHPR 607 Advncd Pharm Prac Expr 7
+PHPR 608 Advncd Pharm Prac Expr 8
+PHPR 609 Advncd Pharm Prac Expr 9
+PHPR 610 Advncd Pharm Prac Expr 10
+PHPR 613 Pharmacoecnmcs&Health Outcmes
+PHPR 619 HealthCare Systems/Informatics
+PHPR 621 Pharmacy Law
+PHPR 630 Drug Information and Lit Eval
+PHPR 635 Problems in Pharmacy Practice
+PHPR 661 Pharmacotherapy I
+PHPR 663 Pharmacotherapy III
+PHPR 665 Pharmacotherapy V
+PHPR 690 Research in Pharmacy Practice
+PHSX 114 College Physics I
+PHSX 115 College Physics II
+PHSX 191 Contemporary Astronomy
+PHSX 196 Contemporary Astronomy Lab
+PHSX 211 General Physics I
+PHSX 212 General Physics II
+PHSX 213 General Physics I Honors
+PHSX 216 General Physics I Laboratory
+PHSX 236 General Physics II Laboratory
+PHSX 313 General Physics III
+PHSX 315 Intro Computatn Physcs &Astnmy
+PHSX 316 Intermedt Physics Laboratory I
+PHSX 500 Special Problems
+PHSX 501 Honors Research
+PHSX 503 Undergraduate Research
+PHSX 600 Spec Tpcs Physcs&Astrophysics: Intro to Quantum Algorithms
+PHSX 601 Desgn Physical&Electronic Syst
+PHSX 611 Introductory Quantum Mechanics
+PHSX 615 Numerical&Computatnl Mthd Phsx
+PHSX 616 Physical Measurements
+PHSX 621 Mechanics II
+PHSX 631 Electromagnetic Theory
+PHSX 693 Gravitation and Cosmology
+PHTO 101 Fundamentals of Photography
+PHTO 200 Foundations in PHTO: Digital
+PHTO 205 Foundations in PHTO:  Darkroom
+PHTO 210 Understanding Photographs
+PHTO 304 Photography II:  Color Digital
+PHTO 314 The Moving Image
+PHTO 315 Experimental Processes
+PHTO 500 Portfolio and Thesis
+PHTO 560 Special Topics in Photography: Studio & Agency
+PIAN 100 Piano
+PIAN 111 Elementry Keyboard Musicianshp
+PIAN 121 Piano
+PIAN 148 Elementary Keyboard Skills II
+PIAN 216 Chamber Music for Pianists
+PIAN 221 Piano
+PIAN 229 Performance Class Accompanying
+PIAN 288 Intermediat Keyboard Skills II
+PIAN 300 Piano
+PIAN 321 Piano
+PIAN 336 Chamber Music for Pianists
+PIAN 421 Piano
+PIAN 422 Piano
+PIAN 448 Piano Repertoire 4
+PIAN 452 Piano Pedagogy II
+PIAN 622 Piano
+PIAN 623 Senior Recital
+PLSH 108 Elementary Polish II
+PLSH 208 Intermediate Polish II
+PMGT 305 Foundations Project Management
+PMGT 310 Project Communications
+PMGT 315 Project Scheduling and Control
+PMGT 320 Intro to Microsoft Project
+PMGT 325 Effective Project Team Leaders
+PMGT 335 Project Stakeholder Engagement
+PMGT 410 Managing Project Success
+PMGT 420 Emerging Trends in Projct Mgmt
+PMGT 430 Managing Virtual Project Teams
+PMGT 520 Advanced Microsoft Project
+PMGT 550 Project Management Internship
+PMGT 599 Project Management Capstone
+PNTG 263 Painting I
+PNTG 300 Special Topics in Painting: The Figure
+PNTG 364 Painting II
+PNTG 368 Painting II, Honors
+PNTG 500 Adv Special Topics Painting: The Figure
+PNTG 565 Painting III
+PNTG 566 Painting IV
+PNTG 567 Painting III, Honors
+PNTG 569 Painting IV, Honors
+PNTG 599 Individual Studies in Painting
+PNTG 667 Painting V
+PNTG 668 Painting VI
+POLS 110 Introduction to U.S. Politics
+POLS 125 Intllgnce:Suprtng Ntnl Securty
+POLS 130 US Intelligence Community
+POLS 150 Introd to Comparative Politics
+POLS 151 Intro Comparative Politics Hnr
+POLS 170 Intro to Internationl Politics
+POLS 206 Political Sci Methd of Inquiry
+POLS 301 Introductn to Political Theory
+POLS 310 Contempry Issues U.S. Politics
+POLS 313 Comparativ U.S. State Politics
+POLS 317 The U.S. Congress
+POLS 318 The Presidency
+POLS 320 Introduction to Public Policy
+POLS 325 Intelligence Analytics
+POLS 345 Counterintelligence
+POLS 366 Political Economy of East Asia
+POLS 371 United States Foreign Policy
+POLS 378 Chinese Foreign Policy
+POLS 390 Intro to Public Administration
+POLS 391 Intro Public Administratn,Hnrs
+POLS 399 Data 2:Foundations Data Scinc
+POLS 409 Topics in Political Theory: Religion & Pol Theory
+POLS 411 Cnstitutnl Law:Civil Liberties
+POLS 415 American Political Parties
+POLS 419 Topics in American Politics: Christian Nationalism
+POLS 425 Extremst Groups&Gov't Response
+POLS 444 Justce&Pblc Polcy Dmocrtic Soc
+POLS 469 Topics in Comparativ Politics: Propag & Misinf Authorit Regms
+POLS 469 Topics in Comparativ Politics: Justice & Rec Peace aft Confl
+POLS 472 Internationl Political Economy
+POLS 477 U.S. National Security Policy
+POLS 480 Politics &Government in Israel
+POLS 482 Transnational Terrorism
+POLS 492 Fieldwork in Political Science
+POLS 493 Directed Readings
+POLS 494 Washington Semester Seminar
+POLS 495 Fieldwork & Internship Seminar
+POLS 496 Washington Semester Field Work
+POLS 497 Topeka Semester Field Work
+POLS 498 Honors Thesis
+POLS 499 Capstone Research for POLS
+POLS 624 Environmental Politics &Policy
+POLS 662 Gender and Politics in Africa
+POLS 688 U.S.Counterterror Approaches
+POLS 699 Community Data Lab
+PORT 108 Elmtry Brazilian Portuguese II
+PORT 216 Intrmd Brazilian Portuguese II
+PORT 300 Brazilian Culture
+PORT 347 Brazilian Studies:
+PORT 612 Acc Basic Port Span Speakrs II
+PRNT 243 Serigraphy I
+PRNT 300 Special Topics in Printmaking: Mokuhanga: Japanese Woodblock
+PRNT 344 Serigraphy II
+PRNT 349 Serigraphy II, Honors
+PRNT 500 Adv Special Topics Prntmking: Mokuhanga: Japanese Woodblock
+PRNT 525 Printmaking III C (Serigraphy)
+PRNT 528 Printmaking IV C (Serigraphy)
+PRNT 599 Individual Studies Printmaking
+PRVM 431 Interdisc Leadership Dev Disa
+PSYC 102 Orientation Seminar Psychology
+PSYC 104 General Psychology
+PSYC 105 General Psychology, Honors
+PSYC 200 Research Methods in Psychology
+PSYC 210 Statistics Psychological Rsrch
+PSYC 250 Human Development
+PSYC 318 Cognitive Psychology
+PSYC 350 Psychological Disorders
+PSYC 351 Psychologicl Disorders, Honors
+PSYC 360 Social Psychology
+PSYC 361 Social Psychology, Honors
+PSYC 370 Behavioral Neuroscience
+PSYC 375 Cognitive Neuroscience
+PSYC 390 The Psychology of Aging
+PSYC 399 Data 2:Foundations Data Scinc
+PSYC 410 Intimate Relationships
+PSYC 449 Lab/Field Work in Human Biolgy
+PSYC 460 Honors Thesis
+PSYC 465 Stereotyp&Prejudc Across Cultr
+PSYC 470 Intro Contemprary Psychotherap
+PSYC 472 Psychology of Sleep & Dreaming
+PSYC 480 Independent Study
+PSYC 481 Research Practicum
+PSYC 482 Sensation and Perception
+PSYC 483 Undergrd Internship Psychology
+PSYC 484 Classroom to Career
+PSYC 492 Psychology and Social Issues
+PSYC 502 Human Sexuality
+PSYC 521 Women and Violence
+PSYC 533 Psychology Addictive Behaviors
+PSYC 535 Developmental Psychopathology
+PSYC 545 Culture and Psychology
+PSYC 595 Eating and Weight Disorders
+PSYC 598 Positive Psychology
+PSYC 690 Seminar: Advanced Topics in Prejudice
+PSYC 690 Seminar: Intro to Machine Learning
+PSYC 690 Seminar: Psychology of Emotion
+PSYC 690 Seminar: PschiatrcApplctnLifestylMedcne
+PSYC 699 Community Data Lab
+PUAD 305 Introdctn to Project Managemnt
+PUAD 330 Intro to Public Administration
+PUAD 331 Intro Public Administratn,Hnrs
+PUAD 333 Hard Choices Public Administr:
+PUAD 402 Diversity&Socl Eq Public Admin
+PUAD 494 Topics in Public Administratn: Gndr, Public Plcy & the Ecnmy
+QUEC 234 Intermediate Quechua II
+QUEC 610 Dirctd Study Quechua Lang&Cult
+REC 100 Laboratory in Music Performanc
+REES 110 Undrstnding Russia&East Europe
+REES 111 Undrstnd Russia&East Europe, H
+REES 310 Undrstnding Russia&East Europe
+REES 311 Undrstndng Russia&East Eurp,Hn
+REL 102 Violence and Religious Ethics
+REL 104 Introdctn to Religious Studies
+REL 106 Asian Religions
+REL 108 Asian Religions, Honors
+REL 137 Religious Ethics&Moral Decisns
+REL 171 Religion in American Society
+REL 290 Topcs in Religion and Society: Christian Nationalism
+REL 310 Religion in Korea
+REL 314 The Black Church in America
+REL 325 Introduction to Judaism
+REL 330 Native American Religions
+REL 343 Christianity in Fantasy Lit
+REL 357 Women and Gender in Islam
+REL 362 Studies in Yoga & Meditation
+REL 372 Rel and Envrmt in the US
+REL 405 Directed Study in Religion
+REL 499 Undergraduate Honors Research
+REL 500 Rdg Non-English Religious Txts
+REL 572 Judaism and Political Theology
+REL 657 Women and Gender in Islam
+RESP 200 Introduction to Resp. Therapy
+RESP 325 Mech Ventilation
+RESP 326 Mechanical Ventilation Lab
+RESP 335 Clinical Applic II
+RESP 340 Respiratory Review I
+RESP 405 Advanced Critical Care
+RESP 420 Hlth Care Mangmt, Ethics & Law
+RESP 450 Chronic Resp Disease Mgt
+RESP 460 ACCS Specialty Credential Prep
+RESP 480 Simulation and IPE
+RESP 490 Spec Studies or Projts
+RESP 500 Respiratory Therapy Capstone
+RESP 615 Respiratory Review III
+RESP 620 Community and Global Health
+RESP 625 Clinical Application V
+RESP 630 Lean Management
+RESP 665 Capstone Project
+RUSS 104 Elementary Russian I
+RUSS 108 Elementary Russian II
+RUSS 109 Elementary Russian II, Honors
+RUSS 152 Beginning Russian II
+RUSS 208 Intermediate Russian II
+RUSS 508 Advanced Russian II
+RUSS 516 Russian for the Professions II
+RUSS 675 Readings in Russian
+SAXO 100 Saxophone
+SAXO 121 Saxophone
+SAXO 221 Saxophone
+SAXO 300 Saxophone
+SAXO 321 Saxophone
+SAXO 421 Saxophone
+SAXO 422 Saxophone
+SAXO 622 Saxophone
+SAXO 623 Senior Recital
+SCM 230 Intro AIO Professions
+SCM 305 Survey Decision Makng Business
+SCM 310 Managmnt Sci&Operatns Managmnt
+SCM 311 Mgmt Sci&Opratns Mgmt, Honors
+SCM 400 Specl Topcs Supply Chain Mgmt: Supply Chain Planning&Strategy
+SCM 400 Specl Topcs Supply Chain Mgmt: Data Visualization
+SCM 400 Specl Topcs Supply Chain Mgmt: Supply Chain Mgmt in Panama
+SCM 401 Introd Supply Chain Management
+SCM 402 Procurement&Supplier Managemnt
+SCM 403 Logstcs, Transportn&Wareh Mgmt
+SCM 404 Mgmt of Integrtd Infor Sys/ERP
+SCM 410 Capstone in Supply Chain Mgnmt
+SCM 415 Data Analysis and Forecasting
+SCM 418 Modeling & Risk Analysis
+SCM 425 Customer Relationship Managmnt
+SCM 453 Retail'g Dist Chan & Sup Chain
+SCM 460 Supply Chain Analytics
+SCM 500 Indvdl Rsrch Chain Supply Mgmt
+SCUL 253 Sculpture I
+SCUL 360 Build Smart
+SCUL 362 Art and Ecology: Ecosphere
+SCUL 599 Individul Studies in Sculpture
+SCUL 660 Build Smart
+SCUL 662 Art and Ecology: Ecosphere
+SLAV 140 Understanding Russia
+SLAV 141 Understanding Russia, Honors
+SLAV 148 Introducton to Slavic Folklore
+SLAV 149 Introd to Slavic Folklore,Hnrs
+SLAV 230 Vampire in Lit, Film & Televsn
+SLAV 250 Intro to Translation & Theory
+SLAV 303 Bodies in Pain
+SLAV 320 Graphic Novels as Memory
+SLAV 322 Soviet&Post-Sov Russian Cinema
+SLAV 379 Topics in: Survival Tajik for Beginners
+SLAV 379 Topics in: Jewish Secular Culture
+SLAV 379 Topics in: Languages of the Jews
+SLAV 540 Lang&Ident EC Eur&Frmr Sov Uni
+SLAV 565 Marxism and Critical Theory
+SLAV 580 CapstoneSeminarSlavGermEurCult
+SLAV 664 Soviet Russian Liter:1930-1990
+SLAV 675 Readings Slavic Stds (English)
+SLAV 678 Readings in Slavic Linguistics
+SLAV 679 Topics in: Survival Tajik for Beginners
+SOC 104 Elements of Sociology
+SOC 105 Elements of Sociology, Honors
+SOC 120 Crime and Society
+SOC 130 Comparative Societies
+SOC 150 Self and Society
+SOC 160 Social Problms&American Values
+SOC 161 Social Probs&Amercn Values Hrs
+SOC 220 Sociology of Families
+SOC 280 Introduction to Social Rsearch
+SOC 320 Organizations and Inequality
+SOC 332 United States in Global Contxt
+SOC 342 Sociology of Immigration
+SOC 343 American Racial&Ethnic Relatns
+SOC 363 The Sociology of Culture
+SOC 380 Elemn Statistics&Data Analysis
+SOC 384 Environment, Power, & Justice
+SOC 386 Sociology of Global Food
+SOC 400 Sociology Special Topics: Youth & Crime
+SOC 410 Sociology of Death and Dying
+SOC 425 Sociology of Global Health
+SOC 426 Sociology of Mental Health
+SOC 427 School & Society
+SOC 437 Global Ethnic&Racial Relations
+SOC 450 Gender and Society
+SOC 461 Compting Perspctv Crime&Devnce
+SOC 462 Violence and Society
+SOC 480 Sociological Theory
+SOC 499 Honors Course
+SOC 662 Corrections
+SOC 698 Individ Undergraduate Research
+SPAA 310 Career Exploration & Planning:
+SPAA 691 Internship Experience
+SPAN 101 Orientation Sem Span&Portuguse
+SPAN 104 Elementary Spanish I
+SPAN 108 Elementary Spanish II
+SPAN 171 Hspnc Lang, Cultr&Civlztn I-B:
+SPAN 202 Intro to Translation & Theory
+SPAN 212 Intermediate Spanish I
+SPAN 216 Intermediate Spanish II
+SPAN 324 Grammar and Composition
+SPAN 325 Spanish for Heritage Learners
+SPAN 328 Intermedt Spansh Conversation
+SPAN 340 Text Analysis&Critical Reading
+SPAN 346 Transatlantc Hispanic Cultures
+SPAN 424 Advd Spanish Compositn&Grammar
+SPAN 428 Advanced Spanish Conversation
+SPAN 442 Specl Topc Lat Amer Lit&Cultr:
+SPAN 443 Peninsular Hispanic Studies:
+SPAN 453 20th Century Spanish Studies: Four Key Periods
+SPAN 461 19 Centry Spansh-Amer Studies:
+SPAN 494 Special Readings in Spanish
+SPAN 496 Honors in Spanish
+SPAN 540 Colloquium on Hispanc Studies:
+SPAN 570 Studies in Hispnc Linguistics: Ling: Soc & Dialectal Variat’n
+SPED 326 Tchng Ex Chld&Yth Gnrl Educatn
+SPED 327 Instr Prac Stdts Disabilities
+SPED 362 Intro Early Educ&Child Sp Educ
+SPED 439 Student Tchg:Unifd Erly Chldhd
+SPED 441 EBP in ELA: Vocab & Comp
+SPED 442 EBP Math, Sci, and SS for IEPs
+SPED 444 Assess Stdts with IEPs
+SPED 450 Dis/ability in an Amrcn Contxt
+SPED 494 Internship EEU
+SPED 501 Amricn Sign Language I (ASL I)
+SPED 502 Amer Sign Language II (ASL II)
+SPED 503 Am Sign Language III (ASL III)
+SPED 504 Amer Sign Language IV (ASL IV)
+SPED 650 Constructng Early Chld Currclm
+SPED 661 Suprt Chld Signf Lrn&Beh Chall
+SPED 675 Practcm with Chld&Youth w/Dis: Low Incidence
+SPLH 161 Survey Communication Disorders
+SPLH 220 The Physics of Speech
+SPLH 352 Glbl Perspectives SPLH: Aud&Spch-Lang Pthlgy in Domnca
+SPLH 430 Communication in Autism
+SPLH 449 Lab/Field Work in Human Biolgy
+SPLH 463 Principles of Hearing Science
+SPLH 464 Undergraduate Seminar in: Genetc Basis of Spech&Lang Dis
+SPLH 498 Departmental Research
+SPLH 499 Dirctd Std Speech-Lang-Hearing
+SPLH 516 Speech Perception
+SPLH 565 Language Sample Analysis Lab
+SPLH 566 Language Development
+SPLH 571 Intr Speech-Language Pathology
+SPLH 589 Multicultrl Considrtns SPLH II
+SPLH 620 Cmnctg Brain:Ultmt Prsnl Cmptr
+SPLH 660 Rsrh Methd Speech-Lang-Hearing
+SPLH 670 Begin Clincl Practce Audiology
+SPLH 672 Clin Prac Speech-Lang Patholgy
+STRG 424 String Pedagogy:
+SW 220 Intro to Social Work/Welfare
+SW 301 Prevention is Possible
+SW 303 Human Sexuality
+SW 310 Stress & Supporting Wellbeing
+SW 510 Interviewing Skills
+SW 512 Skills-Based Policy Advocacy
+SW 540 Intro to Social Work Research
+SW 570 Decolonization in Social Work
+SW 572 Substance Use
+SW 573 Intergenrtnl&Historical Trauma
+SW 574 SW Across & Among Borders
+SW 601 Practicum
+SW 612 Mltlvl Intrvntn&Eval SW Prac
+SW 623 Seminar in SW Prof Issues
+SW 640 Grant Writing&Program Develmnt
+SW 641 Dismantling White Supremacy
+SW 642 Financial Capability & SW Prac
+SW 643 Gender-based Violence
+SWWD 101 Home Visiting I
+SWWD 102 Home Visiting II
+SWWD 110 Supvsn for Fmly Suppt Profsnls
+TD 313 Fiber Forms
+TD 314 Introduction to Weaving
+TD 401 Weave Structures
+TD 402 Techniques in Weaving
+TD 514 Advanced Techniques in Weaving
+TD 590 Internship in Textiles/Fibers
+TD 599 Indvdul Studes Textiles/Fibers
+THR 100 Introduction to the Theatre
+THR 101 Theatre Practicum I
+THR 105 Improvisation
+THR 106 Acting I
+THR 116 Scenographic Techniques
+THR 120 Public Speaking as Performance
+THR 201 Theatre Practicum II
+THR 206 Acting II
+THR 213 Movemnt I:The Acting Instrumnt
+THR 215 Approaching Design
+THR 216 Scenic Production
+THR 220 Costume Production
+THR 224 Lighting Production
+THR 301 Theatre Practicum III
+THR 302 Undergraduate Seminar in: Advanced Costume Construction
+THR 302 Undergraduate Seminar in: Advanced Model Making
+THR 302 Undergraduate Seminar in: Devising Theatre
+THR 302 Undergraduate Seminar in: Musical Theatre Dance
+THR 302 Undergraduate Seminar in: Stage Managemnt: Opera & Dance
+THR 307 Undrgraduat Theatre Internship
+THR 308 Script Analysis
+THR 310 Musical Performanc for Actr II
+THR 315 Stage Management
+THR 318 Rendering for Design
+THR 324 Beginning Lighting Design
+THR 326 African Theatre and Drama
+THR 380 Popular Culture: Witches
+THR 401 Stage Mngmnt&Assistant Directn
+THR 406 Audition Techniques
+THR 407 Advanced Acting Special Topic:
+THR 407 Advanced Acting Special Topic: Voiceover Acting
+THR 407 Advanced Acting Special Topic: Shakespeare & Heightened Text
+THR 410 Musicl Performnc for Actor III
+THR 498 Honors Directed Study Theatre
+THR 499 Directed Study in Theatre
+THR 506 Acting for the Camera
+THR 526 History of Theatre II
+THR 528 History of U.S. Theatre &Drama
+THR 560 Collaborative Production
+THR 599 Special Topics in Scenography
+THR 618 Scenography&the Musicl Theatre
+TIB 102 Elementary Tibetan II
+TIB 202 Intermediate Tibetan II
+TROM 100 Trombone
+TROM 121 Trombone
+TROM 221 Trombone
+TROM 252 Trombone Choir
+TROM 300 Trombone
+TROM 321 Trombone
+TROM 421 Trombone
+TROM 422 Trombone
+TROM 622 Trombone
+TROM 623 Senior Recital
+TROM 652 Trombone Choir
+TRUM 100 Trumpet
+TRUM 121 Trumpet
+TRUM 221 Trumpet
+TRUM 252 Trumpet Ensemble
+TRUM 300 Trumpet
+TRUM 321 Trumpet
+TRUM 421 Trumpet
+TRUM 422 Trumpet
+TRUM 622 Trumpet
+TRUM 623 Senior Recital
+TRUM 652 Trumpet Ensemble
+TUBA 100 Tuba
+TUBA 121 Tuba
+TUBA 221 Tuba
+TUBA 300 Tuba
+TUBA 321 Tuba
+TUBA 421 Tuba
+TUBA 422 Tuba
+TUBA 622 Tuba
+TUBA 623 Senior Recital
+TUEU 252 Tuba-Euphonium Consort
+TUEU 652 Tuba-Euphonium Consort
+TURK 108 Elementary Turkish II
+TURK 675 Readings in Turkish: Adv Conversatn&Written Turkish
+UBPL 300 Planning the Sustainable City
+UBPL 425 Environmental Planning Techniq
+UKRA 108 Elementary Ukrainian II
+UKRA 208 Intermediate Ukrainian II
+UKRA 508 Advanced Ukrainian II
+UNIV 101 Orientation Seminar
+UNIV 105 Jayhawk Success Seminar
+UNIV 120 Introductn to Engaged Learning
+UNIV 176 First Year Seminar: KUTraditions&Transformations
+UNIV 299 Service Learning Project
+UNIV 492 Specl Projects in the Communty
+UNIV 602 Sponsored Educatnl Experiences
+UTEC 315 Songrphy Princpls&Instr II
+UTEC 325 Abdominal Sonography II
+UTEC 335 Obstetrical Sonography
+UTEC 345 Clinical Internship II
+UTEC 350 Small Parts Sonography
+UTEC 435 Advanced Sonography Seminar II
+UTEC 450 Clinical Internship V
+UYGR 102 Elementary Uyghur II
+UYGR 202 Intermediate Uyghur II
+VAE 320 Instruction and Curriculum I
+VAE 341 Instruct Stratgies Art-Elemntr
+VAE 395 Community Collabratn in Art Ed
+VAE 497 Independent Study
+VAE 500 Student Teaching
+VAE 596 Practicum in Teaching Art
+VAE 599 Cmnty Basd Prjct in Art Eductn
+VIOA 100 Viola
+VIOA 121 Viola
+VIOA 221 Viola
+VIOA 300 Viola
+VIOA 321 Viola
+VIOA 421 Viola
+VIOA 422 Viola
+VIOA 622 Viola
+VIOA 623 Senior Recital
+VION 100 Violin
+VION 121 Violin
+VION 221 Violin
+VION 300 Violin
+VION 321 Violin
+VION 421 Violin
+VION 422 Violin
+VION 622 Violin
+VION 623 Senior Recital
+VISC 101 Intro to Visual Communication
+VISC 302 Typography II
+VISC 304 Viscom Second-Year Studio II
+VISC 310 Letterpress
+VISC 402 Viscom Third-Year Studio II
+VISC 415 Motion Design
+VISC 426 Experiential Design
+VISC 430 Visual Communication Portfolio
+VISC 440 Bookmaking
+VISC 450 Typographic Universe
+VISC 470 Visual Communication Capstone
+VNCL 100 Violoncello
+VNCL 121 Violoncello
+VNCL 221 Violoncello
+VNCL 300 Violoncello
+VNCL 321 Violoncello
+VNCL 421 Violoncello
+VNCL 422 Violoncello
+VNCL 622 Violoncello
+VNCL 623 Senior Recital
+VOIC 100 Voice
+VOIC 121 Voice
+VOIC 221 Voice
+VOIC 300 Voice
+VOIC 321 Voice
+VOIC 406 Vocal Literature II
+VOIC 421 Voice
+VOIC 422 Voice
+VOIC 470 Lyric Diction: French & German
+VOIC 490 Opera Workshop
+VOIC 492 Opera Production
+VOIC 500 Directed Study in:
+VOIC 520 Vocal Coaching
+VOIC 622 Voice
+VOIC 623 Senior Recital
+W&P 125 Wind and Percussion Pedagogy
+W&P 130 Orchestral Repertoire
+W&P 325 Wind and Percussion Pedagogy
+W&P 630 Orchestral Repertoire
+W&P 655 Independent Study in:
+WENS 252 Wind Ensemble
+WENS 652 Wind Ensemble
+WGSS 101 Intro Wmn,Gndr,&Sexulty Stds
+WGSS 102 Intro Women,Gndr,&Sex Stds,Hnr
+WGSS 111 Intro to Human Sexuality Stds
+WGSS 319 History,Women &Diversity in US
+WGSS 325 Language, Gender and Sexuality
+WGSS 327 Perspctv Lsbn,Gay,Bisxl&Trngdr
+WGSS 331 Sex and Gender in New Media
+WGSS 333 Politics of Physicl Appearance
+WGSS 339 Feminism and Social Change
+WGSS 355 International Women's Rights
+WGSS 359 Intro to Fem Theory
+WGSS 389 Anthr Gendr:Female Male&Beyond
+WGSS 396 Studies in: Gndr, Public Plcy & the Ecnmy
+WGSS 440 Communication and Gender
+WGSS 498 Independent Study
+WGSS 499 Hnrs Wmn,Gndr&Sexualty Studies
+WGSS 501 Doing Feminist Research
+WGSS 502 Human Sexuality
+WGSS 521 Women and Violence
+WGSS 552 The Rhetoric of Women's Rights
+WGSS 563 Gender, Sexuality and the Law
+WGSS 567 Native Feminisms
+WGSS 601 Sem Wmn,Gndr&Sexuality Studies
+WGSS 650 Srvc Lrng Wmn,Gndr&Sxulty Stde
+WGSS 662 Gender and Politics in Africa
+WGSS 696 Studies in: Gndr, Public Plcy & the Ecnmy
+WOLO 110 Elementary Wolof I
+WOLO 120 Elementary Wolof II
+WOLO 210 Intermediate Wolof I
+WOLO 220 Intermediate Wolof II
+WOLO 320 Advanced Wolof II
+WOLO 402 Readings in Wolof II

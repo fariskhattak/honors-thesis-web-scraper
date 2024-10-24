@@ -1,0 +1,1066 @@
+<html lang="en"><head><meta content="A/kargTFyk8MR5ueravczef/wIlTkbVk1qXQesp39nV+xNECPdLBVeYffxrM8TmZT6RArWGQVCJ0LRivD7glcAUAAACQeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZS5jb206NDQzIiwiZmVhdHVyZSI6IkRpc2FibGVUaGlyZFBhcnR5U3RvcmFnZVBhcnRpdGlvbmluZzIiLCJleHBpcnkiOjE3NDIzNDIzOTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9" http-equiv="origin-trial"/>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="ie=edge" http-equiv="X-UA-Compatible"/>
+<title>Departments | Online Directory | KU</title>
+<link href="/ku-assets/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"/>
+<link crossorigin="anonymous" href="//stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" rel="stylesheet"/>
+<link href="//fonts.googleapis.com/css?family=Raleway:200,200i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet"/>
+<link href="/ku-assets/css/template-2017-simple.css" rel="stylesheet"/>
+<link href="/ku-assets/css/ku-colors-2017.css" rel="stylesheet"/>
+<link href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css" rel="stylesheet"/>
+<link href="//cdn.datatables.net/v/bs4/dt-1.10.20/datatables.min.css" rel="stylesheet" type="text/css"/>
+<link crossorigin="anonymous" href="//stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" rel="stylesheet"/>
+<link href="/site-assets/css/site.css" rel="stylesheet"/>
+</head>
+<body>
+<a class="sr-only sr-only-focusable" href="#main-content">Skip to main content</a>
+<nav class="navbar ku-blue-background ku-eyebrow">
+<div class="container">
+<div class="row col-sm-12">
+<div class="col-md-4 d-none d-md-block">
+<a class="eyebrow-brand" href="https://ku.edu/">The University of Kansas</a>
+</div>
+<div class="text-right col-md-8 col-xs-12">
+<ul class="list-inline">
+<li class="list-inline-item pr-1">
+<a href="https://my.ku.edu/">myKU</a>
+</li>
+<li class="list-inline-item pr-1">
+<a href="https://outlook.office365.com/owa/?realm=home.ku.edu">Email</a>
+</li>
+<li class="list-inline-item pr-1">
+<a href="https://canvas.ku.edu/">Canvas</a>
+</li>
+<li class="list-inline-item pr-1">
+<a href="https://sa.ku.edu/">Enroll &amp; Pay</a>
+</li>
+<li class="list-inline-item">
+<a href="http://www.ku.edu/directory">KU Directory</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</nav>
+<aside class="brandbar">
+<div class="container">
+<div class="row col-sm-12">
+<div class="logo-img">
+<a href="https://ku.edu/" title="KU Homepage"><img alt="KU" id="logo" src="/ku-assets/images/logo_screen.png"/></a>
+</div>
+<hgroup class="site-name-slogan">
+<h1 class="site-name">
+<a href="/" title="Home">Online Directory</a>
+</h1>
+</hgroup>
+<nav class="navbar navbar-expand-md navbar-dark mt-1 ml-auto mr-0">
+<button aria-controls="appNav" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler navbar-dark bg-primary" data-target="#appNav" data-toggle="collapse" type="button">
+<span class="navbar-toggler-icon"></span>
+</button>
+</nav>
+</div>
+</div>
+</aside>
+<div id="main-bg">
+<section>
+<div class="container">
+<nav class="navbar navbar-expand-md">
+<div class="collapse navbar-collapse" id="appNav">
+<ul class="navbar-nav mr-auto">
+<li class="nav-item active">
+<a class="nav-link" href="/" title="Home"><img alt="Home" class="d-none d-md-block" src="/ku-assets/images/ku_home_link.png"/><span class="d-block d-md-none">Home</span></a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="/advanced">Advanced Search</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="/departments">Departments</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="/help">Help</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="https://technology.ku.edu/personal-accounts">Manage Personal Accounts</a>
+</li>
+</ul>
+<span class="navbar-text py-0 ml-auto">
+<a href="/login">Login</a>
+                        
+
+                        
+
+                </span>
+</div>
+</nav>
+</div>
+</section>
+<main>
+<noscript>
+<div class="container alert alert-warning mt-1" id="msg">
+<strong>IMPORTANT: </strong> This service requires the use of JavaScript to function.
+    Unless you <strong>enable JavaScript</strong> within your browser, you will not be able to proceed
+    effectively.
+</div>
+</noscript>
+<div class="container alert alert-warning mt-1" id="msg" style="display:none;"> </div>
+<div class="container">
+<div class="row">
+<div class="col-12">
+<h2>Departments</h2><hr/>
+</div>
+</div>
+<div class="row justify-content-md-center">
+<div class="col-md-8">
+<br/>
+<div class="dataTables_wrapper dt-bootstrap4 no-footer" id="personResults_wrapper"><div class="row"><div class="col-sm-12 col-md-6"><div class="dataTables_length" id="personResults_length"><label>Show <select aria-controls="personResults" class="custom-select custom-select-sm form-control form-control-sm" name="personResults_length"><option value="10">10</option><option value="25">25</option><option value="50">50</option><option value="100">100</option><option value="-1">All</option></select> entries</label></div></div><div class="col-sm-12 col-md-6"><div class="dataTables_filter" id="personResults_filter"><label>Filter:<input aria-controls="personResults" class="form-control form-control-sm" placeholder="" type="search"/></label></div></div></div><div class="row"><div class="col-sm-12"><table aria-describedby="personResults_info" class="table table-sm table-condensed table-striped dataTable no-footer" id="personResults" role="grid">
+<caption>Departments at The University of Kansas</caption>
+<thead>
+<tr class="tableheader" role="row"><th aria-controls="personResults" aria-label="Department: activate to sort column descending" aria-sort="ascending" class="sorting_asc" colspan="1" data-field="kuDepartmentName" data-sortable="true" rowspan="1" scope="col" style="width: 403.875px;" tabindex="0">Department</th><th aria-controls="personResults" aria-label="Department Number: activate to sort column ascending" class="sorting" colspan="1" data-field="kuDepartmentCode" data-sortable="true" rowspan="1" scope="col" style="width: 276.531px;" tabindex="0">Department Number</th></tr>
+</thead>
+<tbody id="deptTable">
+<tr class="odd" role="row">
+<td class="sorting_1"><a href="#1515500">Academic Affairs</a></td>
+<td>1515500</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#1901000">Academic Success</a></td>
+<td>1901000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2607000">Academic/Professional Programs</a></td>
+<td>2607000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2331000">Achievement &amp; Assessment Inst</a></td>
+<td>2331000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2221000">Aerospace Engineering</a></td>
+<td>2221000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2107000">African/African Amer Studies</a></td>
+<td>2107000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2520000">Air Force ROTC</a></td>
+<td>2520000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#1600AFL">Alumni Association</a></td>
+<td>1600AFL</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2117000">American Studies</a></td>
+<td>2117000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#1523000">Analytics Inst Res &amp; Effectnes</a></td>
+<td>1523000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2903000">Animal Care Unit</a></td>
+<td>2903000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2110000">Anthropology</a></td>
+<td>2110000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2133000">Applied Behavioral Science</a></td>
+<td>2133000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2650000">Applied English Center</a></td>
+<td>2650000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2250000">Architecture Design</a></td>
+<td>2250000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2524000">Army ROTC</a></td>
+<td>2524000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#8810AFL">Athletics Corporation</a></td>
+<td>8810AFL</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2675000">Audio Reader Program</a></td>
+<td>2675000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#1502500">Audit, Risk &amp; Compliance</a></td>
+<td>1502500</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#1749000">Aviation Services</a></td>
+<td>1749000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2454000">Biodiversity Institute</a></td>
+<td>2454000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2210800">Bioengineering Research Center</a></td>
+<td>2210800</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2985000">Biomedical Services Labs</a></td>
+<td>2985000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2985350">Biopharm Innov &amp; Optim Center</a></td>
+<td>2985350</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#1505000">Budget Office</a></td>
+<td>1505000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2930000">Bureau of Child Research</a></td>
+<td>2930000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2003000">Business</a></td>
+<td>2003000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#1518000">Business &amp; Financial Planning</a></td>
+<td>1518000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2000000">Business Administration</a></td>
+<td>2000000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#1903000">Career &amp; Experiential Learning</a></td>
+<td>1903000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2624000">CED-KS Fire &amp; Rescue Training</a></td>
+<td>2624000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2609000">CED-Marketing &amp; Communications</a></td>
+<td>2609000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2146000">Center for East Asian Studies</a></td>
+<td>2146000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2989000">Center for Research Computing</a></td>
+<td>2989000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#1501800">Center for Service Learning</a></td>
+<td>1501800</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2169000">Center for STEM Learning</a></td>
+<td>2169000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#1501700">Center for Sustainability</a></td>
+<td>1501700</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2478000">Center for Teaching Excellence</a></td>
+<td>2478000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#7002100">Central Operations &amp; Maint.</a></td>
+<td>7002100</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#1513000">CFO Administration</a></td>
+<td>1513000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#1500000">Chancellor's Office</a></td>
+<td>1500000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2223000">Chemical &amp; Petroleum Engr</a></td>
+<td>2223000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2112000">Chemistry</a></td>
+<td>2112000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2184000">Child Language Program</a></td>
+<td>2184000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2225000">Civil/Environ/Arch Engineering</a></td>
+<td>2225000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2139000">Classics</a></td>
+<td>2139000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2161000">Clinical Child Psychology Prog</a></td>
+<td>2161000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2100000">College of Liberal Arts &amp; Sci</a></td>
+<td>2100000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2177000">Communication Studies</a></td>
+<td>2177000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2111000">Computational Biology</a></td>
+<td>2111000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#1510000">Controllers Office</a></td>
+<td>1510000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#1512000">Controllers Office</a></td>
+<td>1512000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#1931000">Counseling/Psych Svcs</a></td>
+<td>1931000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2990000">Ctr Enviro Benefical Catalysis</a></td>
+<td>2990000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#1501080">Ctr for Online &amp; Distance Lrn</a></td>
+<td>1501080</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2485000">Ctr for Research on Learning</a></td>
+<td>2485000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2109000">Ctr Global &amp; Internatl Studies</a></td>
+<td>2109000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#1914000">Ctr Orientation Transition Prg</a></td>
+<td>1914000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2627000">Ctr Public Safety Leadership</a></td>
+<td>2627000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2940000">Ctr Remote Sensing Integtr Sys</a></td>
+<td>2940000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2340000">Curriculum &amp; Teaching</a></td>
+<td>2340000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#7001801">Custodial Services</a></td>
+<td>7001801</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2127000">Department of German Studies</a></td>
+<td>2127000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2266000">Design</a></td>
+<td>2266000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#1507000">Diversity Equity Inclus Belong</a></td>
+<td>1507000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#1519000">Dole Institute of Politics</a></td>
+<td>1519000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2380010">Douglas County Legal Aid Socie</a></td>
+<td>2380010</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#8100210">DSH-Ekdahl Dining Commons</a></td>
+<td>8100210</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2143000">East Asian Languages&amp;Cultures</a></td>
+<td>2143000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2105000">Ecology &amp; Evolutionary Biology</a></td>
+<td>2105000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#1620000">Economic Development</a></td>
+<td>1620000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2113000">Economics</a></td>
+<td>2113000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2332000">Ed Leadership &amp; Policy Studies</a></td>
+<td>2332000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2330000">Education Administration</a></td>
+<td>2330000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2532000">Education Institute</a></td>
+<td>2532000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2338000">Educational Psychology</a></td>
+<td>2338000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2530000">Edwards Campus</a></td>
+<td>2530000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2228000">Electrical Engr &amp; Comp Science</a></td>
+<td>2228000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#1986000">Emily Taylor Center</a></td>
+<td>1986000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#8888AFL">Endowment Association</a></td>
+<td>8888AFL</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2210000">Engineering Administration</a></td>
+<td>2210000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2232000">Engineering and Project Mgmt</a></td>
+<td>2232000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2115000">English</a></td>
+<td>2115000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#1904600">Enrollment Marketing Comm</a></td>
+<td>1904600</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#1904200">Enrollment Mgmt Services</a></td>
+<td>1904200</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2905000">Environment Health &amp; Safety</a></td>
+<td>2905000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2116000">Environmental Studies Program</a></td>
+<td>2116000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#7021000">F.O. Carpenters</a></td>
+<td>7021000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#7026000">F.O. Construction</a></td>
+<td>7026000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#7016000">F.O. Custodial Services</a></td>
+<td>7016000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#7012000">F.O. Human Resources</a></td>
+<td>7012000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#7039000">F.O. Instrumentation</a></td>
+<td>7039000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#7011000">F.O. Managment Informaton</a></td>
+<td>7011000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#7024000">F.O. Painters</a></td>
+<td>7024000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#7020000">F.O. Remodel &amp; Renovation</a></td>
+<td>7020000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#7025000">F.O. Steamfitters</a></td>
+<td>7025000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#7037000">F.O. Zone Maintenance</a></td>
+<td>7037000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#7000000">Facilities Planning &amp; Dvlpmnt</a></td>
+<td>7000000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#7001000">Facilities Services</a></td>
+<td>7001000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#7001810">Facilities Services Zone 1</a></td>
+<td>7001810</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#7001820">Facilities Services Zone 2</a></td>
+<td>7001820</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#7001830">Facilities Services Zone 3</a></td>
+<td>7001830</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2119000">Film and Media Studies</a></td>
+<td>2119000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#1501599">Finance Administration</a></td>
+<td>1501599</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#1920000">Financial Aid &amp; Scholarships</a></td>
+<td>1920000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2120000">French, Francophone &amp; Italian</a></td>
+<td>2120000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#7001400">FS Central Shops</a></td>
+<td>7001400</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#7022000">FS Electrical&amp;Instrumentation</a></td>
+<td>7022000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#7013000">FS Engineering</a></td>
+<td>7013000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#7029000">FS Landscape</a></td>
+<td>7029000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#7001500">FS Landscaping</a></td>
+<td>7001500</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#7001800">FS Maintenance Services</a></td>
+<td>7001800</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#7023000">FS Plumbing</a></td>
+<td>7023000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#7028000">FS Preventive Maintenance</a></td>
+<td>7028000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#7017000">FS Special Srvs &amp; Ctrl Crafts</a></td>
+<td>7017000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#7005000">FS Steam &amp; Steamfitting</a></td>
+<td>7005000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#7035000">FS Vehicle Maint. &amp; Motor Pool</a></td>
+<td>7035000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#7010000">FS Work Management</a></td>
+<td>7010000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#1752000">General Counsel</a></td>
+<td>1752000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2121000">Geography &amp; Atmo Science</a></td>
+<td>2121000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2124000">Geology</a></td>
+<td>2124000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2334000">Global Education Academy</a></td>
+<td>2334000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#1518800">Global Operations</a></td>
+<td>1518800</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#1904400">Graduate Admissions</a></td>
+<td>1904400</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2310000">Graduate Studies</a></td>
+<td>2310000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2967000">Hall Center for the Humanities</a></td>
+<td>2967000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#1980000">Health Education Resource</a></td>
+<td>1980000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2348000">Health Sport &amp;Exercise Science</a></td>
+<td>2348000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2970000">Higuchi Biosciences Center</a></td>
+<td>2970000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#1985000">Hilltop Child Development Ctr</a></td>
+<td>1985000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2130000">History</a></td>
+<td>2130000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2138000">History of Art</a></td>
+<td>2138000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#8100030">Housing Application Fees</a></td>
+<td>8100030</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#8100020">Housing Maintenance</a></td>
+<td>8100020</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#8100010">Housing Office Administration</a></td>
+<td>8100010</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#1520777">HRM-Position Holding</a></td>
+<td>1520777</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#1520000">Human Resources</a></td>
+<td>1520000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2178000">Humanities</a></td>
+<td>2178000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2114000">Indigenous Studies</a></td>
+<td>2114000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#1543000">Information Technology</a></td>
+<td>1543000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2179000">Inst for Leadership Studies</a></td>
+<td>2179000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2960000">Inst for Policy &amp; Social Res</a></td>
+<td>2960000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#1730000">Inst Intl &amp; Global Engagemt</a></td>
+<td>1730000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2995000">Institute Information Sciences</a></td>
+<td>2995000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#1508000">Integrity &amp; Compliance</a></td>
+<td>1508000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2420000">Intercollegiate Athletics</a></td>
+<td>2420000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#1502000">Internal Audit</a></td>
+<td>1502000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#1729000">International Affairs Admin</a></td>
+<td>1729000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2640000">International Short Programs</a></td>
+<td>2640000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#1978000">International Support Services</a></td>
+<td>1978000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#1910000">Jayhawk Academic Advising</a></td>
+<td>1910000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#3000000">Jayhawk Community Partners</a></td>
+<td>3000000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2600000">Jayhawk Global Admin</a></td>
+<td>2600000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2131000">Jewish Studies</a></td>
+<td>2131000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2350000">Journalism</a></td>
+<td>2350000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2355000">Journalism Administration</a></td>
+<td>2355000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2134000">Kansas African Studies Center</a></td>
+<td>2134000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2950000">Kansas Geological Survey</a></td>
+<td>2950000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2672000">Kansas Public Radio</a></td>
+<td>2672000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#1963000">Kansas Unions-Campus Dining</a></td>
+<td>1963000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2906000">KS Biological Survey</a></td>
+<td>2906000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#1554001">KU Card Center</a></td>
+<td>1554001</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#8898AFL">KU Hospital Authority</a></td>
+<td>8898AFL</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#8899AFL">KU Medical Center</a></td>
+<td>8899AFL</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#1963AFL">KU Memorial Unions</a></td>
+<td>1963AFL</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#1506000">KU News Service</a></td>
+<td>1506000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#7009000">KU Police Department</a></td>
+<td>7009000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2963000">KU Transportation Center</a></td>
+<td>2963000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#1743000">KUIA East Asian Std</a></td>
+<td>1743000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#1745000">KUIA Global &amp; International St</a></td>
+<td>1745000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#1742000">KUIA Kansas African Std</a></td>
+<td>1742000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#1744000">KUIA Latin Amer &amp;Caribbean Std</a></td>
+<td>1744000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#1741000">KUIA Russian E Euro &amp; Eurasian</a></td>
+<td>1741000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2168000">Latin Amer &amp; Caribbean Studies</a></td>
+<td>2168000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2379000">Law Administration</a></td>
+<td>2379000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2628000">Law Enforcement Training Ctr</a></td>
+<td>2628000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2824000">Law Library</a></td>
+<td>2824000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2380000">Law School</a></td>
+<td>2380000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#8300000">Legal Services for Students</a></td>
+<td>8300000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2800010">Libraries-General</a></td>
+<td>2800010</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#8812000">Lied Center</a></td>
+<td>8812000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2140000">Linguistics</a></td>
+<td>2140000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#1630000">Marketing</a></td>
+<td>1630000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2142000">Mathematics</a></td>
+<td>2142000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2234000">Mechanical Engineering</a></td>
+<td>2234000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2506000">Medicinal Chemistry</a></td>
+<td>2506000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#8800000">Midwestern Camps</a></td>
+<td>8800000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#1945000">Military-Affiliated Student Ct</a></td>
+<td>1945000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2144000">Molecular Biosciences</a></td>
+<td>2144000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2980000">Molecular Structures Group</a></td>
+<td>2980000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#1935000">Multicultural Affairs</a></td>
+<td>1935000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2147000">Museum Studies</a></td>
+<td>2147000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2279000">Music</a></td>
+<td>2279000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2260000">Music Administration</a></td>
+<td>2260000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2528000">Naval ROTC</a></td>
+<td>2528000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#1530000">Office Civil Rights &amp;Title IX</a></td>
+<td>1530000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#1915000">Office of Admissions</a></td>
+<td>1915000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#1501047">Office of Faculty Affairs</a></td>
+<td>1501047</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2300000">Office of Research</a></td>
+<td>2300000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2167000">Open Language Resource Center</a></td>
+<td>2167000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#7002000">Operations Business Office</a></td>
+<td>7002000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2607100">Osher</a></td>
+<td>2607100</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2504000">Pharmaceutical Chemistry</a></td>
+<td>2504000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2505000">Pharmacology &amp; Toxicology</a></td>
+<td>2505000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2507000">Pharmacy Practice</a></td>
+<td>2507000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2145000">Philosophy</a></td>
+<td>2145000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2151000">Physics and Astronomy</a></td>
+<td>2151000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2157000">Political Science</a></td>
+<td>2157000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#1524000">Procurement Services</a></td>
+<td>1524000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#1501001">Provost Office</a></td>
+<td>1501001</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#1501000">Provost's Office</a></td>
+<td>1501000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2160000">Psychology</a></td>
+<td>2160000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#1503000">Public Affairs</a></td>
+<td>1503000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#8262000">Recreation Services</a></td>
+<td>8262000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#1504000">Recycling Services</a></td>
+<td>1504000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2164000">Religious Studies</a></td>
+<td>2164000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2128000">Russian E Euro &amp; Eurasian Std</a></td>
+<td>2128000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2500000">School of Pharmacy</a></td>
+<td>2500000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2537000">School of Professional Studies</a></td>
+<td>2537000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2162000">School of Public Affairs&amp;Admin</a></td>
+<td>2162000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#1501008">Self Graduate Programs</a></td>
+<td>1501008</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#1906000">Sexual Assault &amp; Prevention Ct</a></td>
+<td>1906000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#1507900">Sexuality and Gender Diversity</a></td>
+<td>1507900</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2174000">Slavic, German, Eurasian Stdie</a></td>
+<td>2174000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2510000">Social Welfare</a></td>
+<td>2510000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2509000">Social Welfare Administration</a></td>
+<td>2509000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2172000">Sociology</a></td>
+<td>2172000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#1941000">Sorority and Fraternity Life</a></td>
+<td>1941000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#1517000">Space Management</a></td>
+<td>1517000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2166000">Spanish &amp; Portuguese</a></td>
+<td>2166000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2342000">Special Education</a></td>
+<td>2342000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2181000">Speech-Language-Hearing</a></td>
+<td>2181000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2136000">Spencer Museum of Art</a></td>
+<td>2136000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#1905000">SSC Finance</a></td>
+<td>1905000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#1905900">SSC Human Resources</a></td>
+<td>1905900</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#1940000">Stdnt Conduct &amp; Community Stnd</a></td>
+<td>1940000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#1984000">Stu Involve &amp; Leaders Ctr-SILC</a></td>
+<td>1984000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#1902000">Student Affairs</a></td>
+<td>1902000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#1912000">Student Lifecycle Technology</a></td>
+<td>1912000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#1911000">Student Money Management Srvc</a></td>
+<td>1911000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#8200000">Student Senate</a></td>
+<td>8200000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#1731000">Study Abroad and Global Engmt</a></td>
+<td>1731000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#1921000">Success Initiatives</a></td>
+<td>1921000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2175000">Theatre and Dance</a></td>
+<td>2175000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#7006000">Transportation Services</a></td>
+<td>7006000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2183000">Undergraduate Biology Program</a></td>
+<td>2183000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#1909000">Undergraduate Education</a></td>
+<td>1909000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#1916000">Undergraduate Research</a></td>
+<td>1916000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#1509000">Univ Ceremonies &amp; Spcl Events</a></td>
+<td>1509000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#1907000">University Academic Support Ct</a></td>
+<td>1907000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#8224000">University Daily Kansan</a></td>
+<td>8224000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#1501002">University Governance</a></td>
+<td>1501002</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#1501005">University Ombuds</a></td>
+<td>1501005</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#8350000">University Press of Kansas</a></td>
+<td>8350000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#1913000">University Registrar</a></td>
+<td>1913000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2269000">Visual Art</a></td>
+<td>2269000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#8830000">Watkins Health Services</a></td>
+<td>8830000</td>
+</tr><tr class="even" role="row">
+<td class="sorting_1"><a href="#2182000">Women Gender &amp; Sexuality Stds</a></td>
+<td>2182000</td>
+</tr><tr class="odd" role="row">
+<td class="sorting_1"><a href="#2226000">Wonderful Inst fr Sustnbl Engr</a></td>
+<td>2226000</td>
+</tr></tbody>
+</table></div></div><div class="row"><div class="col-sm-12 col-md-5"><div aria-live="polite" class="dataTables_info" id="personResults_info" role="status">Showing 1 to 259 of 259 entries</div></div><div class="col-sm-12 col-md-7"><div class="dataTables_paginate paging_simple_numbers" id="personResults_paginate"><ul class="pagination"><li class="paginate_button page-item previous disabled" id="personResults_previous"><a aria-controls="personResults" class="page-link" data-dt-idx="0" href="#" tabindex="0">Previous</a></li><li class="paginate_button page-item active"><a aria-controls="personResults" class="page-link" data-dt-idx="1" href="#" tabindex="0">1</a></li><li class="paginate_button page-item next disabled" id="personResults_next"><a aria-controls="personResults" class="page-link" data-dt-idx="2" href="#" tabindex="0">Next</a></li></ul></div></div></div></div>
+</div>
+</div>
+</div>
+<form action="departments" id="searchForm" method="POST">
+<input id="code" name="code" type="hidden"/>
+<input id="captchatoken" name="captchatoken" type="hidden" value="03AFcWeA7vEjnDR-FTu3YK3C8pAdUSFxoJO9GGm_tD8BAo5V0Ek0kPEGyAjT5fniVqdJeo_jNDioMfLdfztlDmPTwvgtIrqUZtcA8veDdfmMlKpcUhUsGqDv-ZJwqafhzwfNVlXFc1s_o3HBbOwlO02IUzpsYKpWQoogmfskY9Ep0WfdUI8hipUX1C9hbEJLl-JlRG39xUIB8hhIZahPPNp0v3ht1PDYzZlDWgbm-jNmt7xj0ECx0zYZ_G6wF6t-YmQaDTQGXnKU6Kc0N2P3I6gX0MiA4eJwESuE3VVrRox0uCKH2tNwHIbx10ttKBHrnqhfhePStHnzIFxjvErHv2wvoFLyrQWk1I2LkQb36V0Oqn1U6tM626j_CAVh8DEVZXFDZCGEyIMi0bc8Y34XIqH37cr2aqJL_LU_FNjDTh4ka0k37HtN8hG18xrUIokvO_XdJSaHX1T87badXANj8D82BpnmSWPlVjtQKhaV3H_gG1MdzXng2UlL5kGtu7YJtCS-M4z5EB4Q-EhmPG-KZ8MJrkrsyAIeNKCc4Q6krmcw0O_zfDAGdS2pGTRtvq17pwO2Y2zz16bnSR_ymgVX1_Mzt8wQzfNKEXQ-mowt9N7qCPFF7pdTPijH5Ab8SeC5DW5QkoO6AqkVtUEk7TWCco53aYEAbEWM5PYcsISk2NXNOGFJKos2Xntaegin3rqLiRjDSAVThn8m1TTHEXVx7Hf3zWgeIMchc-f42ga_9VvGJHgSC1FCHRZ6BHFFbD8GYoDKjKhI9jJ8DohuujDZ7bZPb7uxlHspCnR9hOdDqjtuCNaWl6r2-Ddy0LSjMtV_eNGj6TRbvtEQX0K5C3wQ3-NuyEAxDQsNoZ5OeUV3ZtcXsVekFdwZiDTy4tRvGqUaOzRJhGh6JUaibDq47W5T15lfB3HY36oBuY3g"/>
+</form>
+</main>
+<footer>
+<div class="unit-footer-bg"></div>
+<section class="unit-footer">
+<div class="container">
+<div class="row">
+<div class="contact col-md-3 col-offset-1">
+<strong>
+<a href="https://technology.ku.edu">Contact Information Technology</a><span class="d-none">|</span>
+</strong>
+<address>
+<a href="mailto:itcsc@ku.edu">itcsc@ku.edu</a><span class="d-none">|</span><br/>
+<a href="tel:7858648080">785-864-8080</a>
+</address>
+</div>
+<div class="col-md-6">
+<p class="dir-note">This directory is a public record. It is a violation of Kansas State Law to knowingly give, sell or receive names and/or addresses from a public record for the purposes of selling or offering for sale any property or service to persons listed therein.</p>
+</div>
+</div>
+</div>
+</section>
+<section class="ku-footer">
+<div class="container">
+<div class="row col-sm-12">
+<div class="col-sm-5">
+<img alt="The University of Kansas" src="/ku-assets/images/ku_sig_logo.png"/>
+</div>
+<div class="col-sm-2 text-center">
+<img alt="Jayhawk" src="/ku-assets/images/ku_jayhawk.png"/>
+</div>
+<div class="col-sm-5 text-right">
+<a class="ku-yellow" href="https://ku.edu/contact/">Contact KU</a><br/>
+                    Lawrence, KS |
+                    <a class="ku-yellow" href="http://admissions.ku.edu/visit/maps.shtml">Maps</a>
+</div>
+</div>
+<div class="row col-sm-12 footer-links">
+<ul class="inline-list col-sm-12 text-center">
+<li class="list-inline-item">
+<a href="http://ku.edu/academics/" title="KU Academics">Academics</a>
+</li>
+<li class="list-inline-item">
+<a href="http://accessibility.ku.edu/" title="Accessible KU">Accessible KU</a>
+</li>
+<li class="list-inline-item">
+<a href="http://admissions.ku.edu/" title="KU Admissions">Admissions</a>
+</li>
+<li class="list-inline-item">
+<a href="http://www.kualumni.org/" title="Alumni information">Alumni</a>
+</li>
+</ul>
+<ul class="inline-list col-sm-12 text-center">
+<li class="list-inline-item">
+<a href="http://www.kuathletics.com/" title="KU Athletics">Athletics</a>
+</li>
+<li class="list-inline-item">
+<a href="https://ku.edu/about/campuses/" title="Campus information for KU">Campuses</a>
+</li>
+<li class="list-inline-item">
+<a href="http://www.kuendowment.org/" title="Give back through KU Endowment">Giving</a>
+</li>
+<li class="list-inline-item">
+<a href="http://employment.ku.edu" title="Find employment at KU">Jobs</a>
+</li>
+<li class="list-inline-item">
+<a href="https://publicsafety.ku.edu" title="Public Safety Office">Safety</a>
+</li>
+</ul>
+</div>
+<div class="row col-sm-12 text-center disclaimer">
+<p>
+                The University of Kansas
+                <a href="https://documents.ku.edu/policies/IOA/Nondiscrimination.htm">prohibits discrimination</a>
+                on the basis of race, color, ethnicity, religion, sex, national origin, age, ancestry, disability, status as a veteran, sexual orientation, marital status, parental status, gender identity, gender expression, and genetic information in the university's programs and activities. Retaliation is also prohibited by university policy. The following persons have been designated to handle inquiries regarding the nondiscrimination policies and are the Title IX coordinators for their respective campuses: Director of the Office of Institutional Opportunity &amp; Access,
+                <a href="mailto:IOA@ku.edu">IOA@ku.edu</a>, Room 1082, Dole Human Development Center, 1000 Sunnyside Avenue, Lawrence, KS 66045, 785-864-6414, 711 TTY (for the Lawrence, Edwards, Parsons, Yoder, and Topeka campuses); Director, Equal Opportunity Office, Mail Stop 7004, 4330 Shawnee Mission Parkway, Fairway, KS 66205, 913-588-8011, 711 TTY (for the Wichita, Salina, and Kansas City, Kansas medical center campuses).
+
+                <br/><br/>
+<a href="http://ksdegreestats.org/">
+<img alt="Kansas Degree Statistics" height="20" src="https://brand.ku.edu/libraries/ku-web-styleguide/images/logos/KSDegreeStats_Logo_Std.png" style="margin-top:10px;" title="Kansas Degree Statistics" width="197"/></a>
+</p>
+</div>
+</div>
+</section>
+</footer></div>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-G2WFXCHCFF&amp;cx=c&amp;_slc=1" type="text/javascript"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-Q4G6FGZ2QW&amp;cx=c&amp;_slc=1" type="text/javascript"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-MZ1DP9K165&amp;cx=c&amp;_slc=1" type="text/javascript"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" charset="utf-8" crossorigin="anonymous" integrity="sha384-LsgFz6D3IXKi1Rzqj4uhSQDNZOj1dcZCWxIrJG5IYGWvpJ304xZdrK8AxV/LlQPB" src="https://www.gstatic.com/recaptcha/releases/xds0rzGrktR88uEZ2JUvdgOY/recaptcha__en.js" type="text/javascript"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-P8H4Q8Q"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script crossorigin="anonymous" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+<script crossorigin="anonymous" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"></script>
+<script crossorigin="anonymous" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"></script>
+<script>(function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-56250057-1', 'auto', { 'name': 'allaccountrollup', 'cookieDomain': 'none' });
+    ga('allaccountrollup.send', 'pageview');
+
+    ga('create', 'UA-60131744-1', 'auto', { 'name': 'organization', 'cookieDomain': 'none' });
+    ga('organization.send', 'pageview');
+
+    ga('create', 'UA-60131744-13', 'auto', { 'name': 'trackingid', 'cookieDomain': 'none', 'allowLinker': true });
+    ga('trackingid.send', 'pageview');
+</script>
+<!-- Google Tag Manager -->
+<script>(function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({
+            'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-P8H4Q8Q');</script>
+<!-- End Google Tag Manager -->
+<script src="//cdn.datatables.net/v/bs4/dt-1.10.20/datatables.min.js" type="text/javascript"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+<script src="//unpkg.com/axios/dist/axios.min.js"></script>
+<script src="https://www.google.com/recaptcha/api.js?render=6LftoOQUAAAAADevHUCwqXGyu8aEtIK1WhbDMCLc"></script>
+<script src="/site-assets/js/site.js"></script>
+<script>
+            grecaptcha.ready(function () {
+                recaptcha('departments');
+            });
+
+            let infoMsg = '';
+
+            if (infoMsg.trim().length > 0) {
+                showMsg($('#msg'), infoMsg);
+            }
+            $(function () {
+                $('#personResults').dataTable({
+                    "lengthMenu": [[10, 25, 50, 100, -1], [10, 25, 50, 100, "All"]],
+                    "language": {"search": "Filter:"}
+                });
+            });
+            $("#personResults a").click(function () {
+                recaptcha('departments');
+                $("#code").val($(this).attr("href"));
+                $("#searchForm").submit();
+                return false;
+
+            });
+        </script>
+<script>
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r;
+                i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date();
+                a = s.createElement(o),
+                        m = s.getElementsByTagName(o)[0];
+                a.async = 1;
+                a.src = g;
+                m.parentNode.insertBefore(a, m)
+            })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+            ga('create', 'UA-82437308-1', 'auto');
+            ga('send', 'pageview');
+        </script>
+<iframe allow="join-ad-interest-group" data-load-time="1727911798270" data-tagging-id="G-Q4G6FGZ2QW" height="0" src="https://td.doubleclick.net/td/ga/rul?tid=G-Q4G6FGZ2QW&amp;gacid=157388297.1727911798&amp;gtm=45je4a10v9125816144za200&amp;dma=0&amp;gcd=13l3l3l3l2l1&amp;npa=0&amp;pscdl=noapi&amp;aip=1&amp;fledge=1&amp;frm=0&amp;tag_exp=101671035~101747727&amp;z=1065489707" style="display: none; visibility: hidden;" width="0"></iframe><iframe allow="join-ad-interest-group" data-load-time="1727911798318" data-tagging-id="G-MZ1DP9K165" height="0" src="https://td.doubleclick.net/td/ga/rul?tid=G-MZ1DP9K165&amp;gacid=157388297.1727911798&amp;gtm=45je4a10v893221229za200&amp;dma=0&amp;gcd=13l3l3l3l2l1&amp;npa=0&amp;pscdl=noapi&amp;aip=1&amp;fledge=1&amp;frm=0&amp;tag_exp=101671035~101747727&amp;z=130250436" style="display: none; visibility: hidden;" width="0"></iframe><div><div class="grecaptcha-badge" data-style="bottomright" style="width: 256px; height: 60px; display: block; transition: right 0.3s; position: fixed; bottom: 14px; right: -186px; box-shadow: gray 0px 0px 5px; border-radius: 2px; overflow: hidden;"><div class="grecaptcha-logo"><iframe frameborder="0" height="60" name="a-hl1qruiqtpon" role="presentation" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" scrolling="no" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LftoOQUAAAAADevHUCwqXGyu8aEtIK1WhbDMCLc&amp;co=aHR0cHM6Ly9kaXJlY3Rvcnkua3UuZWR1OjQ0Mw..&amp;hl=en&amp;v=xds0rzGrktR88uEZ2JUvdgOY&amp;size=invisible&amp;cb=clxcu4p99ozt" title="reCAPTCHA" width="256"></iframe></div><div class="grecaptcha-error"></div><textarea class="g-recaptcha-response" id="g-recaptcha-response-100000" name="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div></body></html>

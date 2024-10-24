@@ -1,0 +1,3172 @@
+{
+    "ADC Alzheimer's Disease Center Faculty": {
+        "professor_count": 1,
+        "professors": [
+            "Russell Howard Swerdlow"
+        ]
+    },
+    "ANES Anesthesiology": {
+        "professor_count": 4,
+        "professors": [
+            "Sheldon R Leslie",
+            "Tony Kovac",
+            "Brigid Colleen Flynn",
+            "Alan Schurle"
+        ]
+    },
+    "Academic Affairs": {
+        "professor_count": 1,
+        "professors": [
+            "Jennifer A Roberts"
+        ]
+    },
+    "Achievement & Assessment Inst": {
+        "professor_count": 3,
+        "professors": [
+            "Chavis A Lickvar",
+            "Diane Marie DeBacker",
+            "Jaclyn Lauren Dudek"
+        ]
+    },
+    "Aerospace Engineering": {
+        "professor_count": 17,
+        "professors": [
+            "Ronald M Barrett-Gonzalez",
+            "Chris Depcik",
+            "Richard D Hale",
+            "Brian Kaplinger",
+            "Brina Jane Blinzler",
+            "Saeed Farokhi",
+            "Craig A McLaughlin",
+            "Shawn Keshmiri",
+            "Haiyang Chao",
+            "Adam Gorrell",
+            "Bozenna Pasik-Duncan",
+            "Huixuan Wu",
+            "Zhi Jian Wang",
+            "Mark Stephan Ewing",
+            "Emily J Arnold",
+            "Cheng Huang",
+            "Ray Taghavi"
+        ]
+    },
+    "African/African Amer Studies": {
+        "professor_count": 37,
+        "professors": [
+            "Jowel Christian Laguerre",
+            "Hannah E Britton",
+            "David R Roediger",
+            "Darren Canady",
+            "AMAL EL HAIMEUR",
+            "Rahina Muazu",
+            "Jason Edwin Glenn",
+            "Peter Ukpokodu",
+            "Asmaha Mhande Heddi",
+            "Peter Ojiambo",
+            "Joane Nagel",
+            "Charles R Epp",
+            "Robert C Schwaller",
+            "M'Hammed Kharbouch",
+            "Marta Caminero-Santangelo",
+            "Giselle L Anatol",
+            "Antonio Luciano Tosta",
+            "Glenn Adams",
+            "Marie Pauline Fernandes",
+            "Anthony Bolden",
+            "Nicholas Ensley Mitchell",
+            "Najarian Rhashaline Peters",
+            "Sophia Mo",
+            "Alexis Trouillot",
+            "Elizabeth D Esch",
+            "James Yeku",
+            "Shawn Leigh Alexander",
+            "Sharla Ann Smith",
+            "Dorothy Elizabeth Hines",
+            "Sherrie Tucker",
+            "Majid Hannoum",
+            "Dorthy Pennington",
+            "F.B. Agusto",
+            "Johnson Adegbola",
+            "John L Rury",
+            "Asmaa Benbaba",
+            "Aya Mohamed Hasbeln Fayed"
+        ]
+    },
+    "Allergy Medicine - Allergy Immun Rheum": {
+        "professor_count": 1,
+        "professors": [
+            "Megan Louise Krause"
+        ]
+    },
+    "Alzheimer's Disease Center": {
+        "professor_count": 2,
+        "professors": [
+            "Heather Wilkins",
+            "Jill Kathleen Morris"
+        ]
+    },
+    "American Studies": {
+        "professor_count": 7,
+        "professors": [
+            "David R Roediger",
+            "Margaret Sue Kelley",
+            "Elizabeth D Esch",
+            "Araceli Masterson-Algar",
+            "Ray Pence",
+            "Sherrie Tucker",
+            "Ben Chappell"
+        ]
+    },
+    "Anatomy & Cell Biology": {
+        "professor_count": 1,
+        "professors": [
+            "Rebecca Foright"
+        ]
+    },
+    "Anesthesiology": {
+        "professor_count": 2,
+        "professors": [
+            "Erin Young",
+            "Seth William Holwerda"
+        ]
+    },
+    "Anthropology": {
+        "professor_count": 13,
+        "professors": [
+            "Dennis H O'Rourke",
+            "Rolfe David Mandel",
+            "Ivana Radovanovic",
+            "Bartholomew Dean",
+            "Kelly Elizabeth Graf",
+            "Blair Schneider",
+            "Carlton Quinn Shield Chief Gover",
+            "Frederic Sellet",
+            "Ted Goebel",
+            "Majid Hannoum",
+            "John W. Hoopes",
+            "Jennifer Anne Raff",
+            "Lauren Edith Young Norman"
+        ]
+    },
+    "Applied Behavioral Science": {
+        "professor_count": 18,
+        "professors": [
+            "Claudia L Dozier",
+            "Valerie Thompson",
+            "Brett William Gelino",
+            "Judith M. LeBlanc",
+            "Isaac Melanson",
+            "Malika Pritchett",
+            "Jonathan W Pinkston",
+            "Thomas L Zane",
+            "Robin M Kuhn",
+            "Reagan McGee",
+            "Pamela L Neidert",
+            "Kathryn M. Bigelow",
+            "Michael T. Amlung",
+            "Vincent Francisco",
+            "Michael Johnson",
+            "Lauratu Frieda Bah",
+            "Jomella J Watson-Thompson",
+            "Christy Alligood"
+        ]
+    },
+    "Architecture Design": {
+        "professor_count": 35,
+        "professors": [
+            "Herminia Machry",
+            "Dan Rockhill",
+            "Kurt Hong",
+            "Keith J VanDeRiet",
+            "Gustavo Garcia do Amaral",
+            "Peter Olshavsky IV",
+            "Shannon Renee Criss",
+            "Andrew Thomas Moddrell",
+            "Jason K Pittman",
+            "Kylie Anne Miller",
+            "Casey Gail Franklin",
+            "Jason A Hascall",
+            "Joe Colistra",
+            "Richard Embers",
+            "Mahbub Rashid",
+            "Steve Padget",
+            "Nils Gore",
+            "matthew Edwin hufft",
+            "Jae Chang",
+            "Nilou Vakil",
+            "Chad Kraus",
+            "J T Achelpohl",
+            "Marianne Gail Remboldt",
+            "David James Sain",
+            "Ann Elizabeth Hossler",
+            "Amy Elizabeth Van de Riet",
+            "Benjamin Andrew Naudet",
+            "Kapila Dharmasena Silva",
+            "Francesco Carota",
+            "Kent F. Spreckelmeyer",
+            "John Trefry",
+            "Mohammad Dastmalchi",
+            "Nisha Ashanthi Fernando",
+            "Marie-Alice L'Heureux",
+            "Dilshan Remaz Ossen"
+        ]
+    },
+    "Athletics Corporation": {
+        "professor_count": 1,
+        "professors": [
+            "Jessica Provost"
+        ]
+    },
+    "Audit Internal Audit - Contingent Workers": {
+        "professor_count": 1,
+        "professors": [
+            "John Arthur Curran"
+        ]
+    },
+    "Audit, Risk & Compliance": {
+        "professor_count": 1,
+        "professors": [
+            "John Arthur Curran"
+        ]
+    },
+    "BMB Biochemistry": {
+        "professor_count": 9,
+        "professors": [
+            "Jeroen Roelofs",
+            "Chad E Slawson",
+            "Bret David Freudenthal",
+            "Christy R Hagan",
+            "Dr. Alexey Ladokhin",
+            "Liskin Swint-Kruse",
+            "Joseph Fontes",
+            "Lejla Zubcevic",
+            "Kenneth R. Peterson"
+        ]
+    },
+    "Biodiversity Institute": {
+        "professor_count": 7,
+        "professors": [
+            "Robert Mark Timm",
+            "David Burnham",
+            "Megan Elayne Sims",
+            "Leonard Krishtalka",
+            "Victor Hugo Gonzalez",
+            "Hans-Peter Schultze",
+            "Andrew Charles Bentley"
+        ]
+    },
+    "Biostat Department of Biostatistics & Data Science": {
+        "professor_count": 1,
+        "professors": [
+            "Matthew S Mayo"
+        ]
+    },
+    "Biostat Faculty": {
+        "professor_count": 21,
+        "professors": [
+            "Jianghua He",
+            "John Keighley",
+            "Jonathan David Mahnken",
+            "Shana L Palla",
+            "Byron J Gajewski",
+            "Alvin F Beltramo",
+            "Leonidas Bantis",
+            "Zhiguo Zhou",
+            "Devin Charles Koestler",
+            "Mihaela Sardiu",
+            "Junqiang Dai",
+            "Prabhakar Chalise",
+            "Jo Adrianne Wick",
+            "Kate Young",
+            "Milind Phadnis",
+            "Neal Montgomery",
+            "Yanming Li",
+            "Dinesh Pal Indrapal Mudaranthakam",
+            "Fran Hu",
+            "Ratnayake Mudiyanselage Isuru Panduka Ratnayake",
+            "Lexie Rae Brown"
+        ]
+    },
+    "Bureau of Child Research": {
+        "professor_count": 17,
+        "professors": [
+            "John Colombo",
+            "Dale Walker",
+            "Valerie Thompson",
+            "Karrie Shogren",
+            "Trina D Spencer",
+            "Jim Anders Rasband",
+            "Richard R. Saunders",
+            "Kathryn M. Bigelow",
+            "Alana Griffin Schnitz",
+            "Brenda J Salley",
+            "Lauren Bruno",
+            "Linda Heitzman-Powell",
+            "Jean P Hall",
+            "Lauratu Frieda Bah",
+            "Joseph E. Donnelly",
+            "Kathryn J. Saunders",
+            "Dean C. Williams"
+        ]
+    },
+    "Business": {
+        "professor_count": 64,
+        "professors": [
+            "Murali Krishna Mantrala",
+            "Joe L Walden",
+            "Jessica Li",
+            "Amii Castle",
+            "Mike Falk",
+            "Joshua Arpin",
+            "Burcu Bolukbasi Arikan",
+            "Deb Dey",
+            "Mr Christopher William Anderson",
+            "Eric H Weisbrod",
+            "Lana D Scroggins",
+            "Felix Meschke",
+            "Jason Anderson",
+            "Weimar Ardila",
+            "Jennifer Harrison",
+            "Jill Ellingson",
+            "Jide Wintoki",
+            "Jeremy B Lill",
+            "Sanjay Mishra",
+            "Andrew NK Chen",
+            "Ted P Juhl",
+            "Brian R Markley",
+            "Mike Wilkins",
+            "Tom Fredrick",
+            "Kurtis James Krogull",
+            "Surendra N. Singh",
+            "Gjergji Cici",
+            "Nathan G Lundstrom",
+            "Tom E Patton",
+            "Vincent L Barker",
+            "Jonathan Beck",
+            "Ben Sherwood",
+            "Keith Lamar Jones",
+            "Will Katz",
+            "Niki den Nieuwenboer",
+            "Ahreum Maeng",
+            "Boone Bradley",
+            "Chan Li",
+            "Bob DeYoung",
+            "Colin McRoberts",
+            "Kissan Joseph",
+            "Nate Meikle",
+            "Mehmet Cemil Kara",
+            "Kelvie Crabb",
+            "Karthik Srinivasan",
+            "Michael L. Ettredge",
+            "Steven Matthew Leonard",
+            "Lidan Fan",
+            "Brian Ross Salmans",
+            "Clint Chadwick",
+            "Art Hall",
+            "Adi Masli",
+            "Shaobo Li",
+            "Chang Hoon Oh",
+            "Matthew Beck",
+            "Mark Randall Best",
+            "Scott N Bronson",
+            "Prakash P. Shenoy",
+            "Alee Phillips",
+            "Steve Boylan",
+            "Detelina K Stoyanova",
+            "Laura Bong",
+            "Suman Mallik",
+            "Lauren Margaret Dunham"
+        ]
+    },
+    "Business Administration": {
+        "professor_count": 1,
+        "professors": [
+            "Jinae Krieshok"
+        ]
+    },
+    "CBP Cell Biology and Physiology": {
+        "professor_count": 9,
+        "professors": [
+            "Julie Christianson",
+            "Dr. Michael Wolfe",
+            "Irfan Saadi",
+            "Vargheese Mani Chennathukuzhi",
+            "Lane K Christenson",
+            "Kyle Michael Baumbauer",
+            "Pamela Vivian Tran",
+            "John Anderson Stanford",
+            "Rodrigo Del Rio"
+        ]
+    },
+    "CTS Cardiovascular & Thoracic Surg": {
+        "professor_count": 1,
+        "professors": [
+            "Todd Christopher Crawford"
+        ]
+    },
+    "CanBio Bossmann": {
+        "professor_count": 3,
+        "professors": [
+            "Danny Welch",
+            "Joan Wambi",
+            "Dr Shrikant Anant"
+        ]
+    },
+    "CanBio Cancer Biology - Contingent Workers)": {
+        "professor_count": 1,
+        "professors": [
+            "Tomoo Iwakuma"
+        ]
+    },
+    "Cardiovascular Medicine": {
+        "professor_count": 1,
+        "professors": [
+            "Mazhar A Afaq"
+        ]
+    },
+    "Center On Aging": {
+        "professor_count": 1,
+        "professors": [
+            "Randolph Nudo"
+        ]
+    },
+    "Center for Teaching Excellence": {
+        "professor_count": 1,
+        "professors": [
+            "Andrea Follmer"
+        ]
+    },
+    "Chemical & Petroleum Engr": {
+        "professor_count": 24,
+        "professors": [
+            "James David Mohrbacher",
+            "Berlyn R Mellein",
+            "Kyle Vincent Camarda",
+            "Amirmasoud Kalantari Dahaghi",
+            "Russell Dean Ostermann",
+            "Reza Barati",
+            "Alan M Allgeier",
+            "Belinda Sturm",
+            "Ana Rita Colaco Morais",
+            "Juan J Bravo Suarez",
+            "Felipe Anaya",
+            "Stevin H Gehrke",
+            "Bala Subramaniam",
+            "Laird Forrest",
+            "Karen J. Nordheden",
+            "Susan Michelle Williams",
+            "Trung Van Nguyen",
+            "Aaron M Scurto",
+            "Elizabeth R Corson",
+            "Mark Brandon Shiflett",
+            "Kevin Charles Leonard",
+            "Prajna Dhar",
+            "Alex J Bertuccio",
+            "Xiaoli Li"
+        ]
+    },
+    "Chemistry": {
+        "professor_count": 34,
+        "professors": [
+            "Helena C Malinakova",
+            "James Blakemore",
+            "Carey K. Johnson",
+            "Travis Witte",
+            "Kristin Bowman-James",
+            "George S. Wilson",
+            "Heather Desaire",
+            "Susan M. Lunte",
+            "Zarko Boskovic",
+            "Cindy L Berrie",
+            "Brian Bostian Laird",
+            "Rebecca J Whelan",
+            "Robert C. Dunn",
+            "Manar Shoshani",
+            "Marco Caricato",
+            "Bala Subramaniam",
+            "David D Weis",
+            "Erik Dylan Holmstrom",
+            "Christopher Elles",
+            "Paul R Hanson",
+            "David R. Benson",
+            "Rachael Gabrielle Farber",
+            "Aaron J Teator",
+            "Joanna Slusky",
+            "Michael Johnson",
+            "Jon A Tunge",
+            "Timothy A Jackson",
+            "Mikhail Viktorvich Barybin",
+            "Krzysztof Kuczera",
+            "Steven A Soper",
+            "Meredith Hartley",
+            "Minae Mure",
+            "Michael Zhuo Wang",
+            "Ward H Thompson"
+        ]
+    },
+    "Child Language Program": {
+        "professor_count": 1,
+        "professors": [
+            "Muhammad Hashim Raza"
+        ]
+    },
+    "Civil/Environ/Arch Engineering": {
+        "professor_count": 32,
+        "professors": [
+            "Xu Han",
+            "Anil Misra",
+            "Jie Han",
+            "Bob Lyon",
+            "Charles E Fowler III",
+            "Huijeong Kim",
+            "Edward Peltier",
+            "Belinda Sturm",
+            "Jamie Gilbert",
+            "Nishit Jaideep Shetty",
+            "Dan Tran",
+            "Brian Lines",
+            "Remy D Lequesne",
+            "David Darwin",
+            "Caroline Bennett",
+            "William Norfleet Collins",
+            "Matt O'Reilly",
+            "Jian Li",
+            "Hongyi Cai",
+            "Robynn Andracsek",
+            "Kazi Parvez Fattah",
+            "Michael A. Panethiere",
+            "Alexandra Kondyli",
+            "Glen A. Marotz",
+            "Amy Hansen",
+            "Andres Lepage",
+            "Chien-Ho Ko",
+            "Robert Lee Parsons",
+            "Joshua K Roundy",
+            "Masoud K Darabi",
+            "William John Kirkham",
+            "Justin M Hutchison"
+        ]
+    },
+    "Classics": {
+        "professor_count": 9,
+        "professors": [
+            "William N Bruce",
+            "Christina Marie DiFabio",
+            "Emma J Scioli",
+            "Georgina Frances White",
+            "Philip Stinson",
+            "Tara S. Welch",
+            "Sarah Joanne Cullinan Herring",
+            "Pamela Gordon",
+            "Paul Mark Touyz"
+        ]
+    },
+    "Clinical Child Psychology Prog": {
+        "professor_count": 9,
+        "professors": [
+            "Matt W Mosconi",
+            "Kristy Benoit Allen",
+            "Kelsie Terese Forbush",
+            "Christopher Cushing",
+            "Paula J Fite",
+            "Ric G Steele Jr",
+            "Kelsie Linn Hendrickson",
+            "Katrina Francine Ostmeyer",
+            "Sarah Beals-Erickson"
+        ]
+    },
+    "College of Liberal Arts & Sci": {
+        "professor_count": 8,
+        "professors": [
+            "Maria E. Orive",
+            "Nicholas L Syrett",
+            "Jie Zhang",
+            "Devon Mihesuah",
+            "Alesha Doan",
+            "Sarah Crawford-Parker",
+            "Arash Mafi",
+            "Ben Eggleston"
+        ]
+    },
+    "Communication Studies": {
+        "professor_count": 18,
+        "professors": [
+            "Beth Innocenti",
+            "Jeffrey Hall",
+            "Robert C. Rowland",
+            "Dave Tell",
+            "Adrianne Dennis Kunkel",
+            "Robert O McDonald",
+            "Alcides Alberto Velasquez Perilla",
+            "Scott L. Harris",
+            "Angela Gist-Mackey",
+            "Anne Kretsinger-Harries",
+            "Ashley R Muddiman",
+            "Rikki Roscoe",
+            "Brett Bricker",
+            "Meggie Mapes",
+            "Jay Childers",
+            "Kat Romanova",
+            "Cameron Piercy",
+            "Yan Bing Zhang"
+        ]
+    },
+    "Computational Biology": {
+        "professor_count": 2,
+        "professors": [
+            "Ilya Vakser",
+            "Daniel Montezano"
+        ]
+    },
+    "Ctr Enviro Benefical Catalysis": {
+        "professor_count": 1,
+        "professors": [
+            "Ana Chicas-Mosier"
+        ]
+    },
+    "Ctr Global & Internatl Studies": {
+        "professor_count": 3,
+        "professors": [
+            "Brian William Lagotte",
+            "Antonio Luciano Tosta",
+            "Julie Morris"
+        ]
+    },
+    "Ctr Remote Sensing Integtr Sys": {
+        "professor_count": 2,
+        "professors": [
+            "Fernando Rodriguez-Morales",
+            "John D. Paden"
+        ]
+    },
+    "Curriculum & Teaching": {
+        "professor_count": 24,
+        "professors": [
+            "Peyman Jahanbin",
+            "Dr Douglas Huffman",
+            "Heidi L Hallman",
+            "Cheryl Wright",
+            "Gwenn Ilene Krell",
+            "Anna Marisa Yonas",
+            "Matt Wachel",
+            "Lauri Herrmann-Ginsberg",
+            "Nicholas Ensley Mitchell",
+            "Melody Gatti",
+            "Carrie Leigh La Voy",
+            "Dean D. Richards IV",
+            "Min-Young Kim",
+            "Britta Julieanne Bletscher",
+            "Jiahong Wang",
+            "A. Susan Gay",
+            "Steven H. White",
+            "Hyesun Cho",
+            "Kwangok Song",
+            "Karen A. Jorgensen",
+            "Lonna Summers Rocha",
+            "Maddy Clay",
+            "Barbara A Bradley",
+            "Luke ronald Parker"
+        ]
+    },
+    "Derm Medicine-Dermatology": {
+        "professor_count": 1,
+        "professors": [
+            "Elizabeth Louise Bisbee"
+        ]
+    },
+    "Design": {
+        "professor_count": 17,
+        "professors": [
+            "Brook Nicole Graham",
+            "Tim Hossler",
+            "Linda Samson Talleur",
+            "Jeremy Shellhorn",
+            "Lance Gordon Rake",
+            "Shawn R Brackbill",
+            "Elise Kirk",
+            "Andrea Lee Herstowski",
+            "Subashini Nadarajah",
+            "Sam Meier",
+            "Gregory Thomas",
+            "Kent Smith",
+            "Stephen Thomas Hassard",
+            "Chris Gilbert",
+            "Betsy Barnhart",
+            "Michael Eckersley",
+            "Barry T. Fitzgerald"
+        ]
+    },
+    "Diversity Equity Inclus Belong": {
+        "professor_count": 1,
+        "professors": [
+            "Nicole Hodges Persley"
+        ]
+    },
+    "EM Faculty": {
+        "professor_count": 1,
+        "professors": [
+            "Adrienne Malik"
+        ]
+    },
+    "ENDO Medicine-Endocrine Metabolic Gene": {
+        "professor_count": 2,
+        "professors": [
+            "Rudruidee Karnchanasorn",
+            "Felicia Steger"
+        ]
+    },
+    "ENDO Medicine-Medical Education": {
+        "professor_count": 1,
+        "professors": [
+            "Mark Quinn"
+        ]
+    },
+    "ENT Faculty": {
+        "professor_count": 4,
+        "professors": [
+            "Dr. Sufi Thomas",
+            "Dr. Dave Garnett",
+            "Hannah Kavookjian",
+            "Frank Thomas Materia"
+        ]
+    },
+    "EVC Office of the Executive Vice Chancellor": {
+        "professor_count": 1,
+        "professors": [
+            "Roy A Jensen"
+        ]
+    },
+    "East Asian Languages&Cultures": {
+        "professor_count": 14,
+        "professors": [
+            "Yuka Naito",
+            "Thomas McDonald",
+            "Kyoim Yun",
+            "Xingning Luan",
+            "Keith McMahon",
+            "Misae Nishimura Daldorph",
+            "Eun Ah Cho",
+            "Crispin Williams",
+            "Ami Kitada",
+            "Yan Li",
+            "Ji Yeon Lee",
+            "Aimaiti Aikebaier",
+            "Minjoo Hwangbo",
+            "Linda Galvane"
+        ]
+    },
+    "Ecology & Evolutionary Biology": {
+        "professor_count": 42,
+        "professors": [
+            "Jae Young Choi",
+            "Jorge Soberon",
+            "Christopher H. Haufler",
+            "Trevor J Rivers",
+            "Robert Mark Timm",
+            "Bruce S Lieberman",
+            "Jocelyn P. Colella",
+            "Mark Travis Holder",
+            "Maggie Wagner",
+            "Kelly Kawena Segal Matsunaga",
+            "Robert L Unckless",
+            "Gerrit deBoer",
+            "Bryan Foster",
+            "Daniel Clark Reuman",
+            "James David Bever",
+            "John K Kelly",
+            "Rob Moyle",
+            "Deborah Smith",
+            "Helen M. Alexander",
+            "Leonard Krishtalka",
+            "Jamie R Walters",
+            "Benjamin Alan Sikes",
+            "Richard E Glor",
+            "Amy Jo Burgin",
+            "Lena Hileman",
+            "Jen Johnson",
+            "Sharon A Billings",
+            "Jennifer M Gleason",
+            "Paulyn Cartwright",
+            "Rafe Brown",
+            "Wm Leo Smith",
+            "Chris Beard",
+            "Hans-Peter Schultze",
+            "Brian Anthony Atkinson",
+            "Josephine R Chandler",
+            "Justin P Blumenstiel",
+            "Kirsten Jensen",
+            "F.B. Agusto",
+            "Kathy Denning",
+            "Ray Pierotti",
+            "Mark E Mort",
+            "Andrew Townsend Peterson"
+        ]
+    },
+    "Economics": {
+        "professor_count": 18,
+        "professors": [
+            "John Zhu",
+            "Jong Soo Lee",
+            "Richard Yi",
+            "Naowar Mohiuddin",
+            "Eungsik Kim",
+            "Dietrich Harlan Earnhart",
+            "Tarun Sabarwal",
+            "Alfred Okao",
+            "John W Keating",
+            "Misty Lee Heggeness",
+            "Bernard Cornet",
+            "Dr William A Barnett",
+            "Donna K Ginther",
+            "Shahnaz Parsaeian",
+            "Hamim Akib M Elahi Dad",
+            "Tsvetan Georgiev Tsvetanov",
+            "Si Chen",
+            "Zongwu Cai"
+        ]
+    },
+    "Ed Leadership & Policy Studies": {
+        "professor_count": 23,
+        "professors": [
+            "Joe Novak",
+            "Stephen James Jackson",
+            "Dallas Doane",
+            "Suzanne Rice",
+            "Jennifer Ng",
+            "Deborah Perbeck",
+            "Bryan Arthur Mann",
+            "Michael John Koonce",
+            "Amanda L Mollet",
+            "Yong Zhao",
+            "Diane Marie DeBacker",
+            "Alex Red Corn",
+            "Daniel H Gruman",
+            "Zachary H Foste",
+            "Eugene Parker",
+            "Jennifer Bessolo",
+            "Lena Marie Batt",
+            "Lisa Ellen Wolf-Wendel",
+            "Susan B. Twombly",
+            "Lei Jiang",
+            "Argun Saatcioglu",
+            "John L Rury",
+            "Darcy Dalene Kraus"
+        ]
+    },
+    "Education Administration": {
+        "professor_count": 2,
+        "professors": [
+            "Kelli Feldman",
+            "Rick Ginsberg"
+        ]
+    },
+    "Educational Psychology": {
+        "professor_count": 27,
+        "professors": [
+            "Darrell Lee Phillips",
+            "Mary D Fry",
+            "Barbara Alane Kerr",
+            "Matthew Robert Reynolds",
+            "Christopher Niileksela",
+            "Heather Rasmussen",
+            "Erin Yosai",
+            "Howard P Wills",
+            "Changming Duan",
+            "Susan E. Embretson",
+            "Rafael Quintana",
+            "John Poggio",
+            "Yong Zhao",
+            "Meagan M Patterson",
+            "Tracy J. Cohn",
+            "Vicki Peyton",
+            "Bruce B. Frey",
+            "Kristen Noel Hensley",
+            "Michael John Orosco",
+            "Amanda Lappin",
+            "Brian P Cole",
+            "David M Hansen",
+            "Sean Joo",
+            "Arpita Ghosh",
+            "In Gu Kang",
+            "Haiying Long",
+            "Kelly Feather Francis"
+        ]
+    },
+    "Edwards Campus": {
+        "professor_count": 22,
+        "professors": [
+            "Jianghua He",
+            "Frank P Moley III",
+            "John Keighley",
+            "Jeffrey Ahearn Thompson",
+            "Jonathan David Mahnken",
+            "Shana L Palla",
+            "Alvin F Beltramo",
+            "Jim Lourentzos",
+            "Zhiguo Zhou",
+            "Devin Charles Koestler",
+            "Mihaela Sardiu",
+            "Junqiang Dai",
+            "Jo Adrianne Wick",
+            "Sarah Finocchario Kessler",
+            "Herbert R. Tuttle",
+            "Stuart A Day",
+            "Kate Young",
+            "Neal Montgomery",
+            "Yanming Li",
+            "Dinesh Pal Indrapal Mudaranthakam",
+            "Fran Hu",
+            "Lexie Rae Brown"
+        ]
+    },
+    "Electrical Engr & Comp Science": {
+        "professor_count": 61,
+        "professors": [
+            "John Akamsoko Salihu",
+            "Jim McNaughton",
+            "Cuncong Zhong",
+            "Fernando Rodriguez-Morales",
+            "Zijun Yao",
+            "Heechul Yun",
+            "Tamzidul Hoque",
+            "Sumaiya Shomaji",
+            "David Orville Johnson",
+            "Drew Davidson",
+            "Han Wang",
+            "Christopher Thomas Allen",
+            "Huazhen Fang",
+            "Krishna Chaitanya Reddy Chitta",
+            "Wai-Lun Chan",
+            "Dongjie Wang",
+            "Mohd Mamoon",
+            "Arvin Agah",
+            "Pramil Paudel",
+            "Carl Leuschen",
+            "John Symons",
+            "Hui Zhao",
+            "Hongyang Sun",
+            "Erik Perrins",
+            "Rongqing Hui",
+            "Kenneth Demarest",
+            "James Marion Stiles",
+            "Sankha Narayan Guria",
+            "Perry Alexander",
+            "Alex Manley",
+            "Rachel Elaine Jarvis",
+            "Jian Li",
+            "Mohammed Misbah Zarrar",
+            "Yuying Li",
+            "Shannon David Blunt",
+            "Esam Eldin Mohamed Aly",
+            "Alessandro Salandrino",
+            "Andrew Riachi",
+            "Carolina Medina Castellanos",
+            "Patrick Michael McCormick",
+            "Satya Ashok Dowluri",
+            "Jigyas Sharma",
+            "Koyel Pramanick",
+            "John W Gibbons",
+            "Fengjun Li",
+            "Hartwin Peelaers",
+            "David W. Petr",
+            "Michael S Branicky",
+            "Tianxiao Zhang",
+            "Morteza Hashemi",
+            "Victor S. Frost",
+            "Dmitry Ovchinnikov",
+            "Mohammad Alian",
+            "Huy Dinh Tran",
+            "Bo Luo",
+            "Prasad Anil Kulkarni",
+            "Dr Hossein Saiedian",
+            "Alex Bardas",
+            "Qunfei Zhou",
+            "Shima Fardad",
+            "Arash Mafi"
+        ]
+    },
+    "Emergency Medical Service": {
+        "professor_count": 3,
+        "professors": [
+            "Dr. Bradley Jackson",
+            "Nima Sarani",
+            "Kristi Marie Bernath"
+        ]
+    },
+    "Engineering Administration": {
+        "professor_count": 3,
+        "professors": [
+            "Steven D Schrock",
+            "Elaina J Sutley",
+            "Suzanne Michelle Shontz"
+        ]
+    },
+    "English": {
+        "professor_count": 27,
+        "professors": [
+            "Randall James Fuller",
+            "Darren Canady",
+            "Geraldo Sousa",
+            "Kij Johnson",
+            "Kathryn A Conrad",
+            "Jonathan P Lamb",
+            "Ayesha K Hardison",
+            "Dorice W Elliott",
+            "Paul Outka",
+            "Marta Caminero-Santangelo",
+            "Sean Allen Kamperman",
+            "Sarah Van der Laan",
+            "RB Perelmutter",
+            "Brian J. Daldorph",
+            "Adam O'Neil Desnoyers",
+            "Joseph Harrington",
+            "Ann Wierda Rowland",
+            "Pritha Prasad",
+            "Laura E Moriarty",
+            "Phillip Drake",
+            "Mary A Klayder",
+            "Doreen Angela Fowler",
+            "Robert Allen Warrior",
+            "Misty Schieberle",
+            "Sarah Elizabeth Ngoh",
+            "Megan Kaminski",
+            "Mary Jo C Reiff"
+        ]
+    },
+    "Environment Health & Safety": {
+        "professor_count": 1,
+        "professors": [
+            "Alice Dale"
+        ]
+    },
+    "Environmental Studies Program": {
+        "professor_count": 32,
+        "professors": [
+            "John Frederick Devlin",
+            "Jorge Soberon",
+            "Barbara Alane Kerr",
+            "Andrew W. Torrance",
+            "Kelly Kindscher",
+            "Dietrich Harlan Earnhart",
+            "David A Rahn",
+            "Paul Outka",
+            "Donald Patrick Haider-Markel",
+            "Alexander C Diener",
+            "Barney L Warf",
+            "Mark E. Jakubauskas",
+            "Terrance D Loecke",
+            "Xingong Li",
+            "Joseph Paul Brewer II",
+            "Scott A Schulte",
+            "Benjamin Alan Sikes",
+            "Peggy Ann Schultz",
+            "John W. Head",
+            "Sharon A Billings",
+            "Eugene C Rankey",
+            "Eric Hanley",
+            "Robert J. Antonio",
+            "Christopher Louis Muehlberger",
+            "Robert H. Hagen",
+            "Nathaniel A. Brunsell",
+            "Tsvetan Georgiev Tsvetanov",
+            "Terri Lee Woodburn",
+            "Lindsey Ward Lyles",
+            "Ray Pierotti",
+            "Andrew Townsend Peterson",
+            "David B Mechem"
+        ]
+    },
+    "FamMed Family Medicine": {
+        "professor_count": 7,
+        "professors": [
+            "Joseph W LeMaster",
+            "Laurel B Witt",
+            "Margaret Lenore Smith",
+            "Wendi Born",
+            "Allen Greiner",
+            "Sarah Finocchario Kessler",
+            "Quinn Jackson"
+        ]
+    },
+    "FamMed Family Medicine - Dean": {
+        "professor_count": 1,
+        "professors": [
+            "Dr. Mark Meyer"
+        ]
+    },
+    "Family Medicine": {
+        "professor_count": 2,
+        "professors": [
+            "Dr. Moya Peterson",
+            "Dr. Kate Rampon"
+        ]
+    },
+    "Family Medicine HS": {
+        "professor_count": 1,
+        "professors": [
+            "Candice R Coffey"
+        ]
+    },
+    "Film and Media Studies": {
+        "professor_count": 13,
+        "professors": [
+            "Matthew Jacobson",
+            "Alexa Carola Paredes Jr",
+            "Ron Wilson",
+            "David Mai",
+            "Anna Neill",
+            "Joshua David Miner",
+            "Michael Baskett",
+            "Chika Okuyama",
+            "James Sanders Stone",
+            "Hispano Duron",
+            "Huan Chen",
+            "Robert Hurst",
+            "Jamal Mohamed Kishuli"
+        ]
+    },
+    "French, Francophone & Italian": {
+        "professor_count": 16,
+        "professors": [
+            "Andrew Stephan Denning",
+            "Colin T Roust",
+            "Christine Valerie Bourgeois",
+            "Kij Johnson",
+            "Emma J Scioli",
+            "Marni Reva Kessler",
+            "Mary Byrd Kelly",
+            "Kimberly A. B. Swanson",
+            "Giselle L Anatol",
+            "Philip Stinson",
+            "Van Kelly",
+            "Caroline A. Jewers",
+            "E. Bruce Hayes",
+            "Paul A Scott",
+            "Majid Hannoum",
+            "Misty Schieberle"
+        ]
+    },
+    "GERI Geriatric Medicine": {
+        "professor_count": 1,
+        "professors": [
+            "Jessica Kalender-Rich"
+        ]
+    },
+    "GME Family Medicine": {
+        "professor_count": 2,
+        "professors": [
+            "JP Darche",
+            "Kalee Kirmer-Voss"
+        ]
+    },
+    "GME Neurology": {
+        "professor_count": 1,
+        "professors": [
+            "Brenton C Massey"
+        ]
+    },
+    "Gastro Medicine-Gastroenterology": {
+        "professor_count": 3,
+        "professors": [
+            "Babalola Faseru",
+            "Steven Alan Weinman",
+            "Prateek Sharma"
+        ]
+    },
+    "GenMed Medicine General": {
+        "professor_count": 4,
+        "professors": [
+            "David G Naylor",
+            "Cheryl Gibson",
+            "Eslam Mohammed Gaber Dosokey",
+            "Nikki Miller"
+        ]
+    },
+    "Geography & Atmo Science": {
+        "professor_count": 19,
+        "professors": [
+            "Qinjian Jin",
+            "David A Rahn",
+            "Peter Harry Herlihy",
+            "Alexander C Diener",
+            "Barney L Warf",
+            "Cornelis J Vanderveen",
+            "Xingong Li",
+            "Jay T. Johnson",
+            "Taylor A Tappan",
+            "Bing Pu",
+            "Charity Dzifah Adela",
+            "Julie Morris",
+            "Ting Lei",
+            "Sam Zipper",
+            "Yoonjung Ahn",
+            "Shannon O'Lear",
+            "Justin P Stachnik",
+            "Mr Chris Brown",
+            "David B Mechem"
+        ]
+    },
+    "Geology": {
+        "professor_count": 25,
+        "professors": [
+            "Evan Karl Franseen",
+            "John Frederick Devlin",
+            "Michael D Blum",
+            "Marina Bianca Suarez",
+            "Noel M Jackson",
+            "Diane Lisa Kamola",
+            "Andreas Moeller",
+            "Alison Olcott",
+            "Leigh A Stearns",
+            "Robert H. Goldstein",
+            "Erin Seybold",
+            "Dr Stephen Tom Hasiotis",
+            "Georgios P Tsoflias",
+            "Clark Rein",
+            "Franek Hasiuk",
+            "C Marshall",
+            "Eugene C Rankey",
+            "Sam Zipper",
+            "David Allan Fowle",
+            "Diana Lorena Ortega-Ariza",
+            "Michael Halford Taylor",
+            "Marcia Schulmeister",
+            "Noah McLean",
+            "J. Douglas Walker",
+            "Mary C Hill"
+        ]
+    },
+    "Graduate Studies": {
+        "professor_count": 2,
+        "professors": [
+            "Kurt Preston",
+            "Ric G Steele Jr"
+        ]
+    },
+    "Gynecology and Obstetrics": {
+        "professor_count": 3,
+        "professors": [
+            "Melanie Meister",
+            "Austin Daniel Findley",
+            "Lindsay Raye Nordwald"
+        ]
+    },
+    "HEMA Medicine Hematology": {
+        "professor_count": 1,
+        "professors": [
+            "Konstantine Halkidis"
+        ]
+    },
+    "HOM History Of Medicine": {
+        "professor_count": 5,
+        "professors": [
+            "Julie Stark",
+            "Ryan R Fagan",
+            "Chris Crenner",
+            "Jason Edwin Glenn",
+            "Carla Christine Keirns"
+        ]
+    },
+    "Hall Center for the Humanities": {
+        "professor_count": 1,
+        "professors": [
+            "Giselle L Anatol"
+        ]
+    },
+    "Health Education Resource": {
+        "professor_count": 1,
+        "professors": [
+            "Jenny McKee"
+        ]
+    },
+    "Health Policy and Management": {
+        "professor_count": 1,
+        "professors": [
+            "Gene Meyer"
+        ]
+    },
+    "Health Sport &Exercise Science": {
+        "professor_count": 15,
+        "professors": [
+            "Quincy Johnson",
+            "Bomin Paek",
+            "Ashley Ann Herda",
+            "Andrew C Fry",
+            "Kristina Gordon",
+            "Joseph Weir",
+            "Jordan Robert Bass",
+            "Brian Scott Gordon",
+            "Philip Michael Gallagher",
+            "Ken Murfay",
+            "Sayvon JL Foster",
+            "Susan Harvey",
+            "Scott D Webb",
+            "Calvin Truitt Williams Jr",
+            "Trent J Herda"
+        ]
+    },
+    "History": {
+        "professor_count": 30,
+        "professors": [
+            "Christopher E Forth",
+            "Rachel Elise Cordelia Schwaller",
+            "Karl Brooks",
+            "Elaine Nelson",
+            "Ryan R Fagan",
+            "Stephen James Jackson",
+            "Drew Isenberg",
+            "Chris Crenner",
+            "Georgina Frances White",
+            "Robert C Schwaller",
+            "Elizabeth Lee MacGonagle",
+            "Sheyda Jahanbani",
+            "Nicholas L Syrett",
+            "Carla Christine Keirns",
+            "Luis R. Corteguera",
+            "Beth Bailey",
+            "Eric Rath",
+            "Katie Batza",
+            "Jonathan Hagel",
+            "Adrian R Lewis",
+            "Marta Valentin Vicente",
+            "Paul Mark Touyz",
+            "Nathan Wood",
+            "Shawn Leigh Alexander",
+            "J. Megan Greene",
+            "Laura L Mielke",
+            "Misty Schieberle",
+            "Michael H. Hoeflich",
+            "David W Farber",
+            "John L Rury"
+        ]
+    },
+    "History of Art": {
+        "professor_count": 10,
+        "professors": [
+            "Maki Kaneko",
+            "Sherry D. Fowler",
+            "Marni Reva Kessler",
+            "Anne D Hedeman",
+            "Julie Borger",
+            "Emily K Monty",
+            "Linda A Stone-Ferrier",
+            "David C. Cateforis",
+            "Amy E. McNair",
+            "Maya Kerstin Hyun Stiller"
+        ]
+    },
+    "InDis Medicine-Infectious Disease": {
+        "professor_count": 2,
+        "professors": [
+            "Jessica R Newman",
+            "Stephen C Waller"
+        ]
+    },
+    "Indigenous Studies": {
+        "professor_count": 17,
+        "professors": [
+            "Melissa Greene-Blye",
+            "Kelly Kindscher",
+            "Drew Isenberg",
+            "Jay T. Johnson",
+            "Alex Red Corn",
+            "Michael J Zogry",
+            "Kent Blansett",
+            "Shawn Watts",
+            "Joshua David Miner",
+            "Matt Gillispie",
+            "Norman Akers",
+            "Carlton Quinn Shield Chief Gover",
+            "Melinda Adams",
+            "Andrew McKenzie",
+            "Jennifer Anne Raff",
+            "Brent E Metz",
+            "Philip Travis Duncan"
+        ]
+    },
+    "Inst for Leadership Studies": {
+        "professor_count": 4,
+        "professors": [
+            "Amy Leyerzapf",
+            "Alesia Woszidlo",
+            "Jacob H Stutzman",
+            "Precious Heart Porras"
+        ]
+    },
+    "Inst for Policy & Social Res": {
+        "professor_count": 2,
+        "professors": [
+            "Alex Red Corn",
+            "Carlos Ernesto Zambrana Roman"
+        ]
+    },
+    "Institute Information Sciences": {
+        "professor_count": 1,
+        "professors": [
+            "Jennifer Lohoefener"
+        ]
+    },
+    "Jayhawk Global Admin": {
+        "professor_count": 1,
+        "professors": [
+            "Neal Kingston"
+        ]
+    },
+    "Jewish Studies": {
+        "professor_count": 4,
+        "professors": [
+            "Rami Zeedan",
+            "RB Perelmutter",
+            "Asaf Day",
+            "Omri Senderowicz"
+        ]
+    },
+    "Journalism": {
+        "professor_count": 35,
+        "professors": [
+            "Cal J Butcher",
+            "Stef Louise Voth",
+            "Alyssa Jill Appelman",
+            "Douglas B Ward",
+            "Melissa Greene-Blye",
+            "Angela Hendershot",
+            "Jeff Conlin",
+            "Stephen Wolgast",
+            "Eric D Thomas",
+            "Janet S. Rose",
+            "Yvonnes Chen",
+            "Steve L Bien-Aime",
+            "Ty Stude",
+            "Chris Etheridge",
+            "Genelle I Belmas",
+            "Erin Carlson",
+            "Carol Elizabeth Holstead",
+            "Mark P Johnson",
+            "Patricia Elaine Gaston",
+            "Mugur V Geana",
+            "Tom Heapes",
+            "Lisa Loewen",
+            "Vaibhav Shwetangbhai Diwanji",
+            "Scott Reinardy",
+            "Rebekka J Schlichting",
+            "John James Hanley",
+            "Judy Marie Watts",
+            "Hong Tien Vu",
+            "Hyunjin Seo",
+            "Matthew R Tidwell",
+            "David Farrell Patrick",
+            "Nick Jungman",
+            "Alex Treaster",
+            "Lisa McLendon",
+            "Teri A Finneman"
+        ]
+    },
+    "Journalism Administration": {
+        "professor_count": 2,
+        "professors": [
+            "Ann M. Brill",
+            "Steven J Rottinghaus"
+        ]
+    },
+    "KS Biological Survey": {
+        "professor_count": 4,
+        "professors": [
+            "Sara Genevieve Baer",
+            "Donald G Huggins",
+            "Craig Carl Freeman",
+            "William H. Busby"
+        ]
+    },
+    "KU Hospital Authority": {
+        "professor_count": 1,
+        "professors": [
+            "Colleen Terese Paramesh"
+        ]
+    },
+    "KU News Service": {
+        "professor_count": 1,
+        "professors": [
+            "Jon Scott Niccum"
+        ]
+    },
+    "KUCC KMCRI-Administration - Contingent Workers": {
+        "professor_count": 1,
+        "professors": [
+            "Steven A Soper"
+        ]
+    },
+    "KUIA Russian E Euro & Eurasian": {
+        "professor_count": 1,
+        "professors": [
+            "Ms Esra Predolac"
+        ]
+    },
+    "KUSM-W Family & Community Med": {
+        "professor_count": 2,
+        "professors": [
+            "Jennifer Bacani",
+            "Lynn R Fisher"
+        ]
+    },
+    "KUSM-W Orthopedic Surgery": {
+        "professor_count": 1,
+        "professors": [
+            "Brad Dart"
+        ]
+    },
+    "KUSM-W Pediatrics": {
+        "professor_count": 1,
+        "professors": [
+            "Amanda Isabel Aguila-Gonzalez"
+        ]
+    },
+    "Kansas African Studies Center": {
+        "professor_count": 1,
+        "professors": [
+            "Glenn Adams"
+        ]
+    },
+    "Kansas Geological Survey": {
+        "professor_count": 17,
+        "professors": [
+            "Evan Karl Franseen",
+            "Geoffrey C. Bohling",
+            "Rick Miller",
+            "John H. Doveton",
+            "Donald O. Whittemore",
+            "Greg Ludvigson",
+            "Tony Layzell",
+            "Jay Kalbas",
+            "Gaisheng Liu",
+            "Blair Schneider",
+            "James J. Jr. Butler",
+            "Jianghai Xia",
+            "Sahar Mohammadi",
+            "Jon J Smith",
+            "Diana Lorena Ortega-Ariza",
+            "Stephan C Oborny",
+            "Justin Allen Holcomb"
+        ]
+    },
+    "Latin Amer & Caribbean Studies": {
+        "professor_count": 4,
+        "professors": [
+            "Heaven Dawn Cherie Snyder",
+            "Laura H. Herlihy",
+            "Emily J Tummons",
+            "Brent E Metz"
+        ]
+    },
+    "Law Administration": {
+        "professor_count": 1,
+        "professors": [
+            "Stephen W. Mazza"
+        ]
+    },
+    "Law Library": {
+        "professor_count": 2,
+        "professors": [
+            "W Blake Wilson",
+            "Christopher Steadham"
+        ]
+    },
+    "Law School": {
+        "professor_count": 53,
+        "professors": [
+            "Stacey L. Donovan",
+            "Erica Marta Landsberg",
+            "Corey Rayburn Yung",
+            "Geoff Steven Corn",
+            "Amii Castle",
+            "Bethany Janel Roberts",
+            "Scott E Taddiken",
+            "Andrew W. Torrance",
+            "Max Kautsch",
+            "Laura J. Hines",
+            "Joyce R Rosenberg",
+            "Craig Reaves",
+            "John Tyler III",
+            "Tom Lafayette Lasley",
+            "Elizabeth Seale Cateforis",
+            "Patrick Daniel Nagle Perkins",
+            "Jamila E Jefferson",
+            "Glenn A Jewell",
+            "Kyle Courtenay Velte",
+            "Jordan Carter",
+            "Sharon Brett",
+            "Adam E Sokoloff",
+            "Stephen Ware",
+            "Marc Erickson",
+            "Tom Crawford",
+            "Shawn Watts",
+            "Jeffrey Biller",
+            "Dani Merrick",
+            "Najarian Rhashaline Peters",
+            "Mark P Johnson",
+            "Meredith Ann Schnug",
+            "John W. Head",
+            "Jean Kathryn Gilles Phillips",
+            "Lisa Hund Lattan",
+            "Betsy Lawrence",
+            "Pamela Von Essen Keller",
+            "William Evar Quick",
+            "KJ Wall",
+            "Raj Bhala",
+            "Betsy Brand Six",
+            "Jennifer Schmidt",
+            "Uma Outka",
+            "Steven Werner Novak",
+            "Stephen R. McAllister",
+            "Matt Wolesky",
+            "Richard E. Levy",
+            "Paul William Cope",
+            "Michael H. Hoeflich",
+            "Alex Platt",
+            "Christopher R. Drahozal",
+            "Melanie Daily",
+            "Robin Kundis CRAIG",
+            "Anansi Wilson"
+        ]
+    },
+    "Lied Center": {
+        "professor_count": 1,
+        "professors": [
+            "Derek S Kwan"
+        ]
+    },
+    "Linguistics": {
+        "professor_count": 12,
+        "professors": [
+            "Alison Gabriele",
+            "Lacey Rae Wade",
+            "Utako Minai",
+            "Allard Jongman",
+            "Stephen Politzer-Ahles",
+            "John Gluckman",
+            "Joan A. Sereno",
+            "Robert Fiorentino",
+            "Jeff Holliday",
+            "Jieun Lee",
+            "Andrew McKenzie",
+            "Philip Travis Duncan"
+        ]
+    },
+    "MICRO Microbiology": {
+        "professor_count": 9,
+        "professors": [
+            "Indranil Biswas",
+            "Severin Gudima",
+            "Mary Markiewicz",
+            "Hubert Tse",
+            "Wolfram J Zueckert",
+            "Edward B Stephens",
+            "Hongbing Yu",
+            "Jianming Qiu",
+            "Jeffrey L Bose"
+        ]
+    },
+    "Mathematics": {
+        "professor_count": 33,
+        "professors": [
+            "Yunfeng Jiang",
+            "Satya Mandal",
+            "Hai Long Dao",
+            "Dionyssis Mantzavinos",
+            "Yannan Shen",
+            "Reuven Moses Hodges",
+            "Mr Hongguo Xu",
+            "Zsolt Talata",
+            "Margaret M. Bayer",
+            "Myunghyun Oh",
+            "Ruijie Yang",
+            "Emily Witt",
+            "Purnaprajna Bangere",
+            "Jin Feng",
+            "Tyrone E. Duncan",
+            "Daniel L. Katz",
+            "Geng Chen",
+            "Weizhang Huang",
+            "Bozenna Pasik-Duncan",
+            "Jeffrey Lang",
+            "Xuemin Tu",
+            "Jeffrey Alan Oregero Jr",
+            "Mat Johnson",
+            "Weishi Liu",
+            "Daniel Hernandez",
+            "Yuanqi Wang",
+            "Jeremy L Martin",
+            "Xiuli Kang",
+            "Shuanglin Shao",
+            "Joonha Park",
+            "Zhipeng Liu",
+            "Jack R. Porter",
+            "Erik Van Vleck"
+        ]
+    },
+    "Mechanical Engineering": {
+        "professor_count": 20,
+        "professors": [
+            "Dr Lorin P Maletsky",
+            "Molly Ann McVey",
+            "Chris Depcik",
+            "Lin Liu",
+            "Huazhen Fang",
+            "Millicent Anne Coil",
+            "Carl W. Luchies",
+            "Dr Elizabeth A. Friis",
+            "Gibum Kwon",
+            "Kenneth J. Fischer",
+            "Karan S. Surana",
+            "Xinmai Yang",
+            "Bamdad Pourladian",
+            "Shiguang Deng",
+            "Sara E Wilson",
+            "Theodore Bergman",
+            "Paulette Spencer",
+            "Robert M Sorem",
+            "Xianglin Li",
+            "Peter W. TenPas"
+        ]
+    },
+    "Medicinal Chemistry": {
+        "professor_count": 10,
+        "professors": [
+            "Iredia David Iyamu",
+            "Michael Scott Wolfe",
+            "Mark Patrick Farrell",
+            "Luke N Erber",
+            "Shyam Sathyamoorthi",
+            "Apurba Dutta",
+            "Zarko Boskovic",
+            "Steven P Bloom",
+            "Paul R Hanson",
+            "Jon A Tunge"
+        ]
+    },
+    "Medicine - Pulmonary Disease": {
+        "professor_count": 1,
+        "professors": [
+            "Jiwoong Choi"
+        ]
+    },
+    "Medicine General": {
+        "professor_count": 1,
+        "professors": [
+            "Zafar Ali"
+        ]
+    },
+    "Microbiology": {
+        "professor_count": 1,
+        "professors": [
+            "Sebastien Pichoff"
+        ]
+    },
+    "Molecular Biosciences": {
+        "professor_count": 28,
+        "professors": [
+            "Alfred Buabeng",
+            "Brian D Ackley",
+            "Lisa D Timmons",
+            "Bren Den Ng",
+            "Mizuki Azuma",
+            "Jacob Mark Kroh",
+            "Roberto Nguyen De Guzman",
+            "Robert L Unckless",
+            "Berl R Oakley",
+            "Saeideh Nasiri",
+            "Stuart Macdonald",
+            "Gabrielle Perkins",
+            "Lynn Hancock",
+            "Kristi L Neufeld",
+            "Liang Xu",
+            "Dan A Dixon",
+            "Erik Dylan Holmstrom",
+            "Yoshiaki Azuma",
+            "Azeem Ayomide Talabi",
+            "Anthony Fehr",
+            "Caetano Antunes",
+            "Joanna Slusky",
+            "Scott Hefty",
+            "Rosana Barreto Rocha Ferreira",
+            "David Davido",
+            "Robin Orozco",
+            "Susan M. Egan",
+            "Josephine R Chandler"
+        ]
+    },
+    "Molecular Integrat Physiology": {
+        "professor_count": 1,
+        "professors": [
+            "Madhulika Sharma"
+        ]
+    },
+    "Museum Studies": {
+        "professor_count": 31,
+        "professors": [
+            "William N Bruce",
+            "Jorge Soberon",
+            "Andrew Stephan Denning",
+            "Elaine Nelson",
+            "Bruce S Lieberman",
+            "Jocelyn P. Colella",
+            "Margaret Unverzagt Goddard",
+            "Dave Tell",
+            "Elizabeth Lee MacGonagle",
+            "Kelly Elizabeth Graf",
+            "Philip Stinson",
+            "Emily K Monty",
+            "Rob Moyle",
+            "Megan Elayne Sims",
+            "Deborah Smith",
+            "Katie Batza",
+            "Richard E Glor",
+            "Jonathan Hagel",
+            "Carlton Quinn Shield Chief Gover",
+            "James Yeku",
+            "Ted Goebel",
+            "Shawn Leigh Alexander",
+            "Araceli Masterson-Algar",
+            "Chris Beard",
+            "Heather Getha-Taylor",
+            "Kapila Dharmasena Silva",
+            "Andrew Charles Bentley",
+            "Steve Nowak",
+            "Lauren Edith Young Norman",
+            "Andrew Townsend Peterson",
+            "Maya Kerstin Hyun Stiller"
+        ]
+    },
+    "Music": {
+        "professor_count": 76,
+        "professors": [
+            "Jack H. Winerock",
+            "Lu Erickson",
+            "Garrett Arney",
+            "Brock Joseph Babcock",
+            "Colin T Roust",
+            "David Aaron Colwell",
+            "James M. Higdon",
+            "Kevin C Vogt",
+            "John A. Stephens",
+            "Ryan Jamaal Davis",
+            "Dr. Alan Street",
+            "Roberta Freund Schwartz",
+            "Emily Glaser Rossin",
+            "Kerry R Marsh",
+            "Shaun Charles Hawkins",
+            "Ketty Wong",
+            "Jeff Harshbarger",
+            "Courtney Fletcher",
+            "Creston Miles Herron",
+            "Genaro Mendez Jr",
+            "Matthew O Smith",
+            "William B Matney",
+            "Priscila Laura Navarro",
+            "Melissa Sawyer",
+            "Boris Y Vayner",
+            "Dylan Bassett",
+            "Eduardo Garcia Novelli",
+            "Hannah E Collins",
+            "Forrest Pierce",
+            "Brandon Draper",
+            "Roberta M Gumbel",
+            "Matthew Logan Otto",
+            "Erin Rachel Wood",
+            "Scott McBride Smith",
+            "Edward Poston",
+            "Emren Akdamar",
+            "Sharon Lee Toulouse",
+            "Ellen R Sommer",
+            "Stella I Markou",
+            "Richard Galbreath Jr",
+            "Dr Cynthia Melissa Colwell Dunn",
+            "Zack Devin",
+            "Grace Jost Edgar",
+            "Melissa L Grady",
+            "Ingrid Stolzel",
+            "Stephanie Zelnick",
+            "Martin Nedbal",
+            "Bradley Thomas Osborn",
+            "Deanna Hanson-Abromeit",
+            "Kris Bendrick",
+            "Daniel Velasco",
+            "Chung Hoi Yan",
+            "Paul Laird",
+            "Matt Wilson",
+            "Drew Williams",
+            "Kelly Csillam Misko",
+            "Midori Faye Samson",
+            "Melissa Gabel",
+            "Rachel Wilder",
+            "Charcarol Fisher",
+            "Christopher M. Johnson",
+            "Scott Brandon Murphy",
+            "Geoffrey Loryn Landman",
+            "Daniel J. Gailey",
+            "Michael J. Bauer",
+            "David Michael Earll",
+            "YiYang Chen",
+            "Elizabeth Egbert Berghout",
+            "Aaron Alan Romm",
+            "Michael Kirkendoll",
+            "Michael M Davidson",
+            "David Charles Dayoub",
+            "Edward Timothy Moore",
+            "Gabe Lewis-O'Connor",
+            "Tetsuya Nishiyama",
+            "Linlin He"
+        ]
+    },
+    "Music Administration": {
+        "professor_count": 4,
+        "professors": [
+            "Margaret Rose Marco",
+            "Steve Leisring",
+            "Paul W Popiel",
+            "Armando Manuel Gutierrez Jr"
+        ]
+    },
+    "NEURO Neuroimaging Faculty": {
+        "professor_count": 1,
+        "professors": [
+            "In-Young Choi"
+        ]
+    },
+    "NEURO Neuromuscular": {
+        "professor_count": 1,
+        "professors": [
+            "Mazen Mohammad Chaaban Dimachkie"
+        ]
+    },
+    "NS Faculty": {
+        "professor_count": 1,
+        "professors": [
+            "Adam Gene Rouse"
+        ]
+    },
+    "NS Neurosurgery": {
+        "professor_count": 1,
+        "professors": [
+            "Paul Joseph Camarata"
+        ]
+    },
+    "Neph Medicine - Nephrology and Hypertension": {
+        "professor_count": 2,
+        "professors": [
+            "Reem A Mustafa",
+            "Sri Gowri Yarlagadda"
+        ]
+    },
+    "OBGYN Gynecology and Obstetrics": {
+        "professor_count": 17,
+        "professors": [
+            "Valerie Anne French",
+            "Yoana Cruz",
+            "Marc R Parrish",
+            "Rachel Marie DiTeresi",
+            "Lori A Spoozak",
+            "Courtney Ann Marsh",
+            "Kristin Joy Holoch",
+            "Katie Brophy",
+            "Megan Madrigal",
+            "Andrea D Jewell",
+            "Angela Sue Martin",
+            "Ian Christopher Cook",
+            "Megan McKee Thomas",
+            "Meredith Kathleen Gray",
+            "Melissa Estes Huggins",
+            "MICHAEL LYNN LYDIC",
+            "Brian Charles Brost"
+        ]
+    },
+    "OME Assessment and Evaluation": {
+        "professor_count": 1,
+        "professors": [
+            "Shawnalee Marie Criss Petty"
+        ]
+    },
+    "ONC Radiation Oncology": {
+        "professor_count": 2,
+        "professors": [
+            "Subhrajit Saha",
+            "Danielle Cunningham"
+        ]
+    },
+    "Office of Faculty Affairs": {
+        "professor_count": 2,
+        "professors": [
+            "Amy N Mendenhall",
+            "Mary Christine Banwart"
+        ]
+    },
+    "Office of Research": {
+        "professor_count": 6,
+        "professors": [
+            "Candan Tamerler",
+            "Erik A Lundquist",
+            "George S. Wilson",
+            "Jamie Caitlin McGovern",
+            "Aaron Carbuhn",
+            "Kathleen Lane"
+        ]
+    },
+    "Ophthalmology": {
+        "professor_count": 1,
+        "professors": [
+            "Dr. Julie Quick"
+        ]
+    },
+    "Otorhinolaryngology": {
+        "professor_count": 1,
+        "professors": [
+            "Kendra Ford"
+        ]
+    },
+    "PATH Pathology": {
+        "professor_count": 12,
+        "professors": [
+            "Dr. Michael J Soares",
+            "Katie L Dennis",
+            "Andrew K. Godwin",
+            "Christophe Nicot",
+            "Fariba Behbod",
+            "Mohammad Azharul Karim Rumi",
+            "Malay Kumar Basu",
+            "Soumen Paul",
+            "Mohammad Haeri",
+            "Patrick E Fields",
+            "Nikki Laiki Cheng",
+            "Long Zheng"
+        ]
+    },
+    "PEDS Behavioral Pediatrics": {
+        "professor_count": 2,
+        "professors": [
+            "Chandra M Gordon",
+            "Molly Brown"
+        ]
+    },
+    "PEDS General Pediatrics": {
+        "professor_count": 1,
+        "professors": [
+            "Rob Breeden"
+        ]
+    },
+    "PEDS Pediatrics": {
+        "professor_count": 1,
+        "professors": [
+            "Ann Marjorie Davis"
+        ]
+    },
+    "PEDS Pediatrics Critical Care": {
+        "professor_count": 1,
+        "professors": [
+            "Francesca Perez Marques"
+        ]
+    },
+    "PEDS Pediatrics DDBS": {
+        "professor_count": 7,
+        "professors": [
+            "Jamie Caitlin McGovern",
+            "Brenda J Salley",
+            "Eve-Lynn Nelson",
+            "Dr. Rene Jamison",
+            "Linda Heitzman-Powell",
+            "Jessica Oeth Schuttler",
+            "Stephen R Lassen"
+        ]
+    },
+    "POPH Population Health - Contingent Workers": {
+        "professor_count": 1,
+        "professors": [
+            "Jean P Hall"
+        ]
+    },
+    "POPH Population Health Education - Active Adjunct Faculty": {
+        "professor_count": 5,
+        "professors": [
+            "Daniel R Clifford",
+            "Trenton Stringer",
+            "Kevin Kovach",
+            "Sonali Kurlekar",
+            "Penny Feist"
+        ]
+    },
+    "POPH Population Health Faculty": {
+        "professor_count": 21,
+        "professors": [
+            "Lisa Sanderson Cox",
+            "Dorothy Hughes",
+            "Marilyn Kettering Murray",
+            "Sue Min Lai",
+            "J. Tom Mueller",
+            "Joanna Veazey Brooks",
+            "Rachel Forcino",
+            "Edward Ellerbeck",
+            "Christie Ann Befort",
+            "Laura E Martin",
+            "Nikki Nollen",
+            "Margaret Lloyd Sieger",
+            "Kimber Richter",
+            "Shellie D Ellis",
+            "Niaman Nazir",
+            "Aaron Katz",
+            "Erica Cruvinel",
+            "Sharla Ann Smith",
+            "Vicki Lynn Collie-Akers",
+            "Taneisha Shani Scheuermann",
+            "Ashley Counts"
+        ]
+    },
+    "PS Plastic Surgery": {
+        "professor_count": 2,
+        "professors": [
+            "Dhaval Bhavsar",
+            "Eric Christian Lai"
+        ]
+    },
+    "PSYCH Psychiatry & Behavioral Sciences": {
+        "professor_count": 6,
+        "professors": [
+            "Shilpa Sachdeva",
+            "Dr. Edward Hunter",
+            "Albert Buddy Buddy Poje",
+            "Mitchell McColley Douglass",
+            "Heather Christine Kruse",
+            "Monica F Kurylo"
+        ]
+    },
+    "PTT Pharmacology, Toxicology, and Therapeutics": {
+        "professor_count": 3,
+        "professors": [
+            "Dr. Ken McCarson",
+            "Anup Ramachandran",
+            "Dr. Michele Pritchard"
+        ]
+    },
+    "PULM Pulmonary and Critical Care Medicine": {
+        "professor_count": 1,
+        "professors": [
+            "Matthew R Sharpe"
+        ]
+    },
+    "Palliative Medicine - Palliative": {
+        "professor_count": 1,
+        "professors": [
+            "Lindy Landzaat"
+        ]
+    },
+    "Pediatrics": {
+        "professor_count": 1,
+        "professors": [
+            "Bethany Forseth"
+        ]
+    },
+    "Pharmaceutical Chemistry": {
+        "professor_count": 19,
+        "professors": [
+            "Ronald T. Borchardt",
+            "Kenneth L. Audus",
+            "John F. Stobaugh",
+            "Thomas J Tolbert",
+            "Christian Schoeneich",
+            "Hao Lou",
+            "Valentino John Stella",
+            "Carlo Barnaba",
+            "Teruna J. Siahaan",
+            "Bruce A Kerwin",
+            "Dr Anna Hagen",
+            "Laird Forrest",
+            "Hyunjoon Kim",
+            "Russ Middaugh",
+            "David B Volkin",
+            "Michael Zhuo Wang",
+            "Michael J Hageman",
+            "Jeffrey P. Krise",
+            "Ming Zhao"
+        ]
+    },
+    "Pharmacology": {
+        "professor_count": 1,
+        "professors": [
+            "Dr. Hartmut Jaeschke"
+        ]
+    },
+    "Pharmacology & Toxicology": {
+        "professor_count": 10,
+        "professors": [
+            "Rick Thomas Dobrowsky",
+            "Heng Du",
+            "Nancy A Muma",
+            "Honglian Shi",
+            "Adam S Smith",
+            "Liqin Zhao",
+            "Zijun Wang",
+            "James W Tracy",
+            "Jai Subramanian",
+            "Jackob Moskovitz"
+        ]
+    },
+    "Pharmacy Practice": {
+        "professor_count": 18,
+        "professors": [
+            "Molly E Steed",
+            "Heather D Gibbs",
+            "Dennis W Grauer",
+            "Jeff Pierce",
+            "Karen E Moeller",
+            "Susan King",
+            "James M Backes",
+            "Lawrence W Davidow",
+            "Nicholas Britt",
+            "Judy Wu",
+            "Ashley N Glissman",
+            "Tiffany R Shin",
+            "Brittany L Melton",
+            "Harold N Godwin",
+            "Brian J Barnes",
+            "Jessica Bates",
+            "Andrea L Reynolds",
+            "Frank E Weinhold"
+        ]
+    },
+    "Philosophy": {
+        "professor_count": 14,
+        "professors": [
+            "Bradford Roy Cokelet",
+            "Nancy E Snow",
+            "John Symons",
+            "Armin W Schulz",
+            "Ben Caplan",
+            "Erin A Frykholm",
+            "Dale Dorsey",
+            "Irina Symons",
+            "Eileen S Nutting",
+            "Jason Raibley",
+            "Thomas M. Tuozzo",
+            "Marcy P Lascano",
+            "Kim Soland",
+            "Scott Jenkins"
+        ]
+    },
+    "Physics and Astronomy": {
+        "professor_count": 33,
+        "professors": [
+            "Ian Michael Lewis",
+            "Hume Feldman",
+            "Michael J Murray",
+            "Graham Wallace Wilson",
+            "Christophe Royon",
+            "Allison Michelle Kirkpatrick",
+            "Jessy Changstrom",
+            "Wai-Lun Chan",
+            "Maleah Kalli Rhem",
+            "Christopher J Fischer",
+            "Sarah LeGresley Rush",
+            "Jennifer A Delgado",
+            "Hui Zhao",
+            "John Peter Ralston",
+            "Gregory H Rudnick",
+            "Daniel Tapia Takaki",
+            "Jack J Shi",
+            "Ryan Thomas Low",
+            "Ian James Mills Crossfield",
+            "Judy Wu",
+            "Dr Mikhail Viktorovich Medvedev",
+            "Elisabeth Anne Crossfield Mills",
+            "Alice Bean",
+            "KC Kong",
+            "Hartwin Peelaers",
+            "Steven Prohira",
+            "Michael Rapulu Chukwuka",
+            "Dmitry Ovchinnikov",
+            "David Zeke Besson",
+            "Thomas Edward Cravens",
+            "Christopher S Rogan",
+            "Mats Bernhard Kampshoff",
+            "Qunfei Zhou"
+        ]
+    },
+    "Political Science": {
+        "professor_count": 16,
+        "professors": [
+            "Hannah E Britton",
+            "Jack Zhang",
+            "Nazli Avdan",
+            "Brittnee A Carter",
+            "Robert Rohrschneider",
+            "Mike Wuthrich",
+            "Donald Patrick Haider-Markel",
+            "Kevin Mullinix",
+            "Tom Crawford",
+            "John James Kennedy",
+            "Mark Russell Joslyn",
+            "David Brichoux",
+            "Gary Matthew Reich",
+            "Asaf Day",
+            "Clayton McLaughlin Webb",
+            "Sofia B. Vera"
+        ]
+    },
+    "Population Health": {
+        "professor_count": 2,
+        "professors": [
+            "Collin Cooper",
+            "Jonathan Gafford"
+        ]
+    },
+    "Psychiatry & Behavior Science": {
+        "professor_count": 1,
+        "professors": [
+            "Christine Raye Duncan Glenn"
+        ]
+    },
+    "Psychology": {
+        "professor_count": 24,
+        "professors": [
+            "Amber Watts",
+            "Mark Landau",
+            "Tera L Fazzino",
+            "Arian Ashourvan",
+            "Jonathan Brumberg",
+            "Ben Allen",
+            "Nicole Virginia Dickerson",
+            "Stephen Scott Ilardi",
+            "Jeffrey Girard",
+            "Susan E. Embretson",
+            "Melisa V. Rempfer",
+            "Monica Biernat",
+            "Ludwin E Molina",
+            "Sarah Beth Kirk",
+            "Rick Ingram",
+            "Marsha J McCartney",
+            "Bliss -",
+            "Omri Gillath",
+            "Alex Williams",
+            "Nancy Ann Hamilton",
+            "Nyla R. Branscombe",
+            "Chris S. Crandall",
+            "Ali Calkins-Smith",
+            "Katie Hoemann"
+        ]
+    },
+    "RAD Faculty": {
+        "professor_count": 2,
+        "professors": [
+            "Vanessa Lewis Williams",
+            "Carissa Noel Walter"
+        ]
+    },
+    "RMEd Rehab Medicine Education": {
+        "professor_count": 2,
+        "professors": [
+            "WenFang Wang",
+            "Sara Irene Jorgensen"
+        ]
+    },
+    "RMEd Rehabilitation Medicine": {
+        "professor_count": 1,
+        "professors": [
+            "Namrata Raut"
+        ]
+    },
+    "Radiation Oncology": {
+        "professor_count": 1,
+        "professors": [
+            "David Akhavan"
+        ]
+    },
+    "Radiology": {
+        "professor_count": 2,
+        "professors": [
+            "Adam Sammy Alli",
+            "Joseph Scott Donald"
+        ]
+    },
+    "Rehab Medicine Education": {
+        "professor_count": 1,
+        "professors": [
+            "Sharon Fitzgerald"
+        ]
+    },
+    "Religious Studies": {
+        "professor_count": 5,
+        "professors": [
+            "Jacquelene G Brinton",
+            "Samuel Hayim Brody",
+            "Michael J Zogry",
+            "Daniel B. Stevenson",
+            "William Robert Lindsey"
+        ]
+    },
+    "Research Administration": {
+        "professor_count": 1,
+        "professors": [
+            "Jeffrey Ahearn Thompson"
+        ]
+    },
+    "Russian E Euro & Eurasian Std": {
+        "professor_count": 1,
+        "professors": [
+            "Erik R Scott"
+        ]
+    },
+    "SHP Athletic Training": {
+        "professor_count": 2,
+        "professors": [
+            "Kenneth Bradley Wainwright",
+            "Carolina Prouty Heredia Quintana"
+        ]
+    },
+    "SHP Athletic Training - Adjunct Faculty": {
+        "professor_count": 2,
+        "professors": [
+            "Caitlin Truhe",
+            "Ryan Sloop"
+        ]
+    },
+    "SHP Clinic Laboratory Sciences": {
+        "professor_count": 1,
+        "professors": [
+            "Dr. Yan Zheng"
+        ]
+    },
+    "SHP Clinical Laboratory Sciences": {
+        "professor_count": 9,
+        "professors": [
+            "Jennifer Jones",
+            "Erin Youngs",
+            "Drew Jones",
+            "Renee Hodgkins",
+            "Alexis Carpenter",
+            "Robin Maser",
+            "Kasey Edwardson",
+            "Leah Ade",
+            "Hao Zhu"
+        ]
+    },
+    "SHP Clinical Laboratory Sciences - Adjunct Faculty": {
+        "professor_count": 1,
+        "professors": [
+            "Sergio Lozano"
+        ]
+    },
+    "SHP Dietetics and Nutrition": {
+        "professor_count": 8,
+        "professors": [
+            "Jeannine Renee Goetz",
+            "Kendra Spaeth",
+            "Heather D Gibbs",
+            "Anna Parker",
+            "Susan E. Carlson",
+            "Aaron Carbuhn",
+            "Lindsey Thompson",
+            "Swarna Mandali"
+        ]
+    },
+    "SHP Health Information Manage": {
+        "professor_count": 1,
+        "professors": [
+            "Rosann Mae McLean"
+        ]
+    },
+    "SHP Health Information Management)": {
+        "professor_count": 3,
+        "professors": [
+            "Angela Beth Couture",
+            "Kaitlyn Brown",
+            "Bobbie Laincz"
+        ]
+    },
+    "SHP Hearing & Speech Education": {
+        "professor_count": 1,
+        "professors": [
+            "Melanie S. Somogie"
+        ]
+    },
+    "SHP Hearing and Speech": {
+        "professor_count": 10,
+        "professors": [
+            "Julie Mujica",
+            "Mallory Miller",
+            "Cole M Campbell",
+            "Mindy Sittner Bridges",
+            "Marion Leaman",
+            "Abdullah Mohammad Abdullah Jamos",
+            "Susan Koerner",
+            "Lindsey Biggs Heidrick",
+            "Lauren G Mann",
+            "Anjelica D. Pearson"
+        ]
+    },
+    "SHP Hearing and Speech - Adjunct Faculty": {
+        "professor_count": 1,
+        "professors": [
+            "Lisa Battani"
+        ]
+    },
+    "SHP Nurse Anesthesia": {
+        "professor_count": 3,
+        "professors": [
+            "Josie Zimmerman Bell",
+            "Brittany Lynn Hollabaugh",
+            "Timothy Peter Gengler"
+        ]
+    },
+    "SHP Nurse Anesthesia Education)": {
+        "professor_count": 7,
+        "professors": [
+            "Karri Lynn Arndt",
+            "Paul Hertel",
+            "Shelley Dawn Barenklau",
+            "Britta Kindel",
+            "Paul Stephen Bennetts",
+            "Jen Bendure",
+            "Laura McDonald"
+        ]
+    },
+    "SHP Occupational Therapy": {
+        "professor_count": 4,
+        "professors": [
+            "Kelly Andrasik McLeod",
+            "Janis Davis",
+            "Laurie Steen",
+            "Lauren Hartmann Foster"
+        ]
+    },
+    "SHP Occupational Therapy Education": {
+        "professor_count": 9,
+        "professors": [
+            "Blake Spanjer",
+            "Becky Nicholson",
+            "Alice Zhang",
+            "Jordan Alexander Borrell",
+            "Tobia Zanotto",
+            "Adriana Gon\u00e7alves Queiroz",
+            "Lisa Ann Mische Lawson",
+            "Rebecca Nicole Glover",
+            "Natalie Scott"
+        ]
+    },
+    "SHP Occupational Therapy Education - Adjunct Faculty": {
+        "professor_count": 3,
+        "professors": [
+            "Caitlin Lisk",
+            "Anna Zanotto",
+            "Molly Schneider"
+        ]
+    },
+    "SHP Office of the Dean)": {
+        "professor_count": 5,
+        "professors": [
+            "Jacob (Jake) Sosnoff",
+            "Dory B Sabata",
+            "Tiffany Ann Johnson",
+            "Debra M Sullivan",
+            "Eric Elsinghorst"
+        ]
+    },
+    "SHP Physical Therapy & Rehab": {
+        "professor_count": 3,
+        "professors": [
+            "Patricia Michelle Kluding",
+            "Chun-Kai Huang",
+            "Linda Joan D'Silva"
+        ]
+    },
+    "SHP Physical Therapy and Rehabilitation Science": {
+        "professor_count": 10,
+        "professors": [
+            "Catherine Siengsukon",
+            "Crystal Funke",
+            "Jason Lee Rucker",
+            "Yvonne Colgrove",
+            "Hannes Devos",
+            "LesLee Taylor",
+            "Stephen D Jernigan",
+            "Neena K Sharma",
+            "Wen Liu",
+            "Irina V. Smirnova"
+        ]
+    },
+    "SHP Respiratory Care and Diagnostic Science": {
+        "professor_count": 1,
+        "professors": [
+            "Cheryl Skinner"
+        ]
+    },
+    "SHP Respiratory Care and Diagnostic Science - Adjunct Faculty": {
+        "professor_count": 1,
+        "professors": [
+            "Aaron Light"
+        ]
+    },
+    "SHP Resprtry Care Diagnstc Scn": {
+        "professor_count": 1,
+        "professors": [
+            "Lisa M. Trujillo"
+        ]
+    },
+    "SHP School of Health Professions Office of the Dean": {
+        "professor_count": 1,
+        "professors": [
+            "Abiodun Emmanuel Akinwuntan"
+        ]
+    },
+    "SOM Internal Medicine": {
+        "professor_count": 4,
+        "professors": [
+            "Weijing Sun",
+            "Rob Tarran",
+            "Diego Robles Mazzotti",
+            "Joseph E. Donnelly"
+        ]
+    },
+    "SOM MD/PhD": {
+        "professor_count": 1,
+        "professors": [
+            "Timothy Fields"
+        ]
+    },
+    "SOM ODI": {
+        "professor_count": 1,
+        "professors": [
+            "Maria Alonso Luaces"
+        ]
+    },
+    "SOM Salina Salina Campus": {
+        "professor_count": 1,
+        "professors": [
+            "Bradley Daily"
+        ]
+    },
+    "SOM Salina School of Medicine Salina Campus": {
+        "professor_count": 1,
+        "professors": [
+            "Jeremiah S Ostmeyer"
+        ]
+    },
+    "SOM Wichita ASA Coordinators": {
+        "professor_count": 1,
+        "professors": [
+            "Kaysey Ann Richardson"
+        ]
+    },
+    "SOM Wichita Academic & Student Affairs": {
+        "professor_count": 1,
+        "professors": [
+            "Ally Teresa Turner"
+        ]
+    },
+    "SOM Wichita Family & Community Medicine Staff": {
+        "professor_count": 1,
+        "professors": [
+            "Mary Hursey"
+        ]
+    },
+    "SOM Wichita Internal Medicine": {
+        "professor_count": 4,
+        "professors": [
+            "Richard Muraga",
+            "Cynthia Kibet",
+            "Ali Sean Jahansooz",
+            "Jane Gitau"
+        ]
+    },
+    "SOM Wichita Internal Medicine Staff": {
+        "professor_count": 1,
+        "professors": [
+            "Kaitlyn Lewis"
+        ]
+    },
+    "SOM Wichita OB-GYN": {
+        "professor_count": 1,
+        "professors": [
+            "Michelle Redmond"
+        ]
+    },
+    "SOM Wichita Office of Research": {
+        "professor_count": 1,
+        "professors": [
+            "Hayrettin Okut"
+        ]
+    },
+    "SOM Wichita Pediatrics-Ambulatory": {
+        "professor_count": 1,
+        "professors": [
+            "Mark E Harrison"
+        ]
+    },
+    "SOM Wichita Population Health Faculty": {
+        "professor_count": 2,
+        "professors": [
+            "Dr. Elizabeth A Ablah",
+            "Jack Alvin Brown"
+        ]
+    },
+    "SOM Wichita Psychiatry & Behavioral Science)": {
+        "professor_count": 1,
+        "professors": [
+            "Cheryl Ann Wehler"
+        ]
+    },
+    "SOM Wichita Surgery": {
+        "professor_count": 1,
+        "professors": [
+            "Sarah Corn"
+        ]
+    },
+    "SON Acute, Chronic, Continuing Care Faculty": {
+        "professor_count": 9,
+        "professors": [
+            "JoAnn Peterson",
+            "Kristi Williams",
+            "Kelly Bosak",
+            "Kesa Jo Herlihy",
+            "Jerrihlyn L. McGee",
+            "Christina J Phillips",
+            "Janet D Pierce",
+            "Colleen Terese Paramesh",
+            "Qiuhua Shen"
+        ]
+    },
+    "SON Executive Management": {
+        "professor_count": 5,
+        "professors": [
+            "Dr. Nelda Godfrey",
+            "Jill Peltzer",
+            "Laura Michelle Klenke-Borgmann",
+            "Cynthia S Teel",
+            "Amy Lou Garcia"
+        ]
+    },
+    "SON Family, Community, & Health Systems Faculty": {
+        "professor_count": 8,
+        "professors": [
+            "Ericka J. Sanner-Stiehr",
+            "Dr. Lucinda / Cindy Whitney",
+            "Karen Lorena Weis",
+            "Dr. LaVerne Manos",
+            "Amanda Emerson",
+            "Jessica Brunsman",
+            "Chito Arcos Belchez",
+            "Cara Busenhart"
+        ]
+    },
+    "SON Graduate Adjunct Faculty": {
+        "professor_count": 1,
+        "professors": [
+            "Caryl Goodyear"
+        ]
+    },
+    "Salina Campus": {
+        "professor_count": 1,
+        "professors": [
+            "Scott Owings"
+        ]
+    },
+    "School Of Nursing": {
+        "professor_count": 8,
+        "professors": [
+            "Teresa Stenner",
+            "Jean Suzanne Mitchell",
+            "Michelle Simone Cochran",
+            "Barbara Polivka",
+            "Maryellen Potts",
+            "Shin Hye Park",
+            "Tanner S Funk",
+            "Krysta Ramirez Henry"
+        ]
+    },
+    "School of Medicine-Exec Dean": {
+        "professor_count": 4,
+        "professors": [
+            "Cayla Teal",
+            "Charles Robert Waller",
+            "Lisa Ann Mena",
+            "Faith Madeline Butler"
+        ]
+    },
+    "School of Pharmacy": {
+        "professor_count": 6,
+        "professors": [
+            "Janelle Faye Ruisinger",
+            "Bradley J Newell",
+            "Barbara N Timmermann",
+            "Cheryl Holcomb",
+            "Robert L. Emerson",
+            "Joseph E Heidrick"
+        ]
+    },
+    "School of Professional Studies": {
+        "professor_count": 32,
+        "professors": [
+            "Frank P Moley III",
+            "Will Blalock",
+            "Karina Addari",
+            "Reginald M Bess",
+            "Janie Prather",
+            "Emily Hedges Vietti",
+            "Jack Treml",
+            "Heather McCain",
+            "Jim Lourentzos",
+            "Kimberly Adina Anderson",
+            "Sonia Thomas",
+            "Lee Charles Stuart",
+            "Aidin Delgoshaei",
+            "Tom H Bowlin",
+            "Ravi Baburajan",
+            "Richard John Cameron",
+            "Shannon William Pettiford",
+            "Michelle R Riley",
+            "Herbert R. Tuttle",
+            "Jimmie Flores",
+            "Gary Craig Broils",
+            "Stacey McIntosh-Lily",
+            "Blake Douglas Bryant",
+            "Bill Capps",
+            "Randall L Logan",
+            "Jessica Provost",
+            "Sarah Beth Webb",
+            "Jacque Eidson",
+            "Jordan Tyler Atkinson",
+            "Brendan C Mattingly",
+            "Kelly Wibbenmeyer",
+            "Petra Martha Horn-Marsh"
+        ]
+    },
+    "School of Public Affairs&Admin": {
+        "professor_count": 24,
+        "professors": [
+            "Karl Brooks",
+            "Dorothy Marie Daley",
+            "Marilu Goodyear",
+            "Hala O O Altamimi",
+            "Zach Mohr",
+            "Nicole Marie Humphrey",
+            "Charles R Epp",
+            "Benjamin G Merriman",
+            "Bradley W Lane",
+            "Doug Hermes",
+            "Michael Todd Grube",
+            "Lee Charles Stuart",
+            "Misty Lee Heggeness",
+            "Christopher Koliba",
+            "Edward J Jepson",
+            "Joel Mendez",
+            "Hannes Zacharias",
+            "Hye-Sung Han",
+            "Bonnie J Johnson",
+            "Yiwen Wu",
+            "Heather Getha-Taylor",
+            "Rachel M Krause",
+            "Lindsey Ward Lyles",
+            "Michael Eglinski"
+        ]
+    },
+    "Slavic, German, Eurasian Stdie": {
+        "professor_count": 14,
+        "professors": [
+            "Bogi Perelmutter",
+            "Alpaslan Ciftci",
+            "Oleksandra Ihorivna Wallo",
+            "Ani Kokobobo",
+            "Biljana Konatar",
+            "Irina Anatolyevna Six",
+            "Andriyana Baran",
+            "Stephen McCartney Dickey",
+            "Vitaly A Chernetsky",
+            "Nina Vyatkina",
+            "Detlev Weber",
+            "Marc L. Greenberg",
+            "Svetlana Petkova Vassileva-Karagyozova",
+            "Razi Ahmad"
+        ]
+    },
+    "Social Welfare": {
+        "professor_count": 66,
+        "professors": [
+            "Jasmin Noel Foster",
+            "David Adams",
+            "Terry L Koenig",
+            "E Alexander",
+            "Mickey Overton",
+            "Audrey Jo Cress",
+            "Clara Sands",
+            "Christina Dianne Boyd",
+            "Delano Durice Thomas",
+            "Whitney Ann Grube",
+            "Derrick Alan Kranke",
+            "Heather A Bradley",
+            "Oscar Orozco-Aguilar",
+            "Laura L Ramirez",
+            "Tadeo Weiner Davis",
+            "Sasha Bojkovic",
+            "Briana Leigh McGeough",
+            "Tara Vanessa Garrity",
+            "Kelly Giovannetti",
+            "Kathryn Recca Berringer",
+            "Maggie Tremblay",
+            "Erin Reazin",
+            "Stef Sloan",
+            "Sarah Jen",
+            "Logan Shinkai Knight",
+            "Lisa Street",
+            "Kelly Ann Jones",
+            "Sonya Renee Alexander",
+            "Kelsey Anne Rose",
+            "Nick Harper",
+            "Roslyn L Christopher",
+            "Renee White",
+            "Meredith Elise Bagwell-Gray",
+            "Tara Rheann Starwalt",
+            "Reggie Jackson",
+            "Nicholas Bracken",
+            "Michael R Riquino",
+            "Dustin Michael Fish",
+            "Edward Thomas Scanlon",
+            "Nicole Gilmore",
+            "Brynn M Fowler",
+            "Michelle Richardson Ridley",
+            "Melinda Kay Lewis",
+            "Giselle Scott",
+            "Amittia Lonette Parker",
+            "Clara Anderson Sainte",
+            "Megan Lee Hosterman",
+            "Cassy Jean Ainsworth",
+            "Kortney Angela Carr",
+            "Stuart Neal Waldman",
+            "Shanel Marie Bishop",
+            "Jerilyn Smith",
+            "Rebeca J Sandoval",
+            "Kyla Collece Bennett",
+            "Joonmo Kang",
+            "Jody Brook",
+            "Chandra M Gordon",
+            "Sara E Rust-Martin",
+            "Claire Willey-Sthapit",
+            "Becci A. Akin",
+            "Ricka Olga Mammah",
+            "Nancy Jo Kepple",
+            "Sherry Lynn Warren",
+            "Kristin Vernon",
+            "Camilah G Hicks",
+            "Juliana Carlson"
+        ]
+    },
+    "Sociology": {
+        "professor_count": 18,
+        "professors": [
+            "Jarron M Saint Onge",
+            "Paul Stock",
+            "Elizabeth Felix",
+            "ChangHwan Kim",
+            "Joane Nagel",
+            "Lisa-Marie Wright",
+            "Mehrangiz Najafizadeh",
+            "Kelly Haesung Chong",
+            "Joanna Veazey Brooks",
+            "Eric Hanley",
+            "Kelly C Sharron",
+            "Robert J. Antonio",
+            "Argun Saatcioglu",
+            "Kevin McCannon",
+            "Fithawee G. Tzeggai",
+            "Tracey LaPierre",
+            "Mr Brian L. Donovan",
+            "David N Smith"
+        ]
+    },
+    "Spanish & Portuguese": {
+        "professor_count": 8,
+        "professors": [
+            "Robert Bayliss",
+            "Isidro Rivera",
+            "Antonio R. Simoes",
+            "Ana Laura Marques",
+            "Jonathan E Mayhew",
+            "Patricia W Manning",
+            "Amy E Rossomondo",
+            "Margot AW Versteeg"
+        ]
+    },
+    "Special Education": {
+        "professor_count": 28,
+        "professors": [
+            "Ryan O Kellems",
+            "Karrie Shogren",
+            "Trina D Spencer",
+            "Ms Irma Faye Brasseur-Hock",
+            "Ron Malcolm",
+            "Lawrence M Finn",
+            "Maria Lemler Hugh",
+            "Elizabeth A Stevens",
+            "Amanda Renae Rawlins",
+            "Sean Joseph Smith",
+            "James D Basham",
+            "Neal Kingston",
+            "Deborah Ayers Griswold",
+            "Mr Michael Hernandez",
+            "Yong Zhao",
+            "Elissa Lockman Turner",
+            "Brian Herndon",
+            "Kathleen Nicole Tuck",
+            "Wayne Sailor",
+            "Gregory Cheatham",
+            "Glennda Kashner Mckeithan",
+            "Jennifer A Kurth",
+            "Alison Zagona",
+            "Nancy Milner",
+            "Paige Bennett Eyler",
+            "Lisa Dieker",
+            "Argun Saatcioglu",
+            "Stacie L Dojonovic Schutzman"
+        ]
+    },
+    "Speech-Language-Hearing": {
+        "professor_count": 25,
+        "professors": [
+            "Kris Pedersen",
+            "Sophie Guthrey",
+            "Alayna Marie Wilson",
+            "Nancy C. Brady",
+            "Erin Elizabeth Williams",
+            "Trina D Spencer",
+            "Jim Anders Rasband",
+            "Kate Dejarnette",
+            "Julie Hanson Gatts",
+            "Raul Rojas",
+            "Mohammad Karbakhsh",
+            "Krysta D Green",
+            "Courtney Brooke Summers",
+            "Mabel L. Rice",
+            "Tanya Annette Myrick",
+            "Matt Gillispie",
+            "Riley cantrell",
+            "Elizabeth Leatherman",
+            "Meghan Davidson",
+            "David Slusky",
+            "Ishita Kapoor",
+            "Michael S Vitevitch",
+            "Cynthia R Hunter",
+            "Panying Rong",
+            "Olivia Ann Boorom"
+        ]
+    },
+    "SurgGen Surgery General": {
+        "professor_count": 3,
+        "professors": [
+            "Barth Wilkinson Wright",
+            "Lyndsey Jo Kilgore",
+            "German Berbel"
+        ]
+    },
+    "SurgOrtho Surgery Orthopedics": {
+        "professor_count": 2,
+        "professors": [
+            "Joseph Arnold Weiner",
+            "Terence Mciff"
+        ]
+    },
+    "SurgUrol Surgery Urology": {
+        "professor_count": 1,
+        "professors": [
+            "Richard Jacob Fantus"
+        ]
+    },
+    "Surgery General": {
+        "professor_count": 2,
+        "professors": [
+            "Scott Turner",
+            "Benjamin Mark Martin"
+        ]
+    },
+    "Theatre and Dance": {
+        "professor_count": 14,
+        "professors": [
+            "Mechele Leon",
+            "Kelly Lynn Vogel",
+            "Rana Esfandiary",
+            "Maya Lynn Tillman",
+            "Dennis P. Christilles",
+            "Jane Stewart Barnette",
+            "Ashley Katherine Brittingham",
+            "Ann Sitzman",
+            "Markus Potter",
+            "Shannon K Stewart",
+            "Michelle Hayes",
+            "Rebecca Laughlin Rovit",
+            "Laura Kirk",
+            "Henry Bial"
+        ]
+    },
+    "Thoracic Surgery HS": {
+        "professor_count": 1,
+        "professors": [
+            "Melissa Armstrong"
+        ]
+    },
+    "Undergraduate Biology Program": {
+        "professor_count": 6,
+        "professors": [
+            "Trevor J Rivers",
+            "Dyan Morgan",
+            "Eileen Mary Hotze",
+            "Patrick Arthur Lansdon",
+            "Victor Hugo Gonzalez",
+            "Denny Ray Swartzlander"
+        ]
+    },
+    "Undergraduate Education": {
+        "professor_count": 2,
+        "professors": [
+            "Kim Warren",
+            "Melissa E Johnson"
+        ]
+    },
+    "Visual Art": {
+        "professor_count": 26,
+        "professors": [
+            "Elizabeth Ann Langdon",
+            "Poppy DeltaDawn",
+            "Eric Leif Conrad",
+            "Sunyoung Cheong",
+            "Luke Samuel Jordan",
+            "Gina Christy Westergard",
+            "Benjamin Jay Rosenthal",
+            "Moll Caffey",
+            "Michael J. Krueger",
+            "Steven D Gurysh",
+            "Shawn Bitters",
+            "Liz Kowalchuk",
+            "Erick Rodolfo Morales Scholz",
+            "Michael L McCaffrey",
+            "Norman Akers",
+            "Allie Fischer",
+            "Jon Robert Havener",
+            "Mr Marshall Maude",
+            "Mary Anne Jordan",
+            "Becky Johnson",
+            "Yoonmi Nam",
+            "Megan Kaminski",
+            "Rashawn Ryan Griffin",
+            "Francisca Maria Velasco",
+            "Sarah Corinne Gross",
+            "Sophia Cuevas"
+        ]
+    },
+    "Women Gender & Sexuality Stds": {
+        "professor_count": 9,
+        "professors": [
+            "Jeanne Vaccaro",
+            "Amber Michelle Brown",
+            "Sarah E. Deer",
+            "Katie Batza",
+            "Stacey Vanderhurst",
+            "Charlene L. Muehlenhard",
+            "Aimee Wilson",
+            "Akiko Takeyama",
+            "Abraham Brookes Weil"
+        ]
+    }
+}

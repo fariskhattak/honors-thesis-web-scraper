@@ -1,0 +1,1672 @@
+{
+    "AEC Listening & Speaking": [
+        "AECL"
+    ],
+    "AEC Reading & Writing": [
+        "AECR"
+    ],
+    "Academic Affairs": [
+        "ACAD-DEPT",
+        "UNIV"
+    ],
+    "Academic Success": [
+        "ACAD"
+    ],
+    "Accompanying": [
+        "ACMP"
+    ],
+    "Accounting": [
+        "ACCT"
+    ],
+    "Actv Comp-Based Excel-Driven": [
+        "ACED"
+    ],
+    "Advanced Basic Design Studies": [
+        "ABDS"
+    ],
+    "Advanced Design Studies": [
+        "ADS"
+    ],
+    "Aerospace Engineering": [
+        "AE"
+    ],
+    "Affiliated Programs": [
+        "AFFL-DEPT",
+        "AFFL"
+    ],
+    "African & African-American St": [
+        "AAAS"
+    ],
+    "African/African Amer Studies": [
+        "AAAS"
+    ],
+    "Air": [
+        "AIR"
+    ],
+    "Air Force ROTC": [
+        "AIR"
+    ],
+    "Ambulatory Clinic": [
+        "AMBC-DEPT",
+        "AMBC"
+    ],
+    "Ambulatory Medicine": [
+        "AMED-DEPT",
+        "AMED",
+        "AMMD"
+    ],
+    "American Indian St (x-ref)": [
+        "AMI-DEPT",
+        "AMI"
+    ],
+    "American Sign Lang & Deaf Stds": [
+        "ASLD"
+    ],
+    "American Studies": [
+        "AMS"
+    ],
+    "Anatomy": [
+        "ATMY"
+    ],
+    "Anatomy and Cell Biology": [
+        "ANTM"
+    ],
+    "Anesthesiology": [
+        "ANSL"
+    ],
+    "Animation": [
+        "ANIM"
+    ],
+    "Anthropology": [
+        "ANTH"
+    ],
+    "Applied Behavioral Science": [
+        "ABSC"
+    ],
+    "Applied English Center": [
+        "AEC"
+    ],
+    "Applied English Ctr Special Pr": [
+        "AESP"
+    ],
+    "Arabic": [
+        "ARAB"
+    ],
+    "Architectural Engineering": [
+        "ARCE"
+    ],
+    "Architecture": [
+        "ARCH"
+    ],
+    "Architecture Design": [
+        "ARCD"
+    ],
+    "Army": [
+        "ARMY"
+    ],
+    "Army ROTC": [
+        "ARMY"
+    ],
+    "Art": [
+        "ART"
+    ],
+    "Art Foundations": [
+        "AFND"
+    ],
+    "Arts and Humanities": [
+        "AH"
+    ],
+    "Astronomy": [
+        "ASTR"
+    ],
+    "Athletic Training": [
+        "ATTR"
+    ],
+    "Atmospheric Science": [
+        "ATMO"
+    ],
+    "Audiology": [
+        "AUD"
+    ],
+    "BA Quantitative Reasoning": [
+        "QR"
+    ],
+    "BGS Career Course": [
+        "BGSC"
+    ],
+    "Band": [
+        "BAND"
+    ],
+    "Basic Design Studies": [
+        "BDS"
+    ],
+    "Bassoon": [
+        "BASN"
+    ],
+    "Biochemistry": [
+        "BIOC"
+    ],
+    "Biochemistry & Molecular Biol": [
+        "BCHM"
+    ],
+    "Bioengineering": [
+        "BIOE"
+    ],
+    "Bioinformatics": [
+        "BINF"
+    ],
+    "Biological Sciences": [
+        "BSCI"
+    ],
+    "Biology": [
+        "BIOL"
+    ],
+    "Biometry": [
+        "BIOM-DEPT",
+        "BIOM",
+        "BMTR"
+    ],
+    "Biostatistics": [
+        "BIOS"
+    ],
+    "Biostatistics and Data Science": [
+        "BIOS-DEPT",
+        "BIOS",
+        "DATA",
+        "HDSC",
+        "STAT"
+    ],
+    "Biotechnology": [
+        "BTEC"
+    ],
+    "Bosnian/Croatian/Serbian": [
+        "BCRS"
+    ],
+    "Brass": [
+        "BRSS"
+    ],
+    "Business": [
+        "BUS"
+    ],
+    "Business Administration": [
+        "BBA"
+    ],
+    "Business Analytics": [
+        "BSAN"
+    ],
+    "Business Economics": [
+        "BE"
+    ],
+    "Business Law": [
+        "BLAW"
+    ],
+    "Cancer Biology": [
+        "CBIO"
+    ],
+    "Capstone": [
+        "CAP"
+    ],
+    "Cardiothoracic Surgery": [
+        "CTSU"
+    ],
+    "Cardiovascular Sonography": [
+        "CVS"
+    ],
+    "Carillon": [
+        "CARI"
+    ],
+    "Center for East Asian Studies": [
+        "CEAS"
+    ],
+    "Center on Aging": [
+        "CAGE-DEPT",
+        "GERO"
+    ],
+    "Ceramics": [
+        "CER"
+    ],
+    "Chamber Music": [
+        "CHAM"
+    ],
+    "Chemical & Petroleum Engr": [
+        "C&PE"
+    ],
+    "Chemistry": [
+        "CHEM"
+    ],
+    "Child Language Doctoral Prog": [
+        "CLDP"
+    ],
+    "Chinese": [
+        "CHIN"
+    ],
+    "Choral Music": [
+        "CHOR"
+    ],
+    "Church Music": [
+        "CHUR"
+    ],
+    "Civil & Envr Engineering": [
+        "CE"
+    ],
+    "Civil, Envr & Arch Engineering": [
+        "CEAE-DEPT",
+        "ARCE",
+        "CE",
+        "CMGT"
+    ],
+    "Civil/Environ/Arch Engineering": [
+        "CEAE-DEPT",
+        "ARCE",
+        "CE",
+        "CMGT"
+    ],
+    "Clarinet": [
+        "CLAR"
+    ],
+    "Classics": [
+        "CLSX"
+    ],
+    "Clinical Lab Sciences": [
+        "CLS"
+    ],
+    "College of Lib Arts & Sciences": [
+        "CLAS"
+    ],
+    "College of Liberal Arts & Sci": [
+        "CLAS"
+    ],
+    "Communication Studies": [
+        "COMS"
+    ],
+    "Communications": [
+        "CMS"
+    ],
+    "Computational Biology": [
+        "BINF"
+    ],
+    "Computer Science (ref)": [
+        "CSCI-DEPT",
+        "CSCI"
+    ],
+    "Computers in Medical Education": [
+        "CMME-DEPT",
+        "CMME"
+    ],
+    "Conducting": [
+        "COND"
+    ],
+    "Consortium Agreement": [
+        "OCCA"
+    ],
+    "Construction Management": [
+        "CMGT"
+    ],
+    "Converted (Historical) Depts": [
+        "CNVRTD",
+        "AERO",
+        "AERT",
+        "AFHE",
+        "AFS",
+        "AHEA",
+        "AHSC",
+        "AIRS",
+        "AM",
+        "AMST",
+        "AMUS",
+        "ANA",
+        "APCP",
+        "B&P",
+        "BAC",
+        "BACT",
+        "BADM",
+        "BARI",
+        "BIOP",
+        "BLS",
+        "BMTY",
+        "BOT",
+        "BSED",
+        "C&I",
+        "CA&C",
+        "CB&P",
+        "CHE",
+        "CHMU",
+        "CJ",
+        "CLM",
+        "CLPA",
+        "CMLT",
+        "CMRT",
+        "CMUS",
+        "COH",
+        "COHE",
+        "COUN",
+        "CPSY",
+        "CS",
+        "DERM",
+        "DIRA",
+        "DRAF",
+        "E&CE",
+        "EC",
+        "ED",
+        "EDR",
+        "EDWG",
+        "EE",
+        "EM",
+        "EMP",
+        "EMT",
+        "ENS",
+        "ENTH",
+        "ENTO",
+        "ENVR",
+        "EPA",
+        "EPL",
+        "EPR",
+        "FASH",
+        "FL",
+        "FPCM",
+        "FPRC",
+        "GENT",
+        "GROM",
+        "GRPH",
+        "GUAR",
+        "H&CL",
+        "H&PS",
+        "HCFT",
+        "HE",
+        "HECH",
+        "HECO",
+        "HLTH",
+        "HMD",
+        "HMEC",
+        "HOEC",
+        "HPER",
+        "HREL",
+        "HSCA",
+        "HSED",
+        "HSTM",
+        "IEC",
+        "IMUN",
+        "INST",
+        "INT",
+        "INTE",
+        "INTH",
+        "IRSH",
+        "JAP",
+        "JRYR",
+        "JS",
+        "KU",
+        "LANG",
+        "LIBR",
+        "LIT",
+        "M&ME",
+        "MAE",
+        "MDJR",
+        "MDRD",
+        "MEDT",
+        "METR",
+        "MHSL",
+        "MILS",
+        "MM",
+        "MMB",
+        "MME",
+        "MORT",
+        "MS",
+        "MSED",
+        "MTEC",
+        "MUED",
+        "MUTH",
+        "NRAN",
+        "NRCH",
+        "NRMC",
+        "NRMH",
+        "NRMS",
+        "NRPC",
+        "NS",
+        "NSF",
+        "OBS",
+        "OL&L",
+        "OUTR",
+        "P&CB",
+        "PE",
+        "PERC",
+        "PHDI",
+        "PHED",
+        "PHM",
+        "PHY",
+        "PM",
+        "PREC",
+        "PS",
+        "PSCH",
+        "PSY",
+        "PT",
+        "PTH",
+        "RADT",
+        "RAON",
+        "RATH",
+        "ROML",
+        "RTEC",
+        "RTV",
+        "RTVF",
+        "S&EC",
+        "SCHR",
+        "SCI",
+        "SEC",
+        "SEES",
+        "SERB",
+        "SHOP",
+        "SP&A",
+        "SPCH",
+        "SPDR",
+        "SS",
+        "SSA",
+        "ST",
+        "SUM",
+        "SUR",
+        "SWAH",
+        "TCSU",
+        "TD&W",
+        "TDW",
+        "TE",
+        "THDR",
+        "THE",
+        "THES",
+        "THM",
+        "THMA",
+        "THRY",
+        "THTR",
+        "TRAN",
+        "VICL",
+        "VIOL",
+        "WC",
+        "WD",
+        "WSU",
+        "ZOOL"
+    ],
+    "Core SOM Preclinical Phase": [
+        "CORE"
+    ],
+    "Criminal Justice": [
+        "CRIM"
+    ],
+    "Critical Care Selective": [
+        "CCSL"
+    ],
+    "Croatian - Serbian": [
+        "CRSB"
+    ],
+    "Curriculum and Teaching": [
+        "C&T"
+    ],
+    "Curriculum & Teaching": [
+        "C&T"
+    ],
+    "Cytotechnology": [
+        "CYTO-DEPT",
+        "CYTO"
+    ],
+    "Czech": [
+        "CZCH"
+    ],
+    "Dance": [
+        "DANC"
+    ],
+    "Danish": [
+        "DANE"
+    ],
+    "Data Science": [
+        "DATA"
+    ],
+    "Deaf Education": [
+        "DE-DEPT",
+        "DE"
+    ],
+    "Decision Sciences": [
+        "DSCI"
+    ],
+    "Design": [
+        "DSGN-DEPT",
+        "ADS",
+        "ANIM",
+        "BDS",
+        "ILLU",
+        "INDD",
+        "IXD",
+        "PHTO",
+        "VISC"
+    ],
+    "Design Basic Studies": [
+        "DBS"
+    ],
+    "Design Foundations": [
+        "DFND"
+    ],
+    "Diagnostic Cardiac Sonography": [
+        "CSON"
+    ],
+    "Diagnostic Radiology": [
+        "DIAG"
+    ],
+    "Diagnostic Sciences": [
+        "DXSC"
+    ],
+    "Dietetics and Nutrition": [
+        "DN"
+    ],
+    "Doctor of Clinical Lab Science": [
+        "DCLS"
+    ],
+    "Double Bass": [
+        "DBBS"
+    ],
+    "Drawing": [
+        "DRWG"
+    ],
+    "Dutch": [
+        "DTCH"
+    ],
+    "Ear, Nose and Throat": [
+        "ENT-DEPT",
+        "ENT"
+    ],
+    "East Asian Languages & Cultures": [
+        "EALC"
+    ],
+    "East Asian Languages&Cultures": [
+        "EALC"
+    ],
+    "East Asian St (x-ref)": [
+        "EAS-DEPT",
+        "EAS"
+    ],
+    "Eastern Civilization": [
+        "ECIV"
+    ],
+    "Economics": [
+        "ECON"
+    ],
+    "Educ Leadership & Policy Stds": [
+        "ELPS"
+    ],
+    "Ed Leadership & Policy Studies": [
+        "ELPS"
+    ],
+    "Education": [
+        "EDUC"
+    ],
+    "Educational Psychology": [
+        "EPSY"
+    ],
+    "Elect Engr & Computer Science": [
+        "EECS"
+    ],
+    "Electrical Engr & Computer Sci": [
+        "EECS-DEPT",
+        "EECS",
+        "IT"
+    ],
+    "Electrical Engr & Comp Science": [
+        "EECS-DEPT",
+        "EECS",
+        "IT"
+    ],
+    "Emergency Room": [
+        "EMRM"
+    ],
+    "Emergency Room Department": [
+        "ERMD"
+    ],
+    "Engineering": [
+        "ENGR"
+    ],
+    "Engineering Management": [
+        "EMGT"
+    ],
+    "Engineering Physics": [
+        "EPHX"
+    ],
+    "English": [
+        "ENG"
+    ],
+    "English Secondary Lang Prof": [
+        "ESLP"
+    ],
+    "Entrepreneurship": [
+        "ENTR"
+    ],
+    "Environmental Studies": [
+        "EVRN"
+    ],
+    "Euphonium": [
+        "EUPH"
+    ],
+    "European Studies": [
+        "EURS"
+    ],
+    "Expanded Media": [
+        "EXM"
+    ],
+    "Family Practice": [
+        "FAPR"
+    ],
+    "Family and Community Medicine": [
+        "FCMD"
+    ],
+    "Fellow": [
+        "FELW"
+    ],
+    "Film and Media Studies": [
+        "FMS"
+    ],
+    "Finance": [
+        "FIN"
+    ],
+    "Flute": [
+        "FLUT"
+    ],
+    "Foreign Language 1st Level": [
+        "F1"
+    ],
+    "Foreign Language 2nd Level": [
+        "F2"
+    ],
+    "Foreign Language 3rd Level": [
+        "F3"
+    ],
+    "Foreign Language 4th Level": [
+        "F4"
+    ],
+    "Foreign Language Proficiency": [
+        "FP"
+    ],
+    "Foreign Study Program": [
+        "FRSP"
+    ],
+    "French": [
+        "FREN"
+    ],
+    "French Horn": [
+        "FRHN"
+    ],
+    "French, Francophone, & Ital St": [
+        "FREN-DEPT",
+        "FREN",
+        "ITAL"
+    ],
+    "French, Francophone & Italian": [
+        "FREN-DEPT",
+        "FREN",
+        "ITAL"
+    ],
+    "Genetic Counseling": [
+        "GENC"
+    ],
+    "Geography": [
+        "GEOG"
+    ],
+    "Geography & Atmospheric Sci": [
+        "GEOG-DEPT",
+        "ATMO",
+        "GEOG"
+    ],
+    "Geography & Atmo Science": [
+        "GEOG-DEPT",
+        "ATMO",
+        "GEOG"
+    ],
+    "Geology": [
+        "GEOL"
+    ],
+    "Geriatrics": [
+        "GERI-DEPT",
+        "GERI"
+    ],
+    "German": [
+        "GERM"
+    ],
+    "German Studies": [
+        "GERM-DEPT",
+        "DTCH",
+        "HNGR",
+        "NORW",
+        "SCAN",
+        "SWED"
+    ],
+    "Global & International Studies": [
+        "GIST"
+    ],
+    "Ctr Global & Internatl Studies": [
+        "GIST"
+    ],
+    "Global Culture": [
+        "GLBC"
+    ],
+    "Global Indigenous Nations Stds": [
+        "GINS-DEPT",
+        "GINS"
+    ],
+    "Goal 1 Outcome 1": [
+        "GE11"
+    ],
+    "Goal 1 Outcome 2": [
+        "GE12"
+    ],
+    "Goal 2 Outcome 1": [
+        "GE21"
+    ],
+    "Goal 2 Outcome 2": [
+        "GE22"
+    ],
+    "Goal 3 Arts and Humanities": [
+        "GE3H"
+    ],
+    "Goal 3 Natural Sciences": [
+        "GE3N"
+    ],
+    "Goal 3 Social Sciences": [
+        "GE3S"
+    ],
+    "Goal 4 Outcome 1": [
+        "AE41"
+    ],
+    "Goal 4 Outcome 2": [
+        "AE42"
+    ],
+    "Goal 5 Outcome 1": [
+        "AE51"
+    ],
+    "Goal 5 Outcome 2": [
+        "AE52"
+    ],
+    "Goal 6 Outcome 1": [
+        "AE61"
+    ],
+    "Graduate School": [
+        "GS"
+    ],
+    "Graduate Studies": [
+        "GS-DEPT",
+        "GS"
+    ],
+    "Graduate Studies Medical Ctr": [
+        "GSMC"
+    ],
+    "Greek": [
+        "GRK"
+    ],
+    "Guitar": [
+        "GUIT"
+    ],
+    "Gynecology and Obstetrics": [
+        "GYNO"
+    ],
+    "Haitian": [
+        "HAIT"
+    ],
+    "Harp": [
+        "HARP"
+    ],
+    "Harpsichord": [
+        "HPCD"
+    ],
+    "Hausa": [
+        "HAUS"
+    ],
+    "Health Data Science": [
+        "HDSC"
+    ],
+    "Health Information Management": [
+        "HIMG-DEPT",
+        "HIMG"
+    ],
+    "Health Information Mgmt": [
+        "HEIM"
+    ],
+    "Health Management": [
+        "HMGT"
+    ],
+    "Health Policy & Management": [
+        "HP&M"
+    ],
+    "Health Sciences": [
+        "HSCI"
+    ],
+    "Health Sport & Exercise Sci": [
+        "HSES-DEPT",
+        "HSES"
+    ],
+    "Health, Sport & Exercise Sci": [
+        "HSES"
+    ],
+    "Health, Sport, & Exercise Sci": [
+        "HSES"
+    ],
+    "Hearing and Speech": [
+        "AUD-DEPT",
+        "AUD",
+        "SLPD"
+    ],
+    "Hebrew": [
+        "HEBR"
+    ],
+    "Historical Adm&Mus St (x-ref)": [
+        "HADM-DEPT",
+        "HADM"
+    ],
+    "History": [
+        "HIST"
+    ],
+    "History & Phil of Medicine": [
+        "H&PM-DEPT",
+        "H&PM"
+    ],
+    "History & Philosophy of Medicine": [
+        "HPMD"
+    ],
+    "History of Art": [
+        "HA"
+    ],
+    "History&Philosophy of Medicine": [
+        "HPMD"
+    ],
+    "Honors Program": [
+        "HNRS"
+    ],
+    "Human Dev & Family Life": [
+        "HDFL-DEPT",
+        "HDFL"
+    ],
+    "Humanities": [
+        "HUM"
+    ],
+    "Humanities & Western Civ": [
+        "HWC-DEPT",
+        "HWC"
+    ],
+    "Illustration & Animation": [
+        "ILLU"
+    ],
+    "Indigenous Nations Studies": [
+        "INS"
+    ],
+    "Indigenous Studies": [
+        "ISP"
+    ],
+    "Industrial Design": [
+        "INDD"
+    ],
+    "Information Processing Studies": [
+        "IPS-DEPT",
+        "IPS"
+    ],
+    "Information Systems Technology": [
+        "IST"
+    ],
+    "Information Technology": [
+        "ITEC"
+    ],
+    "Institute for Leadership Stds": [
+        "LDST-DEPT",
+        "LDST"
+    ],
+    "Inst for Leadership Studies": [
+        "LDST-DEPT",
+        "LDST"
+    ],
+    "Inter Prog in Hlth Informatics": [
+        "IPHI"
+    ],
+    "Interaction Design": [
+        "IXD"
+    ],
+    "Interdisciplinary": [
+        "IDSP"
+    ],
+    "Interior Architecture": [
+        "IA"
+    ],
+    "Interior Design": [
+        "INTD"
+    ],
+    "Internal Medicine": [
+        "INMD"
+    ],
+    "International Business": [
+        "IBUS"
+    ],
+    "International Studies": [
+        "INTL-DEPT",
+        "INTL"
+    ],
+    "Intro to Clinical Medicine": [
+        "ICM"
+    ],
+    "Italian": [
+        "ITAL"
+    ],
+    "Japanese": [
+        "JPN"
+    ],
+    "Jazz": [
+        "JAZZ"
+    ],
+    "Jewish Studies": [
+        "JWSH"
+    ],
+    "Journalism": [
+        "JOUR"
+    ],
+    "Journalism & Mass Commncations": [
+        "JMC"
+    ],
+    "Journalism and Mass Comnictins": [
+        "JOUR-DEPT",
+        "JMC",
+        "JOUR"
+    ],
+    "Judaic Studies": [
+        "JWSH"
+    ],
+    "Kaqchikel Maya": [
+        "KQKL"
+    ],
+    "KiSwahili": [
+        "KISW"
+    ],
+    "Korean": [
+        "KOR"
+    ],
+    "Lab and Field Experiences": [
+        "LFE"
+    ],
+    "Latin": [
+        "LAT"
+    ],
+    "Latin American & Caribbean Std": [
+        "LAA-DEPT",
+        "LAA"
+    ],
+    "Latin American & Carribean Std": [
+        "LAC"
+    ],
+    "Latin Amer & Caribbean Studies": [
+        "LAC"
+    ],
+    "Latin American Area Studies": [
+        "LAA"
+    ],
+    "Law": [
+        "LAW"
+    ],
+    "Law School": [
+        "LAW"
+    ],
+    "Law and Society": [
+        "LWS"
+    ],
+    "Leadership Studies": [
+        "LDST"
+    ],
+    "Liberal Arts & Sciences": [
+        "LA&S"
+    ],
+    "Linguistics": [
+        "LING"
+    ],
+    "MASU": [
+        "MASU"
+    ],
+    "Management and Leadership": [
+        "MGMT"
+    ],
+    "Marine Corps": [
+        "MCOR"
+    ],
+    "Marketing": [
+        "MKTG"
+    ],
+    "Math and Statistics": [
+        "MTS"
+    ],
+    "Mathematics": [
+        "MATH"
+    ],
+    "Mechanical Engineering": [
+        "ME"
+    ],
+    "Med-Hematology/Oncology": [
+        "MDHO-DEPT",
+        "MDHO"
+    ],
+    "Medical Education Admin": [
+        "MDAD-DEPT",
+        "MDAD"
+    ],
+    "Medical Imaging Sciences": [
+        "DR-DEPT2",
+        "CSON",
+        "STEC"
+    ],
+    "Medical Research": [
+        "MDRS-DEPT",
+        "MDRS"
+    ],
+    "Medicinal Chemistry": [
+        "MDCM"
+    ],
+    "Medicine": [
+        "MED"
+    ],
+    "Medicine/Pediatrics": [
+        "MDPD-DEPT",
+        "MDPD"
+    ],
+    "Medicine/Psychiatry": [
+        "MDPS-DEPT",
+        "MDPS"
+    ],
+    "Metalsmithing / Jewelry": [
+        "METL"
+    ],
+    "Metalsmithing/Jewelry": [
+        "METL"
+    ],
+    "Micro, Molecular Gen & Immun": [
+        "MICR"
+    ],
+    "Microbiology": [
+        "MBIO"
+    ],
+    "Museum Studies": [
+        "MUSE"
+    ],
+    "Music": [
+        "MUS"
+    ],
+    "Music Ed & Music Therapy": [
+        "MEMT"
+    ],
+    "Music Theory & Composition": [
+        "MTHC"
+    ],
+    "Musicology": [
+        "MUSC"
+    ],
+    "Natural and Physical Sci Lab": [
+        "NLAB"
+    ],
+    "Natural and Physical Sci Lec": [
+        "NLEC"
+    ],
+    "Natural and Physical Sciences": [
+        "NPS"
+    ],
+    "Navy": [
+        "NAVY"
+    ],
+    "Naval ROTC": [
+        "NAVY"
+    ],
+    "Neurological Surgery": [
+        "NSUR-DEPT",
+        "NSUR"
+    ],
+    "Neurology": [
+        "NEUR"
+    ],
+    "Neurology Clerkship": [
+        "NROL"
+    ],
+    "Neuroscience": [
+        "NURO"
+    ],
+    "Nuclear Medicine": [
+        "NMED"
+    ],
+    "Nurse Anesthesia": [
+        "NURA"
+    ],
+    "Nursing": [
+        "NURS"
+    ],
+    "Nursing (Graduate": [
+        "NRSG"
+    ],
+    "Nursing (Graduate)": [
+        "NRSG"
+    ],
+    "Oboe": [
+        "OBOE"
+    ],
+    "Obstetrics and Gynecology": [
+        "OBGN"
+    ],
+    "Occup Thrpy Doct Early Entry": [
+        "OTDE"
+    ],
+    "Occupational Therapy": [
+        "OCTH"
+    ],
+    "Occupational Therapy (Doctorate": [
+        "OTD"
+    ],
+    "Occupational Therapy (MS": [
+        "OTMS"
+    ],
+    "Occupational Therapy (MS)": [
+        "OTMS"
+    ],
+    "OccupationalTherapy(Doctorate)": [
+        "OTD"
+    ],
+    "Office of the Univ Registrar": [
+        "OURU"
+    ],
+    "Operations Management": [
+        "OMGT"
+    ],
+    "Ophthalmology": [
+        "OPTH"
+    ],
+    "Orchestra": [
+        "ORCH"
+    ],
+    "Organ": [
+        "ORGN"
+    ],
+    "Orthopedic Surgery": [
+        "ORTHO-DEPT",
+        "ORTHO"
+    ],
+    "Otorhinolaryngology": [
+        "OTOR"
+    ],
+    "Painting": [
+        "PNTG"
+    ],
+    "Pathology": [
+        "PATH"
+    ],
+    "Pathology & Oncology": [
+        "P&O-DEPT",
+        "P&O"
+    ],
+    "Pathology and Oncology": [
+        "PAON"
+    ],
+    "Peace and Conflict Studies": [
+        "PCS"
+    ],
+    "Pediatrics": [
+        "PED"
+    ],
+    "Percussion": [
+        "PCUS"
+    ],
+    "Percussion Ensemble": [
+        "PENS"
+    ],
+    "Persian": [
+        "PERS"
+    ],
+    "Pharm, Tox, & Therapeutics": [
+        "PHRM"
+    ],
+    "Pharmaceutical Chemistry": [
+        "PHCH"
+    ],
+    "Pharmacology": [
+        "PHCL"
+    ],
+    "Pharmacology and Toxicology": [
+        "P&TX"
+    ],
+    "Pharmacology & Toxicology": [
+        "P&TX"
+    ],
+    "Pharmacy": [
+        "PHAR"
+    ],
+    "Pharmacy Practice": [
+        "PHPR"
+    ],
+    "Philosophy": [
+        "PHIL"
+    ],
+    "Photography": [
+        "PHTO"
+    ],
+    "Photomedia": [
+        "PHMD"
+    ],
+    "PhysThr, RehabSci & AthlTrng": [
+        "PTRS-DEPT",
+        "ATTR",
+        "PTRS",
+        "REHS"
+    ],
+    "Physical Therapy & Rehab Sci": [
+        "PTRS"
+    ],
+    "Physical Therapy Education": [
+        "PHTH-DEPT",
+        "PHTH"
+    ],
+    "Physics": [
+        "PHSX"
+    ],
+    "Physics & Astronomy": [
+        "PHSX-DEPT",
+        "ASTR",
+        "PHSX"
+    ],
+    "Physics and Astronomy": [
+        "PHSX-DEPT",
+        "ASTR",
+        "PHSX"
+    ],
+    "Physiology": [
+        "PHSL"
+    ],
+    "Piano": [
+        "PIAN"
+    ],
+    "Polish": [
+        "PLSH"
+    ],
+    "Political Science": [
+        "POLS"
+    ],
+    "Population Health": [
+        "POHW-DEPT",
+        "PVMD",
+        "HP&M",
+        "PRVM"
+    ],
+    "POPH Population Health Education - Active Adjunct Faculty": [
+        "POHW-DEPT",
+        "PVMD",
+        "HP&M",
+        "PRVM"
+    ],
+    "POPH Population Health Faculty": [
+        "POHW-DEPT",
+        "PVMD",
+        "HP&M",
+        "PRVM"
+    ],
+    "Portuguese": [
+        "PORT"
+    ],
+    "Preceptorship": [
+        "PRCP-DEPT",
+        "PRCP"
+    ],
+    "Preventive Medicine": [
+        "PVMD"
+    ],
+    "Printmaking": [
+        "PRNT"
+    ],
+    "Professional Studies": [
+        "PFS"
+    ],
+    "Project Management": [
+        "PMGT"
+    ],
+    "Psychiatry": [
+        "PYCH"
+    ],
+    "Psychology": [
+        "PSYC"
+    ],
+    "Psychology & Research in Educ": [
+        "PRE-DEPT",
+        "PRE"
+    ],
+    "Public Administration": [
+        "PUAD"
+    ],
+    "Public Affairs & Adm, School": [
+        "PUAD-DEPT",
+        "LWS",
+        "PUAD",
+        "SPAA",
+        "UBPL"
+    ],
+    "Quechua": [
+        "QUEC"
+    ],
+    "ROTC: Air and Space Studies": [
+        "AIR-DEPT",
+        "AIR"
+    ],
+    "ROTC: Military Science (Army)": [
+        "ARMY-DEPT",
+        "ARMY"
+    ],
+    "ROTC: Naval Science": [
+        "NAVY-DEPT",
+        "MCOR",
+        "NAVY"
+    ],
+    "Radiation Oncology": [
+        "RADO"
+    ],
+    "Radiation Therapy": [
+        "RAD"
+    ],
+    "Radiology": [
+        "RAD-DEPT",
+        "RAD"
+    ],
+    "Recitals": [
+        "REC"
+    ],
+    "Rehabilitation Health Sciences": [
+        "REHS"
+    ],
+    "Rehabilitation Medicine": [
+        "REHB"
+    ],
+    "Religious Studies": [
+        "REL"
+    ],
+    "Resident": [
+        "RSDT"
+    ],
+    "Respiratory Care": [
+        "RESP"
+    ],
+    "Respiratory Care & Diag Sci": [
+        "RESP-DEPT",
+        "CVS",
+        "CVT",
+        "DXSC",
+        "NMED",
+        "RESP",
+        "UTEC"
+    ],
+    "Respiratory Care and Diagnostic Science": [
+        "RESP-DEPT",
+        "CVS",
+        "CVT",
+        "DXSC",
+        "NMED",
+        "RESP",
+        "UTEC"
+    ],
+    "Rural Medicine": [
+        "RLMD"
+    ],
+    "Russian": [
+        "RUSS"
+    ],
+    "Russian & East European St": [
+        "REES"
+    ],
+    "Saxophone": [
+        "SAXO"
+    ],
+    "Scandinavian": [
+        "SCAN"
+    ],
+    "School of Architecture&Design": [
+        "ARCH"
+    ],
+    "School of Business": [
+        "BUS"
+    ],
+    "School of Business Online": [
+        "BUSON"
+    ],
+    "School of Educ & Human Sci Onl": [
+        "EDCO"
+    ],
+    "School of Educ & HumanSciences": [
+        "EDUC"
+    ],
+    "School of Engineering": [
+        "ENGR"
+    ],
+    "School of Health Professions": [
+        "AHLTH"
+    ],
+    "School of Journsm & Mass Comms": [
+        "JOUR"
+    ],
+    "School of Medicine": [
+        "MED"
+    ],
+    "School of Music": [
+        "MUSC"
+    ],
+    "School of Nursing": [
+        "NURS"
+    ],
+    "School Of Nursing": [
+        "NURS"
+    ],
+    "School of Pharmacy": [
+        "PHARM"
+    ],
+    "School of Professional Studies": [
+        "SPS"
+    ],
+    "School of Public Affairs & Adm": [
+        "SPAA"
+    ],
+    "School of Public Affairs&Admin": [
+        "SPAA"
+    ],
+    "School of Social Welfare": [
+        "SOCW"
+    ],
+    "School of the Arts, CLAS": [
+        "ARTS"
+    ],
+    "Sculpture": [
+        "SCUL"
+    ],
+    "Slavic Language and Literature": [
+        "SLAV"
+    ],
+    "Slavic, German & Eurasian St": [
+        "SGES-DEPT",
+        "BCRS",
+        "CZCH",
+        "GERM",
+        "PCS",
+        "PERS",
+        "PLSH",
+        "REES",
+        "RUSS",
+        "SLAV",
+        "TURK",
+        "UKRA"
+    ],
+    "Slavic, German, Eurasian Stdie": [
+        "SGES-DEPT",
+        "BCRS",
+        "CZCH",
+        "GERM",
+        "PCS",
+        "PERS",
+        "PLSH",
+        "REES",
+        "RUSS",
+        "SLAV",
+        "TURK",
+        "UKRA"
+    ],
+    "Social Welfare": [
+        "SW"
+    ],
+    "Social Welfare Workforce Dev": [
+        "SWWD"
+    ],
+    "Social and Behavioral Sciences": [
+        "SBS"
+    ],
+    "Sociology": [
+        "SOC"
+    ],
+    "Spanish": [
+        "SPAN"
+    ],
+    "Spanish & Portuguese": [
+        "SPAN-DEPT",
+        "PORT",
+        "SPAN"
+    ],
+    "Special Education": [
+        "SPED"
+    ],
+    "Special Programs": [
+        "SPPR"
+    ],
+    "Speech-Language Pathology": [
+        "SLPD"
+    ],
+    "Speech-Language-Hearing": [
+        "SPLH"
+    ],
+    "Statistics": [
+        "STAT"
+    ],
+    "Strings": [
+        "STRG"
+    ],
+    "Supply Chain Management": [
+        "SCM"
+    ],
+    "Surgery": [
+        "SURG"
+    ],
+    "Swedish": [
+        "SWED"
+    ],
+    "System Analysis and Design": [
+        "SA&D-DEPT",
+        "SA&D"
+    ],
+    "Teaching & Leadership": [
+        "T&L-DEPT",
+        "T&L"
+    ],
+    "Textile Design": [
+        "TD"
+    ],
+    "Theatre": [
+        "THR"
+    ],
+    "Theatre and Dance": [
+        "THDN-DEPT",
+        "DANC",
+        "THR"
+    ],
+    "Theatre and Film": [
+        "TH&F"
+    ],
+    "Therapeutic Science": [
+        "TS"
+    ],
+    "Tibetan": [
+        "TIB"
+    ],
+    "Toxicology": [
+        "PTOX"
+    ],
+    "Trombone": [
+        "TROM"
+    ],
+    "Trumpet": [
+        "TRUM"
+    ],
+    "Tuba": [
+        "TUBA"
+    ],
+    "Tuba-Euphonium": [
+        "TUEU"
+    ],
+    "Turkish": [
+        "TURK"
+    ],
+    "US Culture": [
+        "USC"
+    ],
+    "Ukrainian": [
+        "UKRA"
+    ],
+    "Ultrasound Technology": [
+        "UTEC"
+    ],
+    "University": [
+        "UNIV"
+    ],
+    "Urban Planning": [
+        "UBPL"
+    ],
+    "Urological Surgery": [
+        "UROL-DEPT",
+        "UROL"
+    ],
+    "Uyghur": [
+        "UYGR"
+    ],
+    "Viola": [
+        "VIOA"
+    ],
+    "Violin": [
+        "VION"
+    ],
+    "Violoncello": [
+        "VNCL"
+    ],
+    "Visual Art": [
+        "ART-DEPT",
+        "ART",
+        "CER",
+        "DRWG",
+        "EXM",
+        "METL",
+        "PNTG",
+        "PRNT",
+        "SCUL",
+        "TD",
+        "VAE"
+    ],
+    "Visual Art Education": [
+        "VAE"
+    ],
+    "Visual Arts Education": [
+        "VAE"
+    ],
+    "Visual Communication": [
+        "VISC"
+    ],
+    "Voice": [
+        "VOIC"
+    ],
+    "Wind Ensemble": [
+        "WENS"
+    ],
+    "Wind and Percussion": [
+        "W&P"
+    ],
+    "Wolof Courses": [
+        "WOLO"
+    ],
+    "Women's Studies": [
+        "WS"
+    ],
+    "Women, Gender, & Sexuality Std": [
+        "WGSS"
+    ],
+    "Women,Gender,&Sexuality Std": [
+        "WGSS-DEPT",
+        "WGSS"
+    ],
+    "Women Gender & Sexuality Stds": [
+        "WGSS"
+    ]
+}

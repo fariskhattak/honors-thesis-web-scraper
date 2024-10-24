@@ -1,0 +1,242 @@
+Business | BUS
+School of Pharmacy | PHARM
+Political Science | POLS
+Medicinal Chemistry | MDCM
+Microbiology | MBIO
+Academic Affairs | ACAD-DEPT
+African/African Amer Studies | AAAS
+Mechanical Engineering | ME
+Ecology & Evolutionary Biology | EEB
+Philosophy | PHIL
+SHP Respiratory Care and Diagnostic Science - Adjunct Faculty | AHLTH
+Theatre and Dance | THDN-DEPT
+Pharmacy Practice | PHPR
+East Asian Languages&Cultures | EALC
+Applied Behavioral Science | ABSC
+Film and Media Studies | FMS
+Medicine - Pulmonary Disease | MED
+SON Acute, Chronic, Continuing Care Faculty | NURS
+Physics and Astronomy | PHSX-DEPT
+Business Administration | BBA
+Social Welfare | SW
+School Of Nursing | NURS
+Geology | GEOL
+SHP Occupational Therapy Education | AHLTH
+Journalism | JOUR
+Pharmacology & Toxicology | P&TX
+Religious Studies | REL
+Radiology | RAD-DEPT
+Sociology | SOC
+Economics | ECON
+Gynecology and Obstetrics | GYNO
+SON Family, Community, & Health Systems Faculty | NURS
+SHP Clinic Laboratory Sciences | AHLTH
+Architecture Design | ARCD
+Chemistry | CHEM
+Indigenous Studies | ISP
+SHP Respiratory Care and Diagnostic Science | SHP
+Law School | LAW
+Pharmaceutical Chemistry | PHCH
+SHP Athletic Training | AHLTH
+Classics | CLSX
+American Studies | AMS
+School of Professional Studies | SPS
+Anesthesiology | ANSL
+Pediatrics | PED
+Special Education | SPED
+Ctr Global & Internatl Studies | GIST
+School of Public Affairs&Admin | SPAA
+Pharmacology | PHCL
+Music | MUS
+Ophthalmology | OPTH
+Women Gender & Sexuality Stds | WGSS
+POPH Population Health Education - Active Adjunct Faculty | POHW-DEPT
+Radiation Oncology | RADO
+Health Sport &Exercise Science | HSES
+Electrical Engr & Comp Science | EECS-DEPT
+History | HIST
+English | ENG
+Ed Leadership & Policy Studies | ELPS
+Graduate Studies | GS-DEPT
+Educational Psychology | EPSY
+Spanish & Portuguese | SPAN-DEPT
+Computational Biology | BINF
+Mathematics | MATH
+College of Liberal Arts & Sci | CLAS
+SHP Clinical Laboratory Sciences | AHLTH
+Speech-Language-Hearing | SPLH
+Anthropology | ANTH
+Geography & Atmo Science | GEOG-DEPT
+Chemical & Petroleum Engr | C&PE
+SHP Health Information Management) | AHLTH
+SHP Hearing and Speech - Adjunct Faculty | AHLTH
+Visual Art | ART-DEPT
+Inst for Leadership Studies | LDST-DEPT
+Civil/Environ/Arch Engineering | CEAE-DEPT
+French, Francophone & Italian | FREN-DEPT
+Aerospace Engineering | AE
+Psychology | PSYC
+Slavic, German, Eurasian Stdie | SGES-DEPT
+Population Health | POHW-DEPT
+SON Executive Management | NURS
+Museum Studies | MUSE
+Achievement & Assessment Inst | AAI
+Design | DSGN-DEPT
+Music Administration | MUSC
+Communication Studies | COMS
+Linguistics | LING
+SHP Resprtry Care Diagnstc Scn | AHLTH
+POPH Population Health Faculty | POHW-DEPT
+Curriculum & Teaching | C&T
+SHP Health Information Manage | AHLTH
+History of Art | HA
+Jewish Studies | JWSH
+Otorhinolaryngology | OTOR
+Latin Amer & Caribbean Studies | LAC
+--------------------------------------------------
+!! Anatomy & Cell Biology | [UNMATCHED DEPARTMENT]
+!! Institute Information Sciences | [UNMATCHED DEPARTMENT]
+!! NEURO Neuroimaging Faculty | [UNMATCHED DEPARTMENT]
+!! HOM History Of Medicine | [UNMATCHED DEPARTMENT]
+PEDS Behavioral Pediatrics | [UNMATCHED DEPARTMENT]
+KS Biological Survey | [UNMATCHED DEPARTMENT]
+FamMed Family Medicine | [UNMATCHED DEPARTMENT]
+OME Assessment and Evaluation | [UNMATCHED DEPARTMENT]
+Ctr Enviro Benefical Catalysis | [UNMATCHED DEPARTMENT]
+Molecular Integrat Physiology | [UNMATCHED DEPARTMENT]
+ADC Alzheimer's Disease Center Faculty | [UNMATCHED DEPARTMENT]
+KUIA Russian E Euro & Eurasian | [UNMATCHED DEPARTMENT]
+KU News Service | [UNMATCHED DEPARTMENT]
+Ctr Remote Sensing Integtr Sys | [UNMATCHED DEPARTMENT]
+HEMA Medicine Hematology | [UNMATCHED DEPARTMENT]
+PEDS General Pediatrics | [UNMATCHED DEPARTMENT]
+Office of Faculty Affairs | [UNMATCHED DEPARTMENT]
+SurgGen Surgery General | [UNMATCHED DEPARTMENT]
+RMEd Rehabilitation Medicine | [UNMATCHED DEPARTMENT]
+SOM Wichita ASA Coordinators | [UNMATCHED DEPARTMENT]
+Bureau of Child Research | [UNMATCHED DEPARTMENT]
+Clinical Child Psychology Prog | [UNMATCHED DEPARTMENT]
+KUSM-W Pediatrics | [UNMATCHED DEPARTMENT]
+CTS Cardiovascular & Thoracic Surg | [UNMATCHED DEPARTMENT]
+Environmental Studies Program | [UNMATCHED DEPARTMENT]
+SOM Wichita Internal Medicine | [UNMATCHED DEPARTMENT]
+SHP Nurse Anesthesia | [UNMATCHED DEPARTMENT]
+Journalism Administration | [UNMATCHED DEPARTMENT]
+Allergy Medicine - Allergy Immun Rheum | [UNMATCHED DEPARTMENT]
+Thoracic Surgery HS | [UNMATCHED DEPARTMENT]
+Research Administration | [UNMATCHED DEPARTMENT]
+SOM Internal Medicine | [UNMATCHED DEPARTMENT]
+SHP Dietetics and Nutrition | [UNMATCHED DEPARTMENT]
+Kansas African Studies Center | [UNMATCHED DEPARTMENT]
+PSYCH Psychiatry & Behavioral Sciences | [UNMATCHED DEPARTMENT]
+CanBio Cancer Biology - Contingent Workers) | [UNMATCHED DEPARTMENT]
+Center for Teaching Excellence | [UNMATCHED DEPARTMENT]
+SHP Occupational Therapy | [UNMATCHED DEPARTMENT]
+Biostat Faculty | [UNMATCHED DEPARTMENT]
+SOM Wichita Academic & Student Affairs | [UNMATCHED DEPARTMENT]
+Salina Campus | [UNMATCHED DEPARTMENT]
+Neph Medicine - Nephrology and Hypertension | [UNMATCHED DEPARTMENT]
+Center On Aging | [UNMATCHED DEPARTMENT]
+Emergency Medical Service | [UNMATCHED DEPARTMENT]
+PS Plastic Surgery | [UNMATCHED DEPARTMENT]
+GME Neurology | [UNMATCHED DEPARTMENT]
+SOM Salina Salina Campus | [UNMATCHED DEPARTMENT]
+Cardiovascular Medicine | [UNMATCHED DEPARTMENT]
+Family Medicine | [UNMATCHED DEPARTMENT]
+Medicine General | [UNMATCHED DEPARTMENT]
+School of Medicine-Exec Dean | [UNMATCHED DEPARTMENT]
+SHP Physical Therapy & Rehab | [UNMATCHED DEPARTMENT]
+Diversity Equity Inclus Belong | [UNMATCHED DEPARTMENT]
+SOM Wichita Internal Medicine Staff | [UNMATCHED DEPARTMENT]
+Russian E Euro & Eurasian Std | [UNMATCHED DEPARTMENT]
+Derm Medicine-Dermatology | [UNMATCHED DEPARTMENT]
+SHP Nurse Anesthesia Education) | [UNMATCHED DEPARTMENT]
+ENT Faculty | [UNMATCHED DEPARTMENT]
+Lied Center | [UNMATCHED DEPARTMENT]
+ENDO Medicine-Endocrine Metabolic Gene | [UNMATCHED DEPARTMENT]
+POPH Population Health - Contingent Workers | [UNMATCHED DEPARTMENT]
+SurgOrtho Surgery Orthopedics | [UNMATCHED DEPARTMENT]
+NEURO Neuromuscular | [UNMATCHED DEPARTMENT]
+Audit Internal Audit - Contingent Workers | [UNMATCHED DEPARTMENT]
+Law Administration | [UNMATCHED DEPARTMENT]
+Edwards Campus | [UNMATCHED DEPARTMENT]
+SOM Wichita Psychiatry & Behavioral Science) | [UNMATCHED DEPARTMENT]
+Jayhawk Global Admin | [UNMATCHED DEPARTMENT]
+GenMed Medicine General | [UNMATCHED DEPARTMENT]
+SOM Wichita OB-GYN | [UNMATCHED DEPARTMENT]
+RMEd Rehab Medicine Education | [UNMATCHED DEPARTMENT]
+BMB Biochemistry | [UNMATCHED DEPARTMENT]
+Surgery General | [UNMATCHED DEPARTMENT]
+ENDO Medicine-Medical Education | [UNMATCHED DEPARTMENT]
+KUSM-W Family & Community Med | [UNMATCHED DEPARTMENT]
+FamMed Family Medicine - Dean | [UNMATCHED DEPARTMENT]
+PATH Pathology | [UNMATCHED DEPARTMENT]
+EVC Office of the Executive Vice Chancellor | [UNMATCHED DEPARTMENT]
+CBP Cell Biology and Physiology | [UNMATCHED DEPARTMENT]
+Psychiatry & Behavior Science | [UNMATCHED DEPARTMENT]
+OBGYN Gynecology and Obstetrics | [UNMATCHED DEPARTMENT]
+SOM ODI | [UNMATCHED DEPARTMENT]
+SHP Hearing and Speech | [UNMATCHED DEPARTMENT]
+PULM Pulmonary and Critical Care Medicine | [UNMATCHED DEPARTMENT]
+PEDS Pediatrics Critical Care | [UNMATCHED DEPARTMENT]
+SOM MD/PhD | [UNMATCHED DEPARTMENT]
+Environment Health & Safety | [UNMATCHED DEPARTMENT]
+SOM Wichita Population Health Faculty | [UNMATCHED DEPARTMENT]
+Alzheimer's Disease Center | [UNMATCHED DEPARTMENT]
+PEDS Pediatrics | [UNMATCHED DEPARTMENT]
+SHP Clinical Laboratory Sciences - Adjunct Faculty | [UNMATCHED DEPARTMENT]
+Engineering Administration | [UNMATCHED DEPARTMENT]
+NS Faculty | [UNMATCHED DEPARTMENT]
+Undergraduate Education | [UNMATCHED DEPARTMENT]
+InDis Medicine-Infectious Disease | [UNMATCHED DEPARTMENT]
+MICRO Microbiology | [UNMATCHED DEPARTMENT]
+SHP Hearing & Speech Education | [UNMATCHED DEPARTMENT]
+NS Neurosurgery | [UNMATCHED DEPARTMENT]
+Hall Center for the Humanities | [UNMATCHED DEPARTMENT]
+KU Hospital Authority | [UNMATCHED DEPARTMENT]
+PEDS Pediatrics DDBS | [UNMATCHED DEPARTMENT]
+SurgUrol Surgery Urology | [UNMATCHED DEPARTMENT]
+Office of Research | [UNMATCHED DEPARTMENT]
+Health Policy and Management | [UNMATCHED DEPARTMENT]
+Audit, Risk & Compliance | [UNMATCHED DEPARTMENT]
+Palliative Medicine - Palliative | [UNMATCHED DEPARTMENT]
+Athletics Corporation | [UNMATCHED DEPARTMENT]
+Inst for Policy & Social Res | [UNMATCHED DEPARTMENT]
+EM Faculty | [UNMATCHED DEPARTMENT]
+ANES Anesthesiology | [UNMATCHED DEPARTMENT]
+Rehab Medicine Education | [UNMATCHED DEPARTMENT]
+Biostat Department of Biostatistics & Data Science | [UNMATCHED DEPARTMENT]
+SOM Wichita Family & Community Medicine Staff | [UNMATCHED DEPARTMENT]
+SHP Office of the Dean) | [UNMATCHED DEPARTMENT]
+SON Graduate Adjunct Faculty | [UNMATCHED DEPARTMENT]
+Law Library | [UNMATCHED DEPARTMENT]
+SOM Salina School of Medicine Salina Campus | [UNMATCHED DEPARTMENT]
+SHP Physical Therapy and Rehabilitation Science | [UNMATCHED DEPARTMENT]
+Education Administration | [UNMATCHED DEPARTMENT]
+Health Education Resource | [UNMATCHED DEPARTMENT]
+SHP Athletic Training - Adjunct Faculty | [UNMATCHED DEPARTMENT]
+RAD Faculty | [UNMATCHED DEPARTMENT]
+Molecular Biosciences | [UNMATCHED DEPARTMENT]
+SOM Wichita Office of Research | [UNMATCHED DEPARTMENT]
+ONC Radiation Oncology | [UNMATCHED DEPARTMENT]
+SHP School of Health Professions Office of the Dean | [UNMATCHED DEPARTMENT]
+Biodiversity Institute | [UNMATCHED DEPARTMENT]
+SOM Wichita Pediatrics-Ambulatory | [UNMATCHED DEPARTMENT]
+GME Family Medicine | [UNMATCHED DEPARTMENT]
+KUSM-W Orthopedic Surgery | [UNMATCHED DEPARTMENT]
+Undergraduate Biology Program | [UNMATCHED DEPARTMENT]
+Family Medicine HS | [UNMATCHED DEPARTMENT]
+SHP Occupational Therapy Education - Adjunct Faculty | [UNMATCHED DEPARTMENT]
+CanBio Bossmann | [UNMATCHED DEPARTMENT]
+Child Language Program | [UNMATCHED DEPARTMENT]
+GERI Geriatric Medicine | [UNMATCHED DEPARTMENT]
+Gastro Medicine-Gastroenterology | [UNMATCHED DEPARTMENT]
+Kansas Geological Survey | [UNMATCHED DEPARTMENT]
+KUCC KMCRI-Administration - Contingent Workers | [UNMATCHED DEPARTMENT]
+SOM Wichita Surgery | [UNMATCHED DEPARTMENT]
+PTT Pharmacology, Toxicology, and Therapeutics | [UNMATCHED DEPARTMENT]
+--------------------------------------------------
+NUMBER OF MATCHED DEPARTMENTS: 95
+PERCENTAGE OF MATCHED: 95/236 = 40.25%
+NUMBER OF UNMATCHED DEPARTMENTS: 141
+PERCENTAGE OF UNMATCHED: 141/236 = 59.75%
