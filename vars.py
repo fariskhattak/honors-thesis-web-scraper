@@ -11,3 +11,8 @@ careers = [
     "Undergraduate",
     "Graduate"
 ]
+
+courses_urls = [
+    "https://afs.ku.edu/aaas-courses",
+    "https://absc.ku.edu/courses"
+]
