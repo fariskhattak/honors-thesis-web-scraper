@@ -1,0 +1,524 @@
+Academic Affairs (UNIV)
+Aerospace Engineering (AE)
+Affiliated Programs (AFFL)
+African & African-American Studies (AAAS)
+● Arabic (ARAB)
+● Haitian (HAIT)
+● Hausa (HAUS)
+● KiSwahili (KISW)
+● Somali (SOMI)
+● Wolof Courses (WOLO)
+Ambulatory Clinic (AMBC)
+Ambulatory Medicine (AMED)
+American Indian Studies (AMI)
+American Studies (AMS)
+Anatomy (ATMY)
+Anatomy & Cell Biology (ANAT)
+● Anatomy (ANTM)
+Anesthesiology (ANES)
+● Anesthesiology (ANSL)
+Anthropology (ANTH)
+Applied Behavioral Science (ABSC)
+Applied English Center (AEC)
+● Applied English Center Listening & Speaking (AECL)
+● Applied English Center Reading & Writing (AECR)
+● Applied English Center Special Program (AESP)
+Architecture (ARCH)
+● Interior Architecture (IA)
+Biochemistry (BIOC)
+Biochemistry & Molecular Biology (BCHM)
+Bioengineering (BIOE)
+Biology (BIOL)
+Biometry (BIOM)
+Biostatistics & Data Science (BIOS)
+● Data Science (DATA)
+● Health Data Science (HDSC)
+● Statistics (STAT)
+Business (BUS)
+● Accounting (ACCT)
+● Business Administration (BBA)
+● Business Economics (BE)
+● Business Law (BLAW)
+● Business Analytics (BSAN)
+● Entrepreneurship (ENTR)
+● Finance (FIN)
+● International Business (IBUS)
+● Information Systems Technology (IST)
+● Management & Leadership (MGMT)
+● Marketing (MKTG)
+● Supply Chain Management (SCM)
+Cancer Biology (CBIO)
+Cardiothoracic Surgery (CTSU)
+Center on Aging (CAGE)
+● Gerontology (GERO)
+Chemical & Petroleum Engineering (C&PE)
+Chemistry (CHEM)
+Civil, Environmental & Architectural Engineering (ARCE)
+● Civil & Environmental Engineering (CE)
+● Construction Management (CMGT)
+Classics (CLSX)
+● Greek (GRK)
+● Latin (LAT)
+Clinical Lab Sciences (CLLS)
+● Doctor of Clinical Lab Science (DCLS)
+● Clinical Lab Sciences (CLS)
+● Genetic Counseling (GENC)
+Communication Studies (COMS)
+Computational Biology (BINF)
+Computer Science (CSCI)
+Computers in Medical Education (CMME)
+Converted (Historical) Depts (CNVRTD)
+● AERO
+● AERT
+● AFHE
+● AFS
+● AHEA
+● AHSC
+● AIRS
+● AM
+● AMST
+● AMUS
+● ANA
+● APCP
+● B&P
+● BAC
+● BACT
+● BADM
+● BARI
+● BIOP
+● BLS
+● BMTY
+● BOT
+● BSED
+● C&I
+● CA&C
+● CB&P
+● CHE
+● CHMU
+● CJ
+● CLM
+● CLPA
+● CMLT
+● CMRT
+● CMUS
+● COH
+● COHE
+● COUN
+● CPSY
+● CS
+● DERM
+● DIRA
+● DRAF
+● E&CE
+● EC
+● ED
+● EDR
+● EDWG
+● EE
+● EM
+● EMP
+● EMT
+● ENS
+● ENTH
+● ENTO
+● ENVR
+● EPA
+● EPL
+● EPR
+● FASH
+● FL
+● FPCM
+● FPRC
+● GENT
+● GROM
+● GRPH
+● GUAR
+● H&CL
+● H&PS
+● HCFT
+● HE
+● HECH
+● HECO
+● HLTH
+● HMD
+● HMEC
+● HOEC
+● HPER
+● HREL
+● HSCA
+● HSED
+● HSTM
+● IEC
+● IMUN
+● INST
+● INT
+● INTE
+● INTH
+● IRSH
+● JAP
+● JRYR
+● JS
+● KU
+● LANG
+● LIBR
+● LIT
+● M&ME
+● MAE
+● MDJR
+● MDRD
+● MEDT
+● METR
+● MHSL
+● MILS
+● MM
+● MMB
+● MME
+● MORT
+● MS
+● MSED
+● MTEC
+● MUED
+● MUTH
+● NRAN
+● NRCH
+● NRMC
+● NRMH
+● NRMS
+● NRPC
+● NS
+● NSF
+● OBS
+● OL&L
+● OUTR
+● P&CB
+● PE
+● PERC
+● PHDI
+● PHED
+● PHM
+● PHY
+● PM
+● PREC
+● PS
+● PSCH
+● PSY
+● PT
+● PTH
+● RADT
+● RAON
+● RATH
+● ROML
+● RTEC
+● RTV
+● RTVF
+● S&EC
+● SCHR
+● SCI
+● SEC
+● SEES
+● SERB
+● SHOP
+● SP&A
+● SPCH
+● SPDR
+● SS
+● SSA
+● ST
+● SUM
+● SUR
+● SWAH
+● TCSU
+● TD&W
+● TDW
+● TE
+● THDR
+● THE
+● THES
+● THM
+● THMA
+● THRY
+● THTR
+● TRAN
+● VICL
+● VIOL
+● WC
+● WD
+● WSU
+● ZOOL
+Critical Care Selective (CCSL)
+Curriculum & Teaching (C&T)
+Cytotechnology (CYTO)
+Deaf Education (DE)
+Design (DSGN)
+● Advanced Design Studies (ADS)
+● Animation (ANIM)
+● Basic Design Studies (BDS)
+● Illustration & Animation (ILLU)
+● Industrial Design (INDD)
+● Interaction Design (IXD)
+● Photography (PHTO)
+● Visual Communication (VISC)
+Diagnostic Radiology (DIAG)
+Dietetics & Nutrition (DIET)
+● Dietetics & Nutrition (DN)
+Ear, Nose & Throat (ENT)
+East Asian Languages & Cultures (EALC)
+● Chinese (CHIN)
+● Eastern Civilization (ECIV)
+● Hindi (HNDI)
+● Japanese (JPN)
+● Korean (KOR)
+● Tibetan (TIB)
+● Uyghur (UYGR)
+East Asian Studies (EAS)
+Economics (ECON)
+Educuation Leadership & Policy Studies (ELPS)
+Education (EDUC)
+Educational Psychology (EPSY)
+Electrical Engineering & Computer Science (EECS)
+● Information Technology (IT)
+Emergency Room Department (ERMD)
+Engineering (ENGR)
+Engineering Physics (EPHX)
+English (ENGL)
+Environmental Studies (EVRN)
+Family Practice (FAPR)
+Family & Community Medicine (FCMD)
+Fellow (FELW)
+Film & Media Studies (FMS)
+French, Francophone, & Ital Studies (FREN)
+● French (FREN)
+● Italian (ITAL)
+Geography & Atmospheric Science (GEOG)
+● Atmospheric Science (ATMO)
+● Geography (GEOG)
+Geology (GEOL)
+Geriatrics (GERI)
+German Studies (GERM)
+● Dutch (DTCH)
+● Hungary (HNGR)
+● Norway (NORW)
+● Scandinavia (SCAN)
+● Sweden (SWED)
+Global & International Studies (GIST)
+● Center for East Asian Studies (CEAS)
+● European Studies (EURS)
+● Kaqchikel Maya (KQKL)
+● Latin American & Carribean Studies (LAC)
+● Quechua (QUEC)
+Global Indigenous Nations Studies (GINS)
+Graduate Studies (GS)
+Graduate Studies Medical Center (GSMC)
+Gynecology & Obstetrics (GYNO)
+Health Information Management (HEIM)
+● Health Information Management (HIMG)
+Health Sport & Exercise Science (HSES)
+Hearing & Speech (AUD)
+● AUD (Audiology)
+● Speech-Language Pathology (SLPD)
+Historical Admin & Music Studies (HADM)
+History (HIST)
+History of Art (HA)
+History & Philosophy of Medicine (HPMD)
+● History & Philosophy of Medicine (H&PM)
+Honors Program (HNRS)
+Human Development & Family Life (HDFL)
+Humanities & Western Civilization (HWC)
+Indigenous Studies (ISP)
+Information Processing Studies (IPS)
+Institute for Leadership Studies (LDST)
+Interdisciplinary (IDSP)
+Internal Medicine (INMD)
+● Neurology Clerkship (NROL)
+International Studies (INTL)
+Introduction to Clinical Medicine (ICM)
+Jewish Studies (JWSH)
+● Hebrew (HEBR)
+● Yiddish (YDSH)
+Journalism & Mass Communications (JOUR)
+● Journalism & Mass Communications (JMC)
+Latin American & Caribbean Studies (LAA)
+Law (LAW)
+Liberal Arts & Sciences (LA&S)
+● Humanities (HUM)
+Linguistics (LING)
+Mathematics (MATH)
+Mechanical Engineering (ME)
+Medical Hematology/Oncology (MDHO)
+Medical Education Admin (MDAD)
+Medical Imaging Sciences (DR)
+Medical Research (MDRS)
+Medicinal Chemistry (MDCM)
+Medicine (MED)
+● Activity Comp-Based Excel-Driven (ACED)
+Medicine/Pediatrics (MDPD)
+Medicine/Psychiatry (MDPS)
+Microbiology, Molecular Genetics & Immunity (MICR)
+Microbiology (MBIO)
+Museum Studies (MUSE)
+Music (MUSC)
+● Band (BAND)
+● Bassoon (BASN)
+● Brass (BRSS)
+● Carillion (CARI)
+● Chamber Music (CHAM)
+● Choral Music (CHOR)
+● CHUR
+● Clarinet (CLAR)
+● Conducting (COND)
+● Double Bass (DBBS)
+● Euphonium (EUPH)
+● Flute (FLUT)
+● French Horn (FRHN)
+● Guitar (GUIT)
+● Harp (HARP)
+● Harpsichord (HPCD)
+● Jazz (JAZZ)
+● Music Education & Music Therapy (MEMT)
+● Music Theory & Composition (MTHC)
+● Music (MUS)
+● Musicology (MUSC)
+● Oboe (OBOE)
+● Orchestra (ORCH)
+● Organ (ORGN)
+● Percussion (PCUS)
+● Percussion Ensemble (PENS)
+● Piano (PIAN)
+● Recitals (REC)
+● Saxophone (SAXO)
+● Strings (STRG)
+● Trombone (TROM)
+● Trumpet (TRUM)
+● Tuba (TUBA)
+● Tuba-Euphonium (TUEU)
+● Viola (VIOA)
+● Violin (VION)
+● Violoncello (VNCL)
+● Voice (VOIC)
+● Wind & Percussion (W&P)
+● Wind Ensemble (WENS)
+Neurological Surgery (NSUR)
+Neurology (NEUR)
+Neuroscience (NEUS)
+Nurse Anesthesia (NURA)
+Nursing (NURS)
+Nursing (Graduate) (NRSG)
+● International Program in Health Informatics (IPHI)
+Obstetrics & Gynecology (OBGN)
+Occupational Therapy (OCTH)
+Occupational Therapy (MS) (OTMS)
+Occupational Therapy (Doctorate) (OTD)
+● Occupational Therapy Doctorate Early Entry (OTDE)
+Ophthalmology (OPTH)
+Orthopedic Surgery (ORTHO)
+Otorhinolaryngology (OHIN)
+● Otorhinolaryngology (OTOR)
+Pathology (PALO)
+● Pathology (PATH)
+Pathology & Oncology (P&O)
+Pathology & Oncology (PAON)
+Pediatrics (PDRC)
+● Pediatrics (PED)
+Pharmacology, Toxicology, & Therapeutics (P&T)
+● Pharmacology (PHCL)
+● Toxicology (PTOX)
+● Pharmacology, Toxicology, & Therapeutics (PHRM)
+Pharmaceutical Chemistry (PHCH)
+Pharmacology (PMCO)
+Pharmacology & Toxicology (P&TX)
+Pharmacy (PHAR)
+Pharmacy Practice (PHPR)
+Philosophy (PHIL)
+Physical Therapy, Rehabilitation Sciences & Athletic Training (PTRS)
+● Athletic Training (ATTR)
+● Physical Therapy, Rehabilitation Sciences (PTRS)
+● Rehabilitation Health Sciences (REHS)
+Physical Therapy Education (PHTH)
+Physics & Astronomy (PHSX)
+● Astronomy (ASTR)
+● Physics (PHSX)
+Physiology (PHSL)
+Political Science (POLS)
+Population Health (POHW)
+● Preventive Medicine (PVMD)
+● Health Policy & Management (HP&M)
+● Preventive Medicine (PRVM)
+Preceptorship (PRCP)
+Preventive Medicine (PMED)
+Professional Studies (PFS)
+● American Sign Language & Deaf Studies ASLD
+● Biological Sciences (BSCI)
+● BTEC
+● CRIM
+● EMGT
+● HMGT
+● HSCI
+● HUOP
+● ITEC
+● OMGT
+● PFS
+● PMGT
+Psychiatry (PSCR)
+● PYCH
+Psychology (PSYC)
+Psychology & Research in Educ (PRE)
+Public Affairs & Adm, School (LWS)
+● PUAD
+● SPAA
+● UBPL
+ROTC: Air & Space Studies (AIR)
+ROTC: Military Science (Army) (ARMY)
+ROTC: Naval Science (MCOR)
+● NAVY
+Radiation Oncology (RADO)
+Radiology (RAD)
+Rehabilitation Medicine (REHB)
+Religious Studies (REL)
+Resident (RSDT)
+Respiratory Care & Diag Sci (CVS)
+● CVT
+● DXSC
+● NMED
+● RESP
+● UTEC
+Rural Medicine (RLMD)
+Slavic, German & Eurasian St (BCRS)
+● CZCH
+● GERM
+● PCS
+● PERS
+● PLSH
+● REES
+● RUSS
+● SLAV
+● TURK
+● UKRA
+Social Welfare (SW)
+● SWWD
+Sociology (SOC)
+Spanish & Portuguese (PORT)
+● SPAN
+Special Education (SPED)
+Special Programs (SPCP)
+● SPPR
+Speech-Language-Hearing (CLDP)
+● SPLH
+Surgery (SGRY)
+● SURG
+System Analysis & Design (SA&D)
+Teaching & Leadership (T&L)
+Theatre & Dance (DANC)
+● THR
+Therapeutic Science (TS)
+Urological Surgery (UROL)
+Visual Art (ART)
+● CER
+● DRWG
+● EXM
+● METL
+● PNTG
+● PRNT
+● SCUL
+● TD
+● VAE
+Women,Gender,&Sexuality Std (WGSS)

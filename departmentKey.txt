@@ -1,0 +1,165 @@
+Academic Affairs (ACAD)
+● University (UNIV)
+
+Aerospace Engineering (AE)
+
+Affiliated Programs (AFFL)
+
+African & African American Studies (AAAS)
+ARAB,HAIT,HAUS,KISW,SOMI,WOLO
+● Arabic (ARAB)
+● Haitian (HAIT)
+● Hausa (HAUS)
+● KiSwahili (KISW)
+● Somali (SOMI)
+● Wolof Courses (WOLO)
+
+Ambulatory Clinic (AMBC)
+
+American Indian Studies (AMI)
+
+American Studies (AMS)
+
+Anatomy (ATMY)
+
+Anatomy & Cell Biology (ANAT)
+● Anatomy (ANTM)
+
+Anesthesiology (ANES)
+● Anesthesiology (ANSL)
+
+Anthropology (ANTH)
+
+Applied Behavioral Science (ABSC)
+
+Applied English Center (AEC)
+● AECB,AECL,AECO,AECR,AESP
+
+Architecture (ARCH)
+● Interior Architecture (IA)
+
+Biochemistry (BIOC)
+
+Biochemistry & Molecular Biology (BCHM)
+
+Bioengineering(BIO)
+
+-----------------------------------------------------------------
+INCLUDES SCHOOLS
+-----------------------------------------------------------------
+Architecture & Design (ARCH)
+● Architecture (ARCH)
+● Design (DSGN)
+
+Arts (ARTS)
+● Film and Media Studies (FMS)
+● Theatre & Dance (THDN)
+    ● Theatre (THR)
+    ● Dance (DANC)
+● Visual Art (ART)
+    ● Art (ART)
+    ● Ceramics (CER)
+    ● Drawing (DRWG)
+    ● Expanded Media (EXM)
+    ● Metalsmithing/Jewelry (METL)
+    ● Painting (PNTG)
+    ● Printmaking (PRNT)
+    ● Sculpture (SCUL)
+    ● Textile Design (TD)
+    ● Visual Art Education (VAE)
+
+Business (BUS)
+
+Education & Human Sciences (EDUC)
+● Curriculum & Teaching (C&T)
+● Educational Leadership & Policy Studies (ELPS)
+● Educational Psychology (EPSY)
+● Health,Sport & Exercise Sciences (HSES)
+● Special Education (SPED)
+
+Engineering (ENGR)
+● Aerospace Engineering (AE)
+● Bioengineering (BIOE)
+● Chemical & Petroleum Engineering (C&PE)
+● Civil,Environmental & Architectural Engineering (CEAE)
+● Electrical Engineering & Computer Science (EECS)
+● Engineering Physics (EPHX)
+● Mechanical Engineering (ME)
+
+Journalism & Mass Communications (JOUR)
+
+Health Professions (AHLTH)
+● Clinical Labaratory Science (CLS)
+● Dietetics & Nutrition (DN)
+● Health Informatics (HI)
+● Health Information Management (HEIM)
+● Hearing & Speech (AUD)
+● Molecular Biotechnology ()
+● Nurse Anesthesia (NURA)
+● Occupational Therapy (OCTH)
+● Physical Therapy & Rehabilitation Science (PTRS)
+● Respiratory Care & Diagnostic Science (RESP)
+● Therapeutic Science (TS)
+
+Law (LAW)
+
+Liberal Arts & Sciences (CLAS)
+● African & African-American Studies (AAAS)
+● American Studies (AMS)
+● Anthropology (ANTH)
+● Applied Behavioral Science (ABSC)
+● Biology (BIOL)
+● Chemistry (CHEM)
+● Child Language (CL)
+● Classics (CLSX)
+● Clinical Child Psychology (CCP)
+● Communication Studies (COMS)
+● Computational Biology (BINF)
+● East Asian Languages & Cultures (EALC)
+● Ecology & Evolutionary Biology (EEB)
+● Economics (ECON)
+● English (ENG)
+● Environmental Studies (EVRN)
+● French,Francophone & Italian Studies (FREN)
+● Geography & Atmospheric Sciences (GEOG)
+● Geology (GEOL)
+● Global & International Studies (GIST)
+● History (HIST)
+● History of Art (HA)
+● Indigenous Studies (ISP)
+● Institute for Leadership Studies (LDST)
+● Jewish Studies (JWSH)
+● Linguistics (LING)
+● Mathematics (MATH)
+● Molecular Biosciences (MB)
+● Museum Studies (MUSE)
+● Philosophy (PHIL)
+● Physics & Astronomy (PHSX)
+● Political Science (POLS)
+● Psychology (PSYC)
+● Religious Studies (REL)
+● Slavic,German & Eurasian Studies (SGES)
+● Sociology (SOC)
+● Spanish & Portuguese (SPAN)
+● Speech-Language-Hearing: Sciences & Disorders (SPLH)
+● Women,Gender,and Sexuality Studies (WGSS)
+
+Medicine (MED)
+
+Music (MUSC)
+
+Nursing (NURS)
+
+Pharmacy (PHARM)
+● Medicinal Chemistry (MDCM)
+● Neurosciences (NURO)
+● Pharmaceutical Chemistry (PHCH)
+● Pharmacology & Toxicology (P&TX)
+● Pharmacy (PHAR)
+● Pharmacy Practice (PHPR)
+
+Professional Studies (SPS)
+
+Public Affairs & Administration (SPAA)
+
+Social Welfare (SOCW)
