@@ -85,7 +85,7 @@ with open("department_options.json") as json_file:
 with open("subject_options.json") as json_file:
     subject_options = json.load(json_file)
 
-with open("auto2_departmentKey.txt", "w") as file:
+with open("auto_departmentKey.txt", "w") as file:
     for dept in department_options:
         dept_codes = department_options[dept].split(",")
         main_dept_code = dept_codes[0].split("-")[0]
