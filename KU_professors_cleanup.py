@@ -21,8 +21,8 @@ def read_professor_data(filepath):
 
     return data
 
-department_codes = {}
-current_department = None
+# department_codes = {}
+# current_department = None
 
 # with open('departmentKey.txt', 'r', encoding='utf-8') as file:
 #     for line in file:
@@ -63,8 +63,29 @@ current_department = None
 undergrad_professors = read_professor_data(undergrad_file_path)
 graduate_professors = read_professor_data(graduate_file_path)
 
-# Dumping to JSON files
-with open('department_keys.json', 'w') as file:
-    json.dump(department_codes, file, indent=4)
+# parse the names of the professors, limit it to first and last name (first and last index split by spaces)
+# if the name is the same as another name (common name), keep the middle names
+# assign department codes to the department names for each professor
+
+clean_undergrad_professors = []
+for prof in undergrad_professors:
+    names = prof["full_name"].split()
+    cleaned_name = prof["full_name"]
+    if len(names) >= 2:
+        first_name = names[0]
+        last_name = names[-1]
+        cleaned_name = first_name + " " + last_name
+
+    if cleaned_name not in clean_undergrad_professors and prof["email"] != "[MISSING EMAIL]":
+        clean_undergrad_professors.append(cleaned_name)
+    else:
+        print(f"COMMON NAME FOUND: {cleaned_name}, USING FULL NAME: {prof["full_name"]}")
+        clean_undergrad_professors.append(prof["full_name"])
+        
+
+
+# # Dumping to JSON files
+# with open('department_keys.json', 'w') as file:
+#     json.dump(department_codes, file, indent=4)
 
 # clean up professors names to be just first and last name
