@@ -2815,21 +2815,15 @@ Zoe Barnes, zoe.barnes@ku.edu, Music Administration
 Zoe Chan, zoehuey@ku.edu, French, Francophone & Italian
 Zoe Erinn Lawless, z455l954@ku.edu, Speech-Language-Hearing
 Zsolt Talata, talata@ku.edu, Mathematics
-Gunawan, [MISSING EMAIL], https://directory.ku.edu/details/7X9k_EmDNQQH9ZAea0qGJA
-Teri Terigele, [MISSING EMAIL], https://directory.ku.edu/details/JmSuN89W0lw-3h40rE7jEA
-Jakob Johnson, [MISSING EMAIL], https://directory.ku.edu/details/7ONIvJSq24RHKNIl64--vw
-Aabhash Khadka, [MISSING EMAIL], https://directory.ku.edu/details/6Sy-BTZEDbV9Mv6FQeEblg
-Aaron Clopton, [MISSING EMAIL], https://directory.ku.edu/details/drkfHPQbnCHe6G-Yh6fPiw
-Aaron Fugate, [MISSING EMAIL], https://directory.ku.edu/details/8Rbeb1YXjOLb8W3uOiTqGQ
-Aaron Mcdonald, [MISSING EMAIL], https://directory.ku.edu/details/RDf5pOYN1UdNrMGoGoB2PQ
-Aaron Moffett, [MISSING EMAIL], https://directory.ku.edu/details/3pjemurp3gpZfF1CuwJ-8Q
-Abbie Zensen, [MISSING EMAIL], https://directory.ku.edu/details/cvMxE3YiZQ1nPVn_OvUBFA
-Abby Booker, [MISSING EMAIL], https://directory.ku.edu/details/5Crb6PODANvhack_n6GwhA
-Abby Julo, [MISSING EMAIL], https://directory.ku.edu/details/w3EDE5dnYgbR90xtDGdrKw
-Abraham Pascoe, [MISSING EMAIL], https://directory.ku.edu/details/kOfIKjQfBw5jHyDPEBoPnA
-Adam Jones, [MISSING EMAIL], https://directory.ku.edu/details/xdgpPHwObbN1Fpd3iB5TUA
-Adam Larson, [MISSING EMAIL], https://directory.ku.edu/details/-8VdNTbEZYCQMn5bpB5o9Q
-Adam Rodger, [MISSING EMAIL], https://directory.ku.edu/details/kG0ZkcGKzbU-ZIt-Q4IPLw
+Gunawan, gunawan@ku.edu, Economics
+Jakob Johnson, ajakobjk@ku.edu, Slavic, German, Eurasian Stdie
+Aabhash Khadka, , Civil/Environ/Arch Engineering
+Aaron Clopton, , Sociology
+Aaron Moffett, aaron.moffett@ku.edu, Army ROTC
+Abbie Zensen, abbiez@ku.edu, Business
+Abraham Pascoe, abrahampascoe@ku.edu, Mathematics
+Adam Jones, adamjones@ku.edu, Geography & Atmo Science
+Adam Rodger, , History
 Addison Stover, [MISSING EMAIL], https://directory.ku.edu/details/uK-fXhS2_5I7j3lnnDMFhw
 Addy Donason, [MISSING EMAIL], https://directory.ku.edu/details/5t8hJSleSHMlulgogiQRdA
 Adele Huie, [MISSING EMAIL], https://directory.ku.edu/details/V8cZ1VsC_lWsRjXjeZWirA

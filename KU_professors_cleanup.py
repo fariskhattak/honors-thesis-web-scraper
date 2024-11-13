@@ -67,7 +67,7 @@ graduate_professors = read_professor_data(graduate_file_path)
 # if the name is the same as another name (common name), keep the middle names
 # assign department codes to the department names for each professor
 
-clean_undergrad_professors = []
+clean_undergrad_professors = []   
 for prof in undergrad_professors:
     names = prof["full_name"].split()
     cleaned_name = prof["full_name"]
