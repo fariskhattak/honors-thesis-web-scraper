@@ -1,202 +1,248 @@
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
+History
+Mechanical Engineering
+English
+Sociology
+Comparative Cultural Studies
+Communication Disorders
+Music
+English
+Accountancy & Taxation
+Global Hospitality Leadership
+Music
+Decision & Information Science
+Mathematics
+PHLS
+English
+Dean, Natural Sciences & Math
+Civil Engineering
+Economics
+Wolff Ctr For Entrepreneurship
+Comparative Cultural Studies
+Communication
+N/A
+Finance
+African-American Studies
+Art
+Political Science
+PHLS
+PHLS
+Wolff Ctr For Entrepreneurship
+History
+PHLS
+N/A
+Political Science
+Political Science
+Modern & Classical Languages
+Biology
+Computer Science
+Electrical Engineering
+Music
+Health & Human Performance
+Construction Management
+Theatre
+N/A
+Accountancy & Taxation
+PHLS
+Biomedical Engineering
+Music
+Health & Human Performance
+Marketing Department
+Management Department
+Civil Engineering
+N/A
+Mathematics
+Engr Undergraduate Programs
+N/A
+PHLS
+History
+Management Department
+Accountancy & Taxation
+Global Hospitality Leadership
+Civil Engineering
+Theatre
+N/A
+N/A
+Faculty Services, Law
+Hobby School of Public Affairs
+Psychology
+Communication
+English
+Dean, Honors College
+Dean, Architecture and Design
+Finance
+N/A
+Chemical Engineering
+N/A
+N/A
+Comparative Cultural Studies
+Communication
+N/A
+Dean, Honors College
+Communication Disorders
+Theatre
+English
+Dean, Honors College
+Dean, Architecture and Design
+Management Department
+N/A
+Industrial Engineering
+Health & Human Performance
+N/A
+Construction Management
+Engineering Technology
+Mathematics
+Electrical Engineering
+N/A
+Computer Science
+N/A
+Dean, Honors College
+English
+N/A
+PHLS
+Art
+INFO SCI TECHNOLOGY
+Mechanical Engineering
+Women's Studies Program
+Psychology
+Electrical Engineering
+Physics
+History
+Health & Human Performance
+N/A
+Accountancy & Taxation
+Political Science
+N/A
+Health & Human Performance
+N/A
+Theatre
+Biology
+KUHF Radio
+Physics
+N/A
+Mathematics
+Music
+N/A
+Petroleum Engineering
+Athletics
+English
+Physics
+Comparative Cultural Studies
+Engineering Technology
+N/A
+Art
+N/A
+N/A
+Music
+N/A
+Political Science
+Psychology
+Hispanic Studies
+N/A
+N/A
+N/A
+Human Develop & Consumer Sci
+N/A
+N/A
+Art
+Music
+Hispanic Studies
+Dean, Honors College
+Health & Human Performance
+N/A
+N/A
+Construction Management
+Music
+Finance
+Art
+Communication Disorders
+Theatre
+English
+Sociology
+Local Custodial Services
+Hispanic Studies
+N/A
+N/A
+English
+Hispanic Studies
+Hispanic Studies
+N/A
+N/A
+Hispanic Studies
+Mathematics
+N/A
+Modern & Classical Languages
+Human Develop & Consumer Sci
+Health & Human Performance
+Management Department
+Dean, Honors College
+Political Science
+Music
+Health & Human Performance
+Music
+N/A
+Art
+Decision & Information Science
+Dean, Architecture and Design
+Art
+African-American Studies
+Modern & Classical Languages
+Hispanic Studies
+Dean, Architecture and Design
+Biology
+Marketing Department
+Comparative Cultural Studies
+Sociology
+Dean, Natural Sciences & Math
+Chemistry
+English
+Accountancy & Taxation
+Mechanical Engineering
+Biology
+Finance
+N/A
+Music
+Theatre
+Finance
+Mechanical Engineering
+Industrial Engineering
+History
+Mathematics
+Computer Science
+Engr Undergraduate Programs
+Dean, Architecture and Design
+Human Develop & Consumer Sci
+Dean, Honors College
+Mathematics
+N/A
+N/A
+N/A
+N/A
+Dean, Architecture and Design
+N/A
+Accountancy & Taxation
+Theatre
+Chemical Engineering
+Biology
+Psychology
+Mathematics
+Marketing Department
+Music
+Women's Studies Program
+N/A
+Chemistry
+Health & Human Performance
+CWM Center for the Arts
+N/A
+Decision & Information Science
+Engineering Technology
+Biomedical Engineering
+Electrical Engineering
+Biology
+Marketing Department
+Earth & Atmospheric Sciences
+Health & Human Performance
+Dean, Honors College
+Decision & Information Science
+English
+Chemical Engineering
+Political Science

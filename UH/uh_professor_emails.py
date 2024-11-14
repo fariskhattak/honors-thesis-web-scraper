@@ -6,9 +6,11 @@ import time
 driver = webdriver.Chrome()
 
 # Open the target URL (UH directory URL)
+print("Opening the UH directory page...")
 driver.get("https://www.uh.edu/directory/index.php?emplid=ODAyMTAxNw==&loc=HR730&dpt=H0090")
 
 # Read names from the text file into an array
+print("Reading names from 'uh_professors.txt'...")
 with open('uh_professors.txt', 'r') as file:
     names = file.readlines()
 
@@ -19,9 +21,12 @@ professor_departments = []
 # Loop through each name in the list
 for name in names:
     name = name.strip()  # Remove any extra spaces or newlines
+    print(f"\n{'-'*100}")
+    print(f"Processing professor: {name}...")
     
     try:
         # Find the input field with id "uh_phonebook_q" and set the text to the current name
+        print(f"Searching for professor: {name} in the directory...")
         input_field = driver.find_element(By.ID, 'uh_phonebook_q')
         input_field.clear()  # Clear the input field if there's any previous text
         input_field.send_keys(name)
@@ -32,6 +37,7 @@ for name in names:
         
         # Wait for the results to load
         time.sleep(2)  # Adjust time as necessary, or use WebDriverWait for more precise handling
+        print("Submit button clicked, waiting for results to load...")
         
         # Find the div with id "uhspn_search_results"
         search_results_div = driver.find_element(By.ID, 'uhspn_search_results')
@@ -40,95 +46,106 @@ for name in names:
         search_results = search_results_div.find_elements(By.TAG_NAME, 'dt')
         
         # Loop through each search result
+        professor_found = False
         for result in search_results:
-            try:
-                # Find the <a> inside the <dt> and get the text
-                professor_link = result.find_element(By.TAG_NAME, 'a')
-                professor_name = professor_link.text.strip()
+            # Find the <a> inside the <dt> and get the text
+            professor_link = result.find_element(By.TAG_NAME, 'a')
+            professor_name = professor_link.text.strip()
+            
+            # Split the name into last name, first name
+            last_name, first_name = professor_name.split(',', 1)
+            last_name = last_name.strip()
+            first_name = first_name.strip()
+            
+            # If the current name has more than 3 words, take the first and last words as the first and last name
+            name_parts = name.split()
+            if len(name_parts) > 3:
+                current_last_name = name_parts[-1]
+                current_first_name = name_parts[0]
+            else:
+                # Otherwise, use the first and last name as usual
+                current_last_name = name_parts[-1]
+                current_first_name = name_parts[0]
+            
+            # Compare the extracted name with the current name
+            if current_last_name.lower() == last_name.lower() and current_first_name.lower() == first_name.lower():
+                print(f"Match found for {name}, clicking the professor's profile link...")
+                professor_found = True
+                professor_link.click()
                 
-                # Split the name into last name, first name
-                last_name, first_name = professor_name.split(',', 1)
-                last_name = last_name.strip()
-                first_name = first_name.strip()
+                # Wait for the new result to load
+                time.sleep(3)  # Adjust time as necessary
                 
-                # If the current name has more than 3 words, take the first and last words as the first and last name
-                name_parts = name.split()
-                if len(name_parts) > 3:
-                    current_last_name = name_parts[-1]
-                    current_first_name = name_parts[0]
-                else:
-                    # Otherwise, use the first and last name as usual
-                    current_last_name = name_parts[-1]
-                    current_first_name = name_parts[0]
+                # Find the table with class "vcard"
+                vcard_table = driver.find_element(By.CLASS_NAME, 'vcard')
+                print("Professor profile loaded, extracting email and department...")
                 
-                # Compare the extracted name with the current name
-                if current_last_name.lower() == last_name.lower() and current_first_name.lower() == first_name.lower():
-                    # If they match, click the link
-                    professor_link.click()
-                    
-                    # Wait for the new result to load
-                    time.sleep(3)  # Adjust time as necessary
-                    
-                    # Find the table with class "vcard"
-                    vcard_table = driver.find_element(By.CLASS_NAME, 'vcard')
-                    
-                    # Find all <tr> elements in the table
-                    rows = vcard_table.find_elements(By.TAG_NAME, 'tr')
-                    
-                    # Variables to hold email and department
-                    email_found = False
-                    department_found = False
-                    
-                    # Loop through each row to find the email and department
-                    for row in rows:
-                        try:
-                            # Find the <th> and check if it contains the text "E-mail:"
-                            th = row.find_element(By.TAG_NAME, 'th')
-                            if th.text.strip() == "E-mail:":
-                                # Find the <a> tag with the email address
-                                email_link = row.find_element(By.TAG_NAME, 'a')
-                                email_address = email_link.text.strip()
-                                
-                                # Add the email to the professor_emails array
-                                professor_emails.append(email_address)
-                                
-                                # Print the found email and associated professor name
-                                print(f"Found email for {name}: {email_address}")
-                                email_found = True
-                                break  # Exit the loop once the email is found
+                # Find all <tr> elements in the table
+                rows = vcard_table.find_elements(By.TAG_NAME, 'tr')
+                
+                # Variables to hold email and department
+                email_found = False
+                department_found = False
+                
+                # Loop through each row to find the email and department
+                for row in rows:
+                    try:
+                        # Find the <th> and check if it contains the text "E-mail:"
+                        th = row.find_element(By.TAG_NAME, 'th')
+                        if th.text.strip() == "E-mail:":
+                            # Find the <a> tag with the email address
+                            email_link = row.find_element(By.TAG_NAME, 'a')
+                            email_address = email_link.text.strip()
                             
-                            # Find the <th> and check if it contains the text "Department:"
-                            if th.text.strip() == "Department:":
-                                # Find the <td> containing the department name
-                                department_td = row.find_element(By.TAG_NAME, 'td')
-                                department_name = department_td.text.strip()
-                                
-                                # Add the department to the professor_departments array
-                                professor_departments.append(department_name)
-                                
-                                # Print the found department and associated professor name
-                                print(f"Found department for {name}: {department_name}")
-                                department_found = True
-                                break  # Exit the loop once the department is found
-                        except Exception as e:
-                            print(f"Error processing <tr>: {e}")
-                    
-                    # If no email was found, append "N/A"
-                    if not email_found:
-                        professor_emails.append("N/A")
-                    
-                    # If no department was found, append "N/A"
-                    if not department_found:
-                        professor_departments.append("N/A")
-                    
-                    break  # Stop looping through results if a match is found
-            except Exception as e:
-                print(f"Error processing a search result: {e}")
+                            # Add the email to the professor_emails array
+                            professor_emails.append(email_address)
+                            
+                            # Print the found email and associated professor name
+                            print(f"Found email for {name}: {email_address}")
+                            email_found = True
+                        
+                        # Find the <th> and check if it contains the text "Department:"
+                        if th.text.strip() == "Department:":
+                            # Find the <td> containing the department name
+                            department_td = row.find_element(By.TAG_NAME, 'td')
+                            department_name = department_td.text.strip()
+                            
+                            # Add the department to the professor_departments array
+                            professor_departments.append(department_name)
+                            
+                            # Print the found department and associated professor name
+                            print(f"Found department for {name}: {department_name}")
+                            department_found = True
+
+                        if email_found and department_found:
+                            break
+                    except Exception as e:
+                        print(f"Error processing <tr>: {e}")
                 
+                # If no email was found, append "N/A"
+                if not email_found:
+                    print(f"No email found for {name}. Appending 'N/A'.")
+                    professor_emails.append("N/A")
+                
+                # If no department was found, append "N/A"
+                if not department_found:
+                    print(f"No department found for {name}. Appending 'N/A'.")
+                    professor_departments.append("N/A")
+                
+                break  # Stop looping through results if a match is found
+
+        if not professor_found:
+            print(f"Professor {name} was not found in the directory.")
+            print(f"No email found for {name}. Appending 'N/A'.")
+            professor_emails.append("N/A")
+            print(f"No department found for {name}. Appending 'N/A'.")
+            professor_departments.append("N/A")
+        
     except Exception as e:
         print(f"Error processing {name}: {e}")
 
 # Write the professor emails and departments to a text file
+print("Saving the collected emails and departments to files...")
 with open('uh_professor_emails.txt', 'w') as email_file, open('uh_professor_departments.txt', 'w') as department_file:
     for email in professor_emails:
         email_file.write(f"{email}\n")
@@ -139,5 +156,6 @@ with open('uh_professor_emails.txt', 'w') as email_file, open('uh_professor_depa
 print("Professor emails have been saved to 'uh_professor_emails.txt'.")
 print("Professor departments have been saved to 'uh_professor_departments.txt'.")
 
-# Close the browser after the loop
+# Closing the browser after processing all professors
+print("Closing the browser...")
 driver.quit()
